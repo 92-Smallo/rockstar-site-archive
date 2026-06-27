@@ -1,0 +1,3 @@
+# Show diffs only for the beautified copies; raw minified bundles are noise.
+*.js -diff
+*.pretty.js diff
