@@ -1,0 +1,829 @@
+, so there is no way to handle the request.
+, you must resolve/reject with a value or
+, you should add
+, you should instead write
+:throw new RangeError(
+.  Route id
+. Doing nothing
+. Options are
+. Should be a string, number, null or object. Received:
+(Abre em uma nova janela)
+(Apri in una nuova finestra)
+(Öffnet ein neues Fenster)
+(Opens in a new window)
+(Otwórz w nowym oknie)
+) are not allowed inside @starting-style.
+) to
+),[new RegExp(a,t?void 0:
+),new URLSearchParams(
+),ps:new ae(
+),ps3:new ae(
+),ps4:new ae(
+),ps5:new ae(
+),xbox:new ae(
+))throw new Error(
+[@formatjs/intl Error
+[formatjs Error:
+[object Arguments]
+[object Array]
+[object Boolean]
+[object Date]
+[object Error]
+[object Function]
+[object Map]
+[object Null]
+[object Number]
+[object Object]
+[object Promise]
+[object Proxy]
+[object Set]
+[object String]
+[object Symbol]
+[object Undefined]
+[React Intl] Could not find required
+].  Please separate it out to the
+$1 Secure
+$1 Touch
+2º Passe de Dia das Bruxas
+A button on XBOX ONE
+A hotkey has the
+a loader
+A página que você procura não existe ou ocorreu um erro.
+A router only supports one blocker at a time
+A-Taste auf Xbox One
+a[href]:not([inert]):not([inert] *)
+Abonnement effectué
+abonner à la liste de diffusion de Rockstar Games
+Abonnez-vous à la newsletter pour recevoir par e-mail des infos relatives à nos jeux et aux mises à jour, aux évènements spéciaux et aux offres, et plus de la part de Rockstar Games et nos affiliés.
+Aby potwierdzić swoją subskrypcję listy mailingowej Rockstar Games, zweryfikuj swój adres e-mail poprzez link wysłany do twojej skrzynki odbiorczej.
+account. Vuoi ancora iscriverti alla nostra newsletter?
+Acercar zoom
+act(...) is not supported in production builds of React.
+Afastar zoom
+Agency FB
+Aktualizuj swoje preferencje
+Alejar zoom
+Already read
+Already Subscribed
+Altre informazioni
+an action
+An async animation has been interrupted. You see this error because you forgot to use
+and any other token at the same time
+and can be safely removed.
+Andale Mono
+Anno Domini
+App Store
+Aproximar zoom
+Arabic Typesetting
+are removed, then remove this option.
+Aria label to indicate when a link opens in new window/tab
+aria-hidden: cannot operate on
+Aria-label for the lightbox close button
+Aria-label for the lightbox download button (downloads the image)
+Aria-label for the lightbox open button
+Aria-label for the lightbox reset button (resets zoom and position)
+Aria-label for the lightbox zoom in button
+Aria-label for the lightbox zoom out button
+Aria-label for the lightbox zoom slider
+Arial Black
+Arial Hebrew
+Arial MT
+Arial Narrow
+Arial Rounded MT Bold
+Arial Unicode MS
+as selector refers to no known node
+Assistir agora
+At least one node with a positive tabindex was found in one of your focus-trap
+At least one of max, maxSize, or ttl is required
+at the same time
+Attribute selector didn
+Aumenta zoom
+B button on XBOX ONE
+B-Taste auf Xbox One
+Barnes & Noble
+because the
+Bereits abonniert
+Bestätige dein Abo
+Bitstream Vera Sans Mono
+Bitte drücke auf den Knopf unten, um zu bestätigen, dass du den Newsletter von Rockstar Games abonnieren möchtest.
+Bitte verifiziere deine E-Mail-Adresse über den Link, der an die E-Mail-Adresse geschickt wurde, mit der du dich angemeldet hast, um dein Abo für die E-Mail-Liste von Rockstar Games zu bestätigen.
+Body not allowed for GET or HEAD requests
+Book Antiqua
+Bookman Old Style
+Botão A no Xbox One
+Botão B no Xbox One
+Botão círculo no PlayStation 4
+Botão de direção para a direita no PlayStation 4
+Botão de direção para cima no Playstation 4
+Botão direcional (D-pad) para a direita no Xbox One
+Botão direcional (D-pad) para cima no Xbox One
+Botão L1 no PlayStation 4
+Botão L2 no PlayStation 4
+Botão L3 no PlayStation 4
+Botão menu no Xbox One
+Botão OPTIONS no PlayStation 4
+Botão R
+Botão R2 no PlayStation 4
+Botão R3 no PlayStation 4
+Botão superior esquerdo no Xbox One
+Botão X no PlayStation 4
+Botón A en Xbox One
+Botón A en XBOX ONE
+Botón arriba del pad direccional en Xbox One
+Botón B en Xbox One
+Botón B en XBOX ONE
+Botón bumper izquierdo en Xbox One
+Botón círculo en PlayStation 4
+Botón círculo en PlayStation®4
+Botón de dirección hacia arriba en PlayStation 4
+Botón de dirección hacia arriba en PlayStation®4
+Botón de dirección hacia la derecha en PlayStation 4
+Botón de dirección hacia la derecha en PlayStation®4
+Botón derecho del pad direccional en Xbox One
+Botón equis en PlayStation®4
+Botón gatillo derecho en Xbox One
+Botón gatillo izquierdo en Xbox One
+Botón L1 en PlayStation 4
+Botón L1 en PlayStation®4
+Botón L2 en PlayStation 4
+Botón L2 en PlayStation®4
+Botón L3 en PlayStation 4
+Botón L3 en PlayStation®4
+Botón Menú en Xbox One
+Botón Menú en XBOX ONE
+Botón Opciones en PlayStation 4
+Botón OPTIONS en PlayStation®4
+Botón R
+Botón R2 en PlayStation 4
+Botón R2 en PlayStation®4
+Botón R3
+Botón R3 en PlayStation 4
+Botón R3 en PlayStation®4
+Botón stick derecho en XBOX ONE
+Botón stick izquierdo en XBOX ONE
+Botón superior izquierdo en XBOX ONE
+Botón X en PlayStation 4
+Bounty Hunters
+but did not provide a
+but did not provide an
+Button label to leave feedback or suggestions
+Button label to report a bug or feedback
+Caçadores de Recompensa
+Cacciatori di taglie
+callback sets local state, switch to use derived state using
+Calling PropTypes validators directly is not supported by the
+Cambria Math
+Can only unwrap data on initialized and settled deferreds
+Cannot animate a
+Cannot call the manual advancement of rafz whilst frameLoop is not set as demand
+Cannot handle redirect results in processLoaderData
+Cannot reduce an empty sequence
+Cannot set currentNode to a node that is not contained by the root node.
+cannot set size without setting maxSize or maxEntrySize on cache
+cannot set sizeCalculation without setting maxSize or maxEntrySize
+Cartão de Personagem:
+Carte de personnage :
+Categoria de RP
+Categoría de RP
+Categoria RP
+Catégorie : RP
+Century Gothic
+Century Schoolbook
+character (along with any modifiers), e.g.
+Character Card:
+character in a manually specified
+character must always follow a
+Chasseurs de primes
+Check Your Email
+Circle button on PlayStation4
+Class extends value
+Coc Coc
+Comic Sans
+Comic Sans MS
+Comprar armas
+Comprar Armas
+Comprar atuendos
+Comprar gestos
+Comprar Gestos
+Comprar Trajes
+Comprueba tu correo electrónico
+Conferma che vuoi iscriverti alla Newsletter di Rockstar Games cliccando sul pulsanto qui sotto.
+Conferma la tua iscrizione
+Confirm your subscription
+Confirma tu suscripción
+Confirmar suscripción
+Confirme que você deseja se inscrever no newsletter da Rockstar Games clicando no botão abaixo.
+Confirme sua inscrição
+Confirmer votre abonnement
+Confirmez votre abonnement
+Container initialization failed as it has already been initialized with a different share scope
+Container missing
+Controlla la tua mail
+could be used only with
+could not be decoded because it is is a malformed URL segment. This is probably due to a bad percent encoding (
+Courier New
+Cruceta hacia arriba de XBOX ONE
+Cruceta hacia la derecha de XBOX ONE
+CTA that displays on the GTAO feedback page if the viewer is not logged in.
+Custom tracking stop.
+Dangling reference to missing
+days of the month
+defer() is not supported in actions
+defer() only accepts plain objects
+Deferred data aborted
+Deferred data for key
+Der Halloween-Pass #2
+Deutsch (Deutschland)
+Diapositiva anterior
+Diapositiva siguiente
+Did not expect successive traversals.
+Did not find corresponding fetcher result
+Die Seite, die du suchst, existiert nicht, oder es ist ein anderer Fehler aufgetreten.
+Diminuisci zoom
+Direcional analógico direito no Xbox One
+Direcional analógico esquerdo no Xbox One
+dirty is not a string, aborting
+Distillateurs clandestins
+does not exist in container.
+does not exist in object
+Dowiedz się więcej
+Download the Apollo DevTools for a better development experience: %s
+Dragon Touch
+Du erhältst bereits Newsletter-Updates an diese E-Mail-Adresse. Verwalte jederzeit deine Präferenzen bezüglich der Kommunikation in den Einstellungen deines Kontos.
+Du hast dich während der Kontoerstellung nicht für Werbe-E-Mails angemeldet. Möchtest du immer noch unseren Newsletter abonnieren?
+E-Mail-Liste von Rockstar Games beitreten
+e-mails publicitaires lors de la création de votre compte. Voulez-vous toujours vous abonner à notre newsletter ?
+either ensure all objects of type
+El Pase de Halloween n.º 2
+Emotes kaufen
+Empty sub-selector
+En este momento no puedes suscribirte a nuestro boletín de noticias con este correo electrónico.
+En este momento, no podemos registrar esta dirección de correo electrónico a nuestro boletín.
+End date is invalid
+End date must be after start date
+English (United States)
+Erfolgreich abonniert
+Error formatting date time range.
+Error formatting date.
+Error formatting message:
+Error formatting number.
+Error formatting the default message for:
+Error formatting time.
+Error message not found.
+Español (España)
+Español (México)
+Event name must be provided to work with custom events
+Expected a Location header on the redirect Response
+Expected an AbortController for revalidating fetcher deferred result
+Expected fetcher:
+Expected media condition after
+Expected pending action
+Expected whitespace after media
+Fabricantes de aguardiente
+Failed to add conditional rule
+Failed to parse color:
+Failed to save applied view transitions in sessionStorage (
+Failed tokenizing
+fallback value for
+Fire Phone $1
+first argument should be an array
+First ensure all usages of
+for locale
+for route
+for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+Format string contains an unescaped latin alphabet character
+Français (Canada)
+Français (France)
+Franklin Gothic
+from an
+Futura Bk BT
+Futura Md BT
+Gâchette droite sur Xbox One
+Gâchette gauche sur Xbox One
+Gâchette haute gauche sur Xbox One
+Gatilho direito no Xbox One
+Gatilho esquerdo no Xbox One
+Gatillo derecho en XBOX ONE
+Gatillo izquierdo en XBOX ONE
+Generator is already executing.
+Gerenciar preferências
+Gestionar preferencias
+Gestisci le preferenze
+Gill Sans
+Give Feedback
+Google Play
+Got NaN while animating:
+Grilletto destro su XBOX ONE
+Grilletto sinistro su XBOX ONE
+GTM Id is required
+Guarda ora
+h:mm a
+h:mm:ss a
+h:mm:ss a z
+h:mm:ss a zzzz
+half a minute
+Halloween n° 2
+Halloweenowa przepustka 2
+has a static property
+Haz clic en el botón a continuación para confirmar que quieres suscribirte al boletín de Rockstar Games.
+Haz click en el botón para confirmar que quieres suscribirte al boletín de noticias de Rockstar Games.
+Headers constructor: expected name/value pair to be length 2, found
+Helvetica Neue
+HttpLink: Trying to send a client-only query to the server. To send to the server, ensure a non-client field is added to the query or set the
+If you don
+If your
+Imagen anterior
+in an errorElement (routeId:
+in constant value.
+in e,
+in e?e:HTMLInputElement.prototype,
+in e.style?
+in e&&
+in Intl.DateTimeFormat. Using default locale:
+in Intl.NumberFormat. Using default locale:
+in media query
+in media query but found
+in n&&
+in navigator&&
+in not contained inside
+in r?r.dependencies:pM),e&&
+in t&&n(
+in t||
+in the pattern. To get rid of this warning, please change the route path to
+in u?u.responseURL:r.headers.get(
+in v&&v[
+in x||
+Index routes must not have child routes. Please remove all child routes from route path
+Initialization of sharing external failed:
+Input type detection error.
+Inscreva-se na lista de e-mails da Rockstar Games
+Inscreva-se no nosso newsletter para receber informações sobre atualizações e anúncios, detalhes sobre eventos e ofertas especiais e mais da Rockstar Games e afiliadas.
+Inscrição efetuada
+instant. Modifiez vos préférences concernant les e-mails sur la page des paramètres de votre compte ou réessayez plus tard.
+instantiate Stack using Stack.create(n)
+instead), this will be removed in later 0.X.0 versions
+Internet Explorer
+IntlMessageFormat.__parse must be set to process
+Invalid blocker state transition:
+Invalid media feature
+Invalid media query
+Invalid property
+Invalid range
+Invalid request method
+Invalid scope
+invalid size value (must be positive integer). When maxSize or maxEntrySize is used, sizeCalculation or size must be set.
+Invalid time value
+Invalid Unicode escape sequence:
+Invariant Violation
+is at invalid UTF-16 code unit boundary
+is not a constructor or null
+is not an object
+is not observable
+is not valid. An absolute child route path must start with the combined path of all its parent routes.
+Iscriviti alla mailing list di Rockstar Games
+Iscrizione effettuata con successo
+Italiano (Italia)
+Jetzt abonnieren
+Jetzt anschauen
+Już otrzymujesz powiadomienia o nowościach na ten adres e-mail. Zmień swoje preferencje w dowolnym momencie w ustawieniach swojego konta.
+Karta postaci:
+key with definitions
+Kreis-Taste auf PlayStation 4
+Kreuz-Taste auf PlayStation 4
+Kup broń
+Kup gesty
+Kup stroje
+L1 button on PlayStation4
+L1-Taste auf PlayStation 4
+L2 button on PlayStation4
+L2-Taste auf PlayStation 4
+L3 button on PlayStation4
+L3-Taste auf PlayStation 4
+Learn More
+Left bumper button on XBOX ONE
+Left thumbstick button on XBOX ONE
+Left trigger button on XBOX ONE
+less than a minute
+less than a second
+Letter Gothic
+Levenim MT
+Lewy bumper na XBOX ONE
+Lewy drążek na XBOX ONE
+Lewy spust na XBOX ONE
+Linker Bumper auf Xbox One
+Linker Stick auf Xbox One
+Linker Trigger auf Xbox One
+Lista de canciones
+Lista de faixas
+Lista de pistas
+Lista utworów
+Liste des morceaux
+Livello zoom
+Loading chunk
+Loading CSS chunk
+Lucida Bright
+Lucida Calligraphy
+Lucida Console
+Lucida Fax
+Lucida Handwriting
+Lucida Sans
+Lucida Sans Typewriter
+Lucida Sans Unicode
+Manage Preferences
+max option must be a nonnegative integer
+maxEntrySize must be a positive integer if specified
+maxSize must be a positive integer if specified
+Mehr erfahren
+Meiryo UI
+Melde dich bei unserem E-Mail-Newsletter an, um über Spielankündigungen und Updates, besondere Events, Angebote und mehr von Rockstar Games und unseren Partnern informiert zu werden.
+Menü-Taste auf Xbox One
+Message prompting user that the home page doesn
+Microsoft Sans Serif
+Microsoft Uighur
+Minified React error #
+Minion Pro
+Missing locale data for locale:
+Missing plugin? gsap.registerPlugin()
+Mobile Safari
+Monotype Corsiva
+more stories
+More Stories
+more than
+MS Gothic
+MS Mincho
+MS Outlook
+MS Reference Sans Serif
+MS Reference Specialty
+MS Sans Serif
+MS Serif
+MS UI Gothic
+MT Extra
+must be greater than or equal to the current offset
+must be of type
+Nächste Videoseite
+Nächstes Element
+Należy potwierdzić swoją subskrypcję listy mailingowej Rockstar Games poprzez kliknięcie poniższego przycisku.
+Não perca o próximo presente gratuito do GTA Online
+Następna strona z filmami
+Następny slajd
+Ne manquez pas le prochain cadeau gratuit dans GTA Online.
+Nein, zurückkehren
+new tab
+new window
+Next slide
+Next Slide
+Next video page
+Nie możemy w tym momencie dodać twojego adresu do listy mailingowej Rockstar Games.
+Nie możemy w tym momencie dodać twojego adresu do listy mailingowej Rockstar Games. Zmień swoje preferencje w ustawieniach swojego konta lub spróbuj ponownie później.
+Nie przegap kolejnych darmowych korzyści w GTA Online
+Nie udzielono zgody na otrzymywanie powiadomień marketingowych przy zakładaniu konta. Czy chcesz subskrybować naszą listę mailingową?
+Nie, cofnij
+Nintendo Switch
+Nintendo Switch™
+Nivel de zoom
+Nivel del zoom
+no memoMethod provided to constructor
+No optaste por recibir correos con publicidad durante la creación de la cuenta. ¿Quieres suscribirte a nuestro boletín de todos modos?
+No route found in manifest
+No te has suscrito a los correos electrónicos comerciales al crear tu cuenta. ¿Quieres suscribirte a nuestro boletín de noticias?
+No te pierdas el próximo regalo de GTA Online
+No window.location.(origin|href) available to create URL for href:
+No, Go Back
+Non è stato possibile procedere con l’iscrizione di questo indirizzo email alla nostra newsletter in questo momento.
+Non perdere il prossimo omaggio di GTA Online
+Non, retour
+not eligible for reset
+Number skeleton cannot be empty
+Oben-Richtungstaste auf PlayStation 4
+Oben-Steuerkreuz-Taste auf Xbox One
+object that is frozen. Did you forget to pass your component to
+Ocurrió un problema o la página que estás buscando no existe.
+of shared singleton module
+of type
+on its returned promise.
+Only Alerts can be passed to PaginationViewport
+only supported in development mode
+option to
+Options button on PlayStation4
+Options button on XBOX ONE
+OPTIONS-Taste auf PlayStation 4
+out of bound
+Outfits kaufen
+Page précédente
+Page suivante
+Page vidéo précédente
+Page vidéo suivante
+Pagina di video precedente
+Pagina di video successiva
+Palatino Linotype
+Para confirmar sua inscrição na lista de e-mails da Rockstar Games, verifique seu endereço de e-mail pelo link enviado para o endereço que você usou para se inscrever.
+Para confirmar tu suscripción a la lista de correo de Rockstar Games, verifica tu correo electrónico a través del enlace enviado al correo electrónico con el que te has suscrito.
+Parenthesis not matched
+parser can only be used once
+Pase de Halloween 2
+Pass all
+Pass di Halloween 2
+Pass the options directly to the hook instead.
+PC Enhanced
+PC Legacy
+Per confermare la tua iscrizione alla mailing list di Rockstar Games, verifica il tuo indirizzo email tramite il link che ti abbiamo inviato all’indirizzo email che hai usato per iscriverti.
+Please confirm that you would like to subscribe to the Rockstar Games Newsletter by clicking the button below.
+Please gsap.registerPlugin(ScrollTrigger)
+Please initialize an instance of
+Please pass the option to the
+Please remove the
+Please remove this option.
+Please use
+Please use the
+Pomyślnie zasubskrybowano
+Poprzedni slajd
+Poprzednia strona z filmami
+Português (Brasil)
+Potwierdź swoją subskrypcję
+Poziom powiększenia
+Poziom RP
+Prawy drążek na XBOX ONE
+Prawy spust na XBOX ONE
+Previous slide
+Previous Slide
+Previous video page
+process.binding is not supported
+property to import the right car
+Przycisk B na XBOX ONE
+Przycisk kierunku w górę na PlayStation 4
+Przycisk kierunku w prawo na PlayStation 4
+Przycisk kółko na PlayStation 4
+Przycisk L1 na PlayStation 4
+Przycisk L2 na PlayStation 4
+Przycisk L3 na PlayStation 4
+Przycisk Menu na XBOX ONE
+Przycisk OPTIONS na PlayStation 4
+Przycisk R
+Przycisk R2 na PlayStation 4
+Przycisk R3 na PlayStation 4
+Przycisk w górę na padzie kierunkowym na XBOX ONE
+Przycisk w prawo na padzie kierunkowym na XBOX ONE
+Przycisk X na PlayStation 4
+Przycisk X na XBOX ONE
+Pulsante A su XBOX ONE
+Pulsante B su XBOX ONE
+Pulsante della levetta destra su XBOX ONE
+Pulsante della levetta sinistra su XBOX ONE
+Pulsante direzionale destro su XBOX ONE
+Pulsante direzionale su su XBOX ONE
+Pulsante dorsale sinistro su XBOX ONE
+Pulsante Opzioni su XBOX ONE
+R2 button on PlayStation4
+R2-Taste auf PlayStation 4
+R3 button on PlayStation4
+R3-Taste auf PlayStation 4
+React Router caught the following error during render
+React.Children.only expected to receive a single React element child.
+React.cloneElement(...): The argument must be a React element, but you passed
+Rechter Stick auf Xbox One
+Rechter Trigger auf Xbox One
+Rechts-Richtungstaste auf PlayStation 4
+Rechts-Steuerkreuz-Taste auf Xbox One
+Redirects returned/thrown from loaders/actions must have a Location header
+Report Bug
+Requires GSAP 3.11.0 or later
+resolved/rejected with
+returned from the hook instead. Use
+Right directional button on PlayStation4
+Right directional pad button on XBOX ONE
+Right thumbstick button on XBOX ONE
+Right trigger button on XBOX ONE
+Rockstar Games 이메일 리스트 구독 상황을 확인하려면 가입 시 사용한 이메일 주소로 전송된 링크를 통해 이메일 주소를 인증하십시오.
+Rockstar Games 이메일 리스트 구독하기
+Rockstar Games 이메일 리스트를 구독합니다. 가입하신 이메일 주소로 최신 정보가 정기적으로 전달됩니다. 계정 설정 페이지에서 언제든지 커뮤니케이션 선호 사항을 관리할 수 있습니다.
+root node is forbidden and cannot be sanitized in-place
+Route path
+router.fetch() was called during the server render, but it shouldn
+RP Category
+Saiba mais
+Scheda personaggio:
+Scheda precedente
+Scheda successiva
+screen and (max-width: 1024px)
+screen and (min-width: 1024px) and (max-width: 1920px)
+screen and (min-width: 1920px) and (max-width: 2560px)
+screen and (min-width: 2560px)
+screen and (pointer: coarse) and (hover: none)
+Segoe Print
+Segoe Script
+Segoe UI
+Segoe UI Light
+Segoe UI Semibold
+Segoe UI Symbol
+Sei già iscritto
+set to
+Shop Emotes
+Shop Outfits
+Shop Weapons
+Sidecar medium not found
+Sidecar: could not
+Sidecar: please provide
+Sign up for our email newsletter to get info on game announcements and updates, details on special events and offers, and more from Rockstar Games and our affiliates.
+Siguiente imagen
+Sim, fazer inscrição
+Simple pseudos are not valid in
+Skipping invalid key
+Small Fonts
+Smart Lenovo
+Social media
+Sogou Explorer
+Sogou Mobile
+Sprawdź swoją pocztę
+Stai già usando questo indirizzo email per ricevere la newsletter. Gestisci le tue preferenze di comunicazione in qualsiasi momento nelle impostazioni del tuo account.
+Start date is invalid
+Stick analogique droit sur Xbox One
+Stick analogique gauche sur Xbox One
+Stick derecho en Xbox One
+Stick izquierdo en Xbox One
+Strona główna
+Strona, której szukasz, nie istnieje lub wystąpił inny błąd.
+Subscribe Now
+Subscribe to the Rockstar Games Email List
+Subskrybuj listę mailingową Rockstar Games
+Subskrybuj teraz
+Subskrypcja jest już aktywna
+Successfully Subscribed
+Suscríbete a la lista de correo de Rockstar Games
+Suscríbete a la lista de correos de Rockstar Games
+Suscríbete ya
+Suscribirse ahora
+Suscripción exitosa
+Symbol.iterator is not defined.
+systemjs-webpack-interop was provided an unknown SystemJS context. Expected context.meta.url, but none was provided
+t exist in shared scope
+t exist or another error occurred
+t exist or another error occurred.
+t miss the next free GTA Online gift
+table of contents
+Tak, subskrybuj
+Tarjeta de personaje:
+Tarjeta del personaje:
+Tasto cerchio su Playstation 4
+Tasto croce su Playstation 4
+Tasto direzionale destro su Playstation 4
+Tasto direzionale su su Playstation 4
+Tasto L1 su Playstation 4
+Tasto L2 su Playstation 4
+Tasto L3 su Playstation 4
+Tasto Opzioni su Playstation 4
+Tasto R
+Tasto R2 su Playstation 4
+Tasto R3 su Playstation 4
+Text for Bounty Hunters highlight
+Text for each thumbnail
+Text for game controller keys
+Text for Moonshiners highlight
+Text for or word used to separated PS4 and XB1 keys descriptions
+Text for The Halloween Pass 2 highlight
+Text for the slideshow aria label
+TextDecoder must be defined in the environment: please import a polyfill.
+The arity of each
+The format string mustn
+The Halloween Pass 2
+The input selection has not been updated.
+The intl string context variable
+The page you
+The requested video does not exist.
+The selection attributes have not been initialized.
+this hasn
+This is the first slide
+This is the last slide
+This option does not affect
+Times New Roman
+Times New Roman PS
+To confirm your subscription to the Rockstar Games Email List, please verify your email address via the link sent to the email address you’ve signed up with.
+to do
+to perform side-effects as a result of updates to
+to the returned
+today at
+tomorrow at
+Touche A sur Xbox One
+Touche B sur Xbox One
+Touche cercle sur PlayStation 4
+Touche croix sur PlayStation 4
+Touche directionnelle droite sur PlayStation 4
+Touche directionnelle haut sur PlayStation 4
+Touche droite sur le bouton multidirectionnel sur Xbox One
+Touche haut sur le bouton multidirectionnel sur Xbox One
+Touche L1 sur PlayStation 4
+Touche L2 sur PlayStation 4
+Touche L3 sur PlayStation 4
+Touche Menu sur Xbox One
+Touche Options sur PlayStation 4
+Touche R
+Touche R2 sur PlayStation 4
+Touche R3 sur PlayStation 4
+Trebuchet MS
+TTL caching without ttlAutopurge, max, or maxSize can result in unbounded memory consumption.
+ttl must be a positive integer if specified
+Überprüfe deine E-Mails
+Unable to encode submission body
+Unexpected description, descriptions are not supported on shorthand queries.
+Unexpected description, only GraphQL definitions support descriptions.
+Unexpected invariant triggered.
+Unexpected single quote character (
+Unexpected syntax
+Unexpected variable
+Unhandled fetcher deferred data
+Unhandled fetcher revalidation redirect
+Univers CE 55 Medium
+Unknown body type for responseIterator. Please pass a streamable response.
+Unknown browser
+Unknown getter
+Unknown OS
+Unsatisfied version
+Unterminated string.
+Up directional button on PlayStation4
+Up directional pad button on XBOX ONE
+Use the
+Verifica tu dirección de correo electrónico
+Verifica tu dirección de correo electrónico mediante el enlace que enviamos al correo con el que te registraste para confirmar la suscripción a la lista de correos de Rockstar Games.
+Verifique seu e-mail
+Verpass nicht dein nächstes Gratisgeschenk in GTA Online.
+Veuillez confirmer que vous souhaitez vous abonner à la newsletter de Rockstar Games en cliquant sur le bouton ci-dessous.
+Video Click-through
+Visible tooltip for the lightbox close button
+Visible tooltip for the lightbox download button (downloads the image)
+Visible tooltip for the lightbox reset button (resets zoom and position)
+Visible tooltip for the lightbox zoom in button
+Visible tooltip for the lightbox zoom out button
+Visible tooltip for the lightbox zoom slider
+Visionner maintenant
+Você escolheu não receber e-mails de marketing quando criou a sua conta. Deseja se inscrever no nosso newsletter?
+Você já está recebendo atualizações da newsletter neste endereço de e-mail. Gerencie suas preferências de comunicação a qualquer momento nas configurações da sua conta.
+Voir les armes
+Voir les interactions
+Voir les tenues
+Vorherige Videoseite
+Vorheriges Element
+Vous êtes déjà abonné(e)
+Vous êtes déjà abonné(e) à la newsletter avec cette adresse e-mail. Gérez vos préférences concernant les communications à tout moment sur la page des paramètres de votre compte.
+Waffen kaufen
+was not provided to the string
+Watch Now
+We cannot sign up this email address to our newsletter at this time.
+We cannot sign up your email address to our newsletter at this time. Change your email preferences on your account settings page or try again later.
+Windows Phone
+Wingdings 2
+Wingdings 3
+Wir können deine E-Mail-Adresse derzeit nicht bei unserem Newsletter anmelden. Ändere deine Präferenzen bezüglich E-Mails in den Einstellungen deines Kontos oder versuche es später erneut.
+Wir können diese E-Mail-Adresse derzeit nicht bei unserem Newsletter anmelden.
+X button on PlayStation4
+Xbox 360
+Xbox One
+XBOX ONE のMenu button
+XBOX ONE 上的 A 按钮
+XBOX ONE 上的 Options键
+XBOX ONE 的 A 按鍵
+XBOX ONE 的 Options 按鍵
+XBOX ONE의 A 버튼
+Xbox Series X|S
+Xperia Tablet
+Ya recibes actualizaciones del boletín de noticias en este correo electrónico. Cambia tus preferencias de comunicación en cualquier momento en los ajustes de tu cuenta.
+Ya recibes actualizaciones del boletín en esta dirección de correo electrónico. Gestiona las preferencias de comunicación cuando quieras desde los ajustes de la cuenta.
+Yes, Subscribe
+yesterday at
+You are already receiving newsletter updates at this email address. Manage your communication preferences at any time in your account settings.
+You cannot
+You cannot call the handler for a route which defines a boolean
+You defined
+You did not opt-in to receive marketing emails during account creation. Would you still like to subscribe to our newsletter?
+You must provide a non-empty routes array to createRouter
+You must specify the OneTrust script ID
+Your focus-trap must have at least one container with at least one tabbable node in it at all times
+Your focus-trap needs to have at least one focusable element
+Zapisz się, aby otrzymywać powiadomienia o nowościach dotyczących gier i aktualizacji, a także informacje na temat specjalnych wydarzeń i ofert oraz więcej od Rockstar Games i naszych oddziałów.
+Zoom in
+Zoom level
+Zoom out
+Кнопка «Меню» на Xbox One
+Кнопка A на Xbox One
+Кнопка B на Xbox One
+Кнопка направления вверх на Xbox One
+Кнопка направления вправо на Xbox One
+Левый бампер на Xbox One
+Левый мини-джойстик на Xbox One
+Левый триггер на Xbox One
+Не пропустите следующий подарок в GTA Online
+Подпишитесь на рассылку электронных писем Rockstar Games
+Пожалуйста, подтвердите, что вы хотите подписаться на рассылку электронных писем Rockstar Games, нажав на кнопку ниже.
+Правый мини-джойстик на Xbox One
+Правый триггер на Xbox One
+아래 버튼을 클릭하여 Rockstar Games 뉴스레터 구독 여부를 확인하십시오.
+이메일 뉴스레터를 구독하면 Rockstar Games 및 관련 제휴사로부터 게임 공지 사항, 업데이트, 특별 이벤트 및 혜택에 관한 세부 정보 등 다양한 정보를 받아보실 수 있습니다.
+您现已订阅Rockstar Games邮件通知，您将会在您订阅时使用的电子邮件地址中收到定期更新。您可以在账户设置中随时管理您的通信偏好。
+您現在已訂閱 Rockstar Games 電子郵件通知，將會在訂閱的電子郵件地址收到定期更新。您可以在帳戶設定隨時管理您的聯絡偏好設定。
+為了確認您的 Rockstar Games 電子郵件通知訂閱，請以寄送到您訂閱電子郵件地址的連結，驗證您的電子郵件地址。
+要确认您已订阅Rockstar Games邮件通知，请通过发送到您订阅时使用的电子邮件地址中的链接验证您的电子邮件地址。
+訂閱 Rockstar Games 電子郵件通知
+訂閱我們的電子報，以獲得遊戲公告與更新、特殊活動與優惠的詳情，以及更多來自 Rockstar Games 與相關單位的各式資訊。
+订阅Rockstar Games邮件通知
+订阅我们的电子邮件新闻通讯，以获得来自Rockstar Games以及我们附属公司的游戏公告和更新、特别活动与优惠的信息，及更多内容。
+請點擊以下按鈕，以確認您想訂閱 Rockstar Games 電子報。
+请点击下方按钮以确认您想订阅Rockstar Games新闻通讯。

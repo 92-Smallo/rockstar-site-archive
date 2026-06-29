@@ -1,0 +1,2152 @@
+-- Select an Icon --
+-- Select Brand --
+, or
+, or await the findBy query
+, press Down to open the menu,
+, press Tab to select the option and exit the menu
+, so there is no way to handle the request.
+, which is reserved by GraphQL introspection.
+, you must resolve/reject with a value or
+, you should add
+, you should instead write
+,init:e.init,started:new Date(1e3*e.started).toISOString(),timestamp:new Date(1e3*e.timestamp).toISOString(),status:e.status,errors:e.errors,did:
+,new pe(
+,type to refine list
+,type:new It(bn),description:
+::view-transition-group(*), ::view-transition-old(*), ::view-transition-new(*)
+:i.open&&!a.collapsible||void 0,
+:throw new RangeError(
+¡Ya puedes solicitar las recompensas! Visita el menú de progreso en la trayectoria para solicitarla en el juego.
+¿Aún no tienes una cuenta?
+¿Estás disfrutando GTA Online? Cuéntanos lo que opinas para poder mejorar el juego en el futuro.
+¿Te está gustando GTA Online? Comparte tus opiniones e ideas con nosotros para ayudarnos a mejorar el juego en el futuro.
+.  Route id
+. Doing nothing
+. Either the
+. Options are
+. Should be a string, number, null or object. Received:
+. This is likely a bug :(
+. This may indicate a circular fallback dependency.
+(Abre em uma nova janela)
+(Apri in una nuova finestra)
+(Ir a la sección)
+(Öffnet ein neues Fenster)
+(Opens in a new window)
+(Otwórz w nowym oknie)
+(Passer à la section)
+(Przejdź do sekcji)
+(Pular para seção)
+(Salta alla sezione)
+(Skip to section)
+(Zu Abschnitt springen)
+) are not allowed inside @starting-style.
+) input value will be accepted as an ID.
+) or integer (such as
+) to
+),[new RegExp(a,t?void 0:
+),i(new h(s+
+),new URLSearchParams(
+),ps:new i(
+),ps:new l(
+),ps3:new i(
+),ps3:new l(
+),ps4:new i(
+),ps4:new l(
+),ps5:new i(
+),ps5:new l(
+),xbox:new i(
+),xbox:new l(
+):Array.isArray(e)?new Error(
+):new Error(
+):void 0,this.updateSnapshot(),t&&this.notifyListeners(
+).toUpperCase():void 0,games_played:n.length?n.join(
+))throw new Error(
+)]:[new h(
+[@formatjs/intl Error
+[Deprecated] - Unordered List
+[formatjs Error:
+[object Arguments]
+[object Array]
+[object Boolean]
+[object Date]
+[object Error]
+[object Function]
+[object Map]
+[object Null]
+[object Number]
+[object Object]
+[object Promise]
+[object Proxy]
+[object Set]
+[object String]
+[object Symbol]
+[object Undefined]
+[React Intl] Could not find required
+].  Please separate it out to the
+]))throw new Error(
+「GTAオンライン」の幅広いアップデートについての詳細を知り、PlayStation 5、Xbox Series X|S、そしてアップグレードバージョンのPC版『GTA V』でのみ利用可能なスペシャルチャレンジや報酬を発見しましょう。
+© 2020 Denis Pushkarev (zloirock.ru)
++de),hsl:new RegExp(
++de),hsv:new RegExp(
++ue),hsla:new RegExp(
++ue),hsva:new RegExp(
++ue),rgba:new RegExp(
+$1 Secure
+$1 Touch
+16x9 Source
+A Directive can be adjacent to many parts of the GraphQL language, a __DirectiveLocation describes one such possible adjacencies.
+A GraphQL-formatted string representing the default value for this input value.
+A hidden label for the jump links to tell the user the link behavior.
+A hotkey has the
+a loader
+A number from 0 - 1, how much of the component should be in the viewport before tracking? (i.e. 0.6 is 60%)
+A página que você procura não existe ou ocorreu um erro.
+A router only supports one blocker at a time
+a Scalar type
+a Union type
+a[href]:not([inert]):not([inert] *)
+A11y Label for Next slide button for Rewards Carousel on the Career Progress Hub
+A11y Label for Previous slide button for Rewards Carousel on the Career Progress Hub
+Abbonati ora
+Abonnement effectué
+abonner à la liste de diffusion de Rockstar Games
+Abonnez-vous à la newsletter pour recevoir par e-mail des infos relatives à nos jeux et aux mises à jour, aux évènements spéciaux et aux offres, et plus de la part de Rockstar Games et nos affiliés.
+Abrir la sección de navegación
+Abrir navegação entre seções
+Abrir sección
+Abstract type
+Aby otrzymywać wyjątkowe prezenty i nagrody w Grand Theft Auto Online, powiąż swoje konta do gier i oglądaj zaangażowane kanały Twitch.
+Aby potwierdzić swoją subskrypcję listy mailingowej Rockstar Games, zweryfikuj swój adres e-mail poprzez link wysłany do twojej skrzynki odbiorczej.
+Accedi al tuo account di Rockstar Games per cominciare
+Accedi al tuo account per vedere tutte le ricompense che puoi ottenere, quelle che hai vinto e tutte le possibilità a tua disposizione.
+Accedi per vedere i tuoi progressi
+Accessors not supported!
+Account collegati
+Account di gioco collegato
+Account di Twitch collegato
+account. Vuoi ancora iscriverti alla nostra newsletter?
+Acercar zoom
+act(...) is not supported in production builds of React.
+Activa los Drops de Twitch
+Activa los Drops de Twitch para obtener recompensas en el futuro
+Actividad desmarcada
+Actividad marcada
+Actividad no marcada
+ADBE Color Control
+ADBE Effect Parade
+ADBE Root Vectors Group
+ADBE Text Document
+ADBE Text Properties
+ADBE Transform Group
+ADBE Vector Filter - Trim
+ADBE Vector Graphic - Fill
+ADBE Vector Graphic - Stroke
+ADBE Vector Group
+ADBE Vector Rect Size
+ADBE Vector Rotation
+ADBE Vector Shape
+ADBE Vector Shape - Ellipse
+ADBE Vector Shape - Group
+ADBE Vector Star Inner Radius
+ADBE Vector Star Outer Radius
+Add a Character
+Additional Information
+Adicionar aos Favoritos
+Adicionar um personagem
+Advanced Scrollmation Configurations
+Adversary Mode
+Afastar zoom
+Afficher moins
+Afficher tout
+Affrontement en arène
+Affrontement en équipe
+Affrontement motorisé
+Agency FB
+Aggiungi ai preferiti
+Aggiungi un personaggio
+Air Race
+ajout/du retrait de la mission de la liste des favoris. Veuillez réessayer.
+Ajouter aux favoris
+Ajouter un personnage
+Akcja dodana do ulubionych
+Akcja usunięta z ulubionych
+Aktualizuj swoje preferencje
+Aktualnie nie ma dostępnych dropów na Twitchu. Zapraszamy na kolejną rundę. Czekając, możesz przejrzeć swój ekwipunek i odebrać dostępne nagrody.
+Aktualnie nie ma dostępnych dropów na Twitchu. Zapraszamy na kolejną rundę. Stwórz postać Grand Theft Auto Online i ukończ samouczek, aby otrzymywać dropy.
+Al momento non ci sono Twitch Drop disponibili, ma continua a seguirci. Crea un personaggio di Grand Theft Auto Online e completa il tutorial in gioco per ricevere i Drop.
+Åland Islands
+Alejar zoom
+all 100ms
+Alle anzeigen
+Almost there!
+already exists in the schema. It cannot also be defined in this type extension.
+Already read
+Already Subscribed
+Alt Text
+Alt text for reward locked icon
+Altre informazioni
+American Samoa
+an action
+An async animation has been interrupted. You see this error because you forgot to use
+An enum describing what kind of type a given
+an Enum type
+an Input type
+an Interface type
+an Object type
+Añadir personaje
+Anchor Point
+and can be safely removed.
+and description
+and MUST BE UNIQUE.
+and name
+Andale Mono
+Anderes Konto verknüpfen
+Anmelden erforderlich
+Anonymous Subscription must not select an introspection top level field.
+Anonymous Subscription must select only one top level field.
+Anticipate Pin | Number - Have ScrollTrigger monitor the scroll velocity and anticipate the pin (the default is 0).
+Antigua and Barbuda
+App Store
+Apri il menu
+Aproximar zoom
+Arabic Typesetting
+are removed, then remove this option.
+are valid fields.
+Arena de Guerra
+Arena de Motores
+Arena Deathmatch
+Arena War
+Arena wojny
+argument is true.
+Argument to polyad must be a positive number
+Arguments provided to Fields or Directives and the input fields of an InputObject are represented as Input Values which describe their type and optionally a default value.
+Aria label describing location in list
+Aria label for button which select the next item
+Aria label for button which select the next slide
+Aria label for button which select the previous item
+Aria label for button which select the previous slide
+Aria label for check mark in milestone
+Aria label for close icon in expandable menu item
+Aria label for next button in game carousel for Buy Now
+Aria label for next button of carousel
+Aria label for open icon in expandable menu item
+Aria label for previous button in game carousel for Buy Now
+Aria label for previous button of carousel
+aria label for the discover callout cards.
+Aria label to indicate when a link opens in new window/tab
+Aria label when a metal level is completed
+Aria label when a metal level is not unlocked
+aria-hidden: cannot operate on
+Aria-label for the lightbox close button
+Aria-label for the lightbox download button (downloads the image)
+Aria-label for the lightbox open button
+Aria-label for the lightbox reset button (resets zoom and position)
+Aria-label for the lightbox zoom in button
+Aria-label for the lightbox zoom out button
+Aria-label for the lightbox zoom slider
+Arial Black
+Arial Hebrew
+Arial MT
+Arial Narrow
+Arial Rounded MT Bold
+Arial Unicode MS
+Array.from requires an array-like object - not null or undefined
+as a string.
+as selector refers to no known node
+Assistir agora
+Associer Twitch
+Associer un autre compte
+Associer un compte de jeu
+Associer un compte de personnage valide
+Associer un personnage de GTA Online
+At least one node with a positive tabindex was found in one of your focus-trap
+At least one of max, maxSize, or ttl is required
+Attempted to hydrate a non-hydrateable root. This is a bug in
+Attività aggiunta ai preferiti
+Attività rimossa dai preferiti
+attribute or
+Attribute selector didn
+Aucun compte de jeu associé
+Aucun compte Twitch associé
+Aucun personnage trouvé
+Aucune donnée trouvée
+Aucune récompense disponible
+Aumenta zoom
+Avantages pour les abonnés
+avons pas trouvé de personnage de GTA Online associé à votre compte Rockstar Games.
+Awards section title
+Background Color
+Background Gradient
+Background Image
+Background Image Gradient
+Background Position
+Background Repeat
+Background Size
+Barnes & Noble
+Barra de progreso
+Barra de progresso
+Barra dei progressi
+Barre de progression
+because the
+Belohnung gesperrt
+Belohnungen sind bereit zur Abholung
+Belohnungen sind bereit zur Abholung. Besuche das Karrierefortschrittsmenü im Spiel, um sie abzuholen.
+Benefícios para membros
+Beneficios para miembros
+Bereichsnavigation öffnen
+Bereichsnavigation schließen
+Bereit zur Abholung
+Bereits abonniert
+Bestätige dein Abo
+Bezier x values must be in [0, 1] range
+Bien démarrer
+Bike Race
+Bitstream Vera Sans Mono
+Bitte drücke auf den Knopf unten, um zu bestätigen, dass du den Newsletter von Rockstar Games abonnieren möchtest.
+Bitte verifiziere deine E-Mail-Adresse über den Link, der an die E-Mail-Adresse geschickt wurde, mit der du dich angemeldet hast, um dein Abo für die E-Mail-Liste von Rockstar Games zu bestätigen.
+Body for CTA when no character is found
+Body not allowed for GET or HEAD requests
+Bolivia, Plurinational State of
+Bonaire, Sint Eustatius and Saba
+Book Antiqua
+Bookman Old Style
+Border Image Repeat
+Bosna i Hercegovina
+Bosnia and Herzegovina
+Both input and output ranges must be the same length
+Bottom Text
+Bouvet Island
+Brak dostępnych nagród
+Brak powiązanego konta
+Brak powiązanego konta Twitch
+Brand logo, then some text.
+Brand Message
+British Indian Ocean Territory
+British Virgin Islands
+Brunei Darussalam
+Burkina Faso
+Buscar streams
+but did not provide a
+but did not provide an
+Button for CTA when no character is found
+Button label to leave feedback or suggestions
+Button label to report a bug or feedback
+Button text for login prompt
+Buy Now
+Buy Now component
+Cabo Verde
+Calcolo risultati in corso...
+Calcul des résultats...
+Calculando resultados...
+Calculating Results...
+call will already throw on uncaught errors.
+callback sets local state, switch to use derived state using
+Calling PropTypes validators directly is not supported by the
+Cambria Math
+can never be of type
+can only be defined once.
+can only be used once at this location.
+Can only have query, mutation and subscription operations.
+Can only unwrap data on initialized and settled deferreds
+Cannot animate a
+cannot be spread here as objects of type
+Cannot call setIn() with
+Cannot call the manual advancement of rafz whilst frameLoop is not set as demand
+Cannot complete value of unexpected output type:
+Cannot convert undefined or null to object
+Cannot define a new schema within a schema extension.
+Cannot find module
+Cannot handle redirect results in processLoaderData
+Cannot reduce an empty sequence
+Cannot reset() in onSubmit(), use setTimeout(form.reset)
+Cannot set a non-numeric property on an array
+Cannot set a numeric property on an object
+Cannot set currentNode to a node that is not contained by the root node.
+cannot set size without setting maxSize or maxEntrySize on cache
+cannot set sizeCalculation without setting maxSize or maxEntrySize
+Career Progress
+Career Progress link console account
+Career Progress link console account header description
+Career Progress link console account header title
+Career Progress percentage chart title
+Career Progress percentage chart title full
+Carrera a dos ruedas
+Carrera a pie
+Carrera acrobática
+Carrera aérea
+Carrera de aceleración
+Carrera de ataque al objetivo
+Carrera de coches de competición
+Carrera de derrapes
+Carrera de drift
+Carrera de persecución
+Carrera de ruedas descubiertas
+Carrera de transformación
+Carrera de vehículos especiales
+Carrera marítima
+Carrera terrestre
+Carrera urbana
+Cartão de Personagem:
+Carte de personnage :
+Cartes de suivi
+Categoria de RP
+Categoría de RP
+Categoria RP
+Catégorie : RP
+Cayman Islands
+Cena promocyjna, poprzednio
+Central African Republic
+Century Gothic
+Century Schoolbook
+Cerrar la sección de navegación
+Cerrar sección
+Changed from using fake timers to real timers while using waitFor. This is not allowed and will result in very strange behavior. Please ensure you
+Changed from using real timers to fake timers while using waitFor. This is not allowed and will result in very strange behavior. Please ensure you
+character (along with any modifiers), e.g.
+Character Card:
+character in a manually specified
+character must always follow a
+Check Your Email
+Chiudi il menu
+Choose an Accessible Role
+Choose Platform
+Christmas Island
+Class extends value
+Class Names
+clearCaughtError was called but no error was captured. This error is likely caused by a bug in React. Please file an issue.
+Click to add color
+Click-through footer
+Click-through screencap
+Close menu button
+Close Section Navigation
+Coc Coc
+Cocos (Keeling) Islands
+Collega Twitch
+Collega un account di gioco
+Collega un account personaggio valido
+Collega un altro account
+Collega un personaggio di GTA Online
+Color picker
+Color Picker
+Come iniziare
+Comenta aquí
+Comic Sans
+Comic Sans MS
+Como está sendo a sua experiência no GTA Online? Envie suas ideias e opiniões e ajude a construir o futuro do jogo.
+Comparte tus comentarios
+Compartilhe seu feedback
+Completa desafíos únicos para ganar GTA$, artículos de bonificación y más, aparte de bonificaciones de RP en cada nivel:
+Completa desafíos únicos para ganar GTA$, artículos y mucho más, como bonificaciones de RP por cada nivel:
+Completa sfide uniche per guadagnare GTA$, articoli omaggio e altro ancora, inclusi RP bonus per ogni livello:
+Complete badge title
+Complete unique challenges to earn GTA$, bonus items, and more including RP bonuses for each Level:
+Complex values
+Comprueba tu correo electrónico
+Compte de jeu associé
+Compte Twitch associé
+Comptes associés
+Conclua desafios únicos para ganhar GTA$, itens bônus e mais, incluindo bônus de RP para cada nível:
+Condividi il tuo feedback
+Conferma che vuoi iscriverti alla Newsletter di Rockstar Games cliccando sul pulsante qui sotto.
+Conferma che vuoi iscriverti alla Newsletter di Rockstar Games cliccando sul pulsanto qui sotto.
+Conferma la tua iscrizione
+Configura Drops de Twitch
+Configura Drops de Twitch para recibir recompensas futuras
+Configurez vos drops Twitch
+Confira todos os desafios que você concluiu na sua carreira no GTA Online. Você também pode descobrir novos desafios e ganhar grandes recompensas conforme cresce na hierarquia do crime.
+Confirm your subscription
+Confirma tu suscripción
+Confirmar suscripción
+Confirme que você deseja se inscrever na newsletter da Rockstar Games clicando no botão abaixo.
+Confirme que você deseja se inscrever no newsletter da Rockstar Games clicando no botão abaixo.
+Confirme sua inscrição
+Confirmer votre abonnement
+Confirmez votre abonnement
+Congo, Democratic Republic of the
+Connectez-vous à votre compte pour consulter toutes les récompenses que vous pouvez gagner ou avez déjà gagnées, ainsi que les opportunités qui vous attendent.
+Connectez-vous à votre compte Rockstar Games pour commencer la configuration.
+Connectez-vous à votre compte Rockstar Games pour vous lancer
+Connectez-vous pour suivre votre progression
+Connexion requise
+Conquête en équipe
+Consejos sobre niveles
+Consulta todos los desafíos que completaste en tu trayectoria en GTA Online. Además, descubre desafíos nuevos y obtén recompensas valiosas mientras avanzas en tu carrera criminal.
+Consulta tu progreso
+Conta da Twitch vinculada.
+Conta de jogo vinculada.
+Contact Mission
+Container initialization failed as it has already been initialized with a different share scope
+Container missing
+Container ref is defined but not hydrated
+Contas vinculadas
+Controlla la tua mail
+controls.set() should only be called after a component has mounted. Consider calling within a useEffect hook.
+controls.start() should only be called after a component has mounted. Consider calling within a useEffect hook.
+Cook Islands
+Corrida a pé
+Corrida Acrobática
+Corrida Aérea
+Corrida de Arrancada
+Corrida de Assalto com Alvos
+Corrida de Drift
+Corrida de Perseguição
+Corrida de Roda Exposta
+Corrida de Rua
+Corrida de Veículo Especial
+Corrida Marítima
+Corrida Metamorfose
+Corrida sobre duas rodas
+Corrida Terrestre
+Costa Rica
+could be used only with
+could not be decoded because it is is a malformed URL segment. This is probably due to a bad percent encoding (
+Could not find
+Courier New
+Course à moto
+Course à pied
+Course aérienne
+Course aux points
+Course de dragster
+Course de drift
+Course de poursuite
+Course de rue
+Course de véhicules spéciaux
+Course nautique
+Course polymorphes
+Course terrestre
+Crea un account
+Crea un personaggio di Grand Theft Auto Online e completa il tutorial in gioco per ricevere i Drop.
+Crea un personaggio per le ricompense future
+Crea un personaggio per ricevere i Drop
+Crea un personaje de Grand Theft Auto Online y completa el tutorial del juego para recibir Drops.
+Crea un personaje para obtener recompensas en el futuro
+Crea un personaje para recibir Drops
+Crea un personaje para recompensas futuras
+Crea una cuenta
+Creada por
+Creado por
+Creador de misiones
+Crear una cuenta
+Create a Grand Theft Auto Online character and complete the in-game tutorial to receive drops.
+Create a Grand Theft Auto Online character and complete the in-game tutorial to receive Drops.
+Create an Account
+Create An Account
+Create Your Character for Future Rewards
+Create your Character to get Drops
+Created by
+Creato da
+Creatore di missioni
+Criado por
+Criador de Missões
+Criar conta
+Crie seu personagem para obter recompensas futuras
+Crie seu personagem para receber Drops
+Crie um personagem do Grand Theft Auto Online e conclua o tutorial no jogo para receber Drops.
+Crie uma conta
+CSS Variables
+CTA that displays on the GTAO feedback page if the viewer is not logged in.
+Cubic bezier arrays must contain four numerical values.
+Cuenta de juego vinculada
+Cuenta de Twitch vinculada
+Cuentas vinculadas
+Custom tracking stop.
+DAISY Guide
+Dangling reference to missing
+Danos tu opinión
+Dark Blue
+Dark Red
+Dati non trovati
+Deathmatch a squadre
+Deathmatch con veicoli
+Deathmatch drużynowy
+Deathmatch na arenie
+Deathmatch w pojazdach
+Debes iniciar sesión
+Decorated type deeper than introspection query.
+Default: Subscribe
+defer() is not supported in actions
+defer() only accepts plain objects
+Deferred data aborted
+Deferred data for key
+Defines how the edge regions of the source image are adjusted to fit the dimensions of the border image.
+Dein Browser unterstützt die Wiedergabe von Videos nicht.
+Descripción emergente sobre rangos
+Desktop Source
+Desplazar hacia la derecha
+Desplazar hacia la izquierda
+Desplazarse hacia abajo
+Desplazarse hacia la derecha
+Desplazarse hacia la izquierda
+Detalhes do evento
+Detalles del evento
+Dettagli evento
+Deutsch (Deutschland)
+Device Independence Delivery Unit
+Device Independence Glossart perceivable unit
+Diapositiva anterior
+Diapositiva siguiente
+Did not expect successive traversals.
+Did not find corresponding fetcher result
+Die Seite, die du suchst, existiert nicht, oder es ist ein anderer Fehler aufgetreten.
+Diminuisci zoom
+direct descendant of menu
+direct descendant of ol
+direct descendant of ul
+Directs the executor to skip this field or fragment when the
+dirty is not a string, aborting
+Discount price, previously
+Discover Callout Section
+discover page
+Disponibile solo su
+Disponible solamente en
+Disponible solo en
+Disponível apenas para
+Dodaj do zakładek
+Dodaj opinię
+Dodaj postać
+does not exist in
+does not exist in container.
+does not exist in object
+Domande frequenti
+Dominican Republic
+Dostępne wyłącznie na
+Dot click
+Dowiedz się więcej
+Dowiedz się więcej o szerokiej gamie aktualizacji Grand Theft Auto Online i odkryj specjalne wyzwania i nagrody dostępne tylko na PlayStation 5, Xbox Series X|S oraz w ulepszonej wersji GTAV na PC.
+Download the Apollo DevTools for a better development experience: %s
+Drag Race
+Draggable item. Press space bar to lift
+Dragon Touch
+Drift Race
+drop some files here,
+Drops-Inventar ansehen
+Drużynowy Król wzgórza
+Du erhältst bereits Newsletter-Updates an diese E-Mail-Adresse. Verwalte jederzeit deine Präferenzen bezüglich der Kommunikation in den Einstellungen deines Kontos.
+Du hast dich während der Kontoerstellung nicht für Werbe-E-Mails angemeldet. Möchtest du immer noch unseren Newsletter abonnieren?
+Du hast noch kein Konto?
+Du musst dich erst anmelden, um diese Inhalte zu sehen.
+Du musst Grand Theft Auto Online neu starten, um diesen Job nicht länger in deinen Markierungen sehen zu können.
+Du musst Grand Theft Auto Online neu starten, um diesen markierten Job sehen zu können – Jobs können nur im Spiel bewertet werden, nachdem sie gespielt wurden.
+Dublin Core
+E-Mail-Liste von Rockstar Games beitreten
+e-mails publicitaires lors de la création de votre compte. Voulez-vous toujours vous abonner à notre newsletter ?
+Ease | String -  the ease that the snapping animation should use. The default is
+Effectuer un signalement
+Einen Charakter hinzufügen
+either ensure all objects of type
+El Salvador
+element with the role
+Elementi evidenziati
+Elige una plataforma.
+Ellipse Path 1
+Empty sub-selector
+En este momento no puedes suscribirte a nuestro boletín de noticias con este correo electrónico.
+En este momento, no hay Drops de Twitch disponibles, pero presta atención. Crea un personaje de Grand Theft Auto Online y completa el tutorial del juego para recibir Drops.
+En este momento, no podemos registrar esta dirección de correo electrónico a nuestro boletín.
+Encontrar transmissões
+End Color
+End Point
+End Position | String - Determines the ending position of the ScrollTrigger.
+English (United States)
+Enlace externo a la tienda
+Entire CSS value as a string.
+Enum value
+Enviar feedback
+Equatorial Guinea
+Erfolgreich abonniert
+Ergebnisse werden berechnet …
+Ermäßigter Preis, vorher
+Erneut versuchen
+Error fetching claim/exists
+Error formatting date time range.
+Error formatting date.
+Error formatting message:
+Error formatting number.
+Error formatting the default message for:
+Error formatting time.
+Error Icon
+Error loading video:
+Error message not found.
+error message with no preferences link
+error message with preferences link
+Erste Schritte
+Erstelle einen Charakter in Grand Theft Auto Online und schließe das Tutorial im Spiel ab, um Drops zu erhalten.
+Erstelle einen Charakter, um Drops zu erhalten
+Erstelle einen Charakter, um zukünftige Belohnungen zu erhalten
+Erstellt von
+Es gab einen Fehler bei dem Versuch, einen Job zu markieren/eine Markierung zu entfernen. Bitte versuche es erneut.
+ES Modules may not assign module.exports or exports.*, Use ESM export syntax, instead:
+Es tut uns Leid, die Karrierefortschrittskarten sind momentan leider nicht verfügbar.
+Es wurde kein GTA-Online-Charakter gefunden, der mit deinem Rockstar-Games-Konto verknüpft ist.
+Español (España)
+Español (México)
+event - please provide a DOM element.
+Event Details
+Event name must be provided to work with custom events
+Event processor
+Evento anterior
+Evento precedente
+Evento siguiente
+Evento successivo
+Expanding Button Label
+Expected a Location header on the redirect Response
+Expected an AbortController for revalidating fetcher deferred result
+Expected fetcher:
+Expected Iterable, but did not find one for field
+Expected media condition after
+Expected name to be a non-empty string.
+Expected name to be a string.
+Expected pending action
+Expected type
+expected value of type
+Expected value of type
+Expected whitespace after media
+Expiration Date
+External link to Store
+Externer Link zum Store
+Failed to add conditional rule
+Failed to parse color:
+Failed to save applied view transitions in sessionStorage (
+Failed tokenizing
+Faire défiler vers la droite
+Faire défiler vers la gauche
+Faire défiler vers le bas
+Falkland Islands
+Falkland Islands (Malvinas)
+Fallback Image
+fallback value for
+Faroe Islands
+Fechar navegação entre seções
+Feedback geben
+Fermer la navigation pour cette section
+Field Setup Guide
+Find Streams
+Fire Phone $1
+First argument must be a string
+first argument should be an array
+First ensure all usages of
+Fond 1
+Foot Race
+for locale
+for route
+For special gifts and rewards in Grand Theft Auto Online, link your gaming accounts and watch participating Twitch channels.
+for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+for the full message or use the non-minified dev environment for full errors.
+forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+Fortschritt ansehen
+Found multiple elements with the display value:
+Found multiple elements with the placeholder text of:
+Found multiple elements with the text of:
+Found multiple elements with the title:
+Fragment cannot be spread here as objects of type
+Français (Canada)
+Français (France)
+Franklin Gothic
+French Guiana
+French Polynesia
+French Southern Territories
+from an
+functions are also provided.
+Futura Bk BT
+Futura Md BT
+GA Impression Tracking
+Game Click-through
+Gaming account linked
+Gara a piedi
+Gara acquatica
+Gara aerea
+Gara al bersaglio
+Gara clandestina
+Gara con veicoli speciali
+Gara drag
+Gara drift
+Gara multiveicolo
+Gara per ruote scoperte
+Gara stunt
+Gara su due ruote
+Gara terrestre
+Generator is already executing.
+Gerenciar contas vinculadas
+Gerenciar preferências
+Gestionar cuentas vinculadas
+Gestionar preferencias
+Gestionar tus preferencias
+Gestisci gli account collegati
+Gestisci le preferenze
+Getting Started
+Gib uns dein Feedback
+Gill Sans
+Gioco precedente
+Give feedback
+Give Feedback
+Google Play
+Got NaN while animating:
+Gotowe do odebrania
+Gradient Height
+Grand Theft Auto Online
+Grand Theft Auto V
+Grand Theft Auto 온라인에서 스페셜 선물과 보상을 받으려면 게이밍 계정을 연동하고 해당되는 Twitch 채널을 시청하십시오.
+GraphQL execution failed to complete synchronously.
+GraphQL introspection has been disabled, but the requested query contained the field
+graphql@16 dropped long-deprecated support for positional arguments, please pass an object instead.
+Grid Number of Columns (Desktop)
+Grid Number of Columns (Mobile)
+Grid Position (Desktop)
+Grid Position (Mobile)
+Grid Template Override (Desktop)
+Grid Template Override (Mobile)
+Group of Image/Text Groups (gen9)
+Groupe 1
+Groupe 2
+Groupe 3
+GTA Online
+GTA-Online-Charakter verknüpfen
+GTA+ Icon
+GTM Id is required
+Guarda ora
+Guinea Ecuatorial
+Gültiges Charakter-Konto verknüpfen
+Guyane française
+Ha habido un error al intentar marcar o eliminar la marca de esta actividad. Vuelve a intentarlo
+Habilite seus Drops da Twitch
+Habilite seus Drops da Twitch para obter recompensas futuras
+has a key
+has a static property
+has not been added. Call
+Haz clic en el botón a continuación para confirmar que quieres suscribirte al boletín de Rockstar Games.
+Haz click en el botón para confirmar que quieres suscribirte al boletín de noticias de Rockstar Games.
+Header for the getting started section
+Header pending title for the countdown label
+Header title for the countdown label
+Headers constructor: expected name/value pair to be length 2, found
+Headline left
+Headline right
+Heard Island and McDonald Islands
+Heist Prep
+Helper text for under login prompt button
+Helvetica Neue
+Holy See
+Hong Kong
+Hot Pink
+Houve um erro ao tentar adicionar/remover esse serviço aos Favoritos. Tente novamente.
+How are you enjoying GTA Online? Tell us your thoughts and ideas to help us shape the future of the game.
+How many columns should the list be broken into on mobile? (Leave blank if less than 2)
+How many columns should the list be broken into? (Leave blank if less than 2)
+HttpLink: Trying to send a client-only query to the server. To send to the server, ensure a non-client field is added to the query or set the
+Icona di successo
+Icona Errore
+Icono de aprobación
+Icono de error
+ID cannot represent a non-string and non-integer value:
+If no scale values are provided, useInvertedScale must be used within a child of another motion component.
+If you don
+If you want translations to sync, toggle this to on.
+If your
+Ikona błędu
+Ikona sukcesu
+Image configuration
+Image Configuration
+Image Sources
+Image w/text
+Imagen anterior
+Images Need Alt Text
+Imposta i tuoi Twitch Drop
+Imposta i Twitch Drop per ricevere le ricompense future
+Impression Tracking
+in an errorElement (routeId:
+in c?c.responseURL:r.headers.get(
+in constant value.
+in e,
+in e?e:HTMLInputElement.prototype,
+in e?e.checked:we(e,
+in e.keyframes[r-1]?e.keyframes[r-1].s:
+in e.style?
+in e))throw new TypeError(
+in e&&
+in Intl.DateTimeFormat. Using default locale:
+in Intl.NumberFormat. Using default locale:
+in media query
+in media query but found
+in n?n.dependencies:f),e&&
+in n&&
+in navigator&&
+in not contained inside
+In Progress
+in S||
+in t&&n(
+in t||
+in the pattern. To get rid of this warning, please change the route path to
+in w&&w[
+Included as related elsewhere
+Included when true.
+Index routes must not have child routes. Please remove all child routes from route path
+Indicates this type is a scalar.
+Indicates this type is an interface.
+Indicates this type is an object.
+Informação sobre níveis
+Informacje o poziomach
+Information on tooltip for RP bonus information for each tier level
+Informations sur le palier
+Informazioni dei livelli
+Informazioni sui contenuti aggiuntivi
+Inicia sesión con tu cuenta de Rockstar Games para comenzar
+Inicia sesión con tu cuenta de Rockstar Games para empezar
+Inicia sesión con tu cuenta para ver todas las recompensas disponibles, los premios que has ganado y las sorpresas que te esperan.
+Inicia sesión en tu cuenta de Rockstar Games para empezar.
+Inicia sesión en tu cuenta para ver todas las recompensas que puedes conseguir, los premios que has ganado y todas las posibilidades que tienes por delante.
+Inicia sesión para seguir tu progreso
+Inicia sesión para ver tu progreso
+Iniciar sesión
+Iniciar sessão
+Inicie sessão na sua conta da Rockstar Games para configurar.
+Inicie sessão na sua conta para ver todas as recompensas que você pode ganhar, as recompensas que já ganhou e todas as possibilidades futuras.
+Inicie sessão para ver seu Progresso
+Initialization of sharing external failed:
+Input type detection error.
+Inscreva-se na lista de e-mails da Rockstar Games
+Inscreva-se no nosso newsletter para receber informações sobre atualizações e anúncios, detalhes sobre eventos e ofertas especiais e mais da Rockstar Games e afiliadas.
+Inscrição confirmada
+Inscrição efetuada
+instant. Modifiez vos préférences concernant les e-mails sur la page des paramètres de votre compte ou réessayez plus tard.
+instantiate Stack using Stack.create(n)
+instead), this will be removed in later 0.X.0 versions
+Instruction indicating which guide can be read
+Internet Explorer
+IntlMessageFormat.__parse must be set to process
+Invalid attempt to destructure non-iterable instance
+Invalid attempt to spread non-iterable instance
+Invalid Block
+Invalid blocker state transition:
+Invalid easing type
+Invalid media feature
+Invalid media query
+Invalid or incomplete introspection result. Ensure that you are passing
+Invalid placement provided
+Invalid property
+Invalid range
+Invalid request method
+Invalid scope
+invalid size value (must be positive integer). When maxSize or maxEntrySize is used, sizeCalculation or size must be set.
+Invalid type, a guide is needed.
+Invalid Unicode escape sequence:
+Invalid value
+Invalid value of type
+Invariant failed
+Invariant Violation
+Invia feedback
+iPhone Simulator
+iPod Simulator
+Iran, Islamic Republic of
+is at invalid UTF-16 code unit boundary
+is disabled. Select another option.
+is focused
+is never used in operation
+is never used.
+is not a constructor or null
+is not a File
+is not an object
+is not an object!
+is not defined by operation
+is not defined by type
+is not defined.
+is not observable
+is not valid. An absolute child route path must start with the combined path of all its parent routes.
+is required, but it was not provided.
+is set as a React ref, that ref must be passed to another component
+Is this a lead asset?
+Is this CTA within the expanding button?
+is undefined in ansi-styles.
+Iscriviti alla mailing list di Rockstar Games
+Iscrizione effettuata con successo
+Isle of Man
+it attaches and remove event listeners correctly
+it does not render video when reduced motion is preferred
+It looks like the window object is not available for the provided node.
+It looks like you passed a
+It looks like you passed a Promise object instead of a DOM node. Did you do something like
+it renders fallback image when variant is image
+it renders video play/pause button with correct icon
+it renders video when variant is video and reduced notion is not preferred
+it toggles play/pause state when play/pause button is clicked
+Italiano (Italia)
+Jak ci się podoba GTA Online? Podziel się z nami swoimi przemyśleniami i pomysłami, które pomogą nam kształtować przyszłość gry.
+Jetzt abonnieren
+Jetzt anschauen
+Jeu précédent
+Jeu suivant
+Job Bookmarked
+Job markiert
+Job nicht mehr markiert
+Job Unbookmarked
+Jogo anterior
+Join Now
+Juego anterior
+Juego siguiente
+Jump To
+Już otrzymujesz powiadomienia o nowościach na ten adres e-mail. Zmień swoje preferencje w dowolnym momencie w ustawieniach swojego konta.
+Kalaallit Nunaat
+Kamień milowy osiągnięty
+Karta postaci:
+Karty aktualizacji
+Karty postępu kariery są obecnie niedostępne.
+Kein Charakter gefunden
+Kein Spielkonto verknüpft
+Kein Twitch-Konto verknüpft
+Keine Belohnungen verfügbar
+Keine Daten gefunden
+key with definitions
+King of the Hill
+Konto erstellen
+Korea, Republic of
+Korzyści członkowskie
+Kreator misji
+Label for a menu item button on mobile
+Label for Bronze (in context of award levels)
+Label for button which closes the secondary menu
+Label for button which opens the secondary menu
+Label for close buttons for the Career Progress Hub (eg. to close a popup) on the Career Progress Hub
+Label for Gold (in context of award levels)
+Label for link to guide
+Label for Platinum (in context of award levels)
+Label for progress bar on the Career Progress Hub
+Label for scroll left buttons for the Career Progress Hub navigation
+Label for scroll right buttons for the Career Progress Hub navigation
+Label for Silver (in context of award levels)
+Label for Tattoo bonus type
+Label text that is used for screen readers
+Land Race
+Last Team Standing
+Learn more
+Learn More
+Learn more about a huge range of Grand Theft Auto Online updates, and discover special challenges and rewards only available on PlayStation 5, Xbox Series X|S, and the upgraded version of GTAV on PC.
+Letter Gothic
+Levenim MT
+Lien externe vers la boutique
+linear-gradient(to right, rgba(
+Link a game account
+Link A Game Account
+Link a GTA Online Character
+Link a valid character account
+Link Another Account
+Link esterno per il Negozio
+Link externo para a Loja
+Link Game Account
+Link gaming account
+Link Twitch
+Linked Accounts
+Links scrollen
+List Items
+Lista de canciones
+Lista de faixas
+Lista de pistas
+Lista utworów
+Liste des morceaux
+Livello completato
+Livello zoom
+Loading chunk
+Loading CSS chunk
+Location adjacent to a field definition.
+Location adjacent to a field.
+Location adjacent to a fragment definition.
+Location adjacent to a fragment spread.
+Location adjacent to a mutation operation.
+Location adjacent to a query operation.
+Location adjacent to a scalar definition.
+Location adjacent to a schema definition.
+Location adjacent to a subscription operation.
+Location adjacent to a union definition.
+Location adjacent to a variable definition.
+Location adjacent to an argument definition.
+Location adjacent to an enum definition.
+Location adjacent to an enum value definition.
+Location adjacent to an inline fragment.
+Location adjacent to an input object field definition.
+Location adjacent to an input object type definition.
+Location adjacent to an interface definition.
+Location adjacent to an object type definition.
+Log In
+Logo de Twitch
+Logo di Twitch
+Logo Twitch
+Logotipo da Twitch
+Logotipo de Twitch
+Logro alcanzado
+Long title for the days label
+Long title for the hours label
+Long title for the minutes label
+Long title for the seconds label
+Looks like ParallaxController.init() was called on the server. This method must be called on the client.
+Los Santos Customs
+Losowa misja
+Lucida Bright
+Lucida Calligraphy
+Lucida Console
+Lucida Fax
+Lucida Handwriting
+Lucida Sans
+Lucida Sans Typewriter
+Lucida Sans Unicode
+Manage Linked Accounts
+Manage Preferences
+Manage preview images
+Marcando Território
+Marcando Território em Equipe
+Marco alcançado
+Markierte Elemente
+Marks an element of a GraphQL schema as no longer supported.
+Marshall Islands
+Mata-mata da Arena
+Mata-mata em Equipe
+Mata-mata em Veículos
+Max CSS variable fallback depth detected in property
+max option must be a nonnegative integer
+maxEntrySize must be a positive integer if specified
+Maximum introspection depth exceeded
+maxSize must be a positive integer if specified
+Media Query
+Media Query String
+Mehr erfahren
+Meilenstein erreicht
+Meiryo UI
+Melde dich an, um deinen Fortschritt anzusehen
+Melde dich bei deinem Rockstar-Games-Konto an, um mit der Einrichtung zu beginnen
+Melde dich bei unserem E-Mail-Newsletter an, um über Spielankündigungen und Updates, besondere Events, Angebote und mehr von Rockstar Games und unseren Partnern informiert zu werden.
+Melde dich mit deinem Konto an und sieh dir die Belohnungen an, die du freischalten kannst, die Auszeichnungen, die du schon verdient hast, sowie die Möglichkeiten, die noch vor dir liegen.
+Member Benefits
+Message prompting user that the home page doesn
+Micronesia, Federated States of
+Microsoft Sans Serif
+Microsoft Uighur
+Milestone achieved
+Minified React error #
+Minified Redux error #
+Minion Pro
+Misión aleatoria
+Misión de contacto
+Misión preliminar de golpe
+Misión preliminar del golpe
+Misiones de contacto
+Misja od kontaktów
+Misja w terenie
+Missão aleatória
+Missão de Contato
+Missing character from exported characters list:
+Missing locale data for locale:
+Missing plugin? gsap.registerPlugin()
+Mission ajoutée aux favoris
+Mission aléatoire
+Mission Creator
+Mission de contact
+Mission retirée des favoris
+Missione casuale
+Missione dei contatti
+Missione preliminare del colpo
+Mit Twitch verknüpfen
+Mitglied werden
+Mobile Columns
+Mobile Safari
+Modalità Competizione
+Mode rivalité
+Modo Adversario
+Modo Adversário
+Moldova, Republic of
+Momentan gibt es keine Twitch Drops, aber bleib dran. Erstelle einen Charakter in Grand Theft Auto Online und schließe das Tutorial im Spiel ab, um Drops zu erhalten.
+Momentan gibt es keine Twitch Drops. Bleib dran für die nächste Runde. In der Zwischenzeit kannst du dein Inventar verwalten und deine verfügbaren Belohnungen abholen.
+Monotype Corsiva
+more stories
+More Stories
+more than
+MS Gothic
+MS Mincho
+MS Outlook
+MS Reference Sans Serif
+MS Reference Specialty
+MS Sans Serif
+MS Serif
+MS UI Gothic
+MT Extra
+Musisz uruchomić ponownie Grand Theft Auto Online, aby akcja nie pojawiała się dłużej w sekcji ulubionych akcji.
+Musisz uruchomić ponownie Grand Theft Auto Online, aby zobaczyć tę dodaną do ulubionych akcję. Akcje mogą być ocenione tylko i wyłącznie w grze po ich rozegraniu.
+Must be a space-separated list of valid CSS class names (excluding periods).
+must be greater than or equal to the current offset
+must be of type
+must have a selection of subfields. Did you mean
+must have at least one field selected.
+must not have a selection since type
+Must provide configuration object.
+Must provide document.
+Must provide matching units for the min and max offset values of each axis.
+Must provide name.
+Must provide only one schema definition.
+Must provide operation name if query contains multiple operations.
+Must provide valid Document AST.
+must resolve to an Object type at runtime for field
+must select only one top level field.
+Must wrap your application
+Nach unten scrollen
+Nächste Seite von Events
+Nächste Videoseite
+Nächstes Bild
+Nächstes Element
+Nächstes Event
+Nächstes Spiel
+Nagroda zablokowana
+Nagrody gotowe do odebrania
+Nagrody gotowe do odebrania Odwiedź menu postępów kariery w grze, aby odebrać.
+Najczęstsze pytania
+Należy potwierdzić swoją subskrypcję listy mailingowej Rockstar Games poprzez kliknięcie poniższego przycisku.
+Names must only contain [_a-zA-Z0-9] but
+Names must start with [_a-zA-Z] but
+Não achamos nenhum personagem do GTA Online vinculado à sua conta da Rockstar Games.
+Não há Drops da Twitch disponíveis no momento, mas fique de olho na próxima rodada. Enquanto isso, gerencie seu inventário e resgate suas recompensas disponíveis.
+Não há Drops da Twitch disponíveis no momento, mas fique de olho. Crie um personagem do Grand Theft Auto Online e conclua o tutorial no jogo para receber Drops.
+Não perca o próximo presente gratuito do GTA Online
+Następna gra
+Następna strona wydarzeń
+Następna strona z filmami
+Następne wydarzenie
+Następny slajd
+Ne manquez pas le prochain cadeau gratuit dans GTA Online.
+Necesitas iniciar sesión
+Necesitas iniciar sesión para poder interactuar con este contenido.
+Necesitas reiniciar Grand Theft Auto Online para dejar de ver esta actividad en tu lista de actividades marcadas.
+Necesitas reiniciar Grand Theft Auto Online para dejar de ver esta actividad en tus actividades marcadas.
+Necesitas reiniciar Grand Theft Auto Online para ver esta actividad marcada. Las actividades solo se pueden calificar en el juego una vez jugadas.
+Necesitas reiniciar Grand Theft Auto Online para ver esta actividad marcada. Solo se pueden calificar en el juego una vez jugadas.
+Negara Brunei Darussalam
+Nein, zurückkehren
+Nenhum dado encontrado
+Nenhum personagem encontrado
+Nenhuma conta da Twitch vinculada.
+Nenhuma conta de jogo vinculada.
+Nenhuma recompensa disponível
+Nessun account di gioco collegato
+Nessun account di Twitch collegato
+Nessun personaggio trovato
+New [Image]
+New [Image/Title/Text Block]
+New [Unordered List]
+New Caledonia
+new tab
+new window
+New Zealand
+Newsletter Subscription - CTA title
+Next event
+Next Game
+Next Page of Events
+Next slide
+Next Slide
+Next video page
+Nie możemy w tym momencie dodać twojego adresu do listy mailingowej Rockstar Games.
+Nie możemy w tym momencie dodać twojego adresu do listy mailingowej Rockstar Games. Zmień swoje preferencje w ustawieniach swojego konta lub spróbuj ponownie później.
+Nie możemy w tym momencie dodać twojego adresu do listy mailingowej.
+Nie możemy w tym momencie dodać twojego adresu do listy mailingowej. Zmień swoje preferencje w ustawieniach swojego konta lub spróbuj ponownie później.
+Nie odnaleziono postaci GTA Online powiązanej z twoim kontem Rockstar Games.
+Nie posiadasz konta?
+Nie przegap kolejnych darmowych korzyści w GTA Online
+Nie udzielono zgody na otrzymywanie powiadomień marketingowych przy zakładaniu konta. Czy chcesz subskrybować naszą listę mailingową?
+Nie znaleziono danych
+Nie znaleziono postaci
+Nie, cofnij
+Nie, wróć
+Nintendo Switch
+Nintendo Switch™
+Nivel completado
+Nivel de zoom
+Nivel del zoom
+No Character Found
+No client configured on scope - will not capture event!
+No client configured on scope - will not capture exception!
+No client configured on scope - will not capture message!
+No Data Found
+No has vinculado ninguna cuenta de Twitch
+No hay Drops de Twitch disponibles en este momento, pero no te pierdas la próxima ronda. Mientras tanto, gestiona tu inventario y obtén las recompensas disponibles.
+No hay Drops de Twitch disponibles en este momento, pero presta atención a la próxima ronda. Mientras tanto, gestiona tu inventario y solicita tus recompensas disponibles.
+No hay Drops de Twitch disponibles en este momento, vuelve más tarde. Crea un personaje de Grand Theft Auto Online y completa el tutorial del juego para recibir Drops.
+No hemos encontrado un personaje de GTA Online vinculado a tu cuenta de Rockstar Games.
+no memoMethod provided to constructor
+No Modal Container context provided
+No optaste por recibir correos con publicidad durante la creación de la cuenta. ¿Quieres suscribirte a nuestro boletín de todos modos?
+No Qualifying Character Found
+No rewards available
+No route found in manifest
+No subscription provided. What values do you want to listen to?
+No te has suscrito a los correos electrónicos comerciales al crear tu cuenta. ¿Quieres suscribirte a nuestro boletín de noticias?
+No te pierdas el próximo regalo de GTA Online
+No Twitch account linked
+No vinculaste ninguna cuenta de Twitch
+no window available
+No window.location.(origin|href) available to create URL for href:
+No, Go Back
+Non abbiamo trovato un personaggio di GTA Online collegato al tuo account di Rockstar Games.
+Non ci sono ricompense disponibili
+Non ci sono Twitch Drop disponibili ora, ma non perderti il prossimo round. Intanto, gestisci il tuo inventario e riscatta le ricompense disponibili.
+Non è stato possibile procedere con l’iscrizione di questo indirizzo email alla nostra newsletter in questo momento.
+Non hai un account?
+Non perdere il prossimo omaggio di GTA Online
+Non, retour
+Norfolk Island
+North Macedonia
+Northern Mariana Islands
+not eligible for reset
+Not implemented yet:
+Number skeleton cannot be empty
+Nur auf
+Obiettivo raggiunto
+object that is frozen. Did you forget to pass your component to
+object. Did you do something like
+Objectif atteint
+Obliczanie wyników...
+Ocurrió un problema o la página que estás buscando no existe.
+Odnośnik zewnętrzny do sklepu
+Odtwórz ponownie
+of non-null type
+of required type
+of shared singleton module
+of type
+Oglądaj kanały Twitch, które biorą udział, aby otrzymywać darmowe nagrody w grach.
+on directive
+on field
+on its returned promise.
+One of the provided types for building the Schema is missing a name.
+One possible value for a given Enum. Enum values are unique values, not a placeholder for a string or numeric value. However an Enum value is returned in a JSON response as a string.
+OneOf Input Object
+Only Alerts can be passed to PaginationViewport
+Only available on
+only supported in development mode
+Only use Desktop Images for now.
+onUncaughtError is not supported. The
+Open Section Navigation
+Open Wheel Race
+option to
+Ostatnia drużyna wygrywa
+Otrzymujesz już powiadomienia o nowościach na ten adres e-mail. Zmień swoje preferencje w dowolnym momencie w ustawieniach swojego konta.
+Otwórz menu nawigacji
+out of bound
+Ouvrir la navigation pour cette section
+Override CSS Variables
+Override options based on screen size.
+Pack Cards
+Page précédente
+Page précédente des évènements
+Page suivante
+Page suivante des évènements
+Page vidéo précédente
+Page vidéo suivante
+Pagina degli eventi precedente
+Pagina degli eventi successiva
+Pagina di video precedente
+Pagina di video successiva
+Palatino Linotype
+Palestine, State of
+Palier terminé
+Papua New Guinea
+Papua Niugini
+Para confirmar sua inscrição na lista de e-mails da Rockstar Games, verifique seu endereço de e-mail pelo link enviado para o endereço que você usou para se inscrever.
+Para confirmar tu suscripción a la lista de correo de Rockstar Games, verifica tu correo electrónico a través del enlace enviado al correo electrónico con el que te has suscrito.
+Para interactuar con este contenido debes iniciar sesión.
+Para receber recompensas e presentes especiais no Grand Theft Auto Online, vincule suas contas de jogo e assista aos canais da Twitch participantes.
+Para recibir la recompensa en el juego, mira los canales de Twitch participantes.
+Para resgatar uma recompensa grátis no jogo, assista aos canais da Twitch participantes.
+Para solicitar la recompensa gratuita en el juego, sigue los canales de Twitch participantes.
+Paramétrez vos drops Twitch pour les prochaines récompenses
+Parenthesis not matched
+parser can only be used once
+Partagez vos idées
+Partida a muerte
+Partida a muerte con vehículos
+Partida a muerte de arena
+Partida a muerte por equipos
+Partida de supervivencia
+Pasar al contenido principal
+Pasek postępu
+Pass all
+Pass the options directly to the hook instead.
+Passer au contenu principal
+Path 1
+Pause video button
+PC Enhanced
+PC Legacy
+Per confermare la tua iscrizione alla mailing list di Rockstar Games, verifica il tuo indirizzo email tramite il link che ti abbiamo inviato all’indirizzo email che hai usato per iscriverti.
+Per non visualizzare più questa attività tra i preferiti, è necessario riavviare Grand Theft Auto Online.
+Per ricevere regali e ricompense speciali in Grand Theft Auto Online, collega i tuoi account di gioco e guarda i canali Twitch che partecipano.
+Per riscattare le ricompense gratuite in gioco, guarda i canali Twitch che partecipano all’iniziativa.
+Perguntas Frequentes
+Pierwsze kroki
+Pitcairn Islands
+Platform name used in ARIA labels: PC
+Platform name used in ARIA labels: Playstation 5
+Platform name used in ARIA labels: Xbox Series X / S
+Play video button
+Please confirm that you would like to subscribe to the Rockstar Games Newsletter by clicking the button below.
+Please gsap.registerPlugin(ScrollTrigger)
+Please initialize an instance of
+Please pass the option to the
+Please remove the
+Please remove this option.
+Please use
+Please use the
+Podziel się opinią
+Polynésie française
+Pomyślnie zasubskrybowano
+Poprzedni slajd
+Poprzednia gra
+Poprzednia strona wydarzeń
+Poprzednia strona z filmami
+Poprzednie wydarzenie
+Português (Brasil)
+Postępy kariery
+Potwierdź swoją subskrypcję
+Potwierdź swoją subskrypcję listy mailingowej Rockstar Games poprzez kliknięcie poniższego przycisku.
+Pour recevoir des récompenses et des cadeaux spéciaux dans Grand Theft Auto Online, associez vos comptes de jeu et regardez les chaînes Twitch participant.
+Pour récupérer la récompense gratuite en jeu, regardez les chaînes Twitch participantes.
+Powiąż inne konto
+Powiąż kolejne konto
+Powiąż konto
+Powiąż konto gracza
+Powiąż konto Twitch
+Powiąż odpowiednie konto postaci
+Powiąż postać GTA Online
+Powiąż swoje konto
+Powiązane konta
+Powiązano konto
+Powiązano konto Twitch
+Poziom powiększenia
+Poziom RP
+Poziom ukończony
+Pozostały czas
+Precio con descuento, anteriormente
+Precio rebajado, anteriormente
+Preço com desconto, antes
+Preguntas frecuentes
+Preliminar do Golpe
+Prepend for platforms that the feature is available on. Will be accompanied by platforms and Icons
+press left to focus selected values
+pretty-format: Option
+Previous event
+Previous Game
+Previous Page of Events
+Previous slide
+Previous Slide
+Previous video page
+Prezzo scontato: prima
+Primeiros passos
+Primeros pasos
+Prix réduit, précédemment
+process.binding is not supported
+Prochaine page
+Progreso en la trayectoria
+Progreso y trayectoria
+Progress Bar
+Progressi della carriera
+Progresso da Carreira
+Pronta per essere riscattata
+Pronto para resgatar
+property of introspection response and no
+property to import the right car
+Prossima slide
+Prossimo gioco
+Próximo Jogo
+Przeglądaj swoje dropy
+Przejdź do głównej treści
+Przesuń w lewo
+Przesuń w prawo
+Przewiń w dół
+Puerto Rico
+Pular para o conteúdo principal
+Pursuit Race
+Quadros das atualizações
+Query root type must be provided.
+R* Games
+Random Mission
+Ratings link alt text
+re All Set
+Re della collina a squadre
+re using the
+React Router caught the following error during render
+React.Children.only expected to receive a single React element child.
+React.cloneElement(...): The argument must be a React element, but you passed
+Ready to claim
+Rechts scrollen
+Recompensa bloqueada
+Recompensas disponíveis para resgatar
+Recompensas disponíveis para resgatar. Acesse o Menu de Progresso da Carreira no jogo para resgatar.
+Récompenses prêtes à être récupérées. Rendez-vous dans le menu Suivi de carrière en jeu pour les récupérer.
+Redirects returned/thrown from loaders/actions must have a Location header
+Relevez des défis uniques pour gagner des GTA$, des articles bonus, et plus, dont des RP bonus pour chaque niveau :
+Rennen zu Fuß
+Repeat count too high, must be less than 20
+Report Bug
+Reproduciendo video
+Reproduciendo vídeo
+República Dominicana
+République démocratique du Congo
+République du Congo
+Requires GSAP 3.11.0 or later
+resolved/rejected with
+returned from the hook instead. Use
+Reward locked
+Rewards ready to be claimed
+Rewards ready to be claimed. Visit the Career Progress Menu in-game to claim.
+Rey de la colina
+Rey de la colina por equipos
+Richte deine Twitch Drops ein
+Richte deine Twitch Drops für zukünftige Belohnungen ein
+RichText expects to be a string
+Ricompensa bloccata
+Ricompense pronte per essere riscattate
+Ricompense pronte per essere riscattate. Visita il menu Progressi della carriera per riscattarla.
+Riproduci di nuovo
+Riproduzione video interrotta
+Rockstar Games
+Rockstar Games Home
+Rockstar Games 계정과 연동된 GTA 온라인 캐릭터를 찾을 수 없습니다.
+Rockstar Games 뉴스레터 구독을 확인하려면 아래 버튼을 클릭하십시오.
+Rockstar Games 이메일 리스트 구독 상황을 확인하려면 가입 시 사용한 이메일 주소로 전송된 링크를 통해 이메일 주소를 인증하십시오.
+Rockstar Games 이메일 리스트 구독을 확인하려면 가입 시 사용한 이메일 주소로 전송된 링크를 통해 이메일 주소를 인증하십시오.
+Rockstar Games 이메일 리스트 구독하기
+Rockstar Games 이메일 리스트를 구독합니다. 가입하신 이메일 주소로 최신 정보가 정기적으로 전달됩니다. 계정 설정 페이지에서 언제든지 커뮤니케이션 선호 사항을 관리할 수 있습니다.
+Rolar para a direita
+Rolar para a esquerda
+Role para baixo
+root node is forbidden and cannot be sanitized in-place
+Round Corners 1
+Route path
+router.fetch() was called during the server render, but it shouldn
+RP Category
+Russian Federation
+s Democratic Republic
+s execution behavior in ways field arguments will not suffice, such as conditionally including or skipping a field. Directives provide this by describing additional information to the executor.
+s parent and the element
+s Republic of
+s Run
+s Run Warzones
+s Special Works
+s Special Works Race
+Saiba mais
+Saint Barthélemy
+Saint Helena
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+San Marino
+Sao Tome and Principe
+São Tomé e Príncipe
+Saudi Arabia
+Saut en parachute
+scalar type represents non-fractional signed whole numeric values. Int can represent values between -(2^31) and 2^31 - 1.
+Schau dir die teilnehmenden Twitch-Kanäle an, um die Belohnung im Spiel zu erhalten.
+Scheda personaggio:
+Scheda precedente
+Scheda successiva
+Schema does not define the required query root type.
+Schema is not configured for mutations.
+Schema is not configured for subscriptions.
+Schema is not configured to execute subscription operation.
+Schema must contain uniquely named types but contains multiple types named
+Schließe einzigartige Herausforderungen ab, um GTA$, besondere Gegenstände und mehr zu erhalten, inklusive RP-Boni für jede Stufe:
+scoped to a sectioning content element
+scoped to a sectioning root element other than body
+scoped to the body element
+scoped to the main element
+Scorri a destra
+Scorri a sinistra
+Scorri in basso
+screen and (max-width: 1024px)
+screen and (min-width: 1024px) and (max-width: 1920px)
+screen and (min-width: 1920px) and (max-width: 2560px)
+screen and (min-width: 2560px)
+screen and (pointer: coarse) and (hover: none)
+Script load timeout
+Scroll Down
+Scroll Left
+Scroll Right
+Se produjo un error al intentar marcar o desmarcar la actividad. Inténtalo de nuevo.
+Sea Race
+Section header for highlights component
+See all the challenges you
+Segoe Print
+Segoe Script
+Segoe UI
+Segoe UI Light
+Segoe UI Semibold
+Segoe UI Symbol
+Sei già iscritto
+Selecciona tu plataforma.
+Selecione sua plataforma de jogo.
+Select the height of the gradient. Smaller size means less of the selected gradient color(s).
+Select your gaming platform.
+Selected files:
+Seleziona la tua piattaforma di gioco.
+Sentry syntheticException
+Será preciso reiniciar Grand Theft Auto Online para não ver mais este serviço como um de seus Favoritos.
+Será preciso reiniciar Grand Theft Auto Online para ver este serviço como um de seus Favoritos. Serviços só podem ser avaliados no jogo, após terem sido jogados.
+Serviço adicionado aos Favoritos
+Serviço removido dos Favoritos
+Set how an element
+Set this date to hide this post from the newswire index some time in the future.
+Set this to true to if images being public is ok. Images will take a couple minutes to show up after saving.
+set to
+Set Up Your Twitch Drops
+Set Up Your Twitch Drops for Future Rewards
+Shape Layer 1
+Share Your Feedback
+Short title for the days label
+Short-hand for grid template rows/columns (overrides the above field)
+Should a GA tracking event be fired when this section enters the viewport? (Event data is set in GA Event Tracking section)
+Show brand icons in a row
+Show Related Posts
+Show related posts under this one?
+Show this article as a related article in other posts?
+Si è verificato un errore durante l’aggiunta ai/la rimozione dai preferiti dell’attività. Riprova più tardi
+Siamo spiacenti, le informazioni sui progressi della carriera nei vari pacchetti non sono al momento disponibili.
+Sidecar medium not found
+Sidecar: could not
+Sidecar: please provide
+Sierra Leone
+Sign In
+Sign In Required
+Sign in to Rockstar Games account to start setup
+Sign In to Track Your Progress
+Sign in to your Rockstar Games account to start setup
+Sign Up
+Sign up for our email newsletter to get info on game announcements and updates, details on special events and offers, and more from Rockstar Games and our affiliates.
+signed in
+signed out
+Siguiente imagen
+Siguiente juego
+Sim, fazer inscrição
+Simple pseudos are not valid in
+Sin especificar
+Sint Maarten
+Sint Maarten (Dutch part)
+Skew Angle
+Skew Axis
+Skip to Main Content
+Skipped when true.
+Skipping invalid key
+Skoki spadochronowe
+Slide successiva
+Small Fonts
+Smart Lenovo
+Social media
+Sogou Explorer
+Sogou Mobile
+Solo disponible en
+Solomon Islands
+Something has gone horribly awry.
+Something went wrong on our end. Please try again in a few minutes.
+Sorry, career progress pack cards are currently unavailable.
+South Africa
+South Georgia
+South Georgia and the South Sandwich Islands
+South Sudan
+Special Vehicle Race
+Spielkonto verknüpfen
+Spielkonto verknüpft
+Sprawdź swoją pocztę
+Spring duration must be 10 seconds or less
+Spróbuj ponownie
+Square Source
+Sri Lanka
+Stai già usando questo indirizzo email per ricevere la newsletter. Gestisci le tue preferenze di comunicazione in qualsiasi momento nelle impostazioni del tuo account.
+Star Color
+Start Color
+Start Point
+Start Position | String - Determines the starting position of the ScrollTrigger.
+Stats are already being measured
+Stats are not being measured
+Streams finden
+Street Race
+Stroke 1
+Stroke Width
+Strona główna
+Strona, której szukasz, nie istnieje lub wystąpił inny błąd.
+Stufe abgeschlossen
+Stunt Race
+Stwórz postać Grand Theft Auto Online i ukończ samouczek, aby otrzymywać dropy.
+Stwórz postać, aby otrzymać dropy
+Stwórz postać, aby otrzymywać nagrody w przyszłości
+Stworzone przez
+Stylesheet failed to load
+subscribe now
+Subscribe Now
+Subscribe to the Rockstar Games Email List
+Subskrybuj listę mailingową Rockstar Games
+Subskrybuj teraz
+Subskrypcja jest już aktywna
+Success Icon
+Successfully Subscribed
+Suivi de carrière
+Suivi de progression
+Suscríbete a la lista de correo de Rockstar Games
+Suscríbete a la lista de correos de Rockstar Games
+Suscríbete ya
+Suscribirse ahora
+Suscripción exitosa
+Svalbard and Jan Mayen
+Svalbard og Jan Mayen
+Symbol.iterator is not defined.
+Syrian Arab Republic
+systemjs-webpack-interop was provided an unknown SystemJS context. Expected context.meta.url, but none was provided
+Szczegóły wydarzenia
+t a valid DOM element.
+t exist in shared scope
+t exist or another error occurred
+t exist or another error occurred.
+t find a GTA Online character linked to your Rockstar Games account.
+t found in the available components. The _template
+t have an account?
+t have any fields added to this form.
+t miss the next free GTA Online gift
+table of contents
+Table Tennis
+Taiwan, Province of China
+Tak, subskrybuj
+Tanzania, United Republic of
+Target Assault Race
+Target ref is defined but not hydrated
+Tarjeta de personaje:
+Tarjeta del personaje:
+Tarjetas de contenido descargable
+Tarjetas de pack
+Team Deathmatch
+Team King of the Hill
+Tempo restante
+Tempo rimasto
+Temps restant
+Tentar novamente
+Teraz odtwarzane
+Territoire des Terres australes et antarctiques fr
+Text explaining how to claim a reward that is currently available
+Text for reward
+Text informing user that they have rewards available to claim
+Text when a tier is completed
+TextDecoder must be defined in the environment: please import a polyfill.
+The a11y intro for the charcter card.
+The a11y player name for the charcter card.
+The a11y rank for the charcter card.
+The alt tag for the player characters mugshot.
+The arity of each
+The directive
+The Discover Callout section description.
+The Discover Callout section heading.
+The element you
+the enum value
+The enum value
+The fundamental unit of any GraphQL Schema is the type. There are many kinds of types in GraphQL as represented by the
+The given element does not have a value setter
+The input selection has not been updated.
+The intl string context variable
+the list attribute is not set
+the multiple attribute is not set and the size attribute does not have a value greater than 1
+The name of the current Object type at runtime.
+The namespace can only contain numbers, letters, dashes, periods, underscores and slashes.
+The page you
+The property has no keyframe at index
+The provided element doesn
+The requested video does not exist.
+The selection attributes have not been initialized.
+The site will default to the global value, but use a local one on local sites if it exists here.
+The subscription field
+There are no available roles.
+There are no items
+There are no Twitch Drops available right now, but stay tuned for the next round. In the meantime, manage your inventory and claim your available rewards.
+There are no Twitch Drops available right now, but stay tuned. Create a Grand Theft Auto Online character and complete the in-game tutorial to receive Drops.
+There can be only one argument named
+There can be only one directive named
+There can be only one fragment named
+There can be only one input field named
+There can be only one type named
+There can be only one variable named
+There was an error when attempting to bookmark/unbookmark the job. Please try again
+This anonymous operation must be the only defined operation.
+This browser does not support
+this hasn
+This is the first slide
+This is the last slide
+This option does not affect
+This value must begin with
+Ti piace GTA Online? Dicci cosa ne pensi e aiutaci a plasmare il futuro del gioco.
+Tiempo restante
+Tieni traccia dei progressi
+Tier Complete
+Tier list labels on the Career Progress Hub
+Tiers Info tooltip
+Time Remaining
+Timed out in waitFor.
+Times New Roman
+Times New Roman PS
+Title for Bonuses list within each award
+Title for Challenges section on the Career Progress Hub
+Title for Rewards section on the Career Progress Hub
+Title for section on the Career Progress Hub
+Title for View All button for Rewards on the Career Progress Hub
+Title for View Less button for Rewards on the Career Progress Hub
+Title message to be displayed when no rewards are available
+to be an object.
+To claim the free in-game reward, watch participating Twitch channels.
+To confirm your subscription to the Rockstar Games Email List, please verify your email address via the link sent to the email address you’ve signed up with.
+to do
+to left
+to perform side-effects as a result of updates to
+to right
+to the returned
+to top
+Todo listo
+Toggle off to remove post from the site.
+Toggle on to move this post to the top of the newswire
+toggle play
+too different to mix. Ensure all colors are of the same type, and that each contains the same quantity of number and color values. Falling back to instant transition.
+Too many validation errors, error limit reached. Validation aborted.
+Tooltip der Stufeninformationen
+Top Text
+toPath() expects a string
+Tout est prêt.
+Tracing extension
+Track Progress
+Track Section Impression
+Transform Race
+Translations Approved
+Trebuchet MS
+Trim Paths 1
+Trinidad and Tobago
+Trouver des streams
+Trova streaming
+Try Again
+Tryb adwerszarza
+TTL caching without ttlAutopurge, max, or maxSize can result in unbounded memory consumption.
+ttl must be a positive integer if specified
+Tu cuenta de Rockstar Games no está vinculada a ningún personaje de GTA Online.
+Tudo pronto
+Turks and Caicos Islands
+Tutto pronto
+Twitch account linked
+Twitch Drops body text for inactive streams
+Twitch Drops header can claim body
+Twitch Drops header title
+Twitch Drops пока что нет – они появятся позже. А пока вы ожидаете, вы можете просмотреть свой инвентарь и забрать доступные награды.
+Twitch Drops пока что нет – они появятся позже. Чтобы получить Drops, создайте персонажа Grand Theft Auto Online и пройдите обучающие задания в игре.
+Twitch Dropsをセットアップして今後の報酬に備えましょう
+Twitch Dropsを設定する
+Twitch Logo
+Twitch 계정 연동됨
+Twitch 드롭스 설정
+Twitch 로고
+Twitch 연동하기
+Twitch 徽标
+Twitch 標誌
+Twitch-Konto verknüpft
+Twoja przeglądarka nie obsługuje odtwarzania wideo.
+type should provide a
+Überprüfe deine E-Mails
+Última Equipe Sobrevivente
+Unable to encode submission body
+Unable to find a label with the text of:
+Unable to find an element with the placeholder text of:
+Unable to fire a
+Unable to fire an event - please provide an event object.
+Unexpected description, descriptions are not supported on shorthand queries.
+Unexpected description, only GraphQL definitions support descriptions.
+Unexpected error value:
+Unexpected input type:
+Unexpected invariant triggered.
+Unexpected kind:
+Unexpected single quote character (
+Unexpected syntax
+Unexpected type:
+Unexpected variable
+Unhandled fetcher deferred data
+Unhandled fetcher revalidation redirect
+Uniquement disponible sur
+Unirse ahora
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+United States Virgin Islands
+Univers CE 55 Medium
+Unknown argument
+Unknown body type for responseIterator. Please pass a streamable response.
+Unknown browser
+Unknown directive
+Unknown fragment
+Unknown getter
+Unknown operation named
+Unknown OS
+Unknown Stack Trace
+Unknown type
+Unknown type:
+Unrecognised option
+Unsatisfied version
+Unterminated string.
+Upload global images
+Upload Global Images
+Upload images for use on newswire cards
+Upload local images
+Use production cdn?
+Use the
+Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu
+used in position expecting type
+useInvertedScale is deprecated and will be removed in 3.0. Use the layout prop instead.
+useTwitchDrops must be used within a TwitchDropsProvider
+Ustaw dropy na Twitchu
+Ustaw dropy na Twitchu, aby otrzymywać nagrody w przyszłości
+Vai ai contenuti principali
+Vantaggi per i membri
+Variables must be provided as an Object where each property is a variable value. Perhaps look to see if an unparsed JSON string was provided.
+ve completed in your GTA Online Career. You can also discover new ones and earn valuable rewards as you rise through the criminal ranks.
+ve won, and the possibilities still ahead of you.
+Vedi tutte le sfide che hai completato nella tua carriera di GTA Online. Puoi anche scoprirne di nuove e ottenere delle ricompense preziose mentre sali di rango nella tua carriera criminale.
+Vehicle Deathmatch
+Venezuela, Bolivarian Republic of
+Ventajas para miembros
+Ver el inventario de Drops
+Ver inventario de Drops
+Ver inventário de Drops
+Ver menos
+Ver Progresso
+Ver todas
+Ver tu progreso
+Ver tudo
+Verbleibende Zeit
+Verifica tu dirección de correo electrónico
+Verifica tu dirección de correo electrónico mediante el enlace que enviamos al correo con el que te registraste para confirmar la suscripción a la lista de correos de Rockstar Games.
+Verificada por
+Verificado por
+Verificato da
+Verified by
+Verifique seu e-mail
+Verifiziert von
+Verknüpfe deine Spielkonten und sieh dir teilnehmende Twitch-Kanäle an, um exklusive Geschenke und Belohnungen in Grand Theft Auto Online zu erhalten.
+Verknüpfte Konten
+Verknüpfte Konten verwalten
+Verpass nicht dein nächstes Gratisgeschenk in GTA Online.
+Veuillez confirmer que vous souhaitez vous abonner à la newsletter de Rockstar Games en cliquant sur le bouton ci-dessous.
+Video angehalten
+Vidéo arrêtée
+Video Click-through
+Video detenido
+Vidéo en cours de lecture
+Video en pausa
+Video Hero description when video unavailable or not supported
+Video in pausa
+Video in riproduzione
+Vidéo mise en pause
+Video Paused
+Video pausiert
+Video Playing
+Video Stopped
+Video wird wiedergegeben
+Viet Nam
+Việt Nam
+View All
+View Drops Inventory
+View Less
+View More
+Vincula tu cuenta de juego
+Vincula tus cuentas de juego para recibir regalos y recompensas especiales en Grand Theft Auto Online por ver canales de Twitch participantes.
+Vincula tus cuentas y mira canales de Twitch participantes para recibir regalos y recompensas especiales en Grand Theft Auto Online.
+Vincula una cuenta con un personaje de GTA Online
+Vincula una cuenta de personaje válida
+Vincula una cuenta del juego
+Vincular conta de jogo
+Vincular conta do jogo
+Vincular cuenta de juego
+Vincular cuenta de personaje válida
+Vincular cuenta de Twitch
+Vincular otra cuenta
+Vincular outra conta
+Vincular Twitch
+Vincular un personaje de GTA Online
+Vincular una cuenta de juego
+Vincular una cuenta del juego
+Vinculaste una cuenta de Twitch
+Vincule um personagem do GTA Online
+Vincule uma conta de personagem válida
+Virgin Islands, British
+Virgin Islands, U.S.
+Visible tooltip for the lightbox close button
+Visible tooltip for the lightbox download button (downloads the image)
+Visible tooltip for the lightbox reset button (resets zoom and position)
+Visible tooltip for the lightbox zoom in button
+Visible tooltip for the lightbox zoom out button
+Visible tooltip for the lightbox zoom slider
+Visionner maintenant
+Visualizza inventario Drop
+Visualizza tutto
+Você escolheu não receber e-mails de marketing quando criou a sua conta. Deseja se inscrever na nosso newsletter?
+Você escolheu não receber e-mails de marketing quando criou a sua conta. Deseja se inscrever no nosso newsletter?
+Você já está recebendo atualizações da newsletter neste endereço de e-mail. Gerencie suas preferências de comunicação a qualquer momento nas configurações da sua conta.
+Você já se inscreveu
+Volver a intentar
+Volver a ver
+Vorherige Seite von Events
+Vorherige Videoseite
+Vorheriges Bild
+Vorheriges Element
+Vorheriges Event
+Vorheriges Spiel
+Vote down
+Vote up
+Votre navigateur ne prend pas en charge la reproduction de vidéo.
+Vous devez vous connecter pour interagir avec ce contenu.
+Vous devrez redémarrer Grand Theft Auto Online pour ne plus voir cette mission dans vos favoris.
+Vous êtes déjà abonné(e)
+Vous êtes déjà abonné(e) à la newsletter avec cette adresse e-mail. Gérez vos préférences concernant les communications à tout moment sur la page des paramètres de votre compte.
+Vuelve a intentarlo
+Wähle deine Spielplattform.
+Walka o przetrwanie
+Wallis and Futuna
+Wallis et Futuna
+Warning, must use inside a WebOfferClaim.Root provider
+was not provided to the string
+was provided the variable
+was replaced with
+watch now
+Watch Now
+We cannot sign up this email address to our newsletter at this time.
+We cannot sign up your email address to our newsletter at this time. Change your email preferences on your account settings page or try again later.
+Weitere Konten verknüpfen
+Weniger anzeigen
+Western Sahara
+when you meant to use a
+when you meant to use a query, e.g.
+which cannot be used as an input type.
+which was not provided a runtime value.
+Wideo wstrzymane
+Wideo zatrzymane
+Wie gefällt dir GTA Online? Teile uns deine Eindrücke und Ideen mit und hilf uns dabei, die Zukunft des Spiels zu gestalten.
+Windows Phone
+Wingdings 2
+Wingdings 3
+Wir können deine E-Mail-Adresse derzeit nicht bei unserem Newsletter anmelden. Ändere deine Präferenzen bezüglich E-Mails in den Einstellungen deines Kontos oder versuche es später erneut.
+Wir können diese E-Mail-Adresse derzeit nicht bei unserem Newsletter anmelden.
+Wszystko gotowe
+Wybierz platformę
+Wykonuj wyjątkowe wyzwania, aby zdobyć GTA$, dodatkowe nagrody i więcej, w tym premie RP za każdy poziom wyzwań:
+Wymagane zalogowanie się
+Wyścigi Hao’s Special Works
+Wystąpił błąd podczas dodawania/usuwania tej akcji z sekcji ulubionych. Spróbuj ponownie.
+Xbox 360
+Xbox One
+Xbox Series X|S
+Xperia Tablet
+y a pas de drop Twitch disponible actuellement, mais gardez un œil sur les prochains. En attendant, gérez votre inventaire et récupérez vos récompenses disponibles.
+Ya recibes actualizaciones del boletín de noticias en este correo electrónico. Cambia tus preferencias de comunicación en cualquier momento en los ajustes de tu cuenta.
+Ya recibes actualizaciones del boletín en esta dirección de correo electrónico. Gestiona las preferencias de comunicación cuando quieras desde los ajustes de la cuenta.
+Yes, Subscribe
+You are already receiving newsletter updates at this email address. Manage your communication preferences at any time in your account settings.
+You cannot
+You cannot call the handler for a route which defines a boolean
+You defined
+You did not opt-in to receive marketing emails during account creation. Would you still like to subscribe to our newsletter?
+You must provide a non-empty routes array to createRouter
+You must specify a widget type.
+You must specify the OneTrust script ID
+You need to sign in first to interact with this content
+You will need to restart Grand Theft Auto Online to no longer see this job in your bookmarks.
+You will need to restart Grand Theft Auto Online to see this bookmarked job - jobs can only be rated in-game, after they have been played.
+Your browser does not support video reproduction.
+Your focus-trap must have at least one container with at least one tabbable node in it at all times
+Your focus-trap needs to have at least one focusable element
+Zaloguj się
+Zaloguj się na konto Rockstar Games, aby rozpocząć przygotowanie
+Zaloguj się, aby śledzić postępy
+Zaloguj się, aby zapoznać się z zawartością.
+Zaloguj się, aby zobaczyć wszystkie nagrody, które możesz zdobyć, zdobyte nagrody i możliwości, które wciąż stoją przed tobą otworem.
+Zamknij menu nawigacji
+Zapisz się, aby otrzymywać powiadomienia o nowościach dotyczących gier i aktualizacji, a także informacje na temat specjalnych wydarzeń i ofert oraz więcej od Rockstar Games i naszych oddziałów.
+Zarejestruj się
+Zarządzaj powiązanymi kontami
+Znajdź transmisje
+Zobacz wszystkie
+Zobacz wszystkie swoje ukończone wyzwania w ramach kariery GTA Online. Odkrywaj nowe wyzwania i zdobywaj wartościowe nagrody, wspinając się po szczeblach swojej przestępczej kariery.
+Zoom in
+Zoom level
+Zoom out
+Zufällige Mission
+Zum Hauptinhalt springen
+Zweryfikowane przez
+Войдите в свою учетную запись Rockstar Games, чтобы начать настройку
+Войдите в учетную запись Rockstar Games, чтобы начать настройку
+Гонка Hao’s Special Works
+Как вам GTA Online? Поделитесь вашими мыслями и предложениями – это поможет нам определить будущее игры.
+Логотип Twitch
+Мы не смогли найти персонажа GTA Online, связанного с вашей учетной записью Rockstar Games.
+Настройте Twitch Drops
+Настройте Twitch Drops, чтобы получать будущие награды
+Не пропустите следующий подарок в GTA Online
+Перезапустите Grand Theft Auto Online, чтобы увидеть добавленное в закладки дело. Оценивать дела можно только в игре после прохождения.
+Перезапустите Grand Theft Auto Online, чтобы удалить это дело из закладок.
+Подпишитесь на рассылку электронных писем Rockstar Games
+Пожалуйста, подтвердите, что вы хотите подписаться на рассылку электронных писем Rockstar Games, нажав на кнопку ниже.
+Привяжите свою учетную запись и смотрите трансляции на каналах Twitch, участвующих в кампании, чтобы разблокировать особые награды и бонусы в Grand Theft Auto Online.
+Привязать учетную запись Twitch
+Привязка персонажа GTA Online
+Просмотр инвентаря Drops
+Создайте персонажа, чтобы получить Drops
+Учетная запись Twitch не привязана
+Учетная запись Twitch привязана
+Чтобы получить Drops, создайте персонажа Grand Theft Auto Online и пройдите обучающие задания в игре.
+Чтобы получить внутриигровую награду, смотрите трансляции на каналах Twitch, участвующих в кампании.
+다양한 Grand Theft Auto 온라인 업데이트에 대해 알아보십시오. PlayStation 5, Xbox Series X|S, 그리고 PC용 GTAV 업그레이드 버전에서만 이용할 수 있는 특별 도전과 보상이 여러분을 기다리고 있습니다.
+드롭스를 수령하려면 Grand Theft Auto 온라인 캐릭터를 생성하고 게임 내 튜토리얼을 완료하십시오.
+설정을 시작하려면 Rockstar Games 계정에 로그인하십시오.
+아래 버튼을 클릭하여 Rockstar Games 뉴스레터 구독 여부를 확인하십시오.
+연동된 Twitch 계정 없음
+이메일 뉴스레터를 구독하면 Rockstar Games 및 관련 제휴사로부터 게임 공지 사항, 업데이트, 특별 이벤트 및 혜택에 관한 세부 정보 등 다양한 정보를 받아보실 수 있습니다.
+즐겨찾기에 등록한 작업을 보려면 Grand Theft Auto 온라인을 다시 시작해야 합니다 - 작업은 플레이한 후에만 게임 내에서 평가할 수 있습니다.
+즐겨찾기에서 이 작업을 표시하지 않으려면 Grand Theft Auto 온라인을 다시 시작해야 합니다.
+지금은 진행 중인 Twitch 드롭스 스트리밍이 없습니다. 다음 스트리밍을 기대해 주십시오. 그동안 인벤토리를 관리하고 수령 가능한 보상을 획득해 보십시오.
+지금은 진행 중인 Twitch 드롭스 스트리밍이 없습니다. 다음을 기대해 주십시오. 드롭스를 수령하려면 Grand Theft Auto 온라인 캐릭터를 생성하고 게임 내 튜토리얼을 완료하십시오.
+해당되는 Twitch 채널을 시청하고 무료 게임 내 보상을 수령하십시오.
+향후 보상을 위해 Twitch 드롭스 설정하기
+了解一大批 Grand Theft Auto 在线模式更新，并发掘 PS5、Xbox Series X|S 和 PC 上的升级版 GTA 5 专属的特殊挑战和奖励。
+了解更多關於 Grand Theft Auto 線上模式的眾多更新內容，探索僅限於 PlayStation 5、Xbox Series X|S 以及在 PC 上 GTA 5 升級版本的特殊挑戰及獎勵。
+创建一个 Grand Theft Auto 在线模式角色，完成游戏内教程后即可收到 drops。
+创建一个 Grand Theft Auto 在线模式角色，完成游戏内教程后即可收到 Drops。
+创建您的角色来领取 Drops
+創建一個 Grand Theft Auto 線上模式角色並完成遊戲內的教學，以獲得掉寶。
+已绑定 Twitch 账户
+已連結 Twitch 帳戶
+您现已订阅Rockstar Games邮件通知，您将会在您订阅时使用的电子邮件地址中收到定期更新。您可以在账户设置中随时管理您的通信偏好。
+您現在已訂閱 Rockstar Games 電子郵件通知，將會在訂閱的電子郵件地址收到定期更新。您可以在帳戶設定隨時管理您的聯絡偏好設定。
+您需要重新启动Grand Theft Auto在线模式来查看这项已收藏的差事。只有在游玩了差事后才能在游戏内对它们进行评价。
+我们无法找到与您的Rockstar Games账户绑定的GTA在线模式角色。
+我們無法找到與您的 Rockstar Games 帳戶連結的 GTA 線上模式角色。
+查看 Drops 库存
+没有已绑定的 Twitch 账户
+為了確認您的 Rockstar Games 電子郵件通知訂閱，請以寄送到您訂閱電子郵件地址的連結，驗證您的電子郵件地址。
+無已連結的 Twitch 帳戶
+现在没有可用的 Twitch Drops，请关注下一轮。与此同时，您可以管理您的库存，并领取可用的奖励。
+現在、利用可能なTwitch Dropsがありません。Dropsを受け取るには、「GTAオンライン」のキャラクターを作成して、ゲームのチュートリアルをクリアしてください。
+現在、利用可能なTwitch Dropsがありません。次回をお楽しみに。お待ちの間に、インベントリを確認して利用可能な報酬を受け取りましょう。
+登入您的 Rockstar Games 帳戶以開始設置
+登录 Rockstar Games 账户以开始设置
+登录您的 Rockstar Games 账户以开始设置
+目前並沒有 Twitch 掉寶，敬請期待。創建一個 Grand Theft Auto 線上模式角色並完成遊戲內的教學，以獲得掉寶。
+目前並沒有 Twitch 掉寶，敬請期待下一次機會。在此期間，您可以管理您的庫存並領取您可用的獎勵。
+目前没有可用的 Twitch Drops，敬请期待。创建一个 Grand Theft Auto 在线模式角色，完成游戏内教程后即可收到 Drops。
+绑定 Twitch
+若想在 Grand Theft Auto 在线模式中获得特殊礼物和奖励，请绑定您的游戏账户并观看参与的 Twitch 频道。
+要确认您已订阅Rockstar Games电子邮件列表，请通过发送到您订阅时使用的电子邮件地址中的链接验证邮箱。
+要确认您已订阅Rockstar Games邮件通知，请通过发送到您订阅时使用的电子邮件地址中的链接验证您的电子邮件地址。
+观看参与的 Twitch 频道，领取免费的游戏内奖励。
+觀看參與的 Twitch 頻道，以領取遊戲內獎勵。
+訂閱 Rockstar Games 電子郵件通知
+訂閱我們的電子報，以獲得遊戲公告與更新、特殊活動與優惠的詳情，以及更多來自 Rockstar Games 與相關單位的各式資訊。
+订阅Rockstar Games邮件通知
+订阅我们的电子邮件新闻通讯，以获得来自Rockstar Games以及我们附属公司的游戏公告和更新、特别活动与优惠的信息，及更多内容。
+設置您的 Twitch 掉寶
+設置您的 Twitch 掉寶，方便取得未來的獎勵
+设置您的 Twitch Drops
+设置您的 Twitch Drops，在未来获得奖励
+請點擊以下按鈕，以確認您想訂閱 Rockstar Games 電子報。
+请点击下方按钮以确认您想订阅Rockstar Games新闻通讯。
+連結 Twitch
+連結您的遊戲帳戶並觀看參與的 Twitch 頻道，以獲得 Grand Theft Auto 線上模式中的特殊禮物和獎勵。
+需要您重新启动Grand Theft Auto在线模式后，这项差事才会从您的收藏中消失。
