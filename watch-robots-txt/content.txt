@@ -1,0 +1,9 @@
+Disallow: /
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: ClaudeBot
+User-agent: GPTBot
+User-agent: Meta-ExternalAgent
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: ia_archiver
