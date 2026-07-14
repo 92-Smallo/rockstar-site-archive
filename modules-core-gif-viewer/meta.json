@@ -1,7 +1,7 @@
 {
   "package": "modules-core-gif-viewer",
-  "version": "16.3.0",
-  "hash": "70f3514a2eb72d258dfb6ceb876eda9392f6a056e9e99ba55d1d890d730b4dd2",
-  "gitHead": "ed43b2f257dbe26369c90120659330272bc05587",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-gif-viewer/16.3.0/70f3514a2eb72d258dfb6ceb876eda9392f6a056e9e99ba55d1d890d730b4dd2/remote-entry.js"
+  "version": "16.3.1",
+  "hash": "ad785bf13befdcd91e226f6201381aa9d50e8dafa667fb4d6f3735ac82d84436",
+  "gitHead": "40437a4c0af972a54a5ac4bac08af105a60ed568",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-gif-viewer/16.3.1/ad785bf13befdcd91e226f6201381aa9d50e8dafa667fb4d6f3735ac82d84436/remote-entry.js"
 }

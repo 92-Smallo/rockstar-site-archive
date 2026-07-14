@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"ed43b2f257dbe26369c90120659330272bc05587",
+    release:"40437a4c0af972a54a5ac4bac08af105a60ed568",
     packageName:"@rockstargames/sites-gta-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"ed43b2f257dbe26369c90120659330272bc05587"
+  id:"40437a4c0af972a54a5ac4bac08af105a60ed568"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -217,14 +217,14 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          57:"c9551d14c63fd036a136b0093f5322a3",
-          162:"0a92958deb7504f963095c891da7f319",
-          228:"bf54d4a47badffefbc56b7285030c5e5",
-          319:"b5ba50299b77f7208824b8adaf298708",
-          320:"cb2bc75388ff6ee99580a1b125349e5d",
-          581:"32830d270223e5724cd14b8a9cbe4c48",
-          860:"8bcab10a74d9b9e66eb8a41e9396861a",
-          995:"210c7758d32b9b8869333ef726adc780"
+          57:"3f405947c0f1b6e451a5e52845d04ab9",
+          162:"0b1b22733683d42fd7b9944fcbf7a564",
+          228:"8ca86e581c54f8745014edfac2e4fdf8",
+          319:"82840e28ce7f49e91e82c135413f1f26",
+          320:"714f31da02f4b2a1ac71d5bebe3e578d",
+          581:"ca7b2e6c216f82d6759625744e161f15",
+          860:"0e05e8fbdc00ab55805edb9f31ce7c59",
+          995:"09d5dd8fb143475919d8805766b81073"
         }[e]+".js",
         o.miniCssF=e=>"css/3131b747dcc23c6bbe32886966efd955.css",
         o.g=function(){

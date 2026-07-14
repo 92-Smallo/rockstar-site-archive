@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"ed43b2f257dbe26369c90120659330272bc05587",
+    release:"40437a4c0af972a54a5ac4bac08af105a60ed568",
     packageName:"@rockstargames/sites-rockstar-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"ed43b2f257dbe26369c90120659330272bc05587"
+  id:"40437a4c0af972a54a5ac4bac08af105a60ed568"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -217,14 +217,14 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          57:"0bb12fa1e8bde88bdbfcc1b96a444f9c",
-          162:"6876cefd8c4e015e0f05b7f71f1f8ed8",
-          319:"f79e43473cfea05ff4b56b0fc5eaebdd",
-          320:"679d1ebef21b77412657498cfdd70aef",
-          373:"abecb2d44d06e165f9d45bdf2fbdeb2e",
-          581:"fb7cd02ca1d5c70e2bc5cb4bf5aeffce",
-          860:"1176924f99449aee83b082ad23528546",
-          995:"af90c1cf13e75c7a5fce0e51276d10f4"
+          57:"64c284c5eee1923f5405a9bab1bf2740",
+          162:"21cd1fb5be5b4ca117936900ecdb9696",
+          319:"95f11c2e90b1620f726747bc355ad8b2",
+          320:"11eb7180f0d82a7a33be19e75f80295c",
+          373:"ef4a0ffba877db1d22afb84e77326873",
+          581:"af839ccfbf483c956da2a3bdf37eb3da",
+          860:"dd0373ec0e18004bc222ebad60f1a96b",
+          995:"8eabdc97a3b80c9d5229d264b7ffbe60"
         }[e]+".js",
         o.miniCssF=e=>"css/d3aed2f918e98d6df62a73adec6169ce.css",
         o.g=function(){
@@ -272,14 +272,14 @@ t){
             const f=(t,
             n)=>{
               i.onerror=i.onload=null,
-              clearTimeout(d);
+              clearTimeout(u);
               const o=e[r];
               if(delete e[r],
               i.parentNode?.removeChild(i),
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            d=setTimeout(f.bind(null,
+            u=setTimeout(f.bind(null,
             void 0,
             {
               type:"timeout",
@@ -536,32 +536,32 @@ t){
               s++){
                 var l,
                 f,
-                d=i<t.length?(typeof t[i])[0]:"";
-                if(s>=n.length||"o"==(f=(typeof(l=n[s]))[0]))return!c||("u"==d?i>o&&!a:""==d!=a);
+                u=i<t.length?(typeof t[i])[0]:"";
+                if(s>=n.length||"o"==(f=(typeof(l=n[s]))[0]))return!c||("u"==u?i>o&&!a:""==u!=a);
                 if("u"==f){
-                  if(!c||"u"!=d)return!1
-                }else if(c)if(d==f)if(i<=o){
+                  if(!c||"u"!=u)return!1
+                }else if(c)if(u==f)if(i<=o){
                   if(l!=t[i])return!1
                 }else{
                   if(a?l>t[i]:l<t[i])return!1;
                   l!=t[i]&&(c=!1)
-                }else if("s"!=d&&"n"!=d){
+                }else if("s"!=u&&"n"!=u){
                   if(a||i<=o)return!1;
                   c=!1,
                   i--
                 }else{
-                  if(i<=o||f<d!=a)return!1;
+                  if(i<=o||f<u!=a)return!1;
                   c=!1
-                }else"s"!=d&&"n"!=d&&(c=!1,
+                }else"s"!=u&&"n"!=u&&(c=!1,
                 i--)
               }
-            }var u=[],
-            p=u.pop.bind(u);
+            }var d=[],
+            p=d.pop.bind(d);
             for(s=1;
             s<t.length;
             s++){
               var h=t[s];
-              u.push(1==h?p()|p():2==h?p()&p():h?r(h,
+              d.push(1==h?p()|p():2==h?p()&p():h?r(h,
               n):!p())
             }return!!p()
           };
@@ -632,21 +632,21 @@ t){
             i))return a(e,
             i,
             f);
-            const d=n(s,
+            const u=n(s,
             i,
             c);
             return r(l,
-            d)||(p=((e,
+            u)||(p=((e,
             r,
             n,
             o)=>"Unsatisfied version "+n+" from "+(n&&e[r][n].from)+" of shared singleton module "+r+" (required "+t(o)+")")(s,
             i,
-            d,
+            u,
             l),
             "undefined"!=typeof console&&console.warn&&console.warn(p)),
-            (u=s[i][d]).loaded=1,
-            u.get();
-            var u,
+            (d=s[i][u]).loaded=1,
+            d.get();
+            var d,
             p
           }),
           i={
