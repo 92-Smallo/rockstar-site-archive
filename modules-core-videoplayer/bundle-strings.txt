@@ -1,0 +1,889 @@
+, rendering default message verbatim'),u,r,e)),
+, using ').concat(t.defaultMessage?
+, using ').concat(v?
+, you should instead write 'globalStyle(
+,bearer_token_expired:!0,isAMinor:void 0,isNewAccount:!1,nickname:
+,description:'Label to for the option where subtitles/captions are
+,s='No route matches URL
+,this.renderConfig.id),void 0!==this.renderConfig.focusable&&this.svgElement.setAttribute(
+,this.status=void 0===t.status?200:t.status,this.status<200||this.status>599)throw new RangeError(
+,type:new gt(bn),description:
+:if(o.options.length>1)throw new RangeError(
+:if(r<4)throw new RangeError(
+:throw new RangeError(
+!==a||void 0===navigator.plugins&&
+!==d.kind)throw new Error(
+!==e[e.length-1].type)throw new Error(
+!==f.type)throw new Error(
+!==g)throw new Error(
+!==t.type)throw new Error(
+!==t[1].type)throw new Error(
+!==t[t.length-1].type)throw new Error(
+!=typeof CSS&&CSS.supports&&CSS.supports(
+!=typeof e?null:
+!=typeof e)throw new r(
+!=typeof e)throw new TypeError(e+
+!=typeof n?(t.minimumSignificantDigits=r.length,t.maximumSignificantDigits=r.length):
+!=typeof n?Promise.reject(new Error('You cannot call the handler for a route which defines a boolean
+!=typeof n)throw new TypeError(
+!=typeof r)throw new TypeError(r+
+!=typeof t)throw new TypeError(
+!=typeof t||!t.includes(
+!=typeof WeakMap?WeakMap:Map,s=
+!=typeof window&&void 0!==window.CSS&&
+!=typeof window&&window.document&&(Ar=window,Cr=Ar.document,Dr=Cr.documentElement,Pr=ki(
+.gsap-marker-start, .gsap-marker-end, .gsap-marker-scroller-start, .gsap-marker-scroller-end
+" as fallback. See https://formatjs.github.io/docs/react-intl/api#intlshape for more details
+" as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details
+" because the `*` character must always follow a `/` in the pattern. To get rid of this warning, please change the route path to "
+" but did not provide a `loader` for route "
+" but did not provide an `action` for route "
+" but didn't return anything from your `
+" could not be decoded because it is is a malformed URL segment. This is probably due to a bad percent encoding (
+" defined but its lazy function is also returning a value for this property. The lazy route property "
+" does not exist in container.
+" does not match URL "
+" has a static property "
+" in Intl.DateTimeFormat. Using default locale: "
+" in Intl.NumberFormat. Using default locale: "
+" is not valid. An absolute child route path must start with the combined path of all its parent routes.
+" resolved/rejected with `undefined`, you must resolve/reject with a value or `null`.
+" will be ignored.
+" will be treated as if it were "
+", rendering message verbatim
+", so there is no way to handle the request.
+". Should be a string, number, null or object. Received: "
+"locale" was not configured, using "
+(Abre em uma nova janela)
+(Apri in una nuova finestra)
+(hover: none), (pointer: coarse)
+(includeDeprecated: true)
+(min-aspect-ratio: 2.5)
+(Öffnet ein neues Fenster)
+(Opens in a new window)
+(orientation: landscape)
+(orientation: portrait)
+(Otwórz w nowym oknie)
+(S'ouvre dans une nouvelle fenêtre)
+(Se abre en una ventana nueva)
+(see https://github.com/apollographql/invariant-packages)
+) in the URL path
+) is greater than the number of directories (
+) to 'parent', you should add
+),'Route path
+),new URLSearchParams(
+),switch:new ae(
+),xboxone:new ae(
+),xboxsx:new ae(
+). If you meant to render a collection of children, use an array instead.
+).concat(null==n?void 0:n.defaultMessage,
+).concat(null==n?void 0:n.description,
+).toUpperCase():void 0,games_played:n.length?n.join(
+).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:t?
+).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:p,section_layout:t?
+).toUpperCase():void 0,gta_plus_platforms:s.length?s.map(e=>i[e]??e).join(
+).toUpperCase():void 0,gtao_platforms_played:r.length?r.map(e=>i[e]??e).join(
+)),D=new RegExp(
+))||void 0===n?void 0:n.toLowerCase())||g.alreadySilent.add(t),t.setAttribute(
+))return new h(`Name
+))return this.error(
+))throw new Error(
+)&&(f(i.relativePath.startsWith(n),'Absolute route path
+)&&e.reportError(new h(null!=r?`Subscription
+[@formatjs/intl Error
+[contenteditable]:not([contenteditable="false"]):not([inert]):not([inert] *)
+[object Arguments]
+[object Array]
+[object ArrayBuffer]
+[object AsyncFunction]
+[object AsyncGeneratorFunction]
+[object Boolean]
+[object DataView]
+[object Date]
+[object Error]
+[object Float32Array]
+[object Float64Array]
+[object Function]
+[object GeneratorFunction]
+[object Int16Array]
+[object Int32Array]
+[object Int8Array]
+[object Map]
+[object Null]
+[object Number]
+[object Object]
+[object Promise]
+[object Proxy]
+[object RegExp]
+[object Set]
+[object String]
+[object Symbol]
+[object Uint16Array]
+[object Uint32Array]
+[object Uint8Array]
+[object Uint8ClampedArray]
+[object Undefined]
+[object WeakMap]
+[object WeakSet]
+[React Intl] Could not find required `intl` object. <IntlProvider> needs to exist in the component ancestry.
+[tabindex]:not(slot):not([inert]):not([inert] *)
+[title="ALIENBOLA" i]
+], link[f-origin=
+], script[f-origin=
+], style[f-origin=
+]. Please separate it out to the `to.
+@@toPrimitive must return a primitive value.
+/graphql
+/npm-monitoring
+` field. Alternatively you may provide the full path as a string in <Link to="..."> and the router will parse it for you.
+` function. Please return a value or `null`.
++(new Date).getTime()):this.url+=(/\?/.test(this.url)?
++a.toUpperCase()+' request to
++t.statusText,this.headers=new p(t.headers),this.url=t.url||
+<Await> caught the following error during render
+<iframe src="https://www.googletagmanager.com/ns.html?id=
+===f.value&&!r)throw new Error(
+===r)return void e.removeAttribute(
+===this.method)&&o)throw new TypeError(
+==typeof c.bearerToken&&u.searchParams.append(
+==typeof clearTimeout?clearTimeout:void 0,al=
+==typeof document)throw new Error(
+==typeof e?e:e.pathname,search:
+==typeof e.closest?e.closest(
+==typeof e.internal&&
+==typeof e.status&&
+==typeof e.statusText&&
+==typeof e&&!1!==i.config().nullTargetWarn?console.warn(
+==typeof FormData,
+==typeof n.children||
+==typeof n&&!(s=null===(i=this.getDocument())||void 0===i?void 0:i.querySelector(n)))throw new Error(
+==typeof performance.now?performance:Date,It=new Set,Lt=
+==typeof performance&&performance&&
+==typeof Promise?Promise:void 0,ol=
+==typeof ResizeObserver&&ResizeObserver.toString().includes(
+==typeof setTimeout?setTimeout:void 0,ll=
+==typeof Symbol&&
+==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?
+==typeof t.get&&
+==typeof t.message&&
+==typeof value?void 0===e?value.substr(t):value.substr(t,e):
+==typeof x?.className&&delete x.className,(0,r.jsxs)(
+A Directive can be adjacent to many parts of the GraphQL language, a __DirectiveLocation describes one such possible adjacencies.
+A focus-trap cannot use a Fragment as its child container. Try replacing it with a <div> element.
+A GraphQL-formatted string representing the default value for this input value.
+A message must be provided as a String or AST.
+A página que você procura não existe ou ocorreu um erro.
+a Scalar type
+a Union type
+Abonnement effectué
+Abonnez-vous à la newsletter pour recevoir par e-mail des infos relatives à nos jeux et aux mises à jour, aux évènements spéciaux et aux offres, et plus de la part de Rockstar Games et nos affiliés.
+Abrir la pantalla completa
+Aby potwierdzić swoją subskrypcję listy mailingowej Rockstar Games, zweryfikuj swój adres e-mail poprzez link wysłany do twojej skrzynki odbiorczej.
+Accessibility label for <div> that shows progress and allows user to scrub through video.
+Accessibility label for back button on Downloads menu.
+Accessibility label for back button on Quality menu.
+Accessibility label for video progress time
+act(...) is not supported in production builds of React.
+Activar sonido
+Activer le son
+ADBE Color Control
+ADBE Effect Parade
+ADBE Root Vectors Group
+ADBE Text Document
+ADBE Text Properties
+ADBE Transform Group
+ADBE Vector Filter - Trim
+ADBE Vector Graphic - Fill
+ADBE Vector Graphic - Stroke
+ADBE Vector Group
+ADBE Vector Rotation
+ADBE Vector Shape - Ellipse
+ADBE Vector Shape - Group
+ADBE Vector Star Inner Radius
+ADBE Vector Star Outer Radius
+Additional Settings
+AirPlay n'est pas pris en charge par ce navigateur.
+AirPlay not supported in this browser.
+AirPlay wird von diesem Browser nicht unterstützt.
+Ajustes adicionales
+Aktualizuj swoje preferencje
+Algo deu errado com o reprodutor de vídeo.
+Already read
+already recomputing
+Already Subscribed
+Altre informazioni
+always active
+an Enum type
+An error occurred! For more details, see the full error text at https://go.apollo.dev/c/err#
+an Input type
+an Interface type
+an Object type
+Anchor Point
+Andale Mono
+App Store
+Arabic Typesetting
+are the dependencies of other relied on modules, use
+area[href]:not([inert]):not([inert] *)
+Arguments provided to Fields or Directives and the input fields of an InputObject are represented as Input Values which describe their type and optionally a default value.
+Aria label to indicate when a link opens in new window/tab
+Arial Black
+Arial Hebrew
+Arial Narrow
+Arial Rounded MT Bold
+Arial Unicode MS
+ARNO PRO
+assertion failure
+Assistir agora
+At least one node with a positive tabindex was found in one of your focus-trap's multiple containers. Positive tabindexes are only supported in single-container focus-traps.
+At least one of max, maxSize, or ttl is required
+Ativar som
+Attribute selector didn't terminate
+audio[controls]:not([inert]):not([inert] *)
+Bad Request
+Barra de progreso
+Barra de progresso
+Barra progresso
+Barre de progression
+Beginne geteiltes Video bei
+Beim Videoplayer ist etwas schiefgelaufen.
+Bereits abonniert
+Bestätige dein Abo
+Bezier x values must be in [0, 1] range
+Bildschirm teilen
+Bitstream Vera Sans Mono
+Bitte drücke auf den Knopf unten, um zu bestätigen, dass du den Newsletter von Rockstar Games abonnieren möchtest.
+Bitte verifiziere deine E-Mail-Adresse über den Link, der an die E-Mail-Adresse geschickt wurde, mit der du dich angemeldet hast, um dein Abo für die E-Mail-Liste von Rockstar Games zu bestätigen.
+Book Antiqua
+Bookman Old Style
+but must be non-nullable to be used for OneOf Input Object
+button:not([inert]):not([inert] *)
+Cambria Math
+can never be of type
+Can only have query, mutation and subscription operations.
+Can only unwrap data on initialized and settled deferreds
+Can't find condition for
+Can't find field '
+cannot be spread here as objects of type
+Cannot complete value of unexpected output type:
+cannot condition on non composite type
+Cannot convert undefined or null to object
+Cannot define a new schema within a schema extension.
+Cannot handle redirect results in processLoaderData
+Cannot reduce an empty sequence
+cannot set size without setting maxSize or maxEntrySize on cache
+cannot set sizeCalculation without setting maxSize or maxEntrySize
+Cartão de Personagem:
+Carte de personnage :
+Catégorie : RP
+Century Gothic
+Century Schoolbook
+change click focusin focusout input keydown keyup selectionchange
+Character Card:
+Check Your Email
+children dangerouslySetInnerHTML defaultValue defaultChecked innerHTML suppressContentEditableWarning suppressHydrationWarning style
+Class extends value
+clearTimeout has not been defined
+Clicca in un punto qualsiasi per attivare l'audio.
+Click anywhere to unmute.
+Clique em qualquer lugar para ativar o som.
+Cliquez n'importe où pour activer le son.
+Code kopieren
+column in locationOffset is 1-indexed and must be positive.
+Comic Sans
+Comic Sans MS
+Compartilhamento de tela
+Compartir pantalla
+compositionend focusout keydown keypress keyup mousedown
+compositionstart focusout keydown keypress keyup mousedown
+compositionupdate focusout keydown keypress keyup mousedown
+Comprueba tu correo electrónico
+Condivisione schermo
+Conferma che vuoi iscriverti alla Newsletter di Rockstar Games cliccando sul pulsanto qui sotto.
+Conferma la tua iscrizione
+Configuración adicional
+Configurações adicionais
+Confirm your subscription
+Confirma tu suscripción
+Confirmar suscripción
+Confirme que você deseja se inscrever no newsletter da Rockstar Games clicando no botão abaixo.
+Confirme sua inscrição
+Confirmer votre abonnement
+Confirmez votre abonnement
+conflict because `+Vi(t)).join(
+Controlla la tua mail
+Copia il codice
+Copiar código de incorporação
+Copiar código para insertar
+Copiar el código integrado
+Copier le code
+Copy Embed code
+could not read as ArrayBuffer
+could not read FormData body as blob
+Couldn't add conditional rule
+Couper le son
+Courier New
+crypto.getRandomValues() not supported. See https://github.com/uuidjs/uuid#getrandomvalues-not-supported
+Dangling reference to missing
+Das Videoelement wurde nicht gefunden.
+Decorated type deeper than introspection query.
+defer() is not supported in actions
+defer() only accepts plain objects
+Deferred data aborted
+Deferred data for key "
+Démarrer la vidéo partagée à
+DEPRECATED METHOD:
+Derived constructors may only return object or undefined
+details:not([inert]):not([inert] *)
+details>summary:first-of-type:not([inert]):not([inert] *)
+Deutsch (Deutschland)
+Diapositiva anterior
+Diapositiva siguiente
+Did not expect successive traversals.
+Did not find corresponding fetcher result
+Die Seite, die du suchst, existiert nicht, oder es ist ein anderer Fehler aufgetreten.
+Dodatkowe ustawienia
+does not exist in
+does not exist in object
+DOM blockers debug: ```
+Don't miss the next free GTA Online gift
+Dotknij ekranu gdziekolwiek, aby wyłączyć wyciszenie.
+Dowiedz się więcej
+Download the Apollo DevTools for a better development experience: %s
+Du erhältst bereits Newsletter-Updates an diese E-Mail-Adresse. Verwalte jederzeit deine Präferenzen bezüglich der Kommunikation in den Einstellungen deines Kontos.
+Du hast dich während der Kontoerstellung nicht für Werbe-E-Mails angemeldet. Möchtest du immer noch unseren Newsletter abonnieren?
+E-Mail-Liste von Rockstar Games beitreten
+either ensure all objects of type
+Élément vidéo introuvable.
+Elemento copiato!
+Elemento de vídeo no encontrado.
+Elemento video non trovato.
+Ellipse Path 1
+Empty sub-selector
+En este momento no puedes suscribirte a nuestro boletín de noticias con este correo electrónico.
+En este momento, no podemos registrar esta dirección de correo electrónico a nuestro boletín.
+En savoir plus
+end point
+End Point
+English (United States)
+Enter fullscreen
+Entra nella modalità a schermo intero
+Entrar em tela cheia
+Erfolgreich abonniert
+Error formatting display name.
+Error formatting number.
+Error formatting relative time.
+Error formatting the default message for: "
+Error message not found.
+Esci dalla modalità a schermo intero
+Este elemento de video no se encontró.
+Este navegador no es compatible con AirPlay.
+Event name must be provided to work with custom events
+Exit fullscreen
+Expected a function
+Expected a Location header on the redirect Response
+Expected an AbortController for revalidating fetcher deferred result
+Expected fetcher:
+Expected name to be a non-empty string.
+Expected name to be a string.
+Expected pending action
+Expected whitespace after media
+Fai iniziare il video condiviso da qui:
+Failed to add conditional rule
+Failed to save applied view transitions in sessionStorage (
+Failed tokenizing
+fetch() returned undefined
+fetchMethod must be a function if specified
+fieldset[disabled] *
+Fire Phone $1
+first argument should be an array
+First ensure all usages of `canonizeResults` are removed, then remove this option.
+First parameter must be a function or config object
+focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
+for locale
+for route "
+for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+foundry_tdsdcd2 foundry_tdsdcd0
+foundry_tdsdcdl foundry_tdsdcd0
+foundry_tdsdcdu foundry_tdsdcd0
+Français (Canada)
+Français (France)
+Franklin Gothic
+from another module or realm. Ensure that there is only one instance of
+Generator is already executing.
+Gerenciar preferências
+Gérer vos préférences
+Gestionar preferencias
+Gestisci le preferenze
+Gill Sans
+Google Play
+GraphQL execution failed to complete synchronously.
+GraphQL request
+graphql@16 dropped long-deprecated support for positional arguments, please pass an object instead.
+GSAP target
+GTM Id is required
+Guarda ora
+have an ID or a custom merge function, or
+Haz clic en cualquier lugar para activar el audio.
+Haz clic en cualquier parte para activar el sonido.
+Haz clic en el botón a continuación para confirmar que quieres suscribirte al boletín de Rockstar Games.
+Haz click en el botón para confirmar que quieres suscribirte al boletín de noticias de Rockstar Games.
+Header label for the download video menu.
+Header label for the quality settings menu.
+Headers constructor: expected name/value pair to be length 2, found
+Helvetica Neue
+http://www.w3.org/1999/xlink
+http://www.w3.org/2000/svg
+http://www.w3.org/XML/1998/namespace
+HttpLink: Trying to send a client-only query to the server. To send to the server, ensure a non-client field is added to the query or set the `transformOptions.removeClientFields` option to `true`.
+https://addons.mozilla.org/en-US/firefox/addon/apollo-developer-tools/
+https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm
+https://m1.openfpcdn.io/fingerprintjs/v
+https://reactjs.org/docs/error-decoder.html?invariant=
+Hubo un problema con el reproductor de video.
+If you don't want to synchronize component state with the mutation, please use the `useApolloClient` hook to get the client instance and call `client.mutate` directly.
+If your `onCompleted` callback sets local state, switch to use derived state using `data` returned from the hook instead. Use `useEffect` to perform side-effects as a result of updates to `data`.
+iframe:not([inert]):not([inert] *)
+Imagen anterior
+in c?c.responseURL:r.headers.get(
+in window||(delete Sr.animationend.animation,delete Sr.animationiteration.animation,delete Sr.animationstart.animation),
+in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
+Index routes must not have child routes. Please remove all child routes from route path "
+Iniciar video compartido en
+Iniciar vídeo compartido en el minuto
+Iniciar vídeo compartilhado em
+input:not([inert]):not([inert] *)
+Inscreva-se na lista de e-mails da Rockstar Games
+Inscreva-se no nosso newsletter para receber informações sobre atualizações e anúncios, detalhes sobre eventos e ofertas especiais e mais da Rockstar Games e afiliadas.
+Inscrição efetuada
+instantiate Stack using Stack.create(n)
+Internet Explorer
+Intl.DisplayNames is not available in this environment. Try polyfilling it using "@formatjs/intl-displaynames"
+Intl.RelativeTimeFormat is not available in this environment. Try polyfilling it using "@formatjs/intl-relativetimeformat"
+IntlMessageFormat.__parse must be set to process `message` of type `string`
+Invalid `imports` option passed into `_.template`
+Invalid attempt to iterate non-iterable instance. In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+Invalid attempt to spread non-iterable instance. In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
+Invalid blocker state transition:
+invalid max value:
+Invalid media feature
+Invalid media query: "
+Invalid range
+Invalid request method "
+Invalid scope
+invalid size value (must be positive integer). When maxSize or maxEntrySize is used, sizeCalculation or size must be set.
+Invalid UUID
+Invalid value
+is at invalid UTF-16 code unit boundary
+is not a constructor or null
+is not a function
+is not a possible type for
+is not an object
+is not defined by type
+is not observable
+Iscriviti alla mailing list di Rockstar Games
+Iscrizione effettuata con successo
+Italiano (Italia)
+Já está inscrito
+Jetzt abonnieren
+Jetzt anschauen
+Już otrzymujesz powiadomienia o nowościach na ten adres e-mail. Zmień swoje preferencje w dowolnym momencie w ustawieniach swojego konta.
+Karta postaci:
+Klicken, um die Stummschaltung aufzuheben.
+Kliknij gdziekolwiek, aby wyłączyć wyciszenie.
+La page que vous recherchez n'existe pas ou une autre erreur est survenue.
+La pagina che stai cercando non esiste o si è verificato un altro errore.
+La página que buscas no existe o ha habido otro error.
+Learn More
+Lecture en cours
+Letter Gothic
+line in locationOffset is 1-indexed and must be positive.
+Lista de canciones
+Lista de faixas
+Lista de pistas
+Lista utworów
+Liste des morceaux
+Location adjacent to a directive definition.
+Location adjacent to a field definition.
+Location adjacent to a field.
+Location adjacent to a fragment definition.
+Location adjacent to a fragment spread.
+Location adjacent to a mutation operation.
+Location adjacent to a query operation.
+Location adjacent to a scalar definition.
+Location adjacent to a schema definition.
+Location adjacent to a subscription operation.
+Location adjacent to a union definition.
+Location adjacent to a variable definition.
+Location adjacent to an argument definition.
+Location adjacent to an enum definition.
+Location adjacent to an enum value definition.
+Location adjacent to an inline fragment.
+Location adjacent to an input object field definition.
+Location adjacent to an input object type definition.
+Location adjacent to an interface definition.
+Location adjacent to an object type definition.
+Lucida Bright
+Lucida Calligraphy
+Lucida Console
+Lucida Fax
+LUCIDA GRANDE
+Lucida Handwriting
+Lucida Sans
+Lucida Sans Typewriter
+Lucida Sans Unicode
+Manage Preferences
+max option must be a nonnegative integer
+maxEntrySize must be a positive integer if specified
+Maximum introspection depth exceeded
+maxSize must be a positive integer if specified
+Mehr erfahren
+Melde dich bei unserem E-Mail-Newsletter an, um über Spielankündigungen und Updates, besondere Events, Angebote und mehr von Rockstar Games und unseren Partnern informiert zu werden.
+memoMethod must be a function if defined
+Microsoft Sans Serif
+Microsoft Uighur
+Minified React error #
+Minion Pro
+Missing character from exported characters list:
+Missing locale data for locale: "
+Missing plugin? gsap.registerPlugin()
+MIUI Browser
+Mobile Safari
+Mode fenêtré
+Modo janela
+Modo ventana
+Monotype Corsiva
+mousemove mouseup
+MS Reference Sans Serif
+MS Reference Specialty
+MS Sans Serif
+MSPointerMove MSPointerUp MSPointerCancel
+must be greater than or equal to the current offset
+must have a selection of subfields. Did you mean
+must not begin with
+must not have a selection since type
+must not select an introspection top level field.`:
+Must provide configuration object.
+Must provide document.
+Must provide name.
+Must provide only one schema definition.
+Must provide operation name if query contains multiple operations.
+Must provide valid Document AST.
+must select only one top level field.`:
+MYRIAD PRO
+Nächste Videoseite
+Nächstes Element
+Należy potwierdzić swoją subskrypcję listy mailingowej Rockstar Games poprzez kliknięcie poniższego przycisku.
+Namespace must be array-like (16 iterable integer values, 0-255)
+Não perca o próximo presente gratuito do GTA Online
+Napisy dla niesłyszących
+Następna strona z filmami
+Następny slajd
+Ne manquez pas le prochain cadeau gratuit dans GTA Online.
+Nein, zurückkehren
+nested under path
+Next Slide
+Next video page
+Nie możemy w tym momencie dodać twojego adresu do listy mailingowej Rockstar Games.
+Nie możemy w tym momencie dodać twojego adresu do listy mailingowej Rockstar Games. Zmień swoje preferencje w ustawieniach swojego konta lub spróbuj ponownie później.
+Nie przegap kolejnych darmowych korzyści w GTA Online
+Nie udzielono zgody na otrzymywanie powiadomień marketingowych przy zakładaniu konta. Czy chcesz subskrybować naszą listę mailingową?
+Nie znaleziono filmu.
+Nie, cofnij
+Nintendo Switch™
+No adapter provided when calling "setAdapter"
+no memoMethod provided to constructor
+No momento, não é possível se inscrever no nosso newsletter usando este endereço de e-mail.
+No node provided
+No optaste por recibir correos con publicidad durante la creación de la cuenta. ¿Quieres suscribirte a nuestro boletín de todos modos?
+No route found in manifest
+No te has suscrito a los correos electrónicos comerciales al crear tu cuenta. ¿Quieres suscribirte a nuestro boletín de noticias?
+No te pierdas el próximo regalo de GTA Online
+No valid media queries
+No, torna indietro
+Non è stato possibile procedere con l’iscrizione di questo indirizzo email alla nostra newsletter in questo momento.
+Non hai acconsentito a ricevere le email di marketing durante la creazione dell'account. Vuoi ancora iscriverti alla nostra newsletter?
+Non perdere il prossimo omaggio di GTA Online
+Non, retour
+not found. https://gsap.com
+Nous ne pouvons pas abonner cette adresse e-mail à notre newsletter pour l'instant.
+Nous ne pouvons pas abonner votre adresse e-mail à notre newsletter pour l'instant. Modifiez vos préférences concernant les e-mails sur la page des paramètres de votre compte ou réessayez plus tard.
+Now Playing
+Number skeleton cannot be empty
+O AirPlay não é compatível com este navegador.
+Object and Interface types are described by a list of Fields, each of which has a name, potentially a list of arguments, and a return type.
+Ocurrió un problema o la página que estás buscando no existe.
+Odtwórz ponownie
+of non-null type
+of required type
+of shared singleton module
+One of the provided types for building the Schema is missing a name.
+One possible value for a given Enum. Enum values are unique values, not a placeholder for a string or numeric value. However an Enum value is returned in a JSON response as a string.
+only supported in development mode
+Opzioni aggiuntive
+Oui, je m'abonne
+out of bound
+Page précédente
+Page suivante
+Page vidéo précédente
+Page vidéo suivante
+Página anterior de vídeos
+Página de video anterior
+Página de vídeo anterior
+Página de video siguiente
+Página de vídeo siguiente
+Pagina di video precedente
+Pagina di video successiva
+Palatino Linotype
+pan-x pan-y
+Pantalla completa
+Para confirmar sua inscrição na lista de e-mails da Rockstar Games, verifique seu endereço de e-mail pelo link enviado para o endereço que você usou para se inscrever.
+Para confirmar tu suscripción a la lista de correo de Rockstar Games, verifica tu correo electrónico a través del enlace enviado al correo electrónico con el que te has suscrito.
+Paramètres supplémentaires
+Parenthesis not matched
+parser can only be used once
+Partage d'écran
+Pasar a pantalla completa
+Pasek postępów
+Pass `context` to the returned `execute` function instead.
+Pass all `variables` to the returned `execute` function instead.
+Pass the options directly to the hook instead.
+Passer en plein écran
+Per confermare la tua iscrizione alla mailing list di Rockstar Games, verifica il tuo indirizzo email tramite il link che ti abbiamo inviato all’indirizzo email che hai usato per iscriverti.
+Please confirm that you would like to subscribe to the Rockstar Games Newsletter by clicking the button below.
+Please gsap.registerPlugin(ScrollTrigger)
+Please initialize an instance of `HttpLink` with `credentials` instead.
+Please initialize an instance of `HttpLink` with `headers` instead.
+Please initialize an instance of `HttpLink` with `uri` instead.
+Please pass the option to the `useLazyQuery` hook instead.
+Please remove the `addTypename` option when initializing `InMemoryCache`.
+Please remove the `canonizeResults` option when initializing `InMemoryCache`.
+Please remove this option.
+Please use `devtools.enabled` instead.
+Please use the "new" operator, this DOM object constructor cannot be called as a function.
+Please use the `clientAwareness.name` option instead.
+Please use the `clientAwareness.version` option instead.
+Plein écran
+pointermove pointerup pointercancel
+Pomyślnie zasubskrybowano
+Poprzedni slajd
+Poprzednia strona z filmami
+Português (Brasil)
+Potwierdź swoją subskrypcję
+Präferenzen verwalten
+Previous Slide
+Previous video page
+process.binding is not supported
+Progress Bar
+property of introspection response and no
+Qualcosa è andato storto con il lettore video.
+Query is empty
+Query root type must be provided.
+Questo browser non supporta AirPlay.
+Quitter le plein écran
+React Router caught the following error during render
+React.Children.only expected to receive a single React element child.
+React.cloneElement(...): The argument must be a React element, but you passed
+Read more on MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+Redirects returned/thrown from loaders/actions must have a Location header
+return this
+Riproduci di nuovo
+Round Corners 1
+router.fetch() was called during the server render, but it shouldn't be. You are likely calling a useFetcher() method in the body of your component. Try moving it to a useEffect or a callback.
+Rozpocznij udostępnianie od
+S'abonner à la liste de diffusion de Rockstar Games
+Saiba mais
+Sair de tela cheia
+Salir de la pantalla completa
+Salir de pantalla completa
+Samsung Browser
+Scheda personaggio:
+Scheda precedente
+Scheda successiva
+Schema does not define the required query root type.
+Schema is not configured for mutations.
+Schema is not configured for subscriptions.
+Schema is not configured to execute subscription operation.
+Schermo intero
+Screen Share
+Se ha producido un problema con el reproductor de vídeo.
+Segoe Print
+Segoe Script
+Segoe UI Light
+Segoe UI Semibold
+Segoe UI Symbol
+Sei già iscritto
+select:not([inert]):not([inert] *)
+setState(...): takes an object of state variables to update or a function which returns an object of state variables.
+setTimeout has not been defined
+Shape Layer 1
+Sign up for our email newsletter to get info on game announcements and updates, details on special events and offers, and more from Rockstar Games and our affiliates.
+signed out
+Siguiente imagen
+Sim, fazer inscrição
+Simple pseudos are not valid in
+sizeCalculation must be a function
+sizeCalculation return invalid (expect positive integer)
+sizeCalculation set to non-function
+Skipping invalid key "
+Skopiuj kod
+Small Fonts
+Something went wrong with the video player.
+Spielt gerade
+Sprawdź swoją pocztę
+Stai già usando questo indirizzo email per ricevere la newsletter. Gestisci le tue preferenze di comunicazione in qualsiasi momento nelle impostazioni del tuo account.
+start point
+Start Point
+Start shared video at
+stroke width
+Stroke Width
+Strona główna
+Strona, której szukasz, nie istnieje lub wystąpił inny błąd.
+Style selectors must target the '&' character (along with any modifiers), e.g.
+Subscribe Now
+Subscribe to the Rockstar Games Email List
+Subskrybuj listę mailingową Rockstar Games
+Subskrybuj teraz
+Subskrypcja jest już aktywna
+Subtítulos/Subtítulos cerrados
+Successfully Subscribed
+Super expression must either be null or a function
+Support for returning GraphQLObjectType from resolveType was removed in graphql-js@16.0.0 please return type name instead.
+Suscríbete a la lista de correo de Rockstar Games
+Suscríbete a la lista de correos de Rockstar Games
+Suscríbete ya
+Suscribirse ahora
+Suscripción exitosa
+Symbol.iterator is not defined.
+Ta przeglądarka nie obsługuje funkcji AirPlay.
+Tak, subskrybuj
+Tap anywhere to unmute.
+Tarjeta de personaje:
+Tarjeta del personaje:
+Te has suscrito
+Tela cheia
+Teraz odtwarzane
+Text displayed on active playlist item.
+Text displayed on player for unmuting on non-tap devices.
+Text displayed on player for unmuting on tap devices.
+textarea:not([inert]):not([inert] *)
+TextDecoder must be defined in the environment: please import a polyfill.
+The `Boolean` scalar type represents `true` or `false`.
+The `Float` scalar type represents signed double-precision fractional values as specified by [IEEE 754](https://en.wikipedia.org/wiki/IEEE_floating_point).
+The `String` scalar type represents textual data, represented as UTF-8 character sequences. The String type is most often used by GraphQL to represent free-form human-readable text.
+the enum value
+The name of the current Object type at runtime.
+The page you're looking for doesn't exist or another error occurred.
+The property has no keyframe at index
+The requested video does not exist.
+they have differing arguments
+This anonymous operation must be the only defined operation.
+this hasn't been initialised - super() hasn't been called
+This option does not affect `client.query` and can be safely removed.
+Times New Roman
+Times New Roman PS
+Tippen, um die Stummschaltung aufzuheben.
+to 'child'). If your selector is targeting something global, use the 'globalStyle' function instead, e.g. if you wanted to write
+To confirm your subscription to the Rockstar Games Email List, please verify your email address via the link sent to the email address you’ve signed up with.
+to ensure only one version is installed. https://yarnpkg.com/en/docs/selective-version-resolutions Duplicate
+to use an inline fragment on
+Toca en cualquier lugar para activar el audio.
+Toca en cualquier parte para activar el sonido.
+Tocca un punto qualsiasi per attivare l'audio.
+Too many validation errors, error limit reached. Validation aborted.
+Toque em qualquer lugar para ativar o som.
+Touchez n'importe où pour activer le son.
+touchstart touchmove touchend touchcancel
+TRAJAN PRO
+Trim Paths 1
+TTL caching without ttlAutopurge, max, or maxSize can result in unbounded memory consumption.
+ttl must be a positive integer if specified
+Überprüfe deine E-Mails
+Udostępnianie ekranu
+Unable to encode submission body
+Une erreur s'est produite avec le lecteur vidéo.
+Unexpected description, descriptions are not supported on shorthand queries.
+Unexpected error value:
+Unexpected input type:
+Unexpected invariant triggered.
+Unexpected single quote character ('), did you mean to use a double quote (")?
+Unexpected syntax '
+Unexpected type:
+Unhandled fetcher deferred data
+Unhandled fetcher revalidation redirect
+Univers CE 55 Medium
+Unknown @remix-run/router error
+Unknown body type for responseIterator. Please pass a streamable response.
+Unknown browser
+Unknown Stack Trace
+unknown value
+Unsupported core-js use. Try https://npms.io/search?q=ponyfill.
+Unterminated string.
+Use `assign`.
+use strict
+Use the `fetchPolicy` option instead.
+used in position expecting type
+uuid.v1(): Can't create more than 10M uuids/sec
+Vague error message.
+Variables must be provided as an Object where each property is a variable value. Perhaps look to see if an unparsed JSON string was provided.
+Verifica tu dirección de correo electrónico
+Verifica tu dirección de correo electrónico mediante el enlace que enviamos al correo con el que te registraste para confirmar la suscripción a la lista de correos de Rockstar Games.
+Vérifiez votre adresse e-mail
+Verifique seu e-mail
+Verpass nicht dein nächstes Gratisgeschenk in GTA Online.
+Veuillez confirmer que vous souhaitez vous abonner à la newsletter de Rockstar Games en cliquant sur le bouton ci-dessous.
+Video element not found.
+Video ID not found in results.
+Vídeo não encontrado.
+video player
+video playlist
+video[controls]:not([inert]):not([inert] *)
+Visionner maintenant
+Você escolheu não receber e-mails de marketing quando criou a sua conta. Deseja se inscrever no nosso newsletter?
+Você já está recebendo atualizações da newsletter neste endereço de e-mail. Gerencie suas preferências de comunicação a qualquer momento nas configurações da sua conta.
+Vollbildmodus aktivieren
+Vollbildmodus deaktivieren
+Volver a ver
+Vorherige Videoseite
+Vorheriges Element
+Vous avez choisi de ne pas recevoir d'e-mails publicitaires lors de la création de votre compte. Voulez-vous toujours vous abonner à notre newsletter ?
+Vous êtes déjà abonné(e) à la newsletter avec cette adresse e-mail. Gérez vos préférences concernant les communications à tout moment sur la page des paramètres de votre compte.
+was not pre-compiled. Please consider using
+was not provided to the string
+was provided the variable
+was resolved to a non-object type
+was specified but
+Watch Now
+We cannot sign up this email address to our newsletter at this time.
+We cannot sign up your email address to our newsletter at this time. Change your email preferences on your account settings page or try again later.
+WebGL fingerprinting is incomplete, because your browser does not support getShaderPrecisionFormat
+Windows Phone
+Wir können deine E-Mail-Adresse derzeit nicht bei unserem Newsletter anmelden. Ändere deine Präferenzen bezüglich E-Mails in den Einstellungen deines Kontos oder versuche es später erneut.
+Wir können diese E-Mail-Adresse derzeit nicht bei unserem Newsletter anmelden.
+within itself through a series of non-null fields:
+within itself`+(
+Włącz tryb pełnoekranowy
+Wyłącz tryb pełnoekranowy
+Wystąpił błąd podczas odtwarzania filmu.
+Xbox One
+Xbox Series X|S
+xMidYMid meet
+xMidYMid slice
+Xperia Tablet
+Ya cuentas con una suscripción
+Ya recibes actualizaciones del boletín de noticias en este correo electrónico. Cambia tus preferencias de comunicación en cualquier momento en los ajustes de tu cuenta.
+Ya recibes actualizaciones del boletín en esta dirección de correo electrónico. Gestiona las preferencias de comunicación cuando quieras desde los ajustes de la cuenta.
+Ya tienes una suscripción
+Yes, Subscribe
+You are already receiving newsletter updates at this email address. Manage your communication preferences at any time in your account settings.
+You cannot `useLoaderData` in an errorElement (routeId:
+You defined
+You did not opt-in to receive marketing emails during account creation. Would you still like to subscribe to our newsletter?
+You made a
+You're using a 3d camera. Try the html renderer.
+Your focus-trap must have at least one container with at least one tabbable node in it at all times
+Zapisz się, aby otrzymywać powiadomienia o nowościach dotyczących gier i aktualizacji, a także informacje na temat specjalnych wydarzeń i ofert oraz więcej od Rockstar Games i naszych oddziałów.
+Zusätzliche Einstellungen
+訂閱 Rockstar Games 電子郵件通知
+订阅Rockstar Games邮件通知

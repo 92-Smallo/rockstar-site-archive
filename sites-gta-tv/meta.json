@@ -1,7 +1,7 @@
 {
   "package": "sites-gta-tv",
-  "version": "16.3.1",
-  "hash": "05ef450f73cf6a0b8fad23a3df46910c9e745fc0ee65305e40c886e69bf56b3d",
-  "gitHead": "40437a4c0af972a54a5ac4bac08af105a60ed568",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta-tv/16.3.1/05ef450f73cf6a0b8fad23a3df46910c9e745fc0ee65305e40c886e69bf56b3d/remote-entry.js"
+  "version": "16.3.4",
+  "hash": "2c4b031e7c71ea4bdf59731d2544d5443bab0b5e6d3c248981e4a89863127981",
+  "gitHead": "d468ecf451b2bf6361a44935a3cdc39ace77520d",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta-tv/16.3.4/2c4b031e7c71ea4bdf59731d2544d5443bab0b5e6d3c248981e4a89863127981/remote-entry.js"
 }

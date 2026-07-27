@@ -1,7 +1,7 @@
 {
   "package": "modules-core-videoplayer",
-  "version": "17.3.2",
-  "hash": "dda72c8318db60e53e4c8351329606f4dddcc34ce989151b360f271905365520",
-  "gitHead": "40437a4c0af972a54a5ac4bac08af105a60ed568",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-videoplayer/17.3.2/dda72c8318db60e53e4c8351329606f4dddcc34ce989151b360f271905365520/remote-entry.js"
+  "version": "17.3.5",
+  "hash": "71a700416a745e09899d4f0612b96832d62c41201ac131befefb33c7c17108eb",
+  "gitHead": "d468ecf451b2bf6361a44935a3cdc39ace77520d",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-videoplayer/17.3.5/71a700416a745e09899d4f0612b96832d62c41201ac131befefb33c7c17108eb/remote-entry.js"
 }
