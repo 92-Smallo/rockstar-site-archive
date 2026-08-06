@@ -286,8 +286,7 @@ _1ozycm42 _1betujy6 _1betujy5
 ===l&&(console.warn(`The _template
 ===n.preventScrollAxis?(t._active=!1,void this.clean()):(this.timeoutStore.remove(
 ===r)return void e.removeAttribute(
-===t.key)return t.preventDefault(),E(),w.current=
-===t.key)return t.preventDefault(),z(),w.current=
+===t.key)return t.preventDefault(),T(),j.current=
 ===t.src)return setTimeout(e,0),t.addEventListener(
 ===this.method)&&i)throw new TypeError(
 ==typeof Array.isArray?Array.isArray(e):
@@ -454,6 +453,7 @@ Arena wojny
 Argument to polyad must be a positive number
 argument when connecting component
 Arguments provided to Fields or Directives and the input fields of an InputObject are represented as Input Values which describe their type and optionally a default value.
+Aria label for the globe icon in language selector.
 Aria label for the icon button to play the hero carousel
 Aria label to indicate when a link opens in new window/tab
 Aria-label for the lightbox close button
@@ -1057,6 +1057,7 @@ Gestionar tus preferencias
 Gestisci le preferenze
 Get Support
 Gill Sans
+Globe icon
 Google Play
 Got NaN while animating:
 Grand Theft Auto

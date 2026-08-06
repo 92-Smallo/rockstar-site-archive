@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="30d43fe9-1ea9-4dba-a8f7-ac5e6fd46d50",
-  e._sentryDebugIdIdentifier="sentry-dbid-30d43fe9-1ea9-4dba-a8f7-ac5e6fd46d50")
+  e._sentryDebugIds[t]="9f8501df-5e8a-4b2c-841e-f28ba2b487b2",
+  e._sentryDebugIdIdentifier="sentry-dbid-9f8501df-5e8a-4b2c-841e-f28ba2b487b2")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"d468ecf451b2bf6361a44935a3cdc39ace77520d",
+    release:"ad7ae04a5860d9ecd7093373b8da3993ad4e870b",
     packageName:"@rockstargames/modules-core-videoplayer",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"d468ecf451b2bf6361a44935a3cdc39ace77520d"
+  id:"ad7ae04a5860d9ecd7093373b8da3993ad4e870b"
 },
 System.register([],
 function(e,
@@ -80,15 +80,16 @@ t){
             "use strict";
             const a={
               "./bootstrap":()=>r.e(400).then(()=>()=>r(3400)),
-              "./index":()=>Promise.all([r.e(405),
+              "./index":()=>Promise.all([r.e(965),
               r.e(82),
               r.e(283),
-              r.e(453),
+              r.e(225),
+              r.e(909),
               r.e(331),
               r.e(812),
               r.e(270),
               r.e(199),
-              r.e(633),
+              r.e(571),
               r.e(360)]).then(()=>()=>r(1360)),
               "./tina":()=>r.e(562).then(()=>()=>r(2562)),
               "./tinaBlockTemplates":()=>r.e(562).then(()=>()=>r(2562))
@@ -167,9 +168,9 @@ t){
             }),
             e([]),
             e(e)];
-            for(var f=2&n&&r;
-            ("object"==typeof f||"function"==typeof f)&&!~t.indexOf(f);
-            f=e(f))Object.getOwnPropertyNames(f).forEach(e=>d[e]=()=>r[e]);
+            for(var c=2&n&&r;
+            ("object"==typeof c||"function"==typeof c)&&!~t.indexOf(c);
+            c=e(c))Object.getOwnPropertyNames(c).forEach(e=>d[e]=()=>r[e]);
             return d.default=()=>r,
             a.d(o,
             d),
@@ -212,49 +213,49 @@ t){
         t),
         [])),
         a.u=e=>"js/"+{
-          38:"65857b36feb28dda7b61f27f4cf0d646",
-          42:"a34c801f7133a139a479d5990de9791e",
-          111:"c26156cbc70a4919610a5bbdc538ee4b",
-          143:"7db4f25ccf2e71b6259f026e43537b1b",
-          162:"ca25270576e659d5930480e0659c10b6",
-          195:"c4018f351c651811ea8493c09e3b1551",
-          206:"8988a7b94dafcbb5e42e3e7984d2c35f",
-          244:"ccc9e79a9b2853ac60c54ee12c8b523f",
-          278:"4547a6f4a9abc82870bd5c8d68cc8feb",
-          295:"0e8aea0b63341508a275992eeaed0f2f",
-          323:"ea4a893a28ac9dd476be57bf950f5fd8",
-          336:"cad1f9815b31c9fb38880c2655ff3552",
-          360:"c51f003a76abb2234a495a8b5dabd462",
-          381:"2b563a6d8b7bcddf24042989286da246",
-          400:"4552af8f22cf52bb43ac6797149603cc",
-          405:"22f344ac152be820ff5c47402a4257d5",
-          464:"05e406d5373b22fbd2bcb952f6f5704f",
-          508:"92b955a1b2ed503b3dea1f24d8b9d65d",
-          514:"6eca6d2db1251fedb90d6912a68f6644",
-          519:"70cbd07604b89afb1e9d46b8aa1fa3d7",
-          524:"994601ea5570d7ddf317d2722472e937",
-          529:"8e4d5284a91b3f73c42c48147b4db8ab",
-          562:"9eaf367d37e2e244b01370e9895c77ac",
-          581:"75d32f55f6bc70fb688c2e5e49562e14",
-          623:"05365f610d33dd105a7369d5d6bb84bf",
-          633:"0bade36cb8f8efd30f08edd6694bf7e2",
-          679:"d201f5884c3206642d0958d48e230f25",
-          704:"b2e353773c7ceacdcf834e0e4b955dc0",
-          750:"1446a87cd4b31bf8784beac6be4f3843",
-          770:"917dad2241144a244232a99e3ce79e98",
-          793:"c1f81c21f668722270caefdb713cc453",
-          825:"ce1116333b6b0e6a04d8f26e813739a2",
-          860:"58338344a6c658549780c79eb85ca78a",
-          897:"a551c3f01f6b97bfb4c211e1aab85184",
-          900:"b2fd779cce3fd2a76d56046b33b16578",
-          921:"f00713655283b973aa9e325eb8316963",
-          997:"c8a1420c41e338fb116592bbcdf4bee2"
+          38:"34553dceba8b7b8d4e4d4a615db0bb97",
+          42:"47cec577e3dc62a1c3e0463668dbef3b",
+          111:"6b9bac082e817d6959acacaa365718f8",
+          162:"1662982fc13bb1197d8e39955485494d",
+          195:"0e4ea5730bf510f71d9970b1656bbe46",
+          206:"cd9d49c7b7f75379c8aefbcdffa1495d",
+          244:"8584580ff3845b6f2b21a5d46729cde7",
+          278:"d7f725dceb038ab5a9ac366864e1cbc1",
+          295:"208837cff123377cd830c96c593828fb",
+          297:"9819f64a626c78789a6da893902d6ddb",
+          323:"df0c916b647ac2fe2530519a3eefeff3",
+          336:"637226b5ac3c30da37e595c16762c9cc",
+          360:"0bd5b83a05e38eb78e065116c65c80dc",
+          381:"f516b3d8b1b91dc84c9a511710b05ce1",
+          389:"d9ce1c3151665213500c9f808104ab8e",
+          400:"c5496c93b7107dc36587c74a7835d2a4",
+          464:"9fc18823cea46f57a441ac902a50c711",
+          508:"a06712a3cc7e1e13f8b9aea2dc924542",
+          514:"debdd2c67ac9786b50c68d9d594360ef",
+          519:"13bc351b208c8c0fa02cb0e76a684200",
+          529:"a85d2cfd7035efe632f92ae1d4794df2",
+          532:"7a6ebd480c7fa8218281e1571346644b",
+          562:"d3769c0a2f3deddc0d1e4e71a0427a95",
+          571:"b6d81c89824553f6729df54c712fbd0d",
+          581:"d4b2de2187f3070e48556d6850e5f072",
+          623:"c4b61376c05a8fffef10cbce7f1d4ea4",
+          704:"debfcd9af31fd90f26861f55601cccbd",
+          750:"fb6acff899546d91909d09cff8a0b665",
+          770:"fc274e374168e85b37be6ffc584715c9",
+          793:"e1fdfc14cdfbbd040cbeaef3804e96f1",
+          825:"cf13729786acd87ddd8750de77f739a8",
+          835:"cb29e0b6389e3d69cbd1b1b9041f6c7d",
+          860:"f181ae78ad6d648a71be8218b33e2b30",
+          897:"cb0ce4948e64152c1022d125615074d8",
+          900:"1dd59326b7767dbafb93ae75342fa57b",
+          921:"668bf68c1e8dabc0d71c52ef7d11b9d5",
+          965:"5d2b8c5659432e9420d015c62eeba599"
         }[e]+".js",
         a.miniCssF=e=>"css/"+{
-          143:"d5d80fb65b4d279f563a59abb371d37e",
           360:"23388f0bfe8b45c81248082fe7b331d1",
-          524:"d5d80fb65b4d279f563a59abb371d37e",
-          633:"9d0ee20239dcf81e1f5b01a50f3056c1",
+          389:"d5d80fb65b4d279f563a59abb371d37e",
+          532:"d5d80fb65b4d279f563a59abb371d37e",
+          571:"83f5c32d10162edfc7729852411cacfb",
           750:"98d2f7207c07838416399fe63c3fcbc4"
         }[e]+".css",
         a.g=function(){
@@ -277,8 +278,8 @@ t){
           o,
           d)=>{
             if(e[r])return void e[r].push(n);
-            let f,
-            c;
+            let c,
+            f;
             if(void 0!==o){
               const e=document.getElementsByTagName("script");
               for(var s=0;
@@ -286,26 +287,26 @@ t){
               s++){
                 const a=e[s];
                 if(a.getAttribute("src")==r||a.getAttribute("data-webpack")==t+o){
-                  f=a;
+                  c=a;
                   break
                 }
               }
-            }f||(c=!0,
-            f=document.createElement("script"),
-            f.charset="utf-8",
-            a.nc&&f.setAttribute("nonce",
+            }c||(f=!0,
+            c=document.createElement("script"),
+            c.charset="utf-8",
+            a.nc&&c.setAttribute("nonce",
             a.nc),
-            f.setAttribute("data-webpack",
+            c.setAttribute("data-webpack",
             t+o),
-            f.src=r),
+            c.src=r),
             e[r]=[n];
             const l=(t,
             a)=>{
-              f.onerror=f.onload=null,
+              c.onerror=c.onload=null,
               clearTimeout(i);
               const n=e[r];
               if(delete e[r],
-              f.parentNode?.removeChild(f),
+              c.parentNode?.removeChild(c),
               n?.forEach(e=>e(a)),
               t)return t(a)
             },
@@ -313,14 +314,14 @@ t){
             void 0,
             {
               type:"timeout",
-              target:f
+              target:c
             }),
             12e4);
-            f.onerror=l.bind(null,
-            f.onerror),
-            f.onload=l.bind(null,
-            f.onload),
-            c&&document.head.appendChild(f)
+            c.onerror=l.bind(null,
+            c.onerror),
+            c.onload=l.bind(null,
+            c.onload),
+            f&&document.head.appendChild(c)
           }
         })(),
         a.r=e=>{
@@ -358,104 +359,107 @@ t){
             r)||(a.S[r]={
             });
             const d=a.S[r],
-            f="@rockstargames/modules-core-videoplayer",
-            c=(e,
+            c="@rockstargames/modules-core-videoplayer",
+            f=(e,
             t,
             r,
             a)=>{
               const n=d[e]=d[e]||{
               },
               o=n[t];
-              (!o||!o.loaded&&(!a!=!o.eager?a:f>o.from))&&(n[t]={
+              (!o||!o.loaded&&(!a!=!o.eager?a:c>o.from))&&(n[t]={
                 get:r,
-                from:f,
+                from:c,
                 eager:!!a
               })
             },
             s=[];
-            return"default"===r&&(c("@floating-ui/react",
+            return"default"===r&&(f("@floating-ui/react",
             "0.27.19",
             ()=>Promise.all([a.e(295),
             a.e(464),
             a.e(82),
             a.e(17),
             a.e(793)]).then(()=>()=>a(2464))),
-            c("@foundry-int/utils",
-            "6.4.0",
-            ()=>Promise.all([a.e(679),
+            f("@foundry-int/utils",
+            "6.5.0",
+            ()=>Promise.all([a.e(835),
             a.e(270),
-            a.e(997)]).then(()=>()=>a(9679))),
-            c("@gsap/react",
+            a.e(297)]).then(()=>()=>a(3835))),
+            f("@gsap/react",
             "2.1.2",
             ()=>Promise.all([a.e(82),
             a.e(812),
             a.e(206)]).then(()=>()=>a(9206))),
-            c("@rsgweb/locale-tools",
+            f("@rsgweb/locale-tools",
             "0.0.0",
             ()=>Promise.all([a.e(336),
             a.e(82),
             a.e(283),
             a.e(897)]).then(()=>()=>a(5897))),
-            c("@rsgweb/modules-core-agegate",
+            f("@rsgweb/modules-core-agegate",
             "0.0.0",
             ()=>Promise.all([a.e(111),
             a.e(82),
+            a.e(909),
             a.e(331),
             a.e(199),
-            a.e(143)]).then(()=>()=>a(1143))),
-            c("@rsgweb/rockstar-account",
+            a.e(389)]).then(()=>()=>a(8770))),
+            f("@rsgweb/rockstar-account",
             "0.0.0",
             ()=>Promise.all([a.e(381),
             a.e(508),
             a.e(82),
             a.e(283),
-            a.e(453),
+            a.e(225),
+            a.e(909),
             a.e(195),
             a.e(331),
             a.e(704)]).then(()=>()=>a(323))),
-            c("@rsgweb/utils",
+            f("@rsgweb/utils",
             "0.0.0-development",
             ()=>Promise.all([a.e(381),
             a.e(623),
             a.e(82),
             a.e(283),
-            a.e(453),
+            a.e(225),
+            a.e(909),
             a.e(195),
             a.e(54),
             a.e(519)]).then(()=>()=>a(519))),
-            c("clsx",
+            f("clsx",
             "2.1.1",
             ()=>a.e(921).then(()=>()=>a(4921))),
-            c("focus-trap-react",
+            f("focus-trap-react",
             "10.3.1",
             ()=>Promise.all([a.e(295),
             a.e(514),
             a.e(82)]).then(()=>()=>a(4514))),
-            c("graphql",
+            f("graphql",
             "16.14.2",
             ()=>a.e(900).then(()=>()=>a(1519))),
-            c("gsap",
+            f("gsap",
             "3.12.5",
             ()=>a.e(529).then(()=>()=>a(3529))),
-            c("hammerjs",
+            f("hammerjs",
             "2.0.8",
             ()=>a.e(38).then(()=>()=>a(6038))),
-            c("lodash-es",
+            f("lodash-es",
             "4.18.1",
             ()=>a.e(42).then(()=>()=>a(2042))),
-            c("react-dom",
+            f("react-dom",
             "18.3.1",
             ()=>Promise.all([a.e(162),
             a.e(82)]).then(()=>()=>a(162))),
-            c("react-router-dom",
+            f("react-router-dom",
             "6.30.4",
             ()=>Promise.all([a.e(860),
             a.e(82),
             a.e(17)]).then(()=>()=>a(9860))),
-            c("react",
+            f("react",
             "18.3.1",
             ()=>a.e(581).then(()=>()=>a(2581))),
-            c("uuid",
+            f("uuid",
             "9.0.1",
             ()=>a.e(770).then(()=>()=>a(3770)))),
             e[r]=s.length?Promise.all(s).then(()=>e[r]=1):1
@@ -505,17 +509,17 @@ t){
               o=1;
               o<e.length;
               o++)n--,
-              a+="u"==(typeof(f=e[o]))[0]?"-":(n>0?".":"")+(n=2,
-              f);
+              a+="u"==(typeof(c=e[o]))[0]?"-":(n>0?".":"")+(n=2,
+              c);
               return a
             }var d=[];
             for(o=1;
             o<e.length;
             o++){
-              var f=e[o];
-              d.push(0===f?"not("+c()+")":1===f?"("+c()+" || "+c()+")":2===f?d.pop()+" "+d.pop():t(f))
-            }return c();
-            function c(){
+              var c=e[o];
+              d.push(0===c?"not("+f()+")":1===c?"("+f()+" || "+f()+")":2===c?d.pop()+" "+d.pop():t(c))
+            }return f();
+            function f(){
               return d.pop().replace(/^\((.+)\)$/,
               "$1")
             }
@@ -528,31 +532,31 @@ t){
               o=n<0;
               o&&(n=-n-1);
               for(var d=0,
-              f=1,
-              c=!0;
+              c=1,
+              f=!0;
               ;
-              f++,
+              c++,
               d++){
                 var s,
                 l,
-                i=f<t.length?(typeof t[f])[0]:"";
-                if(d>=a.length||"o"==(l=(typeof(s=a[d]))[0]))return!c||("u"==i?f>n&&!o:""==i!=o);
+                i=c<t.length?(typeof t[c])[0]:"";
+                if(d>=a.length||"o"==(l=(typeof(s=a[d]))[0]))return!f||("u"==i?c>n&&!o:""==i!=o);
                 if("u"==l){
-                  if(!c||"u"!=i)return!1
-                }else if(c)if(i==l)if(f<=n){
-                  if(s!=t[f])return!1
+                  if(!f||"u"!=i)return!1
+                }else if(f)if(i==l)if(c<=n){
+                  if(s!=t[c])return!1
                 }else{
-                  if(o?s>t[f]:s<t[f])return!1;
-                  s!=t[f]&&(c=!1)
+                  if(o?s>t[c]:s<t[c])return!1;
+                  s!=t[c]&&(f=!1)
                 }else if("s"!=i&&"n"!=i){
-                  if(o||f<=n)return!1;
-                  c=!1,
-                  f--
+                  if(o||c<=n)return!1;
+                  f=!1,
+                  c--
                 }else{
-                  if(f<=n||l<i!=o)return!1;
-                  c=!1
-                }else"s"!=i&&"n"!=i&&(c=!1,
-                f--)
+                  if(c<=n||l<i!=o)return!1;
+                  f=!1
+                }else"s"!=i&&"n"!=i&&(f=!1,
+                c--)
               }
             }var u=[],
             b=u.pop.bind(u);
@@ -585,8 +589,8 @@ t){
                 o=(typeof n)[0];
                 if(a>=r.length)return"u"==o;
                 var d=r[a],
-                f=(typeof d)[0];
-                if(o!=f)return"o"==o&&"n"==f||"s"==f||"u"==o;
+                c=(typeof d)[0];
+                if(o!=c)return"o"==o&&"n"==c||"s"==c||"u"==o;
                 if("o"!=o&&"u"!=o&&n!=d)return n<d;
                 a++
               }
@@ -606,8 +610,8 @@ t){
           n,
           o,
           d){
-            const f=a.I(t);
-            return f?.then&&!n?f.then(e.bind(e,
+            const c=a.I(t);
+            return c?.then&&!n?c.then(e.bind(e,
             t,
             a.S[t],
             r,
@@ -621,36 +625,36 @@ t){
             d)
           })((e,
           d,
-          f,
           c,
+          f,
           s,
           l)=>{
             if(!((e,
             t)=>e&&a.o(e,
             t))(d,
-            f))return o(e,
-            f,
+            c))return o(e,
+            c,
             l);
             const i=n(d,
-            f,
-            c);
+            c,
+            f);
             return r(s,
             i)||(b=((e,
             r,
             a,
             n)=>"Unsatisfied version "+a+" from "+(a&&e[r][a].from)+" of shared singleton module "+r+" (required "+t(n)+")")(d,
-            f,
+            c,
             i,
             s),
             "undefined"!=typeof console&&console.warn&&console.warn(b)),
-            (u=d[f][i]).loaded=1,
+            (u=d[c][i]).loaded=1,
             u.get();
             var u,
             b
           }),
-          f={
-          },
           c={
+          },
+          f={
             3082:()=>d("default",
             "react",
             !1,
@@ -661,18 +665,19 @@ t){
             !1,
             [0],
             ()=>a.e(42).then(()=>()=>a(2042))),
-            2909:()=>d("default",
-            "@rsgweb/locale-tools",
-            !1,
-            [0],
-            ()=>Promise.all([a.e(336),
-            a.e(278)]).then(()=>()=>a(5897))),
             9225:()=>d("default",
             "react-router-dom",
             !1,
             [0],
             ()=>Promise.all([a.e(860),
             a.e(17)]).then(()=>()=>a(9860))),
+            2909:()=>d("default",
+            "@rsgweb/locale-tools",
+            !1,
+            [0],
+            ()=>Promise.all([a.e(336),
+            a.e(283),
+            a.e(278)]).then(()=>()=>a(5897))),
             3331:()=>d("default",
             "@rsgweb/utils",
             !1,
@@ -680,7 +685,7 @@ t){
             ()=>Promise.all([a.e(381),
             a.e(623),
             a.e(283),
-            a.e(453),
+            a.e(225),
             a.e(195),
             a.e(244)]).then(()=>()=>a(519))),
             5812:()=>d("default",
@@ -703,14 +708,9 @@ t){
             ()=>Promise.all([a.e(381),
             a.e(508),
             a.e(283),
-            a.e(453),
+            a.e(225),
             a.e(195),
             a.e(323)]).then(()=>()=>a(323))),
-            646:()=>d("default",
-            "@foundry-int/utils",
-            !1,
-            [0],
-            ()=>a.e(679).then(()=>()=>a(9679))),
             1038:()=>d("default",
             "focus-trap-react",
             !1,
@@ -746,6 +746,11 @@ t){
             0,
             1],
             ()=>a.e(770).then(()=>()=>a(3770))),
+            6082:()=>d("default",
+            "@foundry-int/utils",
+            !1,
+            [0],
+            ()=>a.e(835).then(()=>()=>a(3835))),
             7347:()=>d("default",
             "@gsap/react",
             !1,
@@ -756,7 +761,7 @@ t){
             !1,
             [0],
             ()=>Promise.all([a.e(111),
-            a.e(524)]).then(()=>()=>a(1143))),
+            a.e(532)]).then(()=>()=>a(8770))),
             4017:()=>d("default",
             "react-dom",
             !1,
@@ -776,20 +781,20 @@ t){
             54:[2054],
             82:[3082],
             199:[2199],
+            225:[9225],
             244:[2054],
             270:[1270],
             283:[283],
             331:[3331],
-            453:[2909,
-            9225],
-            633:[646,
-            1038,
+            571:[1038,
             1404,
             2341,
             4815,
+            6082,
             7347,
             7613],
-            812:[5812]
+            812:[5812],
+            909:[2909]
           },
           l={
           };
@@ -797,11 +802,11 @@ t){
           t)=>{
             a.o(s,
             e)&&s[e].forEach(e=>{
-              if(a.o(f,
-              e))return t.push(f[e]);
+              if(a.o(c,
+              e))return t.push(c[e]);
               if(!l[e]){
                 const r=t=>{
-                  f[e]=0,
+                  c[e]=0,
                   a.m[e]=r=>{
                     delete a.c[e],
                     r.exports=t()
@@ -809,15 +814,15 @@ t){
                 };
                 l[e]=!0;
                 const n=t=>{
-                  delete f[e],
+                  delete c[e],
                   a.m[e]=r=>{
                     throw delete a.c[e],
                     t
                   }
                 };
                 try{
-                  const a=c[e]();
-                  a.then?t.push(f[e]=a.then(r).catch(n)):r(a)
+                  const a=f[e]();
+                  a.then?t.push(c[e]=a.then(r).catch(n)):r(a)
                 }catch(e){
                   n(e)
                 }
@@ -833,10 +838,10 @@ t){
             a.f.miniCss=(t,
             r)=>{
               e[t]?r.push(e[t]):0!==e[t]&&{
-                143:1,
                 360:1,
-                524:1,
-                633:1,
+                389:1,
+                532:1,
+                571:1,
                 750:1
               }[t]&&r.push(e[t]=(e=>new Promise((t,
               r)=>{
@@ -873,14 +878,14 @@ t){
                     "load"===r.type)n();
                     else{
                       var a=r&&r.type,
-                      f=r&&r.target&&r.target.href||t,
-                      c=new Error("Loading CSS chunk "+e+" failed.\n("+a+": "+f+")");
-                      c.name="ChunkLoadError",
-                      c.code="CSS_CHUNK_LOAD_FAILED",
-                      c.type=a,
-                      c.request=f,
+                      c=r&&r.target&&r.target.href||t,
+                      f=new Error("Loading CSS chunk "+e+" failed.\n("+a+": "+c+")");
+                      f.name="ChunkLoadError",
+                      f.code="CSS_CHUNK_LOAD_FAILED",
+                      f.type=a,
+                      f.request=c,
                       d.parentNode&&d.parentNode.removeChild(d),
-                      o(c)
+                      o(f)
                     }
                   },
                   d.href=t,
@@ -909,30 +914,30 @@ t){
             let n=a.o(e,
             t)?e[t]:void 0;
             if(0!==n)if(n)r.push(n[2]);
-            else if(/^(17|199|270|283|331|453|54|812|82)$/.test(t))e[t]=0;
+            else if(/^(2(25|70|83)|17|199|331|54|812|82|909)$/.test(t))e[t]=0;
             else{
               const o=new Promise((r,
               a)=>n=e[t]=[r,
               a]);
               r.push(n[2]=o);
               const d=a.p+a.u(t),
-              f=new Error,
-              c=r=>{
+              c=new Error,
+              f=r=>{
                 if(a.o(e,
                 t)&&(n=e[t],
                 0!==n&&(e[t]=void 0),
                 n)){
                   const e=r&&("load"===r.type?"missing":r.type),
                   a=r&&r.target&&r.target.src;
-                  f.message="Loading chunk "+t+" failed.\n("+e+": "+a+")",
-                  f.name="ChunkLoadError",
-                  f.type=e,
-                  f.request=a,
-                  n[1](f)
+                  c.message="Loading chunk "+t+" failed.\n("+e+": "+a+")",
+                  c.name="ChunkLoadError",
+                  c.type=e,
+                  c.request=a,
+                  n[1](c)
                 }
               };
               a.l(d,
-              c,
+              f,
               "chunk-"+t,
               t)
             }
@@ -942,19 +947,19 @@ t){
             let[n,
             o,
             d]=r;
-            var f,
-            c,
+            var c,
+            f,
             s=0;
             if(n.some(t=>0!==e[t])){
-              for(f in o)a.o(o,
-              f)&&(a.m[f]=o[f]);
+              for(c in o)a.o(o,
+              c)&&(a.m[c]=o[c]);
               d&&d(a)
             }for(t&&t(r);
             s<n.length;
-            s++)c=n[s],
+            s++)f=n[s],
             a.o(e,
-            c)&&e[c]&&e[c][0](),
-            e[c]=0
+            f)&&e[f]&&e[f][0](),
+            e[f]=0
           },
           r=self.webpackChunk_rockstargames_modules_core_videoplayer=self.webpackChunk_rockstargames_modules_core_videoplayer||[];
           r.forEach(t.bind(null,

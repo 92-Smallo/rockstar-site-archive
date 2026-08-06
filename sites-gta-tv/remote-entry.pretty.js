@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="566d0b93-7e12-41b6-a01b-71637f4164b2",
-  e._sentryDebugIdIdentifier="sentry-dbid-566d0b93-7e12-41b6-a01b-71637f4164b2")
+  e._sentryDebugIds[t]="f3f6fc34-d8bd-431b-b1be-698dba5be066",
+  e._sentryDebugIdIdentifier="sentry-dbid-f3f6fc34-d8bd-431b-b1be-698dba5be066")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"d468ecf451b2bf6361a44935a3cdc39ace77520d",
+    release:"ad7ae04a5860d9ecd7093373b8da3993ad4e870b",
     packageName:"@rockstargames/sites-gta-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"d468ecf451b2bf6361a44935a3cdc39ace77520d"
+  id:"ad7ae04a5860d9ecd7093373b8da3993ad4e870b"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -217,14 +217,14 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          162:"72aa5ca7f92cc94825a3cdfcde4b2f03",
-          319:"4c3c2cfacc6a1d475c20005c7205fd54",
-          479:"ba0b413b13d6bcdd63004b55200dc8ab",
-          532:"fdd9fe2b07a6c011cabc124f71859489",
-          581:"9893234d4425d135913f8e7f426da81b",
-          602:"a704c05917ec0a8cba26c0204b9b5124",
-          860:"99148805a9e5ebfd8e1b72be3ea6fc6c",
-          995:"a69bd03868239528afec6f9a3451b24f"
+          162:"e7951aaddfa28bae032e1edf4560a628",
+          319:"4fce8486545c05e6680371f87c1763c7",
+          479:"2624ea89c35b85718c6b3b5b012fa0df",
+          532:"3ed2e66302b90dcb6bae04966599a92d",
+          581:"e2e41e928bb0b9a868409637a7068971",
+          602:"f39c60123cb16fe3783f90b1dcc5488a",
+          860:"44b0a0629c2a27b2ad6bd38cf65de549",
+          995:"706117400077244cf8ace82d54e008df"
         }[e]+".js",
         o.miniCssF=e=>"css/3131b747dcc23c6bbe32886966efd955.css",
         o.g=function(){
@@ -248,7 +248,7 @@ t){
           s)=>{
             if(e[r])return void e[r].push(n);
             let i,
-            c;
+            d;
             if(void 0!==a){
               const e=document.getElementsByTagName("script");
               for(var f=0;
@@ -260,7 +260,7 @@ t){
                   break
                 }
               }
-            }i||(c=!0,
+            }i||(d=!0,
             i=document.createElement("script"),
             i.charset="utf-8",
             o.nc&&i.setAttribute("nonce",
@@ -269,28 +269,28 @@ t){
             t+a),
             i.src=r),
             e[r]=[n];
-            const d=(t,
+            const l=(t,
             n)=>{
               i.onerror=i.onload=null,
-              clearTimeout(l);
+              clearTimeout(c);
               const o=e[r];
               if(delete e[r],
               i.parentNode?.removeChild(i),
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            l=setTimeout(d.bind(null,
+            c=setTimeout(l.bind(null,
             void 0,
             {
               type:"timeout",
               target:i
             }),
             12e4);
-            i.onerror=d.bind(null,
+            i.onerror=l.bind(null,
             i.onerror),
-            i.onload=d.bind(null,
+            i.onload=l.bind(null,
             i.onload),
-            c&&document.head.appendChild(i)
+            d&&document.head.appendChild(i)
           }
         })(),
         o.r=e=>{
@@ -337,25 +337,25 @@ t){
               r,
               o,
               i,
-              c)=>{
+              d)=>{
                 try{
                   const f=e(t,
                   r);
                   if(!f?.then)return i(f,
                   o,
-                  c);
+                  d);
                   {
                     const e=f.then(e=>i(e,
                     o),
                     s);
-                    if(!c)return e;
+                    if(!d)return e;
                     n.push(a.p=e)
                   }
                 }catch(e){
                   s(e)
                 }
               },
-              c=(e,
+              d=(e,
               t,
               n)=>i(t.get,
               a[1],
@@ -379,7 +379,7 @@ t){
               a[0],
               0,
               e,
-              c,
+              d,
               r):s(),
               1)
             })
@@ -406,7 +406,7 @@ t){
             });
             const s=o.S[r],
             i="@rockstargames/sites-gta-tv",
-            c=(e,
+            d=(e,
             t,
             r,
             n)=>{
@@ -420,7 +420,7 @@ t){
               })
             },
             f=[];
-            return"default"===r&&(c("@rsgweb/utils",
+            return"default"===r&&(d("@rsgweb/utils",
             "0.0.0-development",
             ()=>Promise.all([o.e(319),
             o.e(995),
@@ -428,16 +428,16 @@ t){
             o.e(532),
             o.e(225),
             o.e(602)]).then(()=>()=>o(5532))),
-            c("react-dom",
+            d("react-dom",
             "18.3.1",
             ()=>Promise.all([o.e(162),
             o.e(82)]).then(()=>()=>o(162))),
-            c("react-router-dom",
+            d("react-router-dom",
             "6.30.4",
             ()=>Promise.all([o.e(860),
             o.e(82),
             o.e(17)]).then(()=>()=>o(9860))),
-            c("react",
+            d("react",
             "18.3.1",
             ()=>o.e(581).then(()=>()=>o(2581))),
             (e=>{
@@ -514,9 +514,9 @@ t){
             a<e.length;
             a++){
               var i=e[a];
-              s.push(0===i?"not("+c()+")":1===i?"("+c()+" || "+c()+")":2===i?s.pop()+" "+s.pop():t(i))
-            }return c();
-            function c(){
+              s.push(0===i?"not("+d()+")":1===i?"("+d()+" || "+d()+")":2===i?s.pop()+" "+s.pop():t(i))
+            }return d();
+            function d(){
               return s.pop().replace(/^\((.+)\)$/,
               "$1")
             }
@@ -530,29 +530,29 @@ t){
               a&&(o=-o-1);
               for(var s=0,
               i=1,
-              c=!0;
+              d=!0;
               ;
               i++,
               s++){
                 var f,
-                d,
-                l=i<t.length?(typeof t[i])[0]:"";
-                if(s>=n.length||"o"==(d=(typeof(f=n[s]))[0]))return!c||("u"==l?i>o&&!a:""==l!=a);
-                if("u"==d){
-                  if(!c||"u"!=l)return!1
-                }else if(c)if(l==d)if(i<=o){
+                l,
+                c=i<t.length?(typeof t[i])[0]:"";
+                if(s>=n.length||"o"==(l=(typeof(f=n[s]))[0]))return!d||("u"==c?i>o&&!a:""==c!=a);
+                if("u"==l){
+                  if(!d||"u"!=c)return!1
+                }else if(d)if(c==l)if(i<=o){
                   if(f!=t[i])return!1
                 }else{
                   if(a?f>t[i]:f<t[i])return!1;
-                  f!=t[i]&&(c=!1)
-                }else if("s"!=l&&"n"!=l){
+                  f!=t[i]&&(d=!1)
+                }else if("s"!=c&&"n"!=c){
                   if(a||i<=o)return!1;
-                  c=!1,
+                  d=!1,
                   i--
                 }else{
-                  if(i<=o||d<l!=a)return!1;
-                  c=!1
-                }else"s"!=l&&"n"!=l&&(c=!1,
+                  if(i<=o||l<c!=a)return!1;
+                  d=!1
+                }else"s"!=c&&"n"!=c&&(d=!1,
                 i--)
               }
             }var u=[],
@@ -623,35 +623,35 @@ t){
           })((e,
           s,
           i,
-          c,
+          d,
           f,
-          d)=>{
+          l)=>{
             if(!((e,
             t)=>e&&o.o(e,
             t))(s,
             i))return a(e,
             i,
-            d);
-            const l=n(s,
+            l);
+            const c=n(s,
             i,
-            c);
+            d);
             return r(f,
-            l)||(p=((e,
+            c)||(p=((e,
             r,
             n,
             o)=>"Unsatisfied version "+n+" from "+(n&&e[r][n].from)+" of shared singleton module "+r+" (required "+t(o)+")")(s,
             i,
-            l,
+            c,
             f),
             "undefined"!=typeof console&&console.warn&&console.warn(p)),
-            (u=s[i][l]).loaded=1,
+            (u=s[i][c]).loaded=1,
             u.get();
             var u,
             p
           }),
           i={
           },
-          c={
+          d={
             3082:()=>s("default",
             "react",
             !1,
@@ -684,7 +684,7 @@ t){
             225:[9225],
             479:[3331]
           },
-          d={
+          l={
           };
           o.f.consumes=(e,
           t)=>{
@@ -692,7 +692,7 @@ t){
             e)&&f[e].forEach(e=>{
               if(o.o(i,
               e))return t.push(i[e]);
-              if(!d[e]){
+              if(!l[e]){
                 const r=t=>{
                   i[e]=0,
                   o.m[e]=r=>{
@@ -700,7 +700,7 @@ t){
                     r.exports=t()
                   }
                 };
-                d[e]=!0;
+                l[e]=!0;
                 const n=t=>{
                   delete i[e],
                   o.m[e]=r=>{
@@ -709,7 +709,7 @@ t){
                   }
                 };
                 try{
-                  const o=c[e]();
+                  const o=d[e]();
                   o.then?t.push(i[e]=o.then(r).catch(n)):r(o)
                 }catch(e){
                   n(e)
@@ -763,13 +763,13 @@ t){
                     else{
                       var o=r&&r.type,
                       i=r&&r.target&&r.target.href||t,
-                      c=new Error("Loading CSS chunk "+e+" failed.\n("+o+": "+i+")");
-                      c.name="ChunkLoadError",
-                      c.code="CSS_CHUNK_LOAD_FAILED",
-                      c.type=o,
-                      c.request=i,
+                      d=new Error("Loading CSS chunk "+e+" failed.\n("+o+": "+i+")");
+                      d.name="ChunkLoadError",
+                      d.code="CSS_CHUNK_LOAD_FAILED",
+                      d.type=o,
+                      d.request=i,
                       s.parentNode&&s.parentNode.removeChild(s),
-                      a(c)
+                      a(d)
                     }
                   },
                   s.href=t,
@@ -806,7 +806,7 @@ t){
               r.push(n[2]=a);
               const s=o.p+o.u(t),
               i=new Error,
-              c=r=>{
+              d=r=>{
                 if(o.o(e,
                 t)&&(n=e[t],
                 0!==n&&(e[t]=void 0),
@@ -821,7 +821,7 @@ t){
                 }
               };
               o.l(s,
-              c,
+              d,
               "chunk-"+t,
               t)
             }
@@ -832,7 +832,7 @@ t){
             a,
             s]=r;
             var i,
-            c,
+            d,
             f=0;
             if(n.some(t=>0!==e[t])){
               for(i in a)o.o(a,
@@ -840,10 +840,10 @@ t){
               s&&s(o)
             }for(t&&t(r);
             f<n.length;
-            f++)c=n[f],
+            f++)d=n[f],
             o.o(e,
-            c)&&e[c]&&e[c][0](),
-            e[c]=0
+            d)&&e[d]&&e[d][0](),
+            e[d]=0
           },
           r=self.webpackChunk_rockstargames_sites_gta_tv=self.webpackChunk_rockstargames_sites_gta_tv||[];
           r.forEach(t.bind(null,

@@ -36,6 +36,7 @@
 !==t[t.length-1].type)throw new Error(
 !==u.type)throw new Error(
 !==v)throw new Error(
+!=typeof a.el&&(a.el.removeEventListener(
 !=typeof a||(a=document.createElement(
 !=typeof CSS&&CSS.supports&&CSS.supports(
 !=typeof d||(d=document.createElement(
@@ -2018,6 +2019,7 @@ Tu navegador no puede reproducir vídeos.
 Tudo pronto
 Turks and Caicos Islands
 Tutto pronto
+Twitch account
 Twitch account linked
 twitch drops
 Twitch Dropsを設定する

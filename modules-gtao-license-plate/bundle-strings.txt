@@ -321,6 +321,7 @@ Aproximar zoom
 Arabic Typesetting
 are the dependencies of other relied on modules, use
 area[href]:not([inert]):not([inert] *)
+Aria label for the globe icon in language selector.
 Aria label to indicate when a link opens in new window/tab
 Aria-label for the lightbox close button
 Aria-label for the lightbox download button (downloads the image)
@@ -640,6 +641,7 @@ Gestionar cuenta
 Gestionar preferencias
 Gestisci le preferenze
 Gill Sans
+Globe icon
 Google Play
 Got NaN while animating:
 GraphQL request

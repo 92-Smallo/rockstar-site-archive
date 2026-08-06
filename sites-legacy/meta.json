@@ -1,7 +1,7 @@
 {
   "package": "sites-legacy",
-  "version": "17.3.5",
-  "hash": "1ab4d2886dce92cdaf41336a3ca3783f7564c200c0b8f9ad02e7d43a88fd53b8",
-  "gitHead": "d468ecf451b2bf6361a44935a3cdc39ace77520d",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-legacy/17.3.5/1ab4d2886dce92cdaf41336a3ca3783f7564c200c0b8f9ad02e7d43a88fd53b8/remote-entry.js"
+  "version": "17.4.2",
+  "hash": "352ff6c20ec53fdbda13153ff2338bcb137871ff900d4d0cdc7c42942a1ca05e",
+  "gitHead": "ad7ae04a5860d9ecd7093373b8da3993ad4e870b",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-legacy/17.4.2/352ff6c20ec53fdbda13153ff2338bcb137871ff900d4d0cdc7c42942a1ca05e/remote-entry.js"
 }
