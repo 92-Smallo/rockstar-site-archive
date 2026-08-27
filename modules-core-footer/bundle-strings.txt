@@ -13,6 +13,7 @@
 :if(i.options.length>1)throw new RangeError(
 :if(r<4)throw new RangeError(
 :return this.currZoomLevel>this.zoomLevels.initial?
+:s.open&&!a.collapsible||void 0,
 :throw new RangeError(
 !==a||void 0===navigator.plugins&&
 !==e.type)throw new Error(
@@ -42,9 +43,10 @@
 !=typeof window&&(window[Symbol.for(
 !=typeof window&&void 0!==window.CSS&&
 !=typeof window&&window.addEventListener(
-!=typeof window&&window.document&&(En=window,Mn=En.document,Cn=Mn.documentElement,Ln=ur(
-!=typeof window&&window[P]||
+!=typeof window&&window.document&&(Tn=window,Cn=Tn.document,Mn=Cn.documentElement,Ln=ur(
+!=typeof window&&window[O]||
 . Doing nothing
+. Must include exactly one non-modifier key (e.g.
 .gsap-marker-start, .gsap-marker-end, .gsap-marker-scroller-start, .gsap-marker-scroller-end
 " as fallback. See https://formatjs.github.io/docs/react-intl/api#intlshape for more details
 " as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details
@@ -86,9 +88,9 @@
 ) to 'parent', you should add
 ),'Route path
 ),new URLSearchParams(
-),switch:new se(
-),xboxone:new se(
-),xboxsx:new se(
+),switch:new ae(
+),xboxone:new ae(
+),xboxsx:new ae(
 ). If you meant to render a collection of children, use an array instead.
 ).concat(null==n?void 0:n.defaultMessage,
 ).concat(null==n?void 0:n.description,
@@ -171,6 +173,7 @@
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
 ===n.preventScrollAxis?(e._active=!1,void this.clean()):(this.timeoutStore.remove(
 ===r)return void e.removeAttribute(
+===t.key)throw new Error(`Invalid keyboard shortcut:
 ===this.method)&&o)throw new TypeError(
 ===u.value&&!r)throw new Error(
 ==typeof c.bearerToken&&u.searchParams.append(
@@ -192,7 +195,7 @@
 ==typeof setTimeout?setTimeout:void 0,ll=
 ==typeof Symbol&&Symbol.for?Symbol.for(
 ==typeof t.get&&
-==typeof t.nodeType&&e.nodeType===Node.DOCUMENT_FRAGMENT_NODE&&
+==typeof t.type&&
 ==typeof x?.className&&delete x.className,(0,t.jsxs)(
 A button that openes the friends drop-down.
 A button that opens the account drop-down.
@@ -269,6 +272,7 @@ Attivazione gioco
 Attribute selector didn't terminate
 audio[controls]:not([inert]):not([inert] *)
 Aumenta zoom
+Avatar: Only one `Avatar.Image` component should be rendered per `Avatar.Root`, but multiple were detected. This will lead to unexpected behavior.
 Aviso legal
 Bad Request
 Bereits abonniert
@@ -475,6 +479,7 @@ foundry_1qqcnuao foundry_1qqcnuav
 foundry_1vzsjidk foundry_8kowh41 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcda
 foundry_2jlbzt7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_2jlbzta foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
+foundry_8oytzon foundry_8kowh41 foundry_1d5mo5m0
 foundry_lroh6l3 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf
 foundry_lroh6l4 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde
 foundry_lroh6l5 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd
@@ -576,9 +581,14 @@ https://www.tiktok.com/@rockstargames
 https://www.youtube.com/rockstargames
 https://x.com/rockstargames
 I miei amici
+Icona del globo
+Ícone de globo
+Icono de globo terráqueo
+Ícono de globo terráqueo
 If you don't want to synchronize component state with the mutation, please use the `useApolloClient` hook to get the client instance and call `client.mutate` directly.
 If your `onCompleted` callback sets local state, switch to use derived state using `data` returned from the hook instead. Use `useEffect` to perform side-effects as a result of updates to `data`.
 iframe:not([inert]):not([inert] *)
+Ikona globusu
 Imagen anterior
 Import Friends
 Importa amici
@@ -589,8 +599,9 @@ Impostazioni account
 Impostazioni dei cookie
 In neuem Tab öffnen
 in not contained inside
-in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),G((0,i.TW)(t.currentTarget),
+in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),X((0,i.TW)(t.currentTarget),
 in t?t:HTMLInputElement.prototype,
+in t?t.children(t.child):t.children,
 in u?u.responseURL:r.headers.get(
 in window||(delete Sr.animationend.animation,delete Sr.animationiteration.animation,delete Sr.animationstart.animation),
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
@@ -939,6 +950,7 @@ speech bubble
 Spielermenü öffnen
 Spielermenü schließen
 Sprawdź swoją pocztę
+stable both-edges
 Stai già usando questo indirizzo email per ricevere la newsletter. Gestisci le tue preferenze di comunicazione in qualsiasi momento nelle impostazioni del tuo account.
 Strona główna
 Strona, której szukasz, nie istnieje lub wystąpił inny błąd.

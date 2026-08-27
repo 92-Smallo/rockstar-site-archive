@@ -4,36 +4,48 @@
 , you should instead write 'globalStyle(
 ,bearer_token_expired:!0,isAMinor:void 0,isNewAccount:!1,nickname:
 ,description:'Label to for the option where subtitles/captions are
-,ref:k,className:h.year,placeholder:y(p.agegate_year_ph),maxLength:4,min:1863,max:(new Date).getFullYear(),type:
-,ref:k,className:m.year,placeholder:y(p.agegate_year_ph),maxLength:4,min:1863,max:(new Date).getFullYear(),type:
 ,s='No route matches URL
 ,this.renderConfig.id),void 0!==this.renderConfig.focusable&&this.svgElement.setAttribute(
 ,this.status=void 0===t.status?200:t.status,this.status<200||this.status>599)throw new RangeError(
 ,type:new gt(bn),description:
 :if(o.options.length>1)throw new RangeError(
 :if(r<4)throw new RangeError(
+:o.open&&!l.collapsible||void 0,
+:return this.currZoomLevel>this.zoomLevels.initial?
+:t.isInvalid||void 0,
 :throw new RangeError(
 !==a||void 0===navigator.plugins&&
 !==d.kind)throw new Error(
+!==e.type)throw new Error(
+!==e[1].type)throw new Error(
 !==e[e.length-1].type)throw new Error(
 !==f.type)throw new Error(
-!==g)throw new Error(
-!==t.type)throw new Error(
-!==t[1].type)throw new Error(
 !==t[t.length-1].type)throw new Error(
+!==y)throw new Error(
 !=typeof CSS&&CSS.supports&&CSS.supports(
+!=typeof document&&(
+!=typeof document&&(document.addEventListener(
 !=typeof e?null:
 !=typeof e)throw new r(
 !=typeof e)throw new TypeError(e+
+!=typeof e||!e.includes(
 !=typeof n?(t.minimumSignificantDigits=r.length,t.maximumSignificantDigits=r.length):
 !=typeof n?Promise.reject(new Error('You cannot call the handler for a route which defines a boolean
 !=typeof n)throw new TypeError(
+!=typeof navigator&&(navigator.language||navigator.userLanguage)||
+!=typeof PointerEvent&&(n.addEventListener(
+!=typeof PointerEvent&&(r.removeEventListener(
 !=typeof r)throw new TypeError(r+
 !=typeof t)throw new TypeError(
-!=typeof t||!t.includes(
+!=typeof t&&null!==t)throw new TypeError(
 !=typeof WeakMap?WeakMap:Map,s=
+!=typeof window&&(window[Symbol.for(
 !=typeof window&&void 0!==window.CSS&&
+!=typeof window&&window.addEventListener(
 !=typeof window&&window.document&&(Ar=window,Cr=Ar.document,Dr=Cr.documentElement,Pr=ki(
+!=typeof window&&window[lV]||
+. Doing nothing
+. Must include exactly one non-modifier key (e.g.
 .gsap-marker-start, .gsap-marker-end, .gsap-marker-scroller-start, .gsap-marker-scroller-end
 " as fallback. See https://formatjs.github.io/docs/react-intl/api#intlshape for more details
 " as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details
@@ -66,6 +78,7 @@
 (orientation: landscape)
 (orientation: portrait)
 (Otwórz w nowym oknie)
+(prefers-reduced-motion: reduce)
 (S'ouvre dans une nouvelle fenêtre)
 (Se abre en una ventana nueva)
 (see https://github.com/apollographql/invariant-packages)
@@ -75,11 +88,8 @@
 ),'Route path
 ),new URLSearchParams(
 ),switch:new ae(
-),switch:new re(
 ),xboxone:new ae(
-),xboxone:new re(
 ),xboxsx:new ae(
-),xboxsx:new re(
 ). If you meant to render a collection of children, use an array instead.
 ).concat(null==n?void 0:n.defaultMessage,
 ).concat(null==n?void 0:n.description,
@@ -95,7 +105,9 @@
 )&&(f(i.relativePath.startsWith(n),'Absolute route path
 )&&e.reportError(new h(null!=r?`Subscription
 [@formatjs/intl Error
+[aria-live], script
 [contenteditable]:not([contenteditable="false"]):not([inert]):not([inert] *)
+[native code]
 [object Arguments]
 [object Array]
 [object ArrayBuffer]
@@ -146,8 +158,11 @@
 +t.statusText,this.headers=new p(t.headers),this.url=t.url||
 <Await> caught the following error during render
 <iframe src="https://www.googletagmanager.com/ns.html?id=
+===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
 ===f.value&&!r)throw new Error(
+===r.preventScrollAxis?(t._active=!1,void this.clean()):(this.timeoutStore.remove(
 ===r)return void e.removeAttribute(
+===t.key)throw new Error(`Invalid keyboard shortcut:
 ===this.method)&&o)throw new TypeError(
 ==typeof c.bearerToken&&u.searchParams.append(
 ==typeof clearTimeout?clearTimeout:void 0,al=
@@ -157,16 +172,18 @@
 ==typeof e.internal&&
 ==typeof e.status&&
 ==typeof e.statusText&&
+==typeof e.type&&
 ==typeof e&&!1!==i.config().nullTargetWarn?console.warn(
 ==typeof FormData,
 ==typeof n.children||
 ==typeof n&&!(s=null===(i=this.getDocument())||void 0===i?void 0:i.querySelector(n)))throw new Error(
-==typeof performance.now?performance:Date,It=new Set,Lt=
+==typeof performance.now?performance:Date,Te=new Set,je=
 ==typeof performance&&performance&&
 ==typeof Promise?Promise:void 0,ol=
 ==typeof ResizeObserver&&ResizeObserver.toString().includes(
 ==typeof setTimeout?setTimeout:void 0,ll=
 ==typeof Symbol&&
+==typeof Symbol&&Symbol.for?Symbol.for(
 ==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?
 ==typeof t.get&&
 ==typeof t.message&&
@@ -175,6 +192,7 @@
 A Directive can be adjacent to many parts of the GraphQL language, a __DirectiveLocation describes one such possible adjacencies.
 A focus-trap cannot use a Fragment as its child container. Try replacing it with a <div> element.
 A GraphQL-formatted string representing the default value for this input value.
+A hotkey has the "scopes" option set, however no active scopes were found. If you want to use the global scopes feature, you need to wrap your app in a <HotkeysProvider>
 A message must be provided as a String or AST.
 A página que você procura não existe ou ocorreu um erro.
 a Scalar type
@@ -187,6 +205,7 @@ Accessibility label for <div> that shows progress and allows user to scrub throu
 Accessibility label for back button on Downloads menu.
 Accessibility label for back button on Quality menu.
 Accessibility label for video progress time
+Acercar zoom
 act(...) is not supported in production builds of React.
 Activar sonido
 Activer le son
@@ -206,18 +225,21 @@ ADBE Vector Shape - Group
 ADBE Vector Star Inner Radius
 ADBE Vector Star Outer Radius
 Additional Settings
+Afastar zoom
 AirPlay n'est pas pris en charge par ce navigateur.
 AirPlay not supported in this browser.
 AirPlay wird von diesem Browser nicht unterstützt.
 Ajustes adicionales
 Aktualizuj swoje preferencje
 Al momento non puoi vedere questo contenuto
+Alejar zoom
 Algo deu errado com o reprodutor de vídeo.
 Already read
 already recomputing
 Already Subscribed
 Altre informazioni
 always active
+An async animation has been interrupted. You see this error because you forgot to use `await` or `.catch(...)` on its returned promise.
 an Enum type
 An error occurred! For more details, see the full error text at https://go.apollo.dev/c/err#
 an Input type
@@ -226,6 +248,7 @@ an Object type
 Anchor Point
 Andale Mono
 App Store
+Aproximar zoom
 Arabic Typesetting
 are the dependencies of other relied on modules, use
 area[href]:not([inert]):not([inert] *)
@@ -242,8 +265,10 @@ Assistir agora
 At least one node with a positive tabindex was found in one of your focus-trap's multiple containers. Positive tabindexes are only supported in single-container focus-traps.
 At least one of max, maxSize, or ttl is required
 Ativar som
+atom not writable
 Attribute selector didn't terminate
 audio[controls]:not([inert]):not([inert] *)
+Aumenta zoom
 Bad Request
 Barra de progreso
 Barra de progresso
@@ -258,25 +283,30 @@ Bildschirm teilen
 Bitstream Vera Sans Mono
 Bitte drücke auf den Knopf unten, um zu bestätigen, dass du den Newsletter von Rockstar Games abonnieren möchtest.
 Bitte gib dein Geburtsdatum an, um diese Seite anzuzeigen
-Bitte gib ein gültiges Alter ein.
 Bitte verifiziere deine E-Mail-Adresse über den Link, der an die E-Mail-Adresse geschickt wurde, mit der du dich angemeldet hast, um dein Abo für die E-Mail-Liste von Rockstar Games zu bestätigen.
+blood pressure
 Book Antiqua
 Bookman Old Style
 but must be non-nullable to be used for OneOf Input Object
 button:not([inert]):not([inert] *)
+call stack
 Cambria Math
 can never be of type
 Can only have query, mutation and subscription operations.
 Can only unwrap data on initialized and settled deferreds
 Can't find condition for
 Can't find field '
+Cannot animate a `SpringValue` object that is frozen. Did you forget to pass your component to `animated(...)` before animating its props?
 cannot be spread here as objects of type
+Cannot call a class as a function
+Cannot call the manual advancement of rafz whilst frameLoop is not set as demand
 Cannot complete value of unexpected output type:
 cannot condition on non composite type
 Cannot convert undefined or null to object
 Cannot define a new schema within a schema extension.
 Cannot handle redirect results in processLoaderData
 Cannot reduce an empty sequence
+Cannot set currentNode to a node that is not contained by the root node.
 cannot set size without setting maxSize or maxEntrySize on cache
 cannot set sizeCalculation without setting maxSize or maxEntrySize
 Cartão de Personagem:
@@ -298,6 +328,7 @@ Code kopieren
 column in locationOffset is 1-indexed and must be positive.
 Comic Sans
 Comic Sans MS
+command line
 Compartilhamento de tela
 Compartir pantalla
 compositionend focusout keydown keypress keyup mousedown
@@ -327,11 +358,17 @@ Copy Embed code
 could not read as ArrayBuffer
 could not read FormData body as blob
 Couldn't add conditional rule
+counter clockwise
 Couper le son
 Courier New
 crypto.getRandomValues() not supported. See https://github.com/uuidjs/uuid#getrandomvalues-not-supported
+Custom tracking stop.
 Dangling reference to missing
 Das Videoelement wurde nicht gefunden.
+data leak
+Date cannot be in the future
+Day must be a whole number.
+Day must be valid for the month.
 Decorated type deeper than introspection query.
 defer() is not supported in actions
 defer() only accepts plain objects
@@ -348,7 +385,7 @@ Diapositiva siguiente
 Did not expect successive traversals.
 Did not find corresponding fetcher result
 Die Seite, die du suchst, existiert nicht, oder es ist ein anderer Fehler aufgetreten.
-Digite uma idade válida
+Diminuisci zoom
 Dodatkowe ustawienia
 does not exist in
 does not exist in object
@@ -387,6 +424,8 @@ Esci dalla modalità a schermo intero
 Este elemento de video no se encontró.
 Este navegador no es compatible con AirPlay.
 Event name must be provided to work with custom events
+exclamation mark
+exit fullscreen
 Exit fullscreen
 Expected a function
 Expected a Location header on the redirect Response
@@ -412,13 +451,85 @@ for locale
 for route "
 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+foundry_11gbdtyf foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdi
+foundry_11gbdtyg foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
+foundry_11gbdtyj foundry_8kowh41 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdi
+foundry_11gbdtyn foundry_8kowh41
+foundry_11gbdtyo foundry_8kowh41 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
+foundry_11gbdtyw foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
+foundry_17pcofyb foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
+foundry_17pcofyc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
+foundry_17pcofyd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
+foundry_18omk9t6 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdp
+foundry_1a74xwb3 foundry_1a74xwb2
+foundry_1a74xwb4 foundry_8kowh41
+foundry_1a74xwba foundry_1a74xwb2
+foundry_1a74xwbb foundry_1a74xwb2
+foundry_1a74xwbo foundry_1a74xwbj
+foundry_1pfduet6 foundry_8kowh41
+foundry_1pfduetc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdi
+foundry_1pfduetd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
+foundry_1pfduetf foundry_8kowh41 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdi
+foundry_1qqcnuao foundry_1qqcnuap
+foundry_1qqcnuao foundry_1qqcnuaq
+foundry_1qqcnuao foundry_1qqcnuar
+foundry_1qqcnuao foundry_1qqcnuas
+foundry_1qqcnuao foundry_1qqcnuat
+foundry_1qqcnuao foundry_1qqcnuau
+foundry_1qqcnuao foundry_1qqcnuav
+foundry_1vzsjidk foundry_8kowh41 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcda
+foundry_2jlbzt7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
+foundry_2jlbzta foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
+foundry_8oytzon foundry_8kowh41 foundry_1d5mo5m0
+foundry_lroh6l3 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf
+foundry_lroh6l4 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde
+foundry_lroh6l5 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd
+foundry_m1icrx8 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
+foundry_okz6z28 foundry_8kowh41
+foundry_okz6z29 foundry_okz6z24 foundry_okz6z25
+foundry_okz6z2a foundry_okz6z26 foundry_okz6z27
+foundry_okz6z2o foundry_okz6z2k foundry_okz6z2l
+foundry_qmpv6yu foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp foundry_tdsdcdt
+foundry_rmorlsc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
+foundry_rmorlsd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_tdsdcd2 foundry_tdsdcd0
+foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcd5
+foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcd6
+foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcd7
+foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcd8
+foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcd9
+foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcda
+foundry_tdsdcdb foundry_tdsdcd0
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdi
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdi
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdj
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdh foundry_tdsdcdj
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdi
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdj
+foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdk
 foundry_tdsdcdl foundry_tdsdcd0
+foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdn
+foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdo
+foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
+foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdq
+foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdr
+foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcds
+foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt
 foundry_tdsdcdu foundry_tdsdcd0
+foundry_uaq1gwo foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
+foundry_zxwkyk8 foundry_8kowh41 foundry_1d5mo5m0 foundry_zxwkyk7
 Français (Canada)
 Français (France)
 Franklin Gothic
 from another module or realm. Ensure that there is only one instance of
+full screen
 Generator is already executing.
 Gerenciar preferências
 Gérer vos préférences
@@ -426,6 +537,7 @@ Gestionar preferencias
 Gestisci le preferenze
 Gill Sans
 Google Play
+Got NaN while animating:
 GraphQL execution failed to complete synchronously.
 GraphQL request
 graphql@16 dropped long-deprecated support for positional arguments, please pass an object instead.
@@ -440,7 +552,9 @@ Haz click en el botón para confirmar que quieres suscribirte al boletín de not
 Header label for the download video menu.
 Header label for the quality settings menu.
 Headers constructor: expected name/value pair to be length 2, found
+heart rate monitor
 Helvetica Neue
+horizontal rule
 http://www.w3.org/1999/xlink
 http://www.w3.org/2000/svg
 http://www.w3.org/XML/1998/namespace
@@ -456,23 +570,26 @@ If your `onCompleted` callback sets local state, switch to use derived state usi
 iframe:not([inert]):not([inert] *)
 Imagen anterior
 in c?c.responseURL:r.headers.get(
+in e?e:HTMLInputElement.prototype,
+in e?e.children(e.child):e.children,
+in not contained inside
+in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),B((0,i.TW)(t.currentTarget),
 in window||(delete Sr.animationend.animation,delete Sr.animationiteration.animation,delete Sr.animationstart.animation),
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
 Index routes must not have child routes. Please remove all child routes from route path "
 Iniciar video compartido en
 Iniciar vídeo compartido en el minuto
 Iniciar vídeo compartilhado em
+Input type detection error.
 input:not([inert]):not([inert] *)
 Inscreva-se na lista de e-mails da Rockstar Games
 Inscreva-se no nosso newsletter para receber informações sobre atualizações e anúncios, detalhes sobre eventos e ofertas especiais e mais da Rockstar Games e afiliadas.
 Inscrição efetuada
-Inserisci un'età valida
 instantiate Stack using Stack.create(n)
 Internet Explorer
 Intl.DisplayNames is not available in this environment. Try polyfilling it using "@formatjs/intl-displaynames"
 Intl.RelativeTimeFormat is not available in this environment. Try polyfilling it using "@formatjs/intl-relativetimeformat"
 IntlMessageFormat.__parse must be set to process `message` of type `string`
-Introduce un mes válido
 Invalid `imports` option passed into `_.template`
 Invalid attempt to iterate non-iterable instance. In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
 Invalid attempt to spread non-iterable instance. In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
@@ -486,6 +603,7 @@ Invalid scope
 invalid size value (must be positive integer). When maxSize or maxEntrySize is used, sizeCalculation or size must be set.
 Invalid UUID
 Invalid value
+Invalid value.
 is at invalid UTF-16 code unit boundary
 is not a constructor or null
 is not a function
@@ -508,6 +626,7 @@ La pagina che stai cercando non esiste o si è verificato un altro errore.
 La página que buscas no existe o ha habido otro error.
 Learn More
 Lecture en cours
+less than
 Letter Gothic
 line in locationOffset is 1-indexed and must be positive.
 Lista de canciones
@@ -515,6 +634,7 @@ Lista de faixas
 Lista de pistas
 Lista utworów
 Liste des morceaux
+Livello zoom
 Location adjacent to a directive definition.
 Location adjacent to a field definition.
 Location adjacent to a field.
@@ -544,6 +664,7 @@ Lucida Handwriting
 Lucida Sans
 Lucida Sans Typewriter
 Lucida Sans Unicode
+magnifying glass
 Manage Preferences
 max option must be a nonnegative integer
 maxEntrySize must be a positive integer if specified
@@ -560,11 +681,15 @@ Missing character from exported characters list:
 Missing locale data for locale: "
 Missing plugin? gsap.registerPlugin()
 MIUI Browser
+mobile data
 Mobile Safari
 Mode fenêtré
 Modo janela
 Modo ventana
 Monotype Corsiva
+Month must be a whole number.
+Month must be from 1 to 12.
+more than
 mousemove mouseup
 MS Reference Sans Serif
 MS Reference Specialty
@@ -594,6 +719,8 @@ Następny slajd
 Ne manquez pas le prochain cadeau gratuit dans GTA Online.
 Nein, zurückkehren
 nested under path
+new tab
+new window
 Next Slide
 Next video page
 Nie możemy w tym momencie dodać twojego adresu do listy mailingowej Rockstar Games.
@@ -604,7 +731,12 @@ Nie udzielono zgody na otrzymywanie powiadomień marketingowych przy zakładaniu
 Nie znaleziono filmu.
 Nie, cofnij
 Nintendo Switch™
+Niveau de zoom
+Nivel de zoom
+Nível de zoom
+Nivel del zoom
 No adapter provided when calling "setAdapter"
+no atom init
 no memoMethod provided to constructor
 No momento, não é possível se inscrever no nosso newsletter usando este endereço de e-mail.
 No node provided
@@ -651,6 +783,8 @@ Pagina di video successiva
 Palatino Linotype
 pan-x pan-y
 Pantalla completa
+paper aeroplane
+paper airplane
 Para confirmar sua inscrição na lista de e-mails da Rockstar Games, verifique seu endereço de e-mail pelo link enviado para o endereço que você usou para se inscrever.
 Para confirmar tu suscripción a la lista de correo de Rockstar Games, verifica tu correo electrónico a través del enlace enviado al correo electrónico con el que te has suscrito.
 Para ver esta página, introduce tu fecha de nacimiento.
@@ -667,8 +801,9 @@ Pass the options directly to the hook instead.
 Passer en plein écran
 Per confermare la tua iscrizione alla mailing list di Rockstar Games, verifica il tuo indirizzo email tramite il link che ti abbiamo inviato all’indirizzo email che hai usato per iscriverti.
 Per visualizzare questa pagina, inserisci la tua data di nascita
+pin push
 Please confirm that you would like to subscribe to the Rockstar Games Newsletter by clicking the button below.
-Please enter a valid age
+Please fill out the required fields.
 Please gsap.registerPlugin(ScrollTrigger)
 Please initialize an instance of `HttpLink` with `credentials` instead.
 Please initialize an instance of `HttpLink` with `headers` instead.
@@ -681,7 +816,7 @@ Please use `devtools.enabled` instead.
 Please use the "new" operator, this DOM object constructor cannot be called as a function.
 Please use the `clientAwareness.name` option instead.
 Please use the `clientAwareness.version` option instead.
-Please verify your age:
+Please Verify Your Age
 Plein écran
 pointermove pointerup pointercancel
 Pomyślnie zasubskrybowano
@@ -690,6 +825,7 @@ Poprzednia strona z filmami
 Português (Brasil)
 Potwierdź swoją subskrypcję
 Pour avoir accès à cette page, veuillez indiquer votre date de naissance.
+Poziom powiększenia
 Präferenzen verwalten
 Previous Slide
 Previous video page
@@ -700,6 +836,7 @@ Puede que no veas este contenido en este momento.
 Qualcosa è andato storto con il lettore video.
 Query is empty
 Query root type must be provided.
+question mark
 Questo browser non supporta AirPlay.
 Quitter le plein écran
 React Router caught the following error during render
@@ -726,6 +863,7 @@ Schema is not configured for mutations.
 Schema is not configured for subscriptions.
 Schema is not configured to execute subscription operation.
 Schermo intero
+screen and (pointer: coarse) and (hover: none)
 Screen Share
 Se ha producido un problema con el reproductor de vídeo.
 Segoe Print
@@ -738,6 +876,10 @@ select:not([inert]):not([inert] *)
 setState(...): takes an object of state variables to update or a function which returns an object of state variables.
 setTimeout has not been defined
 Shape Layer 1
+side nav
+Sidecar medium not found
+Sidecar: could not `read` from an `assigned` medium. `read` could be used only with `useMedium`.
+Sidecar: please provide `sideCar` property to import the right car
 Sign up for our email newsletter to get info on game announcements and updates, details on special events and offers, and more from Rockstar Games and our affiliates.
 signed out
 Siguiente imagen
@@ -749,9 +891,14 @@ sizeCalculation set to non-function
 Skipping invalid key "
 Skopiuj kod
 Small Fonts
+social media
+Social media
 Something went wrong with the video player.
+speech bubble
 Spielt gerade
 Sprawdź swoją pocztę
+stable both-edges
+stack overflow
 Stai già usando questo indirizzo email per ricevere la newsletter. Gestisci le tue preferenze di comunicazione in qualsiasi momento nelle impostazioni del tuo account.
 start point
 Start Point
@@ -777,6 +924,7 @@ Suscribirse ahora
 Suscripción exitosa
 Symbol.iterator is not defined.
 Ta przeglądarka nie obsługuje funkcji AirPlay.
+table of contents
 Tak, subskrybuj
 Tap anywhere to unmute.
 Tarjeta de personaje:
@@ -794,14 +942,16 @@ The `Float` scalar type represents signed double-precision fractional values as 
 The `String` scalar type represents textual data, represented as UTF-8 character sequences. The String type is most often used by GraphQL to represent free-form human-readable text.
 the enum value
 The form field for the day input.
+The input selection has not been updated.
 The message to appear when a user does not have access to view content.
-The message to appear when a user enters an invalid date of birth
 The message to prompt a user to enter their date of birth
 The name of the current Object type at runtime.
 The page you're looking for doesn't exist or another error occurred.
 The property has no keyframe at index
 The requested video does not exist.
+The selection attributes have not been initialized.
 they have differing arguments
+third party
 This anonymous operation must be the only defined operation.
 this hasn't been initialised - super() hasn't been called
 This option does not affect `client.query` and can be safely removed.
@@ -816,11 +966,14 @@ Toca en cualquier lugar para activar el audio.
 Toca en cualquier parte para activar el sonido.
 Tocca un punto qualsiasi per attivare l'audio.
 Too many validation errors, error limit reached. Validation aborted.
+too much recursion
 Toque em qualquer lugar para ativar o som.
 Touchez n'importe où pour activer le son.
 touchstart touchmove touchend touchcancel
 TRAJAN PRO
+translate(0, 0) scale(1)
 Trim Paths 1
+triple bar
 TTL caching without ttlAutopurge, max, or maxSize can result in unbounded memory consumption.
 ttl must be a positive integer if specified
 Überprüfe deine E-Mails
@@ -840,6 +993,7 @@ Univers CE 55 Medium
 Unknown @remix-run/router error
 Unknown body type for responseIterator. Please pass a streamable response.
 Unknown browser
+Unknown getter
 Unknown Stack Trace
 unknown value
 Unsupported core-js use. Try https://npms.io/search?q=ponyfill.
@@ -847,7 +1001,21 @@ Unterminated string.
 Use `assign`.
 use strict
 Use the `fetchPolicy` option instead.
+useAlertBannerContext can only be used in a <AlertBanner.Root />
+useAlertContext can only be used in a <Alert.Root />
+useAvatarContext can only be used in a <Avatar.Root />
+useBadgeContext can only be used in a <Badge.Root />
+useBreadcrumbsContext can only be used in a <Breadcrumbs.Root />
+useCheckboxContext can only be used in a <Checkbox.Root />
+useChipGroupContext can only be used in a <ChipGroup.Root />
 used in position expecting type
+useDropdownContext can only be used in a <Dropdown.Root />
+useInputStatusContext can only be used in a <InputStatus.Root />
+useRadioGroupContext can only be used in a <RadioGroup.Root />
+useSwitchContext can only be used in a <Switch.Root />
+useTagContext can only be used in a <Tag.Root />
+useTextFieldContext can only be used in a <TextField.Root />
+useTooltipContext can only be used in a <Tooltip.Root />
 uuid.v1(): Can't create more than 10M uuids/sec
 Vague error message.
 Variables must be provided as an Object where each property is a variable value. Perhaps look to see if an unparsed JSON string was provided.
@@ -856,15 +1024,18 @@ Verifica tu dirección de correo electrónico mediante el enlace que enviamos al
 Vérifiez votre adresse e-mail
 Verifique seu e-mail
 Verpass nicht dein nächstes Gratisgeschenk in GTA Online.
+version control
 Veuillez confirmer que vous souhaitez vous abonner à la newsletter de Rockstar Games en cliquant sur le bouton ci-dessous.
-Veuillez indiquer un âge valide.
 Video element not found.
 Video ID not found in results.
 Vídeo não encontrado.
+video playback
 video player
 video playlist
 video[controls]:not([inert]):not([inert] *)
+virtual machine
 Visionner maintenant
+vital signs
 Você escolheu não receber e-mails de marketing quando criou a sua conta. Deseja se inscrever no nosso newsletter?
 Você já está recebendo atualizações da newsletter neste endereço de e-mail. Gerencie suas preferências de comunicação a qualquer momento nas configurações da sua conta.
 Você não pode visualizar este conteúdo no momento
@@ -881,6 +1052,7 @@ was not provided to the string
 was provided the variable
 was resolved to a non-object type
 was specified but
+waste bin
 Watch Now
 We cannot sign up this email address to our newsletter at this time.
 We cannot sign up your email address to our newsletter at this time. Change your email preferences on your account settings page or try again later.
@@ -892,7 +1064,6 @@ within itself through a series of non-null fields:
 within itself`+(
 Włącz tryb pełnoekranowy
 Wprowadź datę swoich urodzin, aby wyświetlić tę stronę
-Wprowadź poprawny wiek
 Wyłącz tryb pełnoekranowy
 Wystąpił błąd podczas odtwarzania filmu.
 Xbox One
@@ -904,6 +1075,7 @@ Ya cuentas con una suscripción
 Ya recibes actualizaciones del boletín de noticias en este correo electrónico. Cambia tus preferencias de comunicación en cualquier momento en los ajustes de tu cuenta.
 Ya recibes actualizaciones del boletín en esta dirección de correo electrónico. Gestiona las preferencias de comunicación cuando quieras desde los ajustes de la cuenta.
 Ya tienes una suscripción
+Year must be a whole number.
 Yes, Subscribe
 You are already receiving newsletter updates at this email address. Manage your communication preferences at any time in your account settings.
 You cannot `useLoaderData` in an errorElement (routeId:
@@ -914,6 +1086,10 @@ You may not view this content at this time
 You're using a 3d camera. Try the html renderer.
 Your focus-trap must have at least one container with at least one tabbable node in it at all times
 Zapisz się, aby otrzymywać powiadomienia o nowościach dotyczących gier i aktualizacji, a także informacje na temat specjalnych wydarzeń i ofert oraz więcej od Rockstar Games i naszych oddziałów.
+Zoom arrière
+Zoom avant
+Zoom level
+Zoom out
 Zusätzliche Einstellungen
 訂閱 Rockstar Games 電子郵件通知
 订阅Rockstar Games邮件通知

@@ -11,6 +11,7 @@
 :throw new RangeError(
 !==f.env.REACT_APP_SC_DISABLE_SPEEDY&&f.env.REACT_APP_SC_DISABLE_SPEEDY:void 0!==f.env.SC_DISABLE_SPEEDY&&
 !==i||void 0===navigator.plugins&&
+!==k.env.REACT_APP_SC_DISABLE_SPEEDY&&k.env.REACT_APP_SC_DISABLE_SPEEDY:void 0!==k.env.SC_DISABLE_SPEEDY&&
 !==r.kind)throw new Error(
 !=typeof e?null:
 !=typeof e)throw new Error(
