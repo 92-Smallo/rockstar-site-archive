@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"15ed1e5c38dee6a8103319b6d47f1d34a0554170",
+    release:"b64c845fbd4145dd4934b118ebd89ab3ed32f21c",
     packageName:"@rockstargames/sites-rockstar-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"15ed1e5c38dee6a8103319b6d47f1d34a0554170"
+  id:"b64c845fbd4145dd4934b118ebd89ab3ed32f21c"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -217,14 +217,14 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          162:"f2f76972262c7135484992a0838011e0",
-          581:"7b1045c365ad1697c2793017b0916225",
-          817:"acb53461179cce8ed60243d4d96acd97",
-          830:"45d7b658a07f246fd48290961f727fef",
-          860:"bc859f9b731a4db6af3d39665d0214e0",
-          944:"5ea5840bd3b0f77e0f1ad5b71122c6b7",
-          978:"40f46e6620b5563a8820fd4222845f8f",
-          995:"b49648d63d7eee0f7403dbfdcf2d2122"
+          162:"82e75e2be65b6c32ce2839517749ffda",
+          581:"724aa3b64c88edd7018d39a6bd5877e7",
+          817:"837f1a1b6d1db2b1d7a5ccd63c13bdf3",
+          830:"8a81f483772eed7b425593e911b41ef7",
+          860:"5a5d31f9c7f918b24131080ef89fbeef",
+          944:"ef436804de9ad3ee99929071e5c71007",
+          978:"611f1bb249f2ffb266c97195b64ac972",
+          995:"6dbb24bc02caf79e588c15e97caa22c2"
         }[e]+".js",
         o.miniCssF=e=>"css/d3aed2f918e98d6df62a73adec6169ce.css",
         o.g=function(){

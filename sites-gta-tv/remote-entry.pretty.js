@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"15ed1e5c38dee6a8103319b6d47f1d34a0554170",
+    release:"b64c845fbd4145dd4934b118ebd89ab3ed32f21c",
     packageName:"@rockstargames/sites-gta-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"15ed1e5c38dee6a8103319b6d47f1d34a0554170"
+  id:"b64c845fbd4145dd4934b118ebd89ab3ed32f21c"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -217,14 +217,14 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          162:"329e4f7e368c9e77a05c406eec29e749",
-          341:"69a363ed8271642cdf19efbd6af1ae37",
-          581:"b6c252411039c3df4859ef30fcbcb7b6",
-          817:"50f3877232be0ce0c1ec909809fd74bd",
-          830:"282345c52b47ec95019c4da88d9265df",
-          860:"492959fddf8693039dad4ca116c2589f",
-          944:"31970d6f7b8ae678253886161f5837b2",
-          995:"3237be3d47b43ea6207c601dd1c3890f"
+          162:"b6fbf6dc3be3de8b2f1d1d00370ee273",
+          341:"b3215ec155f25e7fc71118c7582495be",
+          581:"a2dc55a82b4a34b7efa4c5adbf2f8ebf",
+          817:"6f8449325d1001e8d43240ae6eb39f5e",
+          830:"dfd6fbc95178af393d1dec7f76933b9c",
+          860:"1404291eb0c282e67ad38d7684e1983d",
+          944:"8ea6e1996165ded24f464f147fd6ca0f",
+          995:"8dc320a4ae7c436514428da74ab3d47c"
         }[e]+".js",
         o.miniCssF=e=>"css/3131b747dcc23c6bbe32886966efd955.css",
         o.g=function(){
@@ -251,10 +251,10 @@ t){
             c;
             if(void 0!==a){
               const e=document.getElementsByTagName("script");
-              for(var l=0;
-              l<e.length;
-              l++){
-                const n=e[l];
+              for(var f=0;
+              f<e.length;
+              f++){
+                const n=e[f];
                 if(n.getAttribute("src")==r||n.getAttribute("data-webpack")==t+a){
                   i=n;
                   break
@@ -269,7 +269,7 @@ t){
             t+a),
             i.src=r),
             e[r]=[n];
-            const f=(t,
+            const l=(t,
             n)=>{
               i.onerror=i.onload=null,
               clearTimeout(d);
@@ -279,16 +279,16 @@ t){
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            d=setTimeout(f.bind(null,
+            d=setTimeout(l.bind(null,
             void 0,
             {
               type:"timeout",
               target:i
             }),
             12e4);
-            i.onerror=f.bind(null,
+            i.onerror=l.bind(null,
             i.onerror),
-            i.onload=f.bind(null,
+            i.onload=l.bind(null,
             i.onload),
             c&&document.head.appendChild(i)
           }
@@ -339,13 +339,13 @@ t){
               i,
               c)=>{
                 try{
-                  const l=e(t,
+                  const f=e(t,
                   r);
-                  if(!l?.then)return i(l,
+                  if(!f?.then)return i(f,
                   o,
                   c);
                   {
-                    const e=l.then(e=>i(e,
+                    const e=f.then(e=>i(e,
                     o),
                     s);
                     if(!c)return e;
@@ -361,9 +361,9 @@ t){
               a[1],
               r,
               0,
-              l,
+              f,
               n),
-              l=t=>{
+              f=t=>{
                 a.p=1,
                 o.m[e]=e=>{
                   e.exports=t()
@@ -419,7 +419,7 @@ t){
                 eager:!!n
               })
             },
-            l=[];
+            f=[];
             return"default"===r&&(c("@rsgweb/utils",
             "0.0.0-development",
             ()=>Promise.all([o.e(944),
@@ -451,15 +451,15 @@ t){
                 if(!a)return;
                 const s=e=>e&&e.init&&e.init(o.S[r],
                 n);
-                if(a.then)return l.push(a.then(s,
+                if(a.then)return f.push(a.then(s,
                 t));
                 const i=s(a);
-                if(i?.then)return l.push(i.catch(t))
+                if(i?.then)return f.push(i.catch(t))
               }catch(e){
                 t(e)
               }
             })(5136)),
-            l.length?e[r]=Promise.all(l).then(()=>e[r]=1):e[r]=1
+            f.length?e[r]=Promise.all(f).then(()=>e[r]=1):e[r]=1
           }
         })(),
         (()=>{
@@ -534,23 +534,23 @@ t){
               ;
               i++,
               s++){
-                var l,
-                f,
+                var f,
+                l,
                 d=i<t.length?(typeof t[i])[0]:"";
-                if(s>=n.length||"o"==(f=(typeof(l=n[s]))[0]))return!c||("u"==d?i>o&&!a:""==d!=a);
-                if("u"==f){
+                if(s>=n.length||"o"==(l=(typeof(f=n[s]))[0]))return!c||("u"==d?i>o&&!a:""==d!=a);
+                if("u"==l){
                   if(!c||"u"!=d)return!1
-                }else if(c)if(d==f)if(i<=o){
-                  if(l!=t[i])return!1
+                }else if(c)if(d==l)if(i<=o){
+                  if(f!=t[i])return!1
                 }else{
-                  if(a?l>t[i]:l<t[i])return!1;
-                  l!=t[i]&&(c=!1)
+                  if(a?f>t[i]:f<t[i])return!1;
+                  f!=t[i]&&(c=!1)
                 }else if("s"!=d&&"n"!=d){
                   if(a||i<=o)return!1;
                   c=!1,
                   i--
                 }else{
-                  if(i<=o||f<d!=a)return!1;
+                  if(i<=o||l<d!=a)return!1;
                   c=!1
                 }else"s"!=d&&"n"!=d&&(c=!1,
                 i--)
@@ -624,25 +624,25 @@ t){
           s,
           i,
           c,
-          l,
-          f)=>{
+          f,
+          l)=>{
             if(!((e,
             t)=>e&&o.o(e,
             t))(s,
             i))return a(e,
             i,
-            f);
+            l);
             const d=n(s,
             i,
             c);
-            return r(l,
+            return r(f,
             d)||(p=((e,
             r,
             n,
             o)=>"Unsatisfied version "+n+" from "+(n&&e[r][n].from)+" of shared singleton module "+r+" (required "+t(o)+")")(s,
             i,
             d,
-            l),
+            f),
             "undefined"!=typeof console&&console.warn&&console.warn(p)),
             (u=s[i][d]).loaded=1,
             u.get();
@@ -678,21 +678,21 @@ t){
             0],
             ()=>o.e(162).then(()=>()=>o(162)))
           },
-          l={
+          f={
             17:[4017],
             82:[3082],
             225:[9225],
             341:[3331]
           },
-          f={
+          l={
           };
           o.f.consumes=(e,
           t)=>{
-            o.o(l,
-            e)&&l[e].forEach(e=>{
+            o.o(f,
+            e)&&f[e].forEach(e=>{
               if(o.o(i,
               e))return t.push(i[e]);
-              if(!f[e]){
+              if(!l[e]){
                 const r=t=>{
                   i[e]=0,
                   o.m[e]=r=>{
@@ -700,7 +700,7 @@ t){
                     r.exports=t()
                   }
                 };
-                f[e]=!0;
+                l[e]=!0;
                 const n=t=>{
                   delete i[e],
                   o.m[e]=r=>{
@@ -834,14 +834,14 @@ t){
             s]=r;
             var i,
             c,
-            l=0;
+            f=0;
             if(n.some(t=>0!==e[t])){
               for(i in a)o.o(a,
               i)&&(o.m[i]=a[i]);
               s&&s(o)
             }for(t&&t(r);
-            l<n.length;
-            l++)c=n[l],
+            f<n.length;
+            f++)c=n[f],
             o.o(e,
             c)&&e[c]&&e[c][0](),
             e[c]=0

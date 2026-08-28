@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="e9a9995a-3a13-4f32-80c7-caa8d2c69f94",
-  e._sentryDebugIdIdentifier="sentry-dbid-e9a9995a-3a13-4f32-80c7-caa8d2c69f94")
+  e._sentryDebugIds[t]="48377ebf-c00c-4eef-9c60-a631fe03686a",
+  e._sentryDebugIdIdentifier="sentry-dbid-48377ebf-c00c-4eef-9c60-a631fe03686a")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,43 +16,43 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"15ed1e5c38dee6a8103319b6d47f1d34a0554170",
+    release:"b64c845fbd4145dd4934b118ebd89ab3ed32f21c",
     packageName:"@rockstargames/modules-core-newswire-article",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"15ed1e5c38dee6a8103319b6d47f1d34a0554170"
+  id:"b64c845fbd4145dd4934b118ebd89ab3ed32f21c"
 },
 System.register(["@rockstargames/modules-core-gif-viewer",
 "@rockstargames/modules-core-videoplayer"],
 function(e,
 t){
-  var a={
+  var r={
   },
-  r={
+  a={
   };
-  return Object.defineProperty(a,
+  return Object.defineProperty(r,
   "__esModule",
   {
     value:!0
   }),
-  Object.defineProperty(r,
+  Object.defineProperty(a,
   "__esModule",
   {
     value:!0
   }),
   {
     setters:[function(e){
-      a.default=e.default||e,
-      Object.keys(e).forEach(function(t){
-        a[t]=e[t]
-      })
-    },
-    function(e){
       r.default=e.default||e,
       Object.keys(e).forEach(function(t){
         r[t]=e[t]
+      })
+    },
+    function(e){
+      a.default=e.default||e,
+      Object.keys(e).forEach(function(t){
+        a[t]=e[t]
       })
     }],
     execute:function(){
@@ -60,99 +60,99 @@ t){
         var e={
           85946(e,
           t,
-          a){
+          r){
             (0,
-            a(69e3).w)(1)
+            r(69e3).w)(1)
           },
           69e3(e,
           t,
-          a){
-            const r=a(31364).y;
+          r){
+            const a=r(31364).y;
             t.w=function(e){
               if(e||(e=1),
-              !a.y.meta||!a.y.meta.url)throw console.error("__system_context__",
-              a.y),
+              !r.y.meta||!r.y.meta.url)throw console.error("__system_context__",
+              r.y),
               Error("systemjs-webpack-interop was provided an unknown SystemJS context. Expected context.meta.url, but none was provided");
-              a.p=r(a.y.meta.url,
+              r.p=a(r.y.meta.url,
               e)
             }
           },
           64769(e,
           t,
-          a){
-            a(85946)
+          r){
+            r(85946)
           },
           31364(e,
           t,
-          a){
+          r){
             t.y=function(e,
             t){
-              var a=document.createElement("a");
-              a.href=e;
-              for(var r="/"===a.pathname[0]?a.pathname:"/"+a.pathname,
+              var r=document.createElement("a");
+              r.href=e;
+              for(var a="/"===r.pathname[0]?r.pathname:"/"+r.pathname,
               n=0,
-              d=r.length;
+              d=a.length;
               n!==t&&d>=0;
-              )"/"===r[--d]&&n++;
+              )"/"===a[--d]&&n++;
               if(n!==t)throw Error("systemjs-webpack-interop: rootDirectoryLevel ("+t+") is greater than the number of directories ("+n+") in the URL path "+e);
-              var o=r.slice(0,
+              var o=a.slice(0,
               d+1);
-              return a.protocol+"//"+a.host+o
+              return r.protocol+"//"+r.host+o
             };
             Number.isInteger
           },
           57761(e,
           t,
-          a){
+          r){
             "use strict";
-            const r={
-              "./index":()=>Promise.all([a.e(883),
-              a.e(8061),
-              a.e(4997),
-              a.e(7725),
-              a.e(4940),
-              a.e(5940),
-              a.e(1904),
-              a.e(8724),
-              a.e(3685),
-              a.e(2805),
-              a.e(5980),
-              a.e(8364),
-              a.e(3082),
-              a.e(4017),
-              a.e(283),
-              a.e(3331),
-              a.e(2909),
-              a.e(9225),
-              a.e(1270),
-              a.e(7301),
-              a.e(2199),
-              a.e(9724),
-              a.e(2285),
-              a.e(2957),
-              a.e(3115),
-              a.e(2021)]).then(()=>()=>a(10601)),
-              "./tina":()=>a.e(6144).then(()=>()=>a(46144))
+            const a={
+              "./index":()=>Promise.all([r.e(883),
+              r.e(8061),
+              r.e(4997),
+              r.e(7725),
+              r.e(4940),
+              r.e(5940),
+              r.e(1904),
+              r.e(8724),
+              r.e(3685),
+              r.e(2805),
+              r.e(5980),
+              r.e(8364),
+              r.e(3082),
+              r.e(4017),
+              r.e(283),
+              r.e(3331),
+              r.e(2909),
+              r.e(9225),
+              r.e(1270),
+              r.e(7301),
+              r.e(2199),
+              r.e(9724),
+              r.e(2285),
+              r.e(2957),
+              r.e(3115),
+              r.e(2021)]).then(()=>()=>r(10601)),
+              "./tina":()=>r.e(6144).then(()=>()=>r(46144))
             },
             n=(e,
-            t)=>(a.R=t,
-            t=a.o(r,
-            e)?r[e]():Promise.resolve().then(()=>{
+            t)=>(r.R=t,
+            t=r.o(a,
+            e)?a[e]():Promise.resolve().then(()=>{
               throw new Error('Module "'+e+'" does not exist in container.')
             }),
-            a.R=void 0,
+            r.R=void 0,
             t),
             d=(e,
             t)=>{
-              if(!a.S)return;
-              const r="default",
-              n=a.S[r];
+              if(!r.S)return;
+              const a="default",
+              n=r.S[a];
               if(n&&n!==e)throw new Error("Container initialization failed as it has already been initialized with a different share scope");
-              return a.S[r]=e,
-              a.I(r,
+              return r.S[a]=e,
+              r.I(a,
               t)
             };
-            a.d(t,
+            r.d(t,
             {
               get:()=>n,
               init:()=>d
@@ -160,30 +160,30 @@ t){
           },
           29441(e){
             "use strict";
-            e.exports=a
+            e.exports=r
           },
           25136(e){
             "use strict";
-            e.exports=r
+            e.exports=a
           }
         };
         const n={
         };
         function d(t){
-          const a=n[t];
-          if(void 0!==a)return a.exports;
-          const r=n[t]={
+          const r=n[t];
+          if(void 0!==r)return r.exports;
+          const a=n[t]={
             id:t,
             loaded:!1,
             exports:{
             }
           };
-          return e[t].call(r.exports,
-          r,
-          r.exports,
+          return e[t].call(a.exports,
+          a,
+          a.exports,
           d),
-          r.loaded=!0,
-          r.exports
+          a.loaded=!0,
+          a.exports
         }return d.m=e,
         d.c=n,
         d.y=t,
@@ -200,13 +200,13 @@ t){
         (()=>{
           const e=Object.getPrototypeOf?e=>Object.getPrototypeOf(e):e=>e.__proto__;
           let t;
-          d.t=function(a,
-          r){
-            if(1&r&&(a=this(a)),
-            8&r)return a;
-            if("object"==typeof a&&a){
-              if(4&r&&a.__esModule)return a;
-              if(16&r&&"function"==typeof a.then)return a
+          d.t=function(r,
+          a){
+            if(1&a&&(r=this(r)),
+            8&a)return r;
+            if("object"==typeof r&&r){
+              if(4&a&&r.__esModule)return r;
+              if(16&a&&"function"==typeof r.then)return r
             }const n=Object.create(null);
             d.r(n);
             const o={
@@ -216,10 +216,10 @@ t){
             }),
             e([]),
             e(e)];
-            for(var c=2&r&&a;
+            for(var c=2&a&&r;
             ("object"==typeof c||"function"==typeof c)&&!~t.indexOf(c);
-            c=e(c))Object.getOwnPropertyNames(c).forEach(e=>o[e]=()=>a[e]);
-            return o.default=()=>a,
+            c=e(c))Object.getOwnPropertyNames(c).forEach(e=>o[e]=()=>r[e]);
+            return o.default=()=>r,
             d.d(n,
             o),
             n
@@ -227,121 +227,121 @@ t){
         })(),
         d.d=(e,
         t)=>{
-          if(Array.isArray(t))for(var a=0;
-          a<t.length;
+          if(Array.isArray(t))for(var r=0;
+          r<t.length;
           ){
-            var r=t[a++],
-            n=t[a++];
+            var a=t[r++],
+            n=t[r++];
             d.o(e,
-            r)?0===n&&a++:0===n?Object.defineProperty(e,
-            r,
+            a)?0===n&&r++:0===n?Object.defineProperty(e,
+            a,
             {
               enumerable:!0,
-              value:t[a++]
+              value:t[r++]
             }):Object.defineProperty(e,
-            r,
+            a,
             {
               enumerable:!0,
               get:n
             })
-          }else for(var r in t)d.o(t,
-          r)&&!d.o(e,
-          r)&&Object.defineProperty(e,
-          r,
+          }else for(var a in t)d.o(t,
+          a)&&!d.o(e,
+          a)&&Object.defineProperty(e,
+          a,
           {
             enumerable:!0,
-            get:t[r]
+            get:t[a]
           })
         },
         d.f={
         },
         d.e=e=>Promise.all(Object.keys(d.f).reduce((t,
-        a)=>(d.f[a](e,
+        r)=>(d.f[r](e,
         t),
         t),
         [])),
         d.u=e=>"js/"+{
-          62:"62eb9e3dc58079a8ad51ce90fcf82b8e",
-          162:"531ab468140a2b638f9ecba270b7f8b6",
-          606:"508a58a9ad6a7f1d279d1b7f61cf8595",
-          761:"eba78cf1be9be61f6ae21b29cdf659b6",
-          883:"d992247c8af1d19a58bc0e6fd04e3835",
-          890:"2dcb0e3b683100a62b91ce1bbcf7ed84",
-          1274:"6e4b66210e954214bf2a7a3348ae1d46",
-          1503:"d93f53cc63f48bcd7a6305811d77b3b4",
-          1605:"ee21990f0e56892a2acd896457bf5a50",
-          1731:"43ac818d6abbc3ace3625f4194538e34",
-          1904:"6d02f39396ac63889aa568ea73d71478",
-          2021:"4383ab10398948195373a5e98b003be1",
-          2219:"421dd9d82310511ccbf54d20b2faea56",
-          2272:"92cdf5bcefe44280a99459d9e22fb2d9",
-          2309:"09622fc6a4cfbdeade797c66fd053b1f",
-          2329:"d00ff834e80c4894f532ed75ef901dc6",
-          2333:"837bc706d4bc1a3ea5662ec58583f2c1",
-          2346:"450dff14b873ad0b0bee7dadecd995d1",
-          2581:"6fdf51d87093643acfe9878d4b05ac94",
-          2656:"d2f484d18779ff9874deb00087a85eed",
-          2805:"96244de21cc07ea5158d92c39529c0a9",
-          2957:"beaee945eaaca57c443cdbf06a973807",
-          3195:"297b91d525cff81f1cf4feb9cd33a57d",
-          3431:"f2ee4dfc2d57d5151781e9fbf42adf2c",
-          3548:"f643aae7757e90bb8806ee7a9682fb78",
-          3667:"82bf2aa96402fc2b1c55d9c1bebd765a",
-          3685:"48bcab8e69155e8f3eef96cd3a98a6f4",
-          3939:"e6ba41cb43130530aaaa432ac6d0468b",
-          4016:"05ab61f748c1c1a8f6a65a8e4415ecbd",
-          4309:"cf5ae715be18a9d2d168c0ac908ed34b",
-          4326:"79238378ae491a53a22e5d859c12d2af",
-          4607:"9c253fa6b61eb7fa3688e1ef132da030",
-          4921:"54b8ed6180ccf7dd281717c43924bdc8",
-          4940:"562560bb27fb4e03b378fbc54138ca75",
-          4962:"e6fa183e4378003b10c4e762c97bfe7b",
-          4971:"eec0dbdef998742c72babf9aa8e456ac",
-          4997:"3625519ae2c8a3c5842c54174b14a2d7",
-          5096:"33dd97f67e96fe85dedaafd6ae5e1c32",
-          5114:"c43928d8deccc03f496b462586837532",
-          5505:"d91ea4784f12b692213b645db377a126",
-          5529:"ba50fe94f6fcf8533a85b715a24fec84",
-          5592:"94e798cbe6def6a78db663983e4e9468",
-          5660:"ae587072e7b913c6cafe171006b4ae20",
-          5847:"df9d3c4594d96ed1de113a7c7825e373",
-          5901:"87ced9bdac3b835239adb3b680c53f20",
-          5940:"59a4bf82a9419829e22b77e7900508f0",
-          5980:"d01e5081a60a6fd5814ab4fc31da5c44",
-          6048:"98f14d93ef8ed15818dfe47da0c245e4",
-          6144:"94ce04e843d8eec9b86193b63a4db19e",
-          6295:"395a9a572187200d3127c061cac5260a",
-          6320:"4f41d127d118f6c987c13fe8310e6f1e",
-          6405:"b2d2d05256545a5766af2b953e511214",
-          6569:"c5c735e87a33c444906dd25b2318e5e6",
-          6918:"8e3d32da1d7e1c9433ff0baf3384e406",
-          6932:"3911e5ee713eac2ecbe1c973b4b10c46",
-          6972:"dbc38974394d5a574c443189bd318875",
-          7110:"14ef11c58cccdf9e7682c99647d7bd42",
-          7177:"fe45d848e803288d02d6659d746ce507",
-          7390:"95b129d7d53c657bbdfb14673cd0d289",
-          7465:"d10ef7b31e24a243d6586b029dc0015c",
-          7602:"b1fe579053968c3e986337b209a757e7",
-          7725:"485acca4eabe2df6511709aef058693a",
-          7886:"1212912db076e91bb1a1f90b2cce144a",
-          8061:"b56c42c7ae9ef39406216cf437c8038e",
-          8173:"34e44c1d69f1840a7fb39abb937b48a7",
-          8225:"b942e438898769dbab94af77ad4b914f",
-          8364:"6c4aae51ce6bba429d5b119c8cbb7318",
-          8509:"3e6c75c926cf994a2f8350248cc81b6c",
-          8696:"2959feb7e046cfa638400453b3581860",
-          8724:"dd474e38bbcaa8e82df4ebd9654a915a",
-          8784:"da47e315cd1320232087208ec62683d9",
-          8950:"f44a4148133717435f27f1f743f63c2c",
-          9103:"0bafd44f2b85466b5dc804ad312e44a7",
-          9192:"51cb399eece81e527ffa0360bd3f338b",
-          9269:"fd46d3e52ea239df0f5f87af8200bf1a",
-          9663:"4b00560ef87a149a17a537175f1f3616",
-          9708:"ac928944d3bc711909fac53ddac31a60",
-          9724:"b1c2afed2889cf94a83932841e7e34bb",
-          9860:"0ad35c62b10f66f134806c521b00a813",
-          9933:"1654876066d89772efad3520b03357ab",
-          9966:"218375c9240e2f4da60d19f8ef1a3640"
+          62:"7172201a8a932d814a446f9922939bef",
+          162:"a890aeb3ad36e61b2fe983e295cb11a9",
+          606:"292f7ec6ae0f9d5fbaa2d09da555b5fe",
+          761:"86e6185008a863dab64a149200872790",
+          883:"adfa2d135b4f4d087ce3a6f0f1bb79b1",
+          890:"a0570319f6ea5337473ca55175a6de7a",
+          1274:"f8ec01c5d324e4dc1e8c2eea179761b7",
+          1503:"f012970658bade8015b619a249c0b5e9",
+          1605:"221bbd98eb99e6835dc33db271eca0ad",
+          1731:"33cb0f2f307a1136479641d4eb7752c3",
+          1904:"3a173ce9bef809edb2d9ac1ed93069a9",
+          2021:"22af1c04a8f9e628957fdd3ec593c5a8",
+          2219:"37545c6fcfa62dac27f8294d1e94ef33",
+          2272:"5b9c11afa966da6ac22b7fd27238d2d7",
+          2309:"99aff293fed2c494647de755b39fdced",
+          2329:"848fc4a645636173c30b0a77c11bd588",
+          2333:"ffb5890fabe2109a9ad2fe33bc57e390",
+          2346:"d99c36389ec145f05e61c3ca439d7b90",
+          2581:"849e419d7eef77d49c1fc0a2a946bffc",
+          2656:"8228fc0cd38739de7df84758799e2905",
+          2805:"7dac16ef3e253a7a021ef100819cf34c",
+          2957:"275d8061e232ba84a8740da2284fa4c9",
+          3195:"b9506445bd85ef2b6574330f7d839d36",
+          3431:"ee1c8d050c1e9eb1eae3bec77a082da6",
+          3548:"ace7b5a2f567b2db86307412ef63a239",
+          3667:"f875d6002fb095d1f72f1044aa5229d8",
+          3685:"e95ef9896f3f309d5ef790eedb89a93f",
+          3939:"57d25c46a51adeacb2cd67d150ae46bc",
+          4016:"2b34c2789295b6565747dff8c98ccc85",
+          4309:"5960b945ddb81d05cd8ae7f1a3c0d643",
+          4326:"abdfe9ec5c8935d79903060242ba3996",
+          4607:"cb7f6cb707f1fd7acdfc3028f80e3be9",
+          4921:"e78452a272568604477e6bcb8c49413c",
+          4940:"8635faae53ac3b37adc9629862854656",
+          4962:"4a34820a430758fdb2a5045175015919",
+          4971:"44db2f09ae2d8026b4e2a6b59abc5897",
+          4997:"bc662f6232a88aa6b7b872553ac3f7bf",
+          5096:"f11ec78d55941e43ffa57869962aca59",
+          5114:"3c54b214bef73f96aa3afa3cf04e7558",
+          5505:"c6d8ae989f52f7bc0cb2af0e94252458",
+          5529:"b798588282877419658854c93c82381b",
+          5592:"309ad37c7bdaafb36fb1b3d692bfd089",
+          5660:"7774d4e633176931028b7d102ff9c0a6",
+          5847:"a6f3c5adc00a0481c260a37f87bd5921",
+          5901:"e0feafc246ed09654c74178109958ec1",
+          5940:"349207ee711083e58c6bd0ed131bf0c0",
+          5980:"9050caf18b123600afc9404acff6aa3b",
+          6048:"27a01f4121250a0363ab0c4f405a9bc1",
+          6144:"42175ea9da1f879af76ad1fbc83eae0b",
+          6295:"0f1e7c4f19612579f67306d647d79c99",
+          6320:"bea529a263c25bf7e5e8e00ebe1a368b",
+          6405:"03856e17a35aa364fc5503e7f37ef728",
+          6569:"54b9b15d90d1d581af4a1b76f8e3b67c",
+          6918:"a6b40d7a2b5f24c6f9989efea9bbe40e",
+          6932:"cab27297ea7574f9c1fae81ee7f76053",
+          6972:"c394d62b732c32e6b5afba14620e4ea1",
+          7110:"8ab678fe0a351e7888786aa8fa11450f",
+          7177:"1f3d86d63a29a9be8ad76abb71ba43b6",
+          7390:"28d7ddd28e3227aec4594948da23eb80",
+          7465:"60caa8ac275873ac6cb0ae00120e10d9",
+          7602:"6fcf841e72daf488cb6f5375f913e8cb",
+          7725:"135445d065f31778070af1d30d841246",
+          7886:"885afeffe14e6bc20138d5cd5ffc2817",
+          8061:"a651593ccd6a1fb852a652b53478e30a",
+          8173:"a21b784786867afe216c5d4d410a8ff3",
+          8225:"a89f37ff1bb77e2112da4640b6c00154",
+          8364:"712e0ebc1436261bc83cc123417d907f",
+          8509:"3d0b87cfce923b9c548cee22dbf806e6",
+          8696:"d64bf52c20162289286731373603d416",
+          8724:"9104f90a0ce5962d15fe19fcdf77533c",
+          8784:"1f8d74f25773791e57ef136c88d38182",
+          8950:"14d0a7ee2e694b7700d27d83e89d50d8",
+          9103:"3454acc2d045cb7ac614ea4a5f0a9064",
+          9192:"be40f585a2adc19e0d8f51c97cd51320",
+          9269:"94803427be5ab8b3fc2751f09ee54e26",
+          9663:"93f61326a86443bdcf3ae56b9170f865",
+          9708:"b3e9552c3e317fdabc730665903c08ed",
+          9724:"a119160c9020e7270556608c7a886aac",
+          9860:"687f65c0857d63683bfb29558407b649",
+          9933:"d7d6ac7a543f78f761a8147da1f4475a",
+          9966:"ba9c3cb4a03a955e312ea2de234301b6"
         }[e]+".js",
         d.miniCssF=e=>"css/"+{
           971:"101537b924f4411033bd9d2d8536a01a",
@@ -379,11 +379,11 @@ t){
           const e={
           },
           t="@rockstargames/modules-core-newswire-article:";
-          d.l=(a,
-          r,
+          d.l=(r,
+          a,
           n,
           o)=>{
-            if(e[a])return void e[a].push(r);
+            if(e[r])return void e[r].push(a);
             let c,
             f;
             if(void 0!==n){
@@ -391,9 +391,9 @@ t){
               for(var s=0;
               s<e.length;
               s++){
-                const r=e[s];
-                if(r.getAttribute("src")==a||r.getAttribute("data-webpack")==t+n){
-                  c=r;
+                const a=e[s];
+                if(a.getAttribute("src")==r||a.getAttribute("data-webpack")==t+n){
+                  c=a;
                   break
                 }
               }
@@ -404,17 +404,17 @@ t){
             d.nc),
             c.setAttribute("data-webpack",
             t+n),
-            c.src=a),
-            e[a]=[r];
+            c.src=r),
+            e[r]=[a];
             const b=(t,
-            r)=>{
+            a)=>{
               c.onerror=c.onload=null,
               clearTimeout(l);
-              const n=e[a];
-              if(delete e[a],
+              const n=e[r];
+              if(delete e[r],
               c.parentNode?.removeChild(c),
-              n?.forEach(e=>e(r)),
-              t)return t(r)
+              n?.forEach(e=>e(a)),
+              t)return t(a)
             },
             l=setTimeout(b.bind(null,
             void 0,
@@ -458,16 +458,16 @@ t){
             "./index",
             29441]
           };
-          d.f.remotes=(a,
-          r)=>{
+          d.f.remotes=(r,
+          a)=>{
             d.o(e,
-            a)&&e[a].forEach(e=>{
-              let a=d.R;
-              a||(a=[]);
+            r)&&e[r].forEach(e=>{
+              let r=d.R;
+              r||(r=[]);
               const n=t[e];
-              if(a.indexOf(n)>=0)return;
-              if(a.push(n),
-              n.p)return r.push(n.p);
+              if(r.indexOf(n)>=0)return;
+              if(r.push(n),
+              n.p)return a.push(n.p);
               const o=t=>{
                 t||(t=new Error("Container missing")),
                 "string"==typeof t.message&&(t.message+='\nwhile loading "'+n[1]+'" from '+n[2]),
@@ -478,13 +478,13 @@ t){
               },
               c=(e,
               t,
-              a,
+              r,
               d,
               c,
               f)=>{
                 try{
                   const s=e(t,
-                  a);
+                  r);
                   if(!s?.then)return c(s,
                   d,
                   f);
@@ -493,7 +493,7 @@ t){
                     d),
                     o);
                     if(!f)return e;
-                    r.push(n.p=e)
+                    a.push(n.p=e)
                   }
                 }catch(e){
                   o(e)
@@ -501,12 +501,12 @@ t){
               },
               f=(e,
               t,
-              r)=>c(t.get,
+              a)=>c(t.get,
               n[1],
-              a,
+              r,
               0,
               s,
-              r),
+              a),
               s=t=>{
                 n.p=1,
                 d.m[e]=e=>{
@@ -519,12 +519,12 @@ t){
               0,
               (e,
               t,
-              a)=>e?c(d.I,
+              r)=>e?c(d.I,
               n[0],
               0,
               e,
               f,
-              a):o(),
+              r):o(),
               1)
             })
           }
@@ -536,31 +536,31 @@ t){
           },
           t={
           };
-          d.I=(a,
-          r)=>{
-            r||(r=[]);
-            let n=t[a];
-            if(n||(n=t[a]={
+          d.I=(r,
+          a)=>{
+            a||(a=[]);
+            let n=t[r];
+            if(n||(n=t[r]={
             }),
-            r.indexOf(n)>=0)return;
-            if(r.push(n),
-            e[a])return e[a];
+            a.indexOf(n)>=0)return;
+            if(a.push(n),
+            e[r])return e[r];
             d.o(d.S,
-            a)||(d.S[a]={
+            r)||(d.S[r]={
             });
-            const o=d.S[a],
+            const o=d.S[r],
             c="@rockstargames/modules-core-newswire-article",
             f=(e,
             t,
-            a,
-            r)=>{
+            r,
+            a)=>{
               const n=o[e]=o[e]||{
               },
               d=n[t];
-              (!d||!d.loaded&&(!r!=!d.eager?r:c>d.from))&&(n[t]={
-                get:a,
+              (!d||!d.loaded&&(!a!=!d.eager?a:c>d.from))&&(n[t]={
+                get:r,
                 from:c,
-                eager:!!r
+                eager:!!a
               })
             },
             s=e=>{
@@ -572,8 +572,8 @@ t){
               try{
                 const n=d(e);
                 if(!n)return;
-                const o=e=>e&&e.init&&e.init(d.S[a],
-                r);
+                const o=e=>e&&e.init&&e.init(d.S[r],
+                a);
                 if(n.then)return b.push(n.then(o,
                 t));
                 const c=o(n);
@@ -583,7 +583,7 @@ t){
               }
             },
             b=[];
-            return"default"===a&&(f("@foundry/react",
+            return"default"===r&&(f("@foundry/react",
             "6.6.1",
             ()=>Promise.all([d.e(883),
             d.e(761),
@@ -754,7 +754,7 @@ t){
             ()=>d.e(4016).then(()=>()=>d(34016))),
             s(25136),
             s(29441)),
-            b.length?e[a]=Promise.all(b).then(()=>e[a]=1):e[a]=1
+            b.length?e[r]=Promise.all(b).then(()=>e[r]=1):e[r]=1
           }
         })(),
         (()=>{
@@ -763,12 +763,12 @@ t){
           const t=d.g.document;
           if(!e&&t&&("SCRIPT"===t.currentScript?.tagName.toUpperCase()&&(e=t.currentScript.src),
           !e)){
-            const a=t.getElementsByTagName("script");
-            if(a.length){
-              let t=a.length-1;
+            const r=t.getElementsByTagName("script");
+            if(r.length){
+              let t=r.length-1;
               for(;
               t>-1&&(!e||!/^http(s?):/.test(e));
-              )e=a[t--].src
+              )e=r[t--].src
             }
           }if(!e)throw new Error("Automatic publicPath is not supported in this browser");
           e=e.replace(/^blob:/,
@@ -781,29 +781,29 @@ t){
         (()=>{
           var e=e=>{
             var t=e=>e.split(".").map(e=>+e==e?+e:e),
-            a=/^([^-+]+)?(?:-([^+]+))?(?:\+(.+))?$/.exec(e),
-            r=a[1]?t(a[1]):[];
-            return a[2]&&(r.length++,
-            r.push.apply(r,
-            t(a[2]))),
-            a[3]&&(r.push([]),
-            r.push.apply(r,
-            t(a[3]))),
-            r
+            r=/^([^-+]+)?(?:-([^+]+))?(?:\+(.+))?$/.exec(e),
+            a=r[1]?t(r[1]):[];
+            return r[2]&&(a.length++,
+            a.push.apply(a,
+            t(r[2]))),
+            r[3]&&(a.push([]),
+            a.push.apply(a,
+            t(r[3]))),
+            a
           },
           t=e=>{
-            var a=e[0],
-            r="";
+            var r=e[0],
+            a="";
             if(1===e.length)return"*";
-            if(a+.5){
-              r+=0==a?">=":-1==a?"<":1==a?"^":2==a?"~":a>0?"=":"!=";
+            if(r+.5){
+              a+=0==r?">=":-1==r?"<":1==r?"^":2==r?"~":r>0?"=":"!=";
               for(var n=1,
               d=1;
               d<e.length;
               d++)n--,
-              r+="u"==(typeof(c=e[d]))[0]?"-":(n>0?".":"")+(n=2,
+              a+="u"==(typeof(c=e[d]))[0]?"-":(n>0?".":"")+(n=2,
               c);
-              return r
+              return a
             }var o=[];
             for(d=1;
             d<e.length;
@@ -816,10 +816,10 @@ t){
               "$1")
             }
           },
-          a=(t,
-          r)=>{
+          r=(t,
+          a)=>{
             if(0 in t){
-              r=e(r);
+              a=e(a);
               var n=t[0],
               d=n<0;
               d&&(n=-n-1);
@@ -832,7 +832,7 @@ t){
                 var s,
                 b,
                 l=c<t.length?(typeof t[c])[0]:"";
-                if(o>=r.length||"o"==(b=(typeof(s=r[o]))[0]))return!f||("u"==l?c>n&&!d:""==l!=d);
+                if(o>=a.length||"o"==(b=(typeof(s=a[o]))[0]))return!f||("u"==l?c>n&&!d:""==l!=d);
                 if("u"==b){
                   if(!f||"u"!=l)return!1
                 }else if(f)if(l==b)if(c<=n){
@@ -856,63 +856,63 @@ t){
             o<t.length;
             o++){
               var h=t[o];
-              i.push(1==h?u()|u():2==h?u()&u():h?a(h,
-              r):!u())
+              i.push(1==h?u()|u():2==h?u()&u():h?r(h,
+              a):!u())
             }return!!u()
           };
-          const r=(t,
-          a,
-          r)=>{
-            const n=r?(e=>Object.keys(e).reduce((t,
-            a)=>(e[a].eager&&(t[a]=e[a]),
+          const a=(t,
+          r,
+          a)=>{
+            const n=a?(e=>Object.keys(e).reduce((t,
+            r)=>(e[r].eager&&(t[r]=e[r]),
             t),
             {
-            }))(t[a]):t[a];
+            }))(t[r]):t[r];
             return Object.keys(n).reduce((t,
-            a)=>!t||!n[t].loaded&&((t,
-            a)=>{
+            r)=>!t||!n[t].loaded&&((t,
+            r)=>{
               t=e(t),
-              a=e(a);
-              for(var r=0;
+              r=e(r);
+              for(var a=0;
               ;
               ){
-                if(r>=t.length)return r<a.length&&"u"!=(typeof a[r])[0];
-                var n=t[r],
+                if(a>=t.length)return a<r.length&&"u"!=(typeof r[a])[0];
+                var n=t[a],
                 d=(typeof n)[0];
-                if(r>=a.length)return"u"==d;
-                var o=a[r],
+                if(a>=r.length)return"u"==d;
+                var o=r[a],
                 c=(typeof o)[0];
                 if(d!=c)return"o"==d&&"n"==c||"s"==c||"u"==d;
                 if("o"!=d&&"u"!=d&&n!=o)return n<o;
-                r++
+                a++
               }
             })(t,
-            a)?a:t,
+            r)?r:t,
             0)
           },
           n=(e,
           t,
-          a)=>a?a():((e,
+          r)=>r?r():((e,
           t)=>(e=>{
             throw new Error(e)
           })("Shared module "+t+" doesn't exist in shared scope "+e))(e,
           t),
           o=(e=>function(t,
-          a,
           r,
+          a,
           n,
           o){
             const c=d.I(t);
-            return c?.then&&!r?c.then(e.bind(e,
+            return c?.then&&!a?c.then(e.bind(e,
             t,
             d.S[t],
-            a,
+            r,
             !1,
             n,
             o)):e(t,
             d.S[t],
-            a,
             r,
+            a,
             n,
             o)
           })((e,
@@ -927,14 +927,14 @@ t){
             c))return n(e,
             c,
             b);
-            const l=r(o,
+            const l=a(o,
             c,
             f);
-            return a(s,
+            return r(s,
             l)||(u=((e,
-            a,
             r,
-            n)=>"Unsatisfied version "+r+" from "+(r&&e[a][r].from)+" of shared singleton module "+a+" (required "+t(n)+")")(o,
+            a,
+            n)=>"Unsatisfied version "+a+" from "+(a&&e[r][a].from)+" of shared singleton module "+r+" (required "+t(n)+")")(o,
             c,
             l,
             s),
@@ -1127,26 +1127,26 @@ t){
               if(d.o(c,
               e))return t.push(c[e]);
               if(!b[e]){
-                const a=t=>{
+                const r=t=>{
                   c[e]=0,
-                  d.m[e]=a=>{
+                  d.m[e]=r=>{
                     delete d.c[e],
-                    a.exports=t()
+                    r.exports=t()
                   }
                 };
                 b[e]=!0;
-                const r=t=>{
+                const a=t=>{
                   delete c[e],
-                  d.m[e]=a=>{
+                  d.m[e]=r=>{
                     throw delete d.c[e],
                     t
                   }
                 };
                 try{
                   const n=f[e]();
-                  n.then?t.push(c[e]=n.then(a).catch(r)):a(n)
+                  n.then?t.push(c[e]=n.then(r).catch(a)):r(n)
                 }catch(e){
-                  r(e)
+                  a(e)
                 }
               }
             })
@@ -1158,8 +1158,8 @@ t){
               6947:0
             };
             d.f.miniCss=(t,
-            a)=>{
-              e[t]?a.push(e[t]):0!==e[t]&&{
+            r)=>{
+              e[t]?r.push(e[t]):0!==e[t]&&{
                 971:1,
                 1274:1,
                 1503:1,
@@ -1179,42 +1179,42 @@ t){
                 9724:1,
                 9733:1,
                 9966:1
-              }[t]&&a.push(e[t]=(e=>new Promise((t,
-              a)=>{
-                var r=d.miniCssF(e),
-                n=d.p+r;
+              }[t]&&r.push(e[t]=(e=>new Promise((t,
+              r)=>{
+                var a=d.miniCssF(e),
+                n=d.p+a;
                 if(((e,
                 t)=>{
-                  for(var a=document.getElementsByTagName("link"),
-                  r=0;
-                  r<a.length;
-                  r++){
-                    var n=(o=a[r]).getAttribute("data-href")||o.getAttribute("href");
+                  for(var r=document.getElementsByTagName("link"),
+                  a=0;
+                  a<r.length;
+                  a++){
+                    var n=(o=r[a]).getAttribute("data-href")||o.getAttribute("href");
                     if("stylesheet"===o.rel&&(n===e||n===t))return o
                   }var d=document.getElementsByTagName("style");
-                  for(r=0;
-                  r<d.length;
-                  r++){
+                  for(a=0;
+                  a<d.length;
+                  a++){
                     var o;
-                    if((n=(o=d[r]).getAttribute("data-href"))===e||n===t)return o
+                    if((n=(o=d[a]).getAttribute("data-href"))===e||n===t)return o
                   }
-                })(r,
+                })(a,
                 n))return t();
                 ((e,
                 t,
-                a,
                 r,
+                a,
                 n)=>{
                   var o=document.createElement("link");
                   o.rel="stylesheet",
                   o.type="text/css",
                   d.nc&&(o.nonce=d.nc),
-                  o.onerror=o.onload=a=>{
+                  o.onerror=o.onload=r=>{
                     if(o.onerror=o.onload=null,
-                    "load"===a.type)r();
+                    "load"===r.type)a();
                     else{
-                      var d=a&&a.type,
-                      c=a&&a.target&&a.target.href||t,
+                      var d=r&&r.type,
+                      c=r&&r.target&&r.target.href||t,
                       f=new Error("Loading CSS chunk "+e+" failed.\n("+d+": "+c+")");
                       f.name="ChunkLoadError",
                       f.code="CSS_CHUNK_LOAD_FAILED",
@@ -1230,13 +1230,13 @@ t){
                 n,
                 0,
                 t,
-                a)
+                r)
               }))(t).then(()=>{
                 e[t]=0
               },
-              a=>{
+              r=>{
                 throw delete e[t],
-                a
+                r
               }))
             }
           }
@@ -1246,31 +1246,31 @@ t){
             6947:0
           };
           d.f.j=(t,
-          a)=>{
-            let r=d.o(e,
+          r)=>{
+            let a=d.o(e,
             t)?e[t]:void 0;
-            if(0!==r)if(r)a.push(r[2]);
+            if(0!==a)if(a)r.push(a[2]);
             else if(/^(2(199|285|432|83|909)|3(082|115|331)|9(225|71|733)|1270|1583|4017|7301)$/.test(t))e[t]=0;
             else{
-              const n=new Promise((a,
-              n)=>r=e[t]=[a,
+              const n=new Promise((r,
+              n)=>a=e[t]=[r,
               n]);
-              a.push(r[2]=n);
+              r.push(a[2]=n);
               const o=d.p+d.u(t),
               c=new Error,
-              f=a=>{
+              f=r=>{
                 if(d.o(e,
-                t)&&(r=e[t],
-                0!==r&&(e[t]=void 0),
-                r)){
-                  const e=a&&("load"===a.type?"missing":a.type),
-                  n=a&&a.target&&a.target.src;
+                t)&&(a=e[t],
+                0!==a&&(e[t]=void 0),
+                a)){
+                  const e=r&&("load"===r.type?"missing":r.type),
+                  n=r&&r.target&&r.target.src;
                   c.message="Loading chunk "+t+" failed.\n("+e+": "+n+")",
                   c.name="ChunkLoadError",
                   c.type=e,
                   c.request=n,
-                  c.event=a,
-                  r[1](c)
+                  c.event=r,
+                  a[1](c)
                 }
               };
               d.l(o,
@@ -1280,29 +1280,29 @@ t){
             }
           };
           const t=(t,
-          a)=>{
-            let[r,
+          r)=>{
+            let[a,
             n,
-            o]=a;
+            o]=r;
             var c,
             f,
             s=0;
-            if(r.some(t=>0!==e[t])){
+            if(a.some(t=>0!==e[t])){
               for(c in n)d.o(n,
               c)&&(d.m[c]=n[c]);
               o&&o(d)
-            }for(t&&t(a);
-            s<r.length;
-            s++)f=r[s],
+            }for(t&&t(r);
+            s<a.length;
+            s++)f=a[s],
             d.o(e,
             f)&&e[f]&&e[f][0](),
             e[f]=0
           },
-          a=self.webpackChunk_rockstargames_modules_core_newswire_article=self.webpackChunk_rockstargames_modules_core_newswire_article||[];
-          a.forEach(t.bind(null,
+          r=self.webpackChunk_rockstargames_modules_core_newswire_article=self.webpackChunk_rockstargames_modules_core_newswire_article||[];
+          r.forEach(t.bind(null,
           0)),
-          a.push=t.bind(null,
-          a.push.bind(a))
+          r.push=t.bind(null,
+          r.push.bind(r))
         })(),
         d.nc=void 0,
         d(64769),
