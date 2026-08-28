@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="ba05d5d3-8289-4739-8ab5-e2588ee2951a",
-  e._sentryDebugIdIdentifier="sentry-dbid-ba05d5d3-8289-4739-8ab5-e2588ee2951a")
+  e._sentryDebugIds[t]="9264902d-a583-4236-b31b-3e72b23f6ff8",
+  e._sentryDebugIdIdentifier="sentry-dbid-9264902d-a583-4236-b31b-3e72b23f6ff8")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"b64c845fbd4145dd4934b118ebd89ab3ed32f21c",
+    release:"90576ff78edf4e7c067413c3d030b5d466aa6a58",
     packageName:"@rockstargames/sites-rockstar-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"b64c845fbd4145dd4934b118ebd89ab3ed32f21c"
+  id:"90576ff78edf4e7c067413c3d030b5d466aa6a58"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -217,14 +217,14 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          162:"82e75e2be65b6c32ce2839517749ffda",
-          581:"724aa3b64c88edd7018d39a6bd5877e7",
-          817:"837f1a1b6d1db2b1d7a5ccd63c13bdf3",
-          830:"8a81f483772eed7b425593e911b41ef7",
-          860:"5a5d31f9c7f918b24131080ef89fbeef",
-          944:"ef436804de9ad3ee99929071e5c71007",
-          978:"611f1bb249f2ffb266c97195b64ac972",
-          995:"6dbb24bc02caf79e588c15e97caa22c2"
+          162:"664ee5de3ef884c759e76934061377dc",
+          581:"e4bc55c5f8531f6e2020daf9155a3c24",
+          657:"a6794852c627e9f5c41334baa632050e",
+          830:"6e56400cda2e7ddb7fb3fe0f539c5f1d",
+          860:"2ff0167dcf1debe5bfabb7682b6bb178",
+          944:"3013237a1e19262f05cbc4c7386a2f5d",
+          978:"480418685fec1c6bb859ca99f86aff58",
+          995:"c8826dfed72960bfc26d338fc84c96c3"
         }[e]+".js",
         o.miniCssF=e=>"css/d3aed2f918e98d6df62a73adec6169ce.css",
         o.g=function(){
@@ -269,26 +269,26 @@ t){
             t+a),
             i.src=r),
             e[r]=[n];
-            const d=(t,
+            const f=(t,
             n)=>{
               i.onerror=i.onload=null,
-              clearTimeout(f);
+              clearTimeout(d);
               const o=e[r];
               if(delete e[r],
               i.parentNode?.removeChild(i),
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            f=setTimeout(d.bind(null,
+            d=setTimeout(f.bind(null,
             void 0,
             {
               type:"timeout",
               target:i
             }),
             12e4);
-            i.onerror=d.bind(null,
+            i.onerror=f.bind(null,
             i.onerror),
-            i.onload=d.bind(null,
+            i.onload=f.bind(null,
             i.onload),
             c&&document.head.appendChild(i)
           }
@@ -427,7 +427,7 @@ t){
             o.e(82),
             o.e(830),
             o.e(225),
-            o.e(817)]).then(()=>()=>o(9830))),
+            o.e(657)]).then(()=>()=>o(9830))),
             c("react-dom",
             "18.3.1",
             ()=>Promise.all([o.e(162),
@@ -535,24 +535,24 @@ t){
               i++,
               s++){
                 var l,
-                d,
-                f=i<t.length?(typeof t[i])[0]:"";
-                if(s>=n.length||"o"==(d=(typeof(l=n[s]))[0]))return!c||("u"==f?i>o&&!a:""==f!=a);
-                if("u"==d){
-                  if(!c||"u"!=f)return!1
-                }else if(c)if(f==d)if(i<=o){
+                f,
+                d=i<t.length?(typeof t[i])[0]:"";
+                if(s>=n.length||"o"==(f=(typeof(l=n[s]))[0]))return!c||("u"==d?i>o&&!a:""==d!=a);
+                if("u"==f){
+                  if(!c||"u"!=d)return!1
+                }else if(c)if(d==f)if(i<=o){
                   if(l!=t[i])return!1
                 }else{
                   if(a?l>t[i]:l<t[i])return!1;
                   l!=t[i]&&(c=!1)
-                }else if("s"!=f&&"n"!=f){
+                }else if("s"!=d&&"n"!=d){
                   if(a||i<=o)return!1;
                   c=!1,
                   i--
                 }else{
-                  if(i<=o||d<f!=a)return!1;
+                  if(i<=o||f<d!=a)return!1;
                   c=!1
-                }else"s"!=f&&"n"!=f&&(c=!1,
+                }else"s"!=d&&"n"!=d&&(c=!1,
                 i--)
               }
             }var u=[],
@@ -625,26 +625,26 @@ t){
           i,
           c,
           l,
-          d)=>{
+          f)=>{
             if(!((e,
             t)=>e&&o.o(e,
             t))(s,
             i))return a(e,
             i,
-            d);
-            const f=n(s,
+            f);
+            const d=n(s,
             i,
             c);
             return r(l,
-            f)||(p=((e,
+            d)||(p=((e,
             r,
             n,
             o)=>"Unsatisfied version "+n+" from "+(n&&e[r][n].from)+" of shared singleton module "+r+" (required "+t(o)+")")(s,
             i,
-            f,
+            d,
             l),
             "undefined"!=typeof console&&console.warn&&console.warn(p)),
-            (u=s[i][f]).loaded=1,
+            (u=s[i][d]).loaded=1,
             u.get();
             var u,
             p
@@ -684,7 +684,7 @@ t){
             225:[9225],
             978:[3331]
           },
-          d={
+          f={
           };
           o.f.consumes=(e,
           t)=>{
@@ -692,7 +692,7 @@ t){
             e)&&l[e].forEach(e=>{
               if(o.o(i,
               e))return t.push(i[e]);
-              if(!d[e]){
+              if(!f[e]){
                 const r=t=>{
                   i[e]=0,
                   o.m[e]=r=>{
@@ -700,7 +700,7 @@ t){
                     r.exports=t()
                   }
                 };
-                d[e]=!0;
+                f[e]=!0;
                 const n=t=>{
                   delete i[e],
                   o.m[e]=r=>{

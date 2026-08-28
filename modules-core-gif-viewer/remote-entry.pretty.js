@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="a746a141-676b-47f3-989e-eae813741720",
-  e._sentryDebugIdIdentifier="sentry-dbid-a746a141-676b-47f3-989e-eae813741720")
+  e._sentryDebugIds[t]="033dbf25-2050-4c95-b926-abbc752c69a6",
+  e._sentryDebugIdIdentifier="sentry-dbid-033dbf25-2050-4c95-b926-abbc752c69a6")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"b64c845fbd4145dd4934b118ebd89ab3ed32f21c",
+    release:"90576ff78edf4e7c067413c3d030b5d466aa6a58",
     packageName:"@rockstargames/modules-core-gif-viewer",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"b64c845fbd4145dd4934b118ebd89ab3ed32f21c"
+  id:"90576ff78edf4e7c067413c3d030b5d466aa6a58"
 },
 System.register([],
 function(e,
@@ -220,23 +220,23 @@ t){
         t),
         [])),
         n.u=e=>"js/"+{
-          67:"079c4d7152f826b4d6935f1cd454dc5e",
-          162:"d833b2e142a8e16e6a7ad33429549bce",
-          163:"51d47478047b7bd5ad0aa707df01f314",
-          171:"8f16495d5131d0f244eac8e4baec0c5c",
-          208:"ec2e3ee035d9b41d38fb8049155a9355",
-          217:"3b6e2ce80b8df36b292cc0b7d3f5e3f3",
-          225:"eef0f9d311a1f3759d0273f205b7936d",
-          305:"3c27636583247cf28bb56493d877073e",
-          389:"7ef35416f1660fb3fd7979a0f6f7ca0d",
-          503:"8e4db59ddbbea4dd566c6423bd372a23",
-          581:"e0585c6bd367f09070c71abea8860435",
-          606:"037f2d6ebe37a763f6fcb93eb6377eb7",
-          656:"f0ceecce2e7e7f6f19cedeaa07ef833e",
-          788:"d9277f798345267ae11407186cd4dedf",
-          860:"02dddc8c863b00da31c389966f486027",
-          920:"c5d680e8256d9aaefbcd925f3d5a4b6d",
-          986:"cf6c87f4c71fca211881b9ddff3636d4"
+          67:"02a543359a6ee2f73f3d723816fc065e",
+          162:"3c623a5811a5f6ac3dde81c8509e0dbc",
+          163:"43c452597cb05e0ba58d70702f74c7b7",
+          171:"ee2bce4927583ae0036dc47414ba2cb4",
+          208:"97aec51c227322b466e98eb46ead48c0",
+          217:"9d12e9c6292d4a1170f7f2ec1beb41f2",
+          225:"ad47d1cac98ae09f0c894781b061bd72",
+          305:"4670899d246d1cdacee28fc6f9b52cfe",
+          389:"0b1c714db37507bb1c166e54c41de6bd",
+          503:"c22474e4515fac172cfd0f12d9fdf8ca",
+          581:"34e179ba57a5b4ecee15939eeaf8f29e",
+          606:"e25de289877133e3f08fce120bb435e9",
+          656:"72fbed6fced0584c094e261f7f95b84b",
+          788:"eb4295b4dee5ded24b2ce6268a18c785",
+          860:"28ca11944fd3d6c17f0d08009889bcf9",
+          920:"6be774bcf4e66018e72cc40bdb25f77f",
+          986:"b250d413f9a38841722c2d12bb106147"
         }[e]+".js",
         n.miniCssF=e=>"css/"+{
           171:"b5328e2f95f5b178239a08711e5d52f6",
@@ -268,10 +268,10 @@ t){
             d;
             if(void 0!==a){
               const e=document.getElementsByTagName("script");
-              for(var f=0;
-              f<e.length;
-              f++){
-                const n=e[f];
+              for(var c=0;
+              c<e.length;
+              c++){
+                const n=e[c];
                 if(n.getAttribute("src")==r||n.getAttribute("data-webpack")==t+a){
                   s=n;
                   break
@@ -286,26 +286,26 @@ t){
             t+a),
             s.src=r),
             e[r]=[o];
-            const c=(t,
+            const l=(t,
             n)=>{
               s.onerror=s.onload=null,
-              clearTimeout(l);
+              clearTimeout(f);
               const o=e[r];
               if(delete e[r],
               s.parentNode?.removeChild(s),
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            l=setTimeout(c.bind(null,
+            f=setTimeout(l.bind(null,
             void 0,
             {
               type:"timeout",
               target:s
             }),
             12e4);
-            s.onerror=c.bind(null,
+            s.onerror=l.bind(null,
             s.onerror),
-            s.onload=c.bind(null,
+            s.onload=l.bind(null,
             s.onload),
             d&&document.head.appendChild(s)
           }
@@ -359,7 +359,7 @@ t){
                 eager:!!n
               })
             },
-            f=[];
+            c=[];
             return"default"===r&&(d("@rsgweb/tina",
             "0.0.0",
             ()=>Promise.all([n.e(217),
@@ -394,7 +394,7 @@ t){
             d("react",
             "18.3.1",
             ()=>n.e(581).then(()=>()=>n(22581)))),
-            e[r]=f.length?Promise.all(f).then(()=>e[r]=1):1
+            e[r]=c.length?Promise.all(c).then(()=>e[r]=1):1
           }
         })(),
         (()=>{
@@ -469,25 +469,25 @@ t){
               ;
               s++,
               i++){
-                var f,
-                c,
-                l=s<t.length?(typeof t[s])[0]:"";
-                if(i>=n.length||"o"==(c=(typeof(f=n[i]))[0]))return!d||("u"==l?s>o&&!a:""==l!=a);
-                if("u"==c){
-                  if(!d||"u"!=l)return!1
-                }else if(d)if(l==c)if(s<=o){
-                  if(f!=t[s])return!1
+                var c,
+                l,
+                f=s<t.length?(typeof t[s])[0]:"";
+                if(i>=n.length||"o"==(l=(typeof(c=n[i]))[0]))return!d||("u"==f?s>o&&!a:""==f!=a);
+                if("u"==l){
+                  if(!d||"u"!=f)return!1
+                }else if(d)if(f==l)if(s<=o){
+                  if(c!=t[s])return!1
                 }else{
-                  if(a?f>t[s]:f<t[s])return!1;
-                  f!=t[s]&&(d=!1)
-                }else if("s"!=l&&"n"!=l){
+                  if(a?c>t[s]:c<t[s])return!1;
+                  c!=t[s]&&(d=!1)
+                }else if("s"!=f&&"n"!=f){
                   if(a||s<=o)return!1;
                   d=!1,
                   s--
                 }else{
-                  if(s<=o||c<l!=a)return!1;
+                  if(s<=o||l<f!=a)return!1;
                   d=!1
-                }else"s"!=l&&"n"!=l&&(d=!1,
+                }else"s"!=f&&"n"!=f&&(d=!1,
                 s--)
               }
             }var u=[],
@@ -495,8 +495,8 @@ t){
             for(i=1;
             i<t.length;
             i++){
-              var b=t[i];
-              u.push(1==b?p()|p():2==b?p()&p():b?r(b,
+              var h=t[i];
+              u.push(1==h?p()|p():2==h?p()&p():h?r(h,
               n):!p())
             }return!!p()
           };
@@ -559,27 +559,27 @@ t){
           i,
           s,
           d,
-          f,
-          c)=>{
+          c,
+          l)=>{
             if(!((e,
             t)=>e&&n.o(e,
             t))(i,
             s))return a(e,
             s,
-            c);
-            const l=o(i,
+            l);
+            const f=o(i,
             s,
             d);
-            return r(f,
-            l)||(p=((e,
+            return r(c,
+            f)||(p=((e,
             r,
             n,
             o)=>"Unsatisfied version "+n+" from "+(n&&e[r][n].from)+" of shared singleton module "+r+" (required "+t(o)+")")(i,
             s,
-            l,
-            f),
+            f,
+            c),
             "undefined"!=typeof console&&console.warn&&console.warn(p)),
-            (u=i[s][l]).loaded=1,
+            (u=i[s][f]).loaded=1,
             u.get();
             var u,
             p
@@ -626,22 +626,22 @@ t){
             n.e(389),
             n.e(163)]).then(()=>()=>n(19163)))
           },
-          f={
+          c={
             17:[84017],
             82:[93082],
             171:[17301],
             331:[13331],
             987:[99225]
           },
-          c={
+          l={
           };
           n.f.consumes=(e,
           t)=>{
-            n.o(f,
-            e)&&f[e].forEach(e=>{
+            n.o(c,
+            e)&&c[e].forEach(e=>{
               if(n.o(s,
               e))return t.push(s[e]);
-              if(!c[e]){
+              if(!l[e]){
                 const r=t=>{
                   s[e]=0,
                   n.m[e]=r=>{
@@ -649,7 +649,7 @@ t){
                     r.exports=t()
                   }
                 };
-                c[e]=!0;
+                l[e]=!0;
                 const o=t=>{
                   delete s[e],
                   n.m[e]=r=>{
@@ -786,14 +786,14 @@ t){
             i]=r;
             var s,
             d,
-            f=0;
+            c=0;
             if(o.some(t=>0!==e[t])){
               for(s in a)n.o(a,
               s)&&(n.m[s]=a[s]);
               i&&i(n)
             }for(t&&t(r);
-            f<o.length;
-            f++)d=o[f],
+            c<o.length;
+            c++)d=o[c],
             n.o(e,
             d)&&e[d]&&e[d][0](),
             e[d]=0

@@ -87,11 +87,11 @@
 ),'Route path
 ),new URLSearchParams(
 ),switch:new ae(
-),switch:new se(
+),switch:new re(
 ),xboxone:new ae(
-),xboxone:new se(
+),xboxone:new re(
 ),xboxsx:new ae(
-),xboxsx:new se(
+),xboxsx:new re(
 ). If you meant to render a collection of children, use an array instead.
 ).concat(null==n?void 0:n.defaultMessage,
 ).concat(null==n?void 0:n.description,

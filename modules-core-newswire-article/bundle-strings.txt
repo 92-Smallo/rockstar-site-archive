@@ -174,7 +174,7 @@
 ).concat(null==n?void 0:n.defaultMessage,
 ).concat(null==n?void 0:n.description,
 ).toUpperCase():void 0,games_played:n.length?n.join(
-).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:t?
+).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:p,section_layout:t?
 ).toUpperCase():void 0,gta_plus_platforms:s.length?s.map(e=>i[e]??e).join(
 ).toUpperCase():void 0,gtao_platforms_played:r.length?r.map(e=>i[e]??e).join(
 )),a=new s.WebKitCSSMatrix(
