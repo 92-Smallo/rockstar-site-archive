@@ -1,37 +1,34 @@
-, rendering default message verbatim'),h,r,e)),
-, using ').concat(t.defaultMessage?
-, using ').concat(v?
+, rendering default message verbatim`,e,c,t)),
+, so there is no way to handle the request.`:
+, so there is no way to handle the request.`:n&&(s=`Invalid request method
 , you should instead write 'globalStyle(
-,10))return a.substring(0,a.indexOf(
 ,a.onTranslateToWrapperTransitionEnd),a.onTranslateToWrapperTransitionEnd=null,delete a.onTranslateToWrapperTransitionEnd,a.animating=!1,n&&a.emit(
 ,breakpoints:void 0,breakpointsBase:
 ,height:null!==(n=this.props.size.height)&&void 0!==n?n:
-,l='No route matches URL
+,i=new Set(o.split(
+,s=`No route matches URL
 ,this.status=void 0===t.status?200:t.status,this.status<200||this.status>599)throw new RangeError(
 : can't set as prototype!
-:i.open&&!a.collapsible||void 0,
-:if(i.options.length>1)throw new RangeError(
+:i.open&&!s.collapsible||void 0,
+:if(r.options.length>1)throw new RangeError(
 :if(r<4)throw new RangeError(
 :return this.currZoomLevel>this.zoomLevels.initial?
 :t.isInvalid||void 0,
 :throw new RangeError(
 !==a||void 0===navigator.plugins&&
-!==d.type)throw new Error(
 !==e.type)throw new Error(
 !==e[1].type)throw new Error(
 !==e[e.length-1].type)throw new Error(
 !==g)throw new Error(
-!==I.env.REACT_APP_SC_DISABLE_SPEEDY&&I.env.REACT_APP_SC_DISABLE_SPEEDY:void 0!==I.env.SC_DISABLE_SPEEDY&&
-!==n||o instanceof ln(o).HTMLInputElement&&!qo(o,r)||o instanceof ln(o).HTMLTextAreaElement||o.isContentEditable||(
-!==p.env.REACT_APP_SC_DISABLE_SPEEDY&&p.env.REACT_APP_SC_DISABLE_SPEEDY:void 0!==p.env.SC_DISABLE_SPEEDY&&
 !==r.kind)throw new Error(
 !==t[t.length-1].type)throw new Error(
+!==u.type)throw new Error(
 !=typeof a||(a=document.createElement(
 !=typeof c||(c=document.createElement(
 !=typeof CSS&&CSS.supports&&CSS.supports(
-!=typeof document?G.useLayoutEffect:G.useEffect,fd=e=>e&&!Array.isArray(e)&&
+!=typeof document?a.useLayoutEffect:a.useEffect,to=e=>e&&!Array.isArray(e)&&
+!=typeof document&&(
 !=typeof document&&(document.addEventListener(
-!=typeof e?null:
 !=typeof e)throw new Error(
 !=typeof e)throw new n(
 !=typeof e)throw new TypeError(
@@ -40,49 +37,36 @@
 !=typeof e&&console.warn(
 !=typeof e||!e.includes(
 !=typeof i&&i.removeAttribute(
+!=typeof l?null:
 !=typeof l||(l=document.createElement(
 !=typeof n?(t.minimumSignificantDigits=r.length,t.maximumSignificantDigits=r.length):
-!=typeof n?Promise.reject(new Error('You cannot call the handler for a route which defines a boolean
 !=typeof navigator&&(navigator.language||navigator.userLanguage)||
-!=typeof PointerEvent&&(n.removeEventListener(
-!=typeof PointerEvent&&(r.addEventListener(
+!=typeof PointerEvent&&(n.addEventListener(
+!=typeof PointerEvent&&(r.removeEventListener(
+!=typeof process&&void 0!==process.env&&!1),ue=
+!=typeof process&&void 0!==process.env&&(process.env.REACT_APP_SC_ATTR||process.env.SC_ATTR)||
 !=typeof r)throw new TypeError(r+
 !=typeof s||(s=document.createElement(
 !=typeof self&&self.Math==Math?self:Function(
+!=typeof ShadowRoot&&e instanceof ShadowRoot||
 !=typeof t.el&&(t.el.removeEventListener(
 !=typeof t)throw new TypeError(
 !=typeof t&&null!==t)throw new TypeError(
 !=typeof WeakMap?WeakMap:Map,s=
+!=typeof window?window:
 !=typeof window&&(window[Symbol.for(
 !=typeof window&&void 0!==window.CSS&&
 !=typeof window&&window.addEventListener(
-!=typeof window&&window.document&&(Hc=window,Xc=Hc.document,Gc=Xc.documentElement,Zc=xu(
+!=typeof window&&window.document&&(Er=window,Dr=Er.document,Lr=Dr.documentElement,Ar=fn(
 !=typeof window&&window.Math==Math?window:
-!=typeof window&&window[Ik]||
+!=typeof window&&window[z]||
 . Doing nothing
 . Must include exactly one non-modifier key (e.g.
+. Options are
+. This means if you navigate deeper, the parent won't match anymore and therefore the child routes will never render. Please change the parent <Route path=
 .gsap-marker-start, .gsap-marker-end, .gsap-marker-scroller-start, .gsap-marker-scroller-end
-" as fallback. See https://formatjs.github.io/docs/react-intl/api#intlshape for more details
-" as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details
-" because the `*` character must always follow a `/` in the pattern. To get rid of this warning, please change the route path to "
-" but did not provide a `loader` for route "
-" but did not provide an `action` for route "
-" but didn't return anything from your `
-" could not be decoded because it is is a malformed URL segment. This is probably due to a bad percent encoding (
-" defined but its lazy function is also returning a value for this property. The lazy route property "
 " does not exist in container.
-" does not match URL "
-" has a static property "
-" in Intl.DateTimeFormat. Using default locale: "
-" in Intl.NumberFormat. Using default locale: "
-" is not valid. An absolute child route path must start with the combined path of all its parent routes.
-" resolved/rejected with `undefined`, you must resolve/reject with a value or `null`.
-" will be ignored.
-" will be treated as if it were "
-", rendering message verbatim
-", so there is no way to handle the request.
 ". Should be a string, number, null or object. Received: "
-"locale" was not configured, using "
 (Abre em uma nova janela)
 (Apri in una nuova finestra)
 (hover: none), (pointer: coarse)
@@ -96,21 +80,19 @@
 (S'ouvre dans une nouvelle fenêtre)
 (Se abre en una ventana nueva)
 (see https://github.com/apollographql/invariant-packages)
+(under <Route path=
 ) in the URL path
 ) is greater than the number of directories (
 ) to 'parent', you should add
-),'Route path
+),`Route path
+),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
+),b(null!=i,'useFetcher can only be used on routes that contain a unique
 ),height:t&&void 0!==t.height&&!this.state.isResizing?w(t.height):n(
-),i=new RegExp(
-),new URLSearchParams(
 ),switch:new l(
 ),xboxone:new l(
 ),xboxsx:new l(
 ). If you meant to render a collection of children, use an array instead.
-).concat(null==n?void 0:n.defaultMessage,
-).concat(null==n?void 0:n.description,
 )),a=new n.WebKitCSSMatrix(
-)),D=new RegExp(
 ))||void 0===n?void 0:n.toLowerCase())||g.alreadySilent.add(t),t.setAttribute(
 ))return n*(Number(e.replace(
 ))return Number(e.replace(
@@ -118,8 +100,6 @@
 ))return t*(Number(e.replace(
 ))return this.error(
 ))throw new Error(
-)&&(f(i.relativePath.startsWith(n),'Absolute route path
-[@formatjs/intl Error
 [aria-live], script
 [contenteditable]:not([contenteditable="false"]):not([inert]):not([inert] *)
 [native code]
@@ -158,26 +138,27 @@
 [React Intl] Could not find required `intl` object. <IntlProvider> needs to exist in the component ancestry.
 [tabindex]:not(slot):not([inert]):not([inert] *)
 [title="ALIENBOLA" i]
-]. Please separate it out to the `to.
+]),a=await crypto.subtle.sign(
 @@toPrimitive must return a primitive value.
 /graphql
 /npm-monitoring
 /reddeadonline/newswire
 /reddeadonline/videos
 %3E%3Cstyle type=
-` field. Alternatively you may provide the full path as a string in <Link to="..."> and the router will parse it for you.
-` function. Please return a value or `null`.
+`),E(null==p||void 0!==p[p.length-1].route.element||void 0!==p[p.length-1].route.Component||void 0!==p[p.length-1].route.lazy,`Matched leaf route at location
+`useViewTransitionState` must be used within `react-router-dom`'s `RouterProvider`. Did you accidentally import `RouterProvider` from `react-router`?
 © 2020 Denis Pushkarev (zloirock.ru)
 +(new Date).getTime()):this.url+=(/\?/.test(this.url)?
-+a.toUpperCase()+' request to
 +be),hsla:new RegExp(
 +be),hsva:new RegExp(
 +be),rgba:new RegExp(
++btoa(String.fromCharCode(...new Uint8Array(a))).replace(/=+$/,
 +t.statusText,this.headers=new p(t.headers),this.url=t.url||
 +ye),hsl:new RegExp(
 +ye),hsv:new RegExp(
 <Await> caught the following error during render
 <iframe src="https://www.googletagmanager.com/ns.html?id=
+<Navigate> may be used only in the context of a <Router> component.
 <SignInLink>Accedi</SignInLink> al tuo account di Rockstar Games per inviare feedback.
 <SignInLink>Connectez-vous</SignInLink> à votre compte Rockstar Games pour envoyer votre avis.
 <SignInLink>Inicia sesión</SignInLink> en tu cuenta de Rockstar Games para enviar comentarios.
@@ -187,39 +168,57 @@
 <SignInLink>Zaloguj się</SignInLink> na swoje konto Rockstar Games, aby przesłać opinię.
 <SignInLink>登入</SignInLink>您的 Rockstar Games 帳戶以提交意見反應。
 <SignInLink>登录</SignInLink>您的Rockstar Games账户以提交反馈。
-===d.value&&!r)throw new Error(
+===e.id?_a:void 0:t.HydrateFallback,i=t.ErrorBoundary?t.ErrorBoundary:
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
 ===e.type&&(l=e.renderFraction?e.renderFraction.call(t,e.currentClass,e.totalClass):`<span class=
 ===e.type&&(l=e.renderProgressbar?e.renderProgressbar.call(t,e.progressbarFillClass):`<span class=
 ===r.preventScrollAxis?(t._active=!1,void this.clean()):(this.timeoutStore.remove(
-===r)return void e.removeAttribute(
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===this.method)&&o)throw new TypeError(
+===u.value&&!r)throw new Error(
 ==typeof c.bearerToken&&u.searchParams.append(
-==typeof clearTimeout?clearTimeout:void 0,al=
-==typeof document)throw new Error(
-==typeof e?e:e.pathname,search:
+==typeof e?new URL(e,
 ==typeof e.closest?e.closest(
+==typeof e.imageSizes:
+==typeof e.imageSrcSet&&
 ==typeof e.internal&&
+==typeof e.isSigned&&
+==typeof e.name&&
+==typeof e.parse&&
+==typeof e.rel&&
 ==typeof e.status&&
 ==typeof e.statusText&&
 ==typeof e.type&&
 ==typeof e&&!1!==i.config().nullTargetWarn?console.warn(
+==typeof e&&e.constructor.name===Object.name&&!(
 ==typeof exports&&exports&&!exports.nodeType&&exports,a=o&&
-==typeof exports&&exports&&!exports.nodeType&&exports,c=o&&
+==typeof exports&&exports&&!exports.nodeType&&exports,c=n&&
 ==typeof FormData,
 ==typeof h&&(h.endsWith(
-==typeof n.children||
+==typeof i?n.createElement(
 ==typeof n&&!(u=null===(i=this.getDocument())||void 0===i?void 0:i.querySelector(n)))throw new Error(
-==typeof performance.now?performance:Date,Pt=new Set,St=
+==typeof performance.now?performance:Date,Te=new Set,Ee=
 ==typeof performance&&performance&&
-==typeof Promise?Promise:void 0,ul=
-==typeof ResizeObserver,layoutShift:s=
-==typeof setTimeout?setTimeout:void 0,ll=
+==typeof r&&r instanceof Error||(r=new Error(
+==typeof ResizeObserver,layoutShift:d=
 ==typeof Symbol&&Symbol.for,r=n?Symbol.for(
-==typeof t.get&&
+==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
+==typeof t.imageSizes?t.imageSizes:void 0,media:
+==typeof t.imageSrcSet?t.imageSrcSet:void 0,imageSizes:
+==typeof t.integrity?t.integrity:void 0,nonce:
+==typeof t.integrity?t.integrity:void 0,o=
+==typeof t.nonce?t.nonce:void 0,type:
+==typeof t.referrerPolicy?t.referrerPolicy:void 0,imageSrcSet:
+==typeof t.sri?n.createElement(
+==typeof t.type?t.type:void 0,fetchPriority:
+==typeof window?
 ==typeof y?.className&&delete y.className,(0,r.jsxs)(
+> is not able to match the URL
+> to <Route path=
+>) but the parent route path has no trailing
 ></span> / <span class=
+💿 Hey developer 👋. You can provide a way better UX than this
+💿 Hey developer 👋. You can provide a way better UX than this when your app throws errors. Check out https://reactrouter.com/how-to/error-boundary for more information.
 100ms transform ease
 2º Passe de Dia das Bruxas
 A button on XBOX ONE
@@ -227,6 +226,7 @@ A focus-trap cannot use a Fragment as its child container. Try replacing it with
 A hotkey has the "scopes" option set, however no active scopes were found. If you want to use the global scopes feature, you need to wrap your app in a <HotkeysProvider>
 A message must be provided as a String or AST.
 A página que você procura não existe ou ocorreu um erro.
+A router only supports one blocker at a time
 A-Taste auf Xbox One
 Abonnement effectué
 Abonnez-vous à la newsletter pour recevoir par e-mail des infos relatives à nos jeux et aux mises à jour, aux évènements spéciaux et aux offres, et plus de la part de Rockstar Games et nos affiliés.
@@ -236,7 +236,6 @@ about 1 week
 about 1 year
 Aby potwierdzić swoją subskrypcję listy mailingowej Rockstar Games, zweryfikuj swój adres e-mail poprzez link wysłany do twojej skrzynki odbiorczej.
 Acercar zoom
-act(...) is not supported in production builds of React.
 Afastar zoom
 Aktualizuj swoje preferencje
 Alejar zoom
@@ -248,9 +247,13 @@ Altre informazioni
 always active
 An async animation has been interrupted. You see this error because you forgot to use `await` or `.catch(...)` on its returned promise.
 An error occurred! For more details, see the full error text at https://go.apollo.dev/c/err#
+An index route cannot have child routes.
+An instrumentation function threw an error:
 Andale Mono
 Anno Domini
 App Store
+Application Error
+Application Error!
 Aproximar zoom
 Arabic Typesetting
 are the dependencies of other relied on modules, use
@@ -264,6 +267,9 @@ Arial Narrow
 Arial Rounded MT Bold
 Arial Unicode MS
 ARNO PRO
+as fallback. See https://formatjs.github.io/docs/react-intl/api#intlshape for more details`)),n.locale=n.defaultLocale||
+as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details`)):!Intl.DateTimeFormat.supportedLocalesOf(s).length&&a&&a(new de(`Missing locale data for locale:
+as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details`)):(a&&a(new pe(`
 assertion failure
 Assistir agora
 At least one node with a positive tabindex was found in one of your focus-trap's multiple containers. Positive tabindexes are only supported in single-container focus-traps.
@@ -271,10 +277,12 @@ At least one of max, maxSize, or ttl is required
 Attribute selector didn't terminate
 audio[controls]:not([inert]):not([inert] *)
 Aumenta zoom
+Avatar: Only one `Avatar.Image` component should be rendered per `Avatar.Root`, but multiple were detected. This will lead to unexpected behavior.
 B button on XBOX ONE
 B-Taste auf Xbox One
 Background Image Gradient
 Bad Request
+because the \`*\` character must always follow a \`/\` in the pattern. To get rid of this warning, please change the route path to
 Bei deinem Rockstar-Games-Konto <SignInLink>anmelden</SignInLink>, um dein Feedback einzureichen.
 Bereits abonniert
 Bestätige dein Abo
@@ -336,6 +344,9 @@ Botón stick izquierdo en XBOX ONE
 Botón superior izquierdo en XBOX ONE
 Botón X en PlayStation 4
 Bounty Hunters
+but did not provide a \`loader\` for route
+but did not provide an \`action\` for route
+but pathname
 Button label to leave feedback or suggestions
 Button label to report a bug or feedback
 button:not([inert]):not([inert] *)
@@ -343,11 +354,11 @@ Caçadores de Recompensa
 Cacciatori di taglie
 Calling PropTypes validators directly is not supported by the `prop-types` package. Use PropTypes.checkPropTypes() to call them. Read more at http://fb.me/use-check-prop-types
 Cambria Math
-Can only unwrap data on initialized and settled deferreds
 Can't call method on
 Can't convert object to primitive value
 Can't find condition for
 Can't find field '
+Cannot add the same private member more than once
 Cannot animate a `SpringValue` object that is frozen. Did you forget to pass your component to `animated(...)` before animating its props?
 Cannot call a class as a function
 Cannot call setIn() with
@@ -357,6 +368,7 @@ Cannot reduce an empty sequence
 Cannot reset() in onSubmit(), use setTimeout(form.reset)
 Cannot set a non-numeric property on an array
 Cannot set a numeric property on an object
+Cannot set currentNode to a node that is not contained by the root node.
 cannot set size without setting maxSize or maxEntrySize on cache
 cannot set sizeCalculation without setting maxSize or maxEntrySize
 Cartão de Personagem:
@@ -364,23 +376,17 @@ Carte de personnage :
 Catégorie : RP
 Century Gothic
 Century Schoolbook
-change click focusin focusout input keydown keyup selectionchange
 Character Card:
 Chasseurs de primes
 Check Your Email
-children dangerouslySetInnerHTML defaultValue defaultChecked innerHTML suppressContentEditableWarning suppressHydrationWarning style
 Circle button on PlayStation4
 Class extends value
-clearTimeout has not been defined
 Color picker
 Color Picker
 column in locationOffset is 1-indexed and must be positive.
 Comic Sans
 Comic Sans MS
 command line
-compositionend focusout keydown keypress keyup mousedown
-compositionstart focusout keydown keypress keyup mousedown
-compositionupdate focusout keydown keypress keyup mousedown
 Comprar armas
 Comprar Armas
 Comprar atuendos
@@ -399,12 +405,15 @@ Confirmer votre abonnement
 Confirmez votre abonnement
 Container missing
 Controlla la tua mail
+cookie has an
+Cookie length will exceed browser maximum. Length:
 could not be created.
 could not read as ArrayBuffer
 could not read FormData body as blob
 Couldn't add conditional rule
 counter clockwise
 Courier New
+createTheme.resolve() is client-only
 Cruceta hacia arriba de XBOX ONE
 Cruceta hacia la derecha de XBOX ONE
 crypto.getRandomValues() not supported. See https://github.com/uuidjs/uuid#getrandomvalues-not-supported
@@ -414,14 +423,13 @@ Dangling reference to missing
 Danos tu opinión
 data leak
 days of the month
-defer() is not supported in actions
-defer() only accepts plain objects
-Deferred data aborted
-Deferred data for key "
+defined but its lazy function is also returning a value for this property. The lazy route property
 Der Halloween-Pass #2
 Derived constructors may only return object or undefined
 details:not([inert]):not([inert] *)
 details>summary:first-of-type:not([inert]):not([inert] *)
+Detected a manifest version mismatch during eager route discovery. The next navigation/fetch to an undiscovered route will result in a new document navigation to sync up with the latest manifest.
+Detected manifest version mismatch, reloading...
 Deutsch (Deutschland)
 Diapositiva anterior
 Diapositiva siguiente
@@ -435,6 +443,8 @@ dirty is not a string, aborting
 Distillateurs clandestins
 Dodaj opinię
 does not exist in object
+does not have an element or Component. This means it will render an <Outlet /> with a null value by default resulting in an
+does not match URL
 doesn't accept regex!
 DOM blockers debug: ```
 Don't miss the next free GTA Online gift
@@ -464,20 +474,22 @@ Erfolgreich abonniert
 Error formatting display name.
 Error formatting number.
 Error formatting relative time.
-Error formatting the default message for: "
 Error message not found.
 Event name must be provided to work with custom events
 exclamation mark
 exit fullscreen
 Expected a function
 Expected a Location header on the redirect Response
-Expected an AbortController for revalidating fetcher deferred result
-Expected fetcher:
+Expected a response from queryRoute
+Expected a response in query()
+Expected a Response to be returned from resource route handler
+Expected a result
+Expected a route.id in react-router processRoutes() function
 Expected pending action
 Expected whitespace after media
 Fabricantes de aguardiente
 Failed to add conditional rule
-Failed to save applied view transitions in sessionStorage (
+Failed to clone server response
 Failed tokenizing
 fallback value for
 Feedback geben
@@ -489,13 +501,9 @@ fieldset[disabled] *
 Fire Phone $1
 first argument should be an array
 First ensure all usages of `canonizeResults` are removed, then remove this option.
-focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
-for locale
 for more information.
-for route "
 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 for the full message or use the non-minified dev environment for full errors.
-forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
 Format string contains an unescaped latin alphabet character `
 Fornisci feedback
 foundry_11gbdtyf foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdi
@@ -507,6 +515,7 @@ foundry_11gbdtyw foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_17pcofyb foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_17pcofyc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_17pcofyd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
+foundry_18omk9t5 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdq
 foundry_18omk9t6 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdp
 foundry_1a74xwb3 foundry_1a74xwb2
 foundry_1a74xwb4 foundry_8kowh41
@@ -525,9 +534,13 @@ foundry_1qqcnuao foundry_1qqcnuat
 foundry_1qqcnuao foundry_1qqcnuau
 foundry_1qqcnuao foundry_1qqcnuav
 foundry_1vzsjidk foundry_8kowh41 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcda
+foundry_2jlbzt2 foundry_8kowh41 foundry_1d5mo5m0 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_2jlbzt7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_2jlbzta foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
 foundry_8oytzon foundry_8kowh41 foundry_1d5mo5m0
+foundry_i6k0ds0 foundry_8kowh41 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
+foundry_lroh6l1 foundry_8kowh41 foundry_1d5mo5m0 foundry_1qqcnuao foundry_1qqcnuar
+foundry_lroh6l2 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg
 foundry_lroh6l3 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf
 foundry_lroh6l4 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde
 foundry_lroh6l5 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd
@@ -539,6 +552,7 @@ foundry_okz6z2o foundry_okz6z2k foundry_okz6z2l
 foundry_qmpv6yu foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp foundry_tdsdcdt
 foundry_rmorlsc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_rmorlsd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
+foundry_shqzby0 foundry_8kowh41 foundry_1d5mo5m0 foundry_1qqcnuao foundry_1qqcnuas
 foundry_tdsdcd2 foundry_tdsdcd0
 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcd5
 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcd6
@@ -577,6 +591,7 @@ Franklin Gothic
 from another module or realm. Ensure that there is only one instance of
 fromEdge toEdge afterInit lock unlock
 full screen
+functions. Check out https://reactrouter.com/start/framework/route-module#hydratefallback
 Gâchette droite sur Xbox One
 Gâchette gauche sur Xbox One
 Gâchette haute gauche sur Xbox One
@@ -612,9 +627,7 @@ Hero video play button label
 horizontal rule
 http://www.w3.org/1998/Math/MathML
 http://www.w3.org/1999/xhtml
-http://www.w3.org/1999/xlink
 http://www.w3.org/2000/svg
-http://www.w3.org/XML/1998/namespace
 HttpLink: Trying to send a client-only query to the server. To send to the server, ensure a non-client field is added to the query or set the `transformOptions.removeClientFields` option to `true`.
 https://addons.mozilla.org/en-US/firefox/addon/apollo-developer-tools/
 https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
@@ -622,20 +635,22 @@ https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebba
 https://f.fontdeck.com/s/css/js/
 https://fast.fonts.net/jsapi
 https://m1.openfpcdn.io/fingerprintjs/v
-https://reactjs.org/docs/error-decoder.html?invariant=
+https://react.dev/errors/
+https://www.youtube-nocookie.com
+https://www.youtube.com
 If you don't want to synchronize component state with the mutation, please use the `useApolloClient` hook to get the client instance and call `client.mutate` directly.
 If your `onCompleted` callback sets local state, switch to use derived state using `data` returned from the hook instead. Use `useEffect` to perform side-effects as a result of updates to `data`.
 iframe:not([inert]):not([inert] *)
 Imagen anterior
 in e?e:HTMLInputElement.prototype,
 in e?e.children(e.child):e.children,
+in Intl.DateTimeFormat. Using default locale:
+in Intl.NumberFormat. Using default locale:
 in n)throw TypeError(
 in not contained inside
-in o?o.hasPointerCapture(t.pointerId)&&o.releasePointerCapture(t.pointerId):o.releasePointerCapture(t.pointerId)),g(sn(t.currentTarget),
+in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),X((0,i.TW)(t.currentTarget),
 in u?u.responseURL:r.headers.get(
-in window||(delete Sr.animationend.animation,delete Sr.animationiteration.animation,delete Sr.animationstart.animation),
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
-Index routes must not have child routes. Please remove all child routes from route path "
 Informar sobre un error
 Informar sobre un problema
 Initialization of sharing external failed:
@@ -646,6 +661,7 @@ Inscrição efetuada
 instantiate Stack using Stack.create(n)
 Internet Explorer
 Intl.DisplayNames is not available in this environment. Try polyfilling it using "@formatjs/intl-displaynames"
+Intl.PluralRules is not available in this environment. Try polyfilling it using "@formatjs/intl-pluralrules"
 Intl.RelativeTimeFormat is not available in this environment. Try polyfilling it using "@formatjs/intl-relativetimeformat"
 IntlMessageFormat.__parse must be set to process `message` of type `string`
 Invalid attempt to destructure non-iterable instance
@@ -653,12 +669,12 @@ Invalid attempt to iterate non-iterable instance. In order to be iterable, non-a
 Invalid attempt to spread non-iterable instance
 Invalid attempt to spread non-iterable instance. In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
 Invalid Block
-Invalid blocker state transition:
 invalid max value:
 Invalid media feature
 Invalid media query: "
 Invalid range
-Invalid request method "
+Invalid redirect location
+Invalid Request
 Invalid scope
 invalid size value (must be positive integer). When maxSize or maxEntrySize is used, sizeCalculation or size must be set.
 Invalid time value
@@ -666,11 +682,13 @@ Invalid value of type
 Invalid value.
 Invariant failed
 Invariant Violation
-is at invalid UTF-16 code unit boundary
 is not a constructor or null
 is not a File
 is not a function
 is not a function!
+is not a supported lazy route property. This property will be ignored.
+is not a supported property to be returned from a lazy route function. This property will be ignored.
+is not a valid \`encType\` for \`<Form>\`/\`<fetcher.Form>\` and will default to
 is not an object
 is not an object!
 is not observable
@@ -740,7 +758,6 @@ Microsoft Uighur
 Minified React error #
 Minified Redux error #
 Minion Pro
-Missing locale data for locale: "
 Missing plugin? gsap.registerPlugin()
 MIUI Browser
 mobile data
@@ -750,7 +767,6 @@ more than
 MS Reference Sans Serif
 MS Reference Specialty
 MS Sans Serif
-must be greater than or equal to the current offset
 must be used inside of a <Form> component
 Must specify either a render prop, a render function as children, or a component prop to
 MYRIAD PRO
@@ -779,25 +795,36 @@ Niveau de zoom
 Nivel de zoom
 Nível de zoom
 Nivel del zoom
+No `clientAction` export found
+No `clientLoader` export found
+No `clientMiddleware` export found
+No `HydrateFallback` element provided to render during initial hydration
+No `routeModule` available for critical-route action
+No `routeModule` available for critical-route loader
 No adapter provided when calling "setAdapter"
 No callback given.
 No config specified
+No fetcher match found
+No lazy route function found
 no memoMethod provided to constructor
 No Modal Container context provided
 No momento, não é possível se inscrever no nosso newsletter usando este endereço de e-mail.
 No node provided
 No onSubmit function specified
 No optaste por recibir correos con publicidad durante la creación de la cuenta. ¿Quieres suscribirte a nuestro boletín de todos modos?
+No result assigned in instrumentation chain.
 No route found in manifest
 No subscription provided. What values do you want to listen to?
 No te has suscrito a los correos electrónicos comerciales al crear tu cuenta. ¿Quieres suscribirte a nuestro boletín de noticias?
 No te pierdas el próximo regalo de GTA Online
 No valid media queries
+No value found for context
 No, torna indietro
 Non è stato possibile procedere con l’iscrizione di questo indirizzo email alla nostra newsletter in questo momento.
 Non hai acconsentito a ricevere le email di marketing durante la creazione dell'account. Vuoi ancora iscriverti alla nostra newsletter?
 Non perdere il prossimo omaggio di GTA Online
 Non, retour
+Not Found
 not found. https://gsap.com
 Nous ne pouvons pas abonner cette adresse e-mail à notre newsletter pour l'instant.
 Nous ne pouvons pas abonner votre adresse e-mail à notre newsletter pour l'instant. Modifiez vos préférences concernant les e-mails sur la page des paramètres de votre compte ou réessayez plus tard.
@@ -869,8 +896,8 @@ Prawy spust na XBOX ONE
 Previous slide
 Previous Slide
 Previous video page
-process.binding is not supported
 prop name cannot be undefined in <Field> component
+prop on your route.
 Przycisk B na XBOX ONE
 Przycisk kierunku w górę na PlayStation 4
 Przycisk kierunku w prawo na PlayStation 4
@@ -886,6 +913,7 @@ Przycisk w górę na padzie kierunkowym na XBOX ONE
 Przycisk w prawo na padzie kierunkowym na XBOX ONE
 Przycisk X na PlayStation 4
 Przycisk X na XBOX ONE
+public, max-age=31536000, immutable
 Pulsante A su XBOX ONE
 Pulsante B su XBOX ONE
 Pulsante della levetta destra su XBOX ONE
@@ -895,6 +923,7 @@ Pulsante direzionale su per XBOX ONE
 Pulsante dorsale sinistro su XBOX ONE
 Pulsante Opzioni su XBOX ONE
 Query is empty
+query()/queryRoute() requests must contain an AbortController signal
 question mark
 R2 button on PlayStation4
 R2-Taste auf PlayStation 4
@@ -903,25 +932,27 @@ R3-Taste auf PlayStation 4
 reachBeginning toEdge
 reachEnd toEdge
 React Router caught the following error during render
+React Router v7 requires React 19+ for RSC features.
 React.Children.only expected to receive a single React element child.
-React.cloneElement(...): The argument must be a React element, but you passed
+read from private field
 Read more on MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 Rechter Stick auf Xbox One
 Rechter Trigger auf Xbox One
 Rechts-Richtungstaste auf PlayStation 4
 Rechts-Steuerkreuz-Taste auf Xbox One
-Redirects returned/thrown from loaders/actions must have a Location header
 Report Bug
 Reportar bug
+requires param
 resize observerUpdate
 resize orientationchange observerUpdate
 return this
+returns an invalid value. All route meta functions must return an array of meta objects. To reference the meta function API, see https://reactrouter.com/start/framework/route-module#meta
 Right directional button on PlayStation4
 Right directional pad button on XBOX ONE
 Right thumbstick button on XBOX ONE
 Right trigger button on XBOX ONE
 root node is forbidden and cannot be sanitized in-place
-router.fetch() was called during the server render, but it shouldn't be. You are likely calling a useFetcher() method in the body of your component. Try moving it to a useEffect or a callback.
+Route property
 S'abonner à la liste de diffusion de Rockstar Games
 Saiba mais
 Samsung Browser
@@ -937,8 +968,6 @@ Segoe UI Semibold
 Segoe UI Symbol
 Sei già iscritto
 select:not([inert]):not([inert] *)
-setState(...): takes an object of state variables to update or a function which returns an object of state variables.
-setTimeout has not been defined
 Shop Emotes
 Shop Outfits
 Shop Weapons
@@ -985,10 +1014,10 @@ Suscríbete ya
 Suscribirse ahora
 Suscripción exitosa
 Symbol.iterator is not defined.
-t been initialised - super() hasn
 t exist or another error occurred",defaultMessage:"The page you
 table of contents
 Tak, subskrybuj
+takes an object of state variables to update or a function which returns an object of state variables.
 tap click
 Tarjeta de personaje:
 Tarjeta del personaje:
@@ -1010,6 +1039,7 @@ Text for The Halloween Pass 2 highlight
 Text for the slideshow aria label
 textarea:not([inert]):not([inert] *)
 TextDecoder must be defined in the environment: please import a polyfill.
+The argument must be a React element, but you passed
 The Halloween Pass 2
 The input selection has not been updated.
 The item
@@ -1017,6 +1047,7 @@ The item has been dropped while not over a drop area.
 The item has returned to its starting position of
 The page you're looking for doesn't exist or another error occurred.
 The requested video does not exist.
+The route at
 The selection attributes have not been initialized.
 There are no items
 third party
@@ -1024,6 +1055,7 @@ this hasn't been initialised - super() hasn't been called
 This is the first slide
 This is the last slide
 This option does not affect `client.query` and can be safely removed.
+This should never happen
 Times New Roman
 Times New Roman PS
 to 'child'). If your selector is targeting something global, use the 'globalStyle' function instead, e.g. if you wanted to write
@@ -1052,19 +1084,23 @@ triple bar
 TTL caching without ttlAutopurge, max, or maxSize can result in unbounded memory consumption.
 ttl must be a positive integer if specified
 Überprüfe deine E-Mails
-Unable to encode submission body
+Unable to decode prerendered data
+Unable to decode turbo-stream response
+Unable to discover routes due to manifest version mismatch.
 Unable to find AppCallbacks in <ErrorBoundary/>
 Unexpected description, descriptions are not supported on shorthand queries.
 Unexpected invariant triggered.
+Unexpected Server Error
 Unexpected single quote character ('), did you mean to use a double quote (")?
 Unexpected syntax '
-Unhandled fetcher deferred data
 Unhandled fetcher revalidation redirect
+Unhandled Thrown Response!
 Univers CE 55 Medium
 Unknown @remix-run/router error
 Unknown body type for responseIterator. Please pass a streamable response.
 Unknown browser
 Unknown getter
+Unknown Server Error
 unknown value
 Unrecognised option
 Unterminated string.
@@ -1072,14 +1108,14 @@ Up directional button on PlayStation4
 Up directional pad button on XBOX ONE
 use strict
 Use the `fetchPolicy` option instead.
-useAlertBannerContext can only be used in a <AlertBanner.Root />
 useAlertContext can only be used in a <Alert.Root />
 useAvatarContext can only be used in a <Avatar.Root />
-useBadgeContext can only be used in a <Badge.Root />
 useBreadcrumbsContext can only be used in a <Breadcrumbs.Root />
 useCheckboxContext can only be used in a <Checkbox.Root />
 useChipGroupContext can only be used in a <ChipGroup.Root />
 useDropdownContext can only be used in a <Dropdown.Root />
+useFormAction must be used inside a RouteContext
+useHref() may be used only in the context of a <Router> component.
 useRadioGroupContext can only be used in a <RadioGroup.Root />
 useSwitchContext can only be used in a <Switch.Root />
 useTagContext can only be used in a <Tag.Root />
@@ -1108,6 +1144,7 @@ Vorheriges Element
 Vous avez choisi de ne pas recevoir d'e-mails publicitaires lors de la création de votre compte. Voulez-vous toujours vous abonner à notre newsletter ?
 Vous êtes déjà abonné(e) à la newsletter avec cette adresse e-mail. Gérez vos préférences concernant les communications à tout moment sur la page des paramètres de votre compte.
 Waffen kaufen
+was not configured, using
 was not pre-compiled. Please consider using
 was not provided to the string
 was specified but
@@ -1116,10 +1153,15 @@ Watch Now
 We cannot sign up this email address to our newsletter at this time.
 We cannot sign up your email address to our newsletter at this time. Change your email preferences on your account settings page or try again later.
 WebGL fingerprinting is incomplete, because your browser does not support getShaderPrecisionFormat
+When using middleware in `staticHandler.query()`, any provided `requestContext` must be an instance of `RouterContextProvider`
+When using middleware in `staticHandler.queryRoute()`, any provided `requestContext` must be an instance of `RouterContextProvider`
+when your app is loading JS modules and/or running `clientLoader`
 while loading "
+will be treated as if it were
 Windows Phone
 Wir können deine E-Mail-Adresse derzeit nicht bei unserem Newsletter anmelden. Ändere deine Präferenzen bezüglich E-Mails in den Einstellungen deines Kontos oder versuche es später erneut.
 Wir können diese E-Mail-Adresse derzeit nicht bei unserem Newsletter anmelden.
+write to private field
 X button on PlayStation4
 Xbox One
 XBOX ONE
@@ -1144,13 +1186,22 @@ Ya recibes actualizaciones del boletín en esta dirección de correo electrónic
 Ya tienes una suscripción
 Yes, Subscribe
 You are already receiving newsletter updates at this email address. Manage your communication preferences at any time in your account settings.
-You cannot `useLoaderData` in an errorElement (routeId:
-You defined
+You cannot call instrumented handlers more than once
+You cannot use navigator.back() on the server because it is a stateless environment.
+You cannot use navigator.forward() on the server because it is a stateless environment.
 You did not opt-in to receive marketing emails during account creation. Would you still like to subscribe to our newsletter?
 You have dropped the item.
 You have moved the item from position
-You made a
+You may only call `next()` once per middleware
+You must provide a non-empty routes array to createRouter
+You must render this element inside a <DataRouterContext.Provider> element
+You must render this element inside a <DataRouterStateContext.Provider> element
+You must render this element inside a <HydratedRouter> element
 You must specify a widget type.
+You provided the `viewTransition` option to a router update, but you do not appear to be running in a DOM environment as `window.startViewTransition` is not available.
+You should not include both `Component` and `element` on your route - `Component` will be used.
+You should not include both `ErrorBoundary` and `errorElement` on your route - `ErrorBoundary` will be used.
+You should not include both `HydrateFallback` and `hydrateFallbackElement` on your route - `HydrateFallback` will be used.
 Your focus-trap must have at least one container with at least one tabbable node in it at all times
 Zapisz się, aby otrzymywać powiadomienia o nowościach dotyczących gier i aktualizacji, a także informacje na temat specjalnych wydarzeń i ofert oraz więcej od Rockstar Games i naszych oddziałów.
 Zoom arrière

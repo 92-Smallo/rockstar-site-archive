@@ -1,7 +1,7 @@
 {
   "package": "sites-red-dead-online",
-  "version": "17.5.14",
-  "hash": "687857f481685fabcde44a9534b744260dd2e8a0b0cc2e0ae615acaa403b1f2d",
-  "gitHead": "90576ff78edf4e7c067413c3d030b5d466aa6a58",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-red-dead-online/17.5.14/687857f481685fabcde44a9534b744260dd2e8a0b0cc2e0ae615acaa403b1f2d/remote-entry.js"
+  "version": "18.0.1",
+  "hash": "2998a351457e7049aa42e31ab050853fa9841e015a11446d4283b5a7b3511740",
+  "gitHead": "f464875c71ff6a2f67967810cb89cde22d852a2d",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/sites-red-dead-online/18.0.1/2998a351457e7049aa42e31ab050853fa9841e015a11446d4283b5a7b3511740/remote-entry.js"
 }

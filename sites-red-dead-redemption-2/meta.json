@@ -1,7 +1,7 @@
 {
   "package": "sites-red-dead-redemption-2",
-  "version": "17.5.17",
-  "hash": "61cd099dd8b7352f6c717f5dd092b569db2ca36ddc2339637d04868f8b6ed66f",
-  "gitHead": "90576ff78edf4e7c067413c3d030b5d466aa6a58",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-red-dead-redemption-2/17.5.17/61cd099dd8b7352f6c717f5dd092b569db2ca36ddc2339637d04868f8b6ed66f/remote-entry.js"
+  "version": "18.0.4",
+  "hash": "0200d3abc956ba7167e5dcc9d76916ad1d311721f1a3af1c29ad516cd544d7f6",
+  "gitHead": "67459d972fa138db6c3b11c6d2cf8740c1d8f79b",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/sites-red-dead-redemption-2/18.0.4/0200d3abc956ba7167e5dcc9d76916ad1d311721f1a3af1c29ad516cd544d7f6/remote-entry.js"
 }

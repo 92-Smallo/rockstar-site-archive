@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="d01fd9ce-6dbe-4a76-aaaa-ef453d0d7efb",
-  e._sentryDebugIdIdentifier="sentry-dbid-d01fd9ce-6dbe-4a76-aaaa-ef453d0d7efb")
+  e._sentryDebugIds[t]="2dd66347-e2cc-4de3-a933-be3f95508d20",
+  e._sentryDebugIdIdentifier="sentry-dbid-2dd66347-e2cc-4de3-a933-be3f95508d20")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"90576ff78edf4e7c067413c3d030b5d466aa6a58",
+    release:"f464875c71ff6a2f67967810cb89cde22d852a2d",
     packageName:"@rockstargames/sites-gta-trilogy",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"90576ff78edf4e7c067413c3d030b5d466aa6a58"
+  id:"f464875c71ff6a2f67967810cb89cde22d852a2d"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -92,10 +92,10 @@ t){
           r){
             "use strict";
             const n={
-              "./index":()=>Promise.all([r.e(207),
-              r.e(140),
-              r.e(549),
-              r.e(82),
+              "./index":()=>Promise.all([r.e(534),
+              r.e(281),
+              r.e(682),
+              r.e(748),
               r.e(272),
               r.e(604)]).then(()=>()=>r(604))
             },
@@ -219,26 +219,25 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          140:"4d4139d04233f4e5d147b7fe5bcead0b",
-          145:"55bf10e88a9a3c10fcfdaf0baaa49827",
-          162:"43d908dd1243588ce2acd0e6b87e1025",
-          207:"f2495e41fb34dbbf9e5e572d77753e0f",
-          214:"e023a6b514d955282df711b1b1267829",
-          272:"5e861a969df04ce93b402d6ac5962956",
-          279:"62ce3d4192f88a323ac09cc4ca02077f",
-          336:"bdf4fade9f3d3ee251c45a2433358664",
-          549:"da9b1595caa8ff558c0034ec4c20f4e9",
-          581:"aff0d3a58e826a75263e2ccfba0d29a3",
-          583:"249806bf0551fa3b0948da90cc9f2155",
-          604:"77423108c33140ff4cd91c6ba377a301",
-          769:"c9bd1e4f4934cb1822987b7147f7ba5f",
-          793:"8091192051d1ebb4e856fba4ecacf67c",
-          833:"d825f8b7df1a378cca5ab76eb9989553",
-          860:"bdd16a37f89459b8cb6b446d368fe0dd",
-          910:"a1f26641d8d2afe2b05a03a560315fff",
-          921:"8ae3d0366803c01019147212d4f5fc9f"
+          145:"97b7e70bfd9e46b7155b2bbd7362d37b",
+          272:"e307ab11fe6f93625febcc7b453b5254",
+          281:"2603410a2fe23ee3dee9ec407f2ae401",
+          292:"ef2cc775eb71ea07de22af364d8630b7",
+          341:"d93346ca67f211179919b87f63a1dcfc",
+          361:"75b7ee30fc7a772cb1c5ec4481ff1e44",
+          534:"b6239de39fc116770b8e42d95b8c0ff0",
+          604:"180b8421bc9a039314d9a56eb445b313",
+          615:"cbfb5cd40e1989dee20718f0e248ef19",
+          682:"4d1dedf6ee89227a0be2e11b9a972eae",
+          775:"727820c7080f27feab25e0851d96e890",
+          808:"ce0ac8df3476d8c38ed0032b1a0f5b90",
+          888:"8acbb7b395017a1b8466d3cb3f8188d1",
+          921:"c8218aabf310c5d1c63ef3833812a35b",
+          948:"6ad06a366d707ebc3bde2a0f2c1585f8",
+          959:"ab5314dddf9c28dda0a5fa149a726779",
+          996:"ec58130d3478d9ad64d7970a5d0ce1ba"
         }[e]+".js",
-        o.miniCssF=e=>"css/e83618ae9e6416fc1e9cfead82e5be2f.css",
+        o.miniCssF=e=>"css/b24568901513c1c6fdc77d81fda192e4.css",
         o.g=function(){
           if("object"==typeof globalThis)return globalThis;
           try{
@@ -263,10 +262,10 @@ t){
             c;
             if(void 0!==a){
               const e=document.getElementsByTagName("script");
-              for(var l=0;
-              l<e.length;
-              l++){
-                const n=e[l];
+              for(var f=0;
+              f<e.length;
+              f++){
+                const n=e[f];
                 if(n.getAttribute("src")==r||n.getAttribute("data-webpack")==t+a){
                   i=n;
                   break
@@ -281,7 +280,7 @@ t){
             t+a),
             i.src=r),
             e[r]=[n];
-            const f=(t,
+            const l=(t,
             n)=>{
               i.onerror=i.onload=null,
               clearTimeout(d);
@@ -291,16 +290,16 @@ t){
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            d=setTimeout(f.bind(null,
+            d=setTimeout(l.bind(null,
             void 0,
             {
               type:"timeout",
               target:i
             }),
             12e4);
-            i.onerror=f.bind(null,
+            i.onerror=l.bind(null,
             i.onerror),
-            i.onload=f.bind(null,
+            i.onload=l.bind(null,
             i.onload),
             c&&document.head.appendChild(i)
           }
@@ -351,13 +350,13 @@ t){
               i,
               c)=>{
                 try{
-                  const l=e(t,
+                  const f=e(t,
                   r);
-                  if(!l?.then)return i(l,
+                  if(!f?.then)return i(f,
                   o,
                   c);
                   {
-                    const e=l.then(e=>i(e,
+                    const e=f.then(e=>i(e,
                     o),
                     s);
                     if(!c)return e;
@@ -373,9 +372,9 @@ t){
               a[1],
               r,
               0,
-              l,
+              f,
               n),
-              l=t=>{
+              f=t=>{
                 a.p=1,
                 o.m[e]=e=>{
                   e.exports=t()
@@ -431,47 +430,42 @@ t){
                 eager:!!n
               })
             },
-            l=[];
+            f=[];
             return"default"===r&&(c("@rsgweb/locale-tools",
             "0.0.0",
             ()=>Promise.all([o.e(145),
-            o.e(207),
-            o.e(336),
-            o.e(82),
-            o.e(214)]).then(()=>()=>o(7214))),
+            o.e(534),
+            o.e(775),
+            o.e(748),
+            o.e(996)]).then(()=>()=>o(5996))),
             c("@rsgweb/utils",
             "0.0.0-development",
             ()=>Promise.all([o.e(145),
-            o.e(207),
-            o.e(769),
-            o.e(140),
-            o.e(82),
-            o.e(910),
-            o.e(272)]).then(()=>()=>o(8910))),
+            o.e(534),
+            o.e(341),
+            o.e(281),
+            o.e(748),
+            o.e(948),
+            o.e(272)]).then(()=>()=>o(6948))),
             c("clsx",
             "2.1.1",
             ()=>o.e(921).then(()=>()=>o(4921))),
             c("framer-motion",
             "12.43.0",
-            ()=>Promise.all([o.e(279),
-            o.e(82),
-            o.e(793)]).then(()=>()=>o(6279))),
-            c("react-dom",
-            "18.3.1",
-            ()=>Promise.all([o.e(162),
-            o.e(82)]).then(()=>()=>o(162))),
-            c("react-router-dom",
-            "6.30.4",
-            ()=>Promise.all([o.e(860),
-            o.e(82),
-            o.e(17)]).then(()=>()=>o(9860))),
+            ()=>Promise.all([o.e(808),
+            o.e(748),
+            o.e(292)]).then(()=>()=>o(5808))),
+            c("react-router",
+            "7.18.2",
+            ()=>Promise.all([o.e(361),
+            o.e(748)]).then(()=>()=>o(9361))),
             c("react",
-            "18.3.1",
-            ()=>o.e(581).then(()=>()=>o(2581))),
+            "19.2.8",
+            ()=>o.e(888).then(()=>()=>o(3888))),
             c("usehooks-ts",
-            "2.16.0",
-            ()=>Promise.all([o.e(583),
-            o.e(82)]).then(()=>()=>o(5583))),
+            "3.1.1",
+            ()=>Promise.all([o.e(959),
+            o.e(748)]).then(()=>()=>o(5959))),
             (e=>{
               const t=e=>{
                 return t="Initialization of sharing external failed: "+e,
@@ -483,17 +477,27 @@ t){
                 if(!a)return;
                 const s=e=>e&&e.init&&e.init(o.S[r],
                 n);
-                if(a.then)return l.push(a.then(s,
+                if(a.then)return f.push(a.then(s,
                 t));
                 const i=s(a);
-                if(i?.then)return l.push(i.catch(t))
+                if(i?.then)return f.push(i.catch(t))
               }catch(e){
                 t(e)
               }
             })(5136)),
-            l.length?e[r]=Promise.all(l).then(()=>e[r]=1):e[r]=1
+            f.length?e[r]=Promise.all(f).then(()=>e[r]=1):e[r]=1
           }
         })(),
+        o.cjs=e=>{
+          const t={
+            exports:{
+            }
+          };
+          return e.call(t.exports,
+          t,
+          t.exports),
+          t.exports
+        },
         (()=>{
           let e;
           o.g.importScripts&&(e=o.g.location+"");
@@ -566,38 +570,43 @@ t){
               ;
               i++,
               s++){
-                var l,
-                f,
+                var f,
+                l,
                 d=i<t.length?(typeof t[i])[0]:"";
-                if(s>=n.length||"o"==(f=(typeof(l=n[s]))[0]))return!c||("u"==d?i>o&&!a:""==d!=a);
-                if("u"==f){
+                if(s>=n.length||"o"==(l=(typeof(f=n[s]))[0]))return!c||("u"==d?i>o&&!a:""==d!=a);
+                if("u"==l){
                   if(!c||"u"!=d)return!1
-                }else if(c)if(d==f)if(i<=o){
-                  if(l!=t[i])return!1
+                }else if(c)if(d==l)if(i<=o){
+                  if(f!=t[i])return!1
                 }else{
-                  if(a?l>t[i]:l<t[i])return!1;
-                  l!=t[i]&&(c=!1)
+                  if(a?f>t[i]:f<t[i])return!1;
+                  f!=t[i]&&(c=!1)
                 }else if("s"!=d&&"n"!=d){
                   if(a||i<=o)return!1;
                   c=!1,
                   i--
                 }else{
-                  if(i<=o||f<d!=a)return!1;
+                  if(i<=o||l<d!=a)return!1;
                   c=!1
                 }else"s"!=d&&"n"!=d&&(c=!1,
                 i--)
               }
             }var u=[],
-            h=u.pop.bind(u);
+            p=u.pop.bind(u);
             for(s=1;
             s<t.length;
             s++){
-              var p=t[s];
-              u.push(1==p?h()|h():2==p?h()&h():p?r(p,
-              n):!h())
-            }return!!h()
+              var h=t[s];
+              u.push(1==h?p()|p():2==h?p()&p():h?r(h,
+              n):!p())
+            }return!!p()
           };
-          const n=(t,
+          const n=(e,
+          t)=>e&&o.o(e,
+          t),
+          a=e=>(e.loaded=1,
+          e.get()),
+          s=(t,
           r,
           n)=>{
             const o=n?(e=>Object.keys(e).reduce((t,
@@ -627,14 +636,7 @@ t){
             r)?r:t,
             0)
           },
-          a=(e,
-          t,
-          r)=>r?r():((e,
-          t)=>(e=>{
-            throw new Error(e)
-          })("Shared module "+t+" doesn't exist in shared scope "+e))(e,
-          t),
-          s=(e=>function(t,
+          i=e=>function(t,
           r,
           n,
           a,
@@ -652,65 +654,71 @@ t){
             n,
             a,
             s)
-          })((e,
-          s,
+          },
+          c=(e,
+          t,
+          r)=>r?r():((e,
+          t)=>(e=>{
+            throw new Error(e)
+          })("Shared module "+t+" doesn't exist in shared scope "+e))(e,
+          t),
+          f=i((e,
+          t,
+          r,
+          o,
+          i)=>{
+            if(!n(t,
+            r))return c(e,
+            r,
+            i);
+            const f=s(t,
+            r,
+            o);
+            return a(t[r][f])
+          }),
+          l=i((e,
+          o,
           i,
-          c,
+          f,
           l,
-          f)=>{
-            if(!((e,
-            t)=>e&&o.o(e,
-            t))(s,
-            i))return a(e,
+          d)=>{
+            if(!n(o,
+            i))return c(e,
+            i,
+            d);
+            const u=s(o,
             i,
             f);
-            const d=n(s,
-            i,
-            c);
             return r(l,
-            d)||(h=((e,
+            u)||(p=((e,
             r,
             n,
-            o)=>"Unsatisfied version "+n+" from "+(n&&e[r][n].from)+" of shared singleton module "+r+" (required "+t(o)+")")(s,
+            o)=>"Unsatisfied version "+n+" from "+(n&&e[r][n].from)+" of shared singleton module "+r+" (required "+t(o)+")")(o,
             i,
-            d,
+            u,
             l),
-            "undefined"!=typeof console&&console.warn&&console.warn(h)),
-            (u=s[i][d]).loaded=1,
-            u.get();
-            var u,
-            h
+            "undefined"!=typeof console&&console.warn&&console.warn(p)),
+            a(o[i][u]);
+            var p
           }),
-          i={
+          d={
           },
-          c={
-            3082:()=>s("default",
+          u={
+            5748:()=>f("default",
             "react",
             !1,
-            [0],
-            ()=>o.e(581).then(()=>()=>o(2581))),
-            2909:()=>s("default",
+            ()=>o.e(888).then(()=>()=>o(3888))),
+            4564:()=>f("default",
             "@rsgweb/locale-tools",
             !1,
-            [0],
             ()=>Promise.all([o.e(145),
-            o.e(336),
-            o.e(833)]).then(()=>()=>o(7214))),
-            9225:()=>s("default",
-            "react-router-dom",
+            o.e(775),
+            o.e(615)]).then(()=>()=>o(5996))),
+            4612:()=>f("default",
+            "react-router",
             !1,
-            [0],
-            ()=>Promise.all([o.e(860),
-            o.e(17)]).then(()=>()=>o(9860))),
-            155:()=>s("default",
-            "framer-motion",
-            !1,
-            [1,
-            12,
-            38,
-            0],
-            ()=>o.e(279).then(()=>()=>o(6279))),
-            1270:()=>s("default",
+            ()=>o.e(361).then(()=>()=>o(9361))),
+            1270:()=>l("default",
             "clsx",
             !1,
             [1,
@@ -718,64 +726,57 @@ t){
             1,
             1],
             ()=>o.e(921).then(()=>()=>o(4921))),
-            3331:()=>s("default",
+            3788:()=>f("default",
             "@rsgweb/utils",
             !1,
-            [0],
             ()=>Promise.all([o.e(145),
-            o.e(769),
-            o.e(910)]).then(()=>()=>o(8910))),
-            6265:()=>s("default",
+            o.e(341),
+            o.e(948)]).then(()=>()=>o(6948))),
+            4267:()=>f("default",
+            "framer-motion",
+            !1,
+            ()=>o.e(808).then(()=>()=>o(5808))),
+            8586:()=>f("default",
             "usehooks-ts",
             !1,
-            [0],
-            ()=>o.e(583).then(()=>()=>o(5583))),
-            4017:()=>s("default",
-            "react-dom",
-            !1,
-            [1,
-            18,
-            2,
-            0],
-            ()=>o.e(162).then(()=>()=>o(162)))
+            ()=>o.e(959).then(()=>()=>o(5959)))
           },
-          l={
-            17:[4017],
-            82:[3082],
-            272:[2909,
-            9225],
-            604:[155,
-            1270,
-            3331,
-            6265]
+          p={
+            272:[4564,
+            4612],
+            604:[1270,
+            3788,
+            4267,
+            8586],
+            748:[5748]
           },
-          f={
+          h={
           };
           o.f.consumes=(e,
           t)=>{
-            o.o(l,
-            e)&&l[e].forEach(e=>{
-              if(o.o(i,
-              e))return t.push(i[e]);
-              if(!f[e]){
+            o.o(p,
+            e)&&p[e].forEach(e=>{
+              if(o.o(d,
+              e))return t.push(d[e]);
+              if(!h[e]){
                 const r=t=>{
-                  i[e]=0,
+                  d[e]=0,
                   o.m[e]=r=>{
                     delete o.c[e],
                     r.exports=t()
                   }
                 };
-                f[e]=!0;
+                h[e]=!0;
                 const n=t=>{
-                  delete i[e],
+                  delete d[e],
                   o.m[e]=r=>{
                     throw delete o.c[e],
                     t
                   }
                 };
                 try{
-                  const o=c[e]();
-                  o.then?t.push(i[e]=o.then(r).catch(n)):r(o)
+                  const o=u[e]();
+                  o.then?t.push(d[e]=o.then(r).catch(n)):r(o)
                 }catch(e){
                   n(e)
                 }
@@ -863,8 +864,7 @@ t){
             let n=o.o(e,
             t)?e[t]:void 0;
             if(0!==n)if(n)r.push(n[2]);
-            else if(/^(17|82)$/.test(t))e[t]=0;
-            else{
+            else if(748!=t){
               const a=new Promise((r,
               o)=>n=e[t]=[r,
               o]);
@@ -890,7 +890,7 @@ t){
               c,
               "chunk-"+t,
               t)
-            }
+            }else e[t]=0
           };
           const t=(t,
           r)=>{
@@ -899,14 +899,14 @@ t){
             s]=r;
             var i,
             c,
-            l=0;
+            f=0;
             if(n.some(t=>0!==e[t])){
               for(i in a)o.o(a,
               i)&&(o.m[i]=a[i]);
               s&&s(o)
             }for(t&&t(r);
-            l<n.length;
-            l++)c=n[l],
+            f<n.length;
+            f++)c=n[f],
             o.o(e,
             c)&&e[c]&&e[c][0](),
             e[c]=0

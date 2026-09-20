@@ -1,7 +1,7 @@
 {
   "package": "sites-gta-trilogy",
-  "version": "18.5.14",
-  "hash": "5529116cee03c6c828ee54dab9f01cf34f89bc628443223388b3e337fbea7d3f",
-  "gitHead": "90576ff78edf4e7c067413c3d030b5d466aa6a58",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta-trilogy/18.5.14/5529116cee03c6c828ee54dab9f01cf34f89bc628443223388b3e337fbea7d3f/remote-entry.js"
+  "version": "19.0.1",
+  "hash": "a79b6073107e47a743ed240db9cdd9a1fff9a2aae276364d0538842f73491f20",
+  "gitHead": "f464875c71ff6a2f67967810cb89cde22d852a2d",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/sites-gta-trilogy/19.0.1/a79b6073107e47a743ed240db9cdd9a1fff9a2aae276364d0538842f73491f20/remote-entry.js"
 }

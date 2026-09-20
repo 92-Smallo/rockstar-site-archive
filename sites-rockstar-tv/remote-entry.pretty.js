@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="9264902d-a583-4236-b31b-3e72b23f6ff8",
-  e._sentryDebugIdIdentifier="sentry-dbid-9264902d-a583-4236-b31b-3e72b23f6ff8")
+  e._sentryDebugIds[t]="148242db-d5ff-476e-b077-32ee745eed58",
+  e._sentryDebugIdIdentifier="sentry-dbid-148242db-d5ff-476e-b077-32ee745eed58")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"90576ff78edf4e7c067413c3d030b5d466aa6a58",
+    release:"f464875c71ff6a2f67967810cb89cde22d852a2d",
     packageName:"@rockstargames/sites-rockstar-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"90576ff78edf4e7c067413c3d030b5d466aa6a58"
+  id:"f464875c71ff6a2f67967810cb89cde22d852a2d"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -77,13 +77,13 @@ t){
               r.href=e;
               for(var n="/"===r.pathname[0]?r.pathname:"/"+r.pathname,
               o=0,
-              a=n.length;
-              o!==t&&a>=0;
-              )"/"===n[--a]&&o++;
+              s=n.length;
+              o!==t&&s>=0;
+              )"/"===n[--s]&&o++;
               if(o!==t)throw Error("systemjs-webpack-interop: rootDirectoryLevel ("+t+") is greater than the number of directories ("+o+") in the URL path "+e);
-              var s=n.slice(0,
-              a+1);
-              return r.protocol+"//"+r.host+s
+              var a=n.slice(0,
+              s+1);
+              return r.protocol+"//"+r.host+a
             };
             Number.isInteger
           },
@@ -92,9 +92,9 @@ t){
           r){
             "use strict";
             const n={
-              "./index":()=>Promise.all([r.e(995),
-              r.e(82),
-              r.e(225),
+              "./index":()=>Promise.all([r.e(303),
+              r.e(748),
+              r.e(612),
               r.e(978)]).then(()=>()=>r(3978))
             },
             o=(e,
@@ -105,7 +105,7 @@ t){
             }),
             r.R=void 0,
             t),
-            a=(e,
+            s=(e,
             t)=>{
               if(!r.S)return;
               const n="default",
@@ -118,7 +118,7 @@ t){
             r.d(t,
             {
               get:()=>o,
-              init:()=>a
+              init:()=>s
             })
           },
           5136(e){
@@ -131,15 +131,15 @@ t){
         function o(t){
           const r=n[t];
           if(void 0!==r)return r.exports;
-          const a=n[t]={
+          const s=n[t]={
             exports:{
             }
           };
-          return e[t].call(a.exports,
-          a,
-          a.exports,
+          return e[t].call(s.exports,
+          s,
+          s.exports,
           o),
-          a.exports
+          s.exports
         }return o.m=e,
         o.c=n,
         o.y=t,
@@ -163,9 +163,9 @@ t){
             if("object"==typeof r&&r){
               if(4&n&&r.__esModule)return r;
               if(16&n&&"function"==typeof r.then)return r
-            }const a=Object.create(null);
-            o.r(a);
-            const s={
+            }const s=Object.create(null);
+            o.r(s);
+            const a={
             };
             t=t||[null,
             e({
@@ -174,11 +174,11 @@ t){
             e(e)];
             for(var i=2&n&&r;
             ("object"==typeof i||"function"==typeof i)&&!~t.indexOf(i);
-            i=e(i))Object.getOwnPropertyNames(i).forEach(e=>s[e]=()=>r[e]);
-            return s.default=()=>r,
-            o.d(a,
-            s),
-            a
+            i=e(i))Object.getOwnPropertyNames(i).forEach(e=>a[e]=()=>r[e]);
+            return a.default=()=>r,
+            o.d(s,
+            a),
+            s
           }
         })(),
         o.d=(e,
@@ -187,9 +187,9 @@ t){
           r<t.length;
           ){
             var n=t[r++],
-            a=t[r++];
+            s=t[r++];
             o.o(e,
-            n)?0===a&&r++:0===a?Object.defineProperty(e,
+            n)?0===s&&r++:0===s?Object.defineProperty(e,
             n,
             {
               enumerable:!0,
@@ -198,7 +198,7 @@ t){
             n,
             {
               enumerable:!0,
-              get:a
+              get:s
             })
           }else for(var n in t)o.o(t,
           n)&&!o.o(e,
@@ -217,16 +217,15 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          162:"664ee5de3ef884c759e76934061377dc",
-          581:"e4bc55c5f8531f6e2020daf9155a3c24",
-          657:"a6794852c627e9f5c41334baa632050e",
-          830:"6e56400cda2e7ddb7fb3fe0f539c5f1d",
-          860:"2ff0167dcf1debe5bfabb7682b6bb178",
-          944:"3013237a1e19262f05cbc4c7386a2f5d",
-          978:"480418685fec1c6bb859ca99f86aff58",
-          995:"c8826dfed72960bfc26d338fc84c96c3"
+          61:"b57aaef42d69c2485d005735bec343e3",
+          303:"db4622af17264e75980ff5ed1535bd7d",
+          361:"d75ecae2d4ae1258770076589a6dba56",
+          365:"954a61916602e953c4a756a535942d1c",
+          817:"9789b13ce5a566ce56b583223e8d0688",
+          888:"3ae7ae80941c8b96e0ea1224f7bc6818",
+          978:"85471598e9df6518eba15a0656ab3a08"
         }[e]+".js",
-        o.miniCssF=e=>"css/d3aed2f918e98d6df62a73adec6169ce.css",
+        o.miniCssF=e=>"css/5eaba88ea2bc687cd596c0a29ea9e04a.css",
         o.g=function(){
           if("object"==typeof globalThis)return globalThis;
           try{
@@ -244,18 +243,18 @@ t){
           t="@rockstargames/sites-rockstar-tv:";
           o.l=(r,
           n,
-          a,
-          s)=>{
+          s,
+          a)=>{
             if(e[r])return void e[r].push(n);
             let i,
             c;
-            if(void 0!==a){
+            if(void 0!==s){
               const e=document.getElementsByTagName("script");
-              for(var l=0;
-              l<e.length;
-              l++){
-                const n=e[l];
-                if(n.getAttribute("src")==r||n.getAttribute("data-webpack")==t+a){
+              for(var d=0;
+              d<e.length;
+              d++){
+                const n=e[d];
+                if(n.getAttribute("src")==r||n.getAttribute("data-webpack")==t+s){
                   i=n;
                   break
                 }
@@ -266,29 +265,29 @@ t){
             o.nc&&i.setAttribute("nonce",
             o.nc),
             i.setAttribute("data-webpack",
-            t+a),
+            t+s),
             i.src=r),
             e[r]=[n];
-            const f=(t,
+            const l=(t,
             n)=>{
               i.onerror=i.onload=null,
-              clearTimeout(d);
+              clearTimeout(f);
               const o=e[r];
               if(delete e[r],
               i.parentNode?.removeChild(i),
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            d=setTimeout(f.bind(null,
+            f=setTimeout(l.bind(null,
             void 0,
             {
               type:"timeout",
               target:i
             }),
             12e4);
-            i.onerror=f.bind(null,
+            i.onerror=l.bind(null,
             i.onerror),
-            i.onload=f.bind(null,
+            i.onload=l.bind(null,
             i.onload),
             c&&document.head.appendChild(i)
           }
@@ -320,17 +319,17 @@ t){
             r)&&e[r].forEach(e=>{
               let r=o.R;
               r||(r=[]);
-              const a=t[e];
-              if(r.indexOf(a)>=0)return;
-              if(r.push(a),
-              a.p)return n.push(a.p);
-              const s=t=>{
+              const s=t[e];
+              if(r.indexOf(s)>=0)return;
+              if(r.push(s),
+              s.p)return n.push(s.p);
+              const a=t=>{
                 t||(t=new Error("Container missing")),
-                "string"==typeof t.message&&(t.message+='\nwhile loading "'+a[1]+'" from '+a[2]),
+                "string"==typeof t.message&&(t.message+='\nwhile loading "'+s[1]+'" from '+s[2]),
                 o.m[e]=()=>{
                   throw t
                 },
-                a.p=0
+                s.p=0
               },
               i=(e,
               t,
@@ -339,48 +338,48 @@ t){
               i,
               c)=>{
                 try{
-                  const l=e(t,
+                  const d=e(t,
                   r);
-                  if(!l?.then)return i(l,
+                  if(!d?.then)return i(d,
                   o,
                   c);
                   {
-                    const e=l.then(e=>i(e,
+                    const e=d.then(e=>i(e,
                     o),
-                    s);
+                    a);
                     if(!c)return e;
-                    n.push(a.p=e)
+                    n.push(s.p=e)
                   }
                 }catch(e){
-                  s(e)
+                  a(e)
                 }
               },
               c=(e,
               t,
               n)=>i(t.get,
-              a[1],
+              s[1],
               r,
               0,
-              l,
+              d,
               n),
-              l=t=>{
-                a.p=1,
+              d=t=>{
+                s.p=1,
                 o.m[e]=e=>{
                   e.exports=t()
                 }
               };
               i(o,
-              a[2],
+              s[2],
               0,
               0,
               (e,
               t,
               r)=>e?i(o.I,
-              a[0],
+              s[0],
               0,
               e,
               c,
-              r):s(),
+              r):a(),
               1)
             })
           }
@@ -395,51 +394,46 @@ t){
           o.I=(r,
           n)=>{
             n||(n=[]);
-            let a=t[r];
-            if(a||(a=t[r]={
+            let s=t[r];
+            if(s||(s=t[r]={
             }),
-            n.indexOf(a)>=0)return;
-            if(n.push(a),
+            n.indexOf(s)>=0)return;
+            if(n.push(s),
             e[r])return e[r];
             o.o(o.S,
             r)||(o.S[r]={
             });
-            const s=o.S[r],
+            const a=o.S[r],
             i="@rockstargames/sites-rockstar-tv",
             c=(e,
             t,
             r,
             n)=>{
-              const o=s[e]=s[e]||{
+              const o=a[e]=a[e]||{
               },
-              a=o[t];
-              (!a||!a.loaded&&(!n!=!a.eager?n:i>a.from))&&(o[t]={
+              s=o[t];
+              (!s||!s.loaded&&(!n!=!s.eager?n:i>s.from))&&(o[t]={
                 get:r,
                 from:i,
                 eager:!!n
               })
             },
-            l=[];
+            d=[];
             return"default"===r&&(c("@rsgweb/utils",
             "0.0.0-development",
-            ()=>Promise.all([o.e(944),
-            o.e(995),
-            o.e(82),
-            o.e(830),
-            o.e(225),
-            o.e(657)]).then(()=>()=>o(9830))),
-            c("react-dom",
-            "18.3.1",
-            ()=>Promise.all([o.e(162),
-            o.e(82)]).then(()=>()=>o(162))),
-            c("react-router-dom",
-            "6.30.4",
-            ()=>Promise.all([o.e(860),
-            o.e(82),
-            o.e(17)]).then(()=>()=>o(9860))),
+            ()=>Promise.all([o.e(365),
+            o.e(303),
+            o.e(748),
+            o.e(61),
+            o.e(612),
+            o.e(817)]).then(()=>()=>o(7061))),
+            c("react-router",
+            "7.18.2",
+            ()=>Promise.all([o.e(361),
+            o.e(748)]).then(()=>()=>o(9361))),
             c("react",
-            "18.3.1",
-            ()=>o.e(581).then(()=>()=>o(2581))),
+            "19.2.8",
+            ()=>o.e(888).then(()=>()=>o(3888))),
             (e=>{
               const t=e=>{
                 return t="Initialization of sharing external failed: "+e,
@@ -447,21 +441,31 @@ t){
                 var t
               };
               try{
-                const a=o(e);
-                if(!a)return;
-                const s=e=>e&&e.init&&e.init(o.S[r],
+                const s=o(e);
+                if(!s)return;
+                const a=e=>e&&e.init&&e.init(o.S[r],
                 n);
-                if(a.then)return l.push(a.then(s,
+                if(s.then)return d.push(s.then(a,
                 t));
-                const i=s(a);
-                if(i?.then)return l.push(i.catch(t))
+                const i=a(s);
+                if(i?.then)return d.push(i.catch(t))
               }catch(e){
                 t(e)
               }
             })(5136)),
-            l.length?e[r]=Promise.all(l).then(()=>e[r]=1):e[r]=1
+            d.length?e[r]=Promise.all(d).then(()=>e[r]=1):e[r]=1
           }
         })(),
+        o.cjs=e=>{
+          const t={
+            exports:{
+            }
+          };
+          return e.call(t.exports,
+          t,
+          t.exports),
+          t.exports
+        },
         (()=>{
           let e;
           o.g.importScripts&&(e=o.g.location+"");
@@ -495,77 +499,8 @@ t){
             n.push.apply(n,
             t(r[3]))),
             n
-          },
-          t=e=>{
-            var r=e[0],
-            n="";
-            if(1===e.length)return"*";
-            if(r+.5){
-              n+=0==r?">=":-1==r?"<":1==r?"^":2==r?"~":r>0?"=":"!=";
-              for(var o=1,
-              a=1;
-              a<e.length;
-              a++)o--,
-              n+="u"==(typeof(i=e[a]))[0]?"-":(o>0?".":"")+(o=2,
-              i);
-              return n
-            }var s=[];
-            for(a=1;
-            a<e.length;
-            a++){
-              var i=e[a];
-              s.push(0===i?"not("+c()+")":1===i?"("+c()+" || "+c()+")":2===i?s.pop()+" "+s.pop():t(i))
-            }return c();
-            function c(){
-              return s.pop().replace(/^\((.+)\)$/,
-              "$1")
-            }
-          },
-          r=(t,
-          n)=>{
-            if(0 in t){
-              n=e(n);
-              var o=t[0],
-              a=o<0;
-              a&&(o=-o-1);
-              for(var s=0,
-              i=1,
-              c=!0;
-              ;
-              i++,
-              s++){
-                var l,
-                f,
-                d=i<t.length?(typeof t[i])[0]:"";
-                if(s>=n.length||"o"==(f=(typeof(l=n[s]))[0]))return!c||("u"==d?i>o&&!a:""==d!=a);
-                if("u"==f){
-                  if(!c||"u"!=d)return!1
-                }else if(c)if(d==f)if(i<=o){
-                  if(l!=t[i])return!1
-                }else{
-                  if(a?l>t[i]:l<t[i])return!1;
-                  l!=t[i]&&(c=!1)
-                }else if("s"!=d&&"n"!=d){
-                  if(a||i<=o)return!1;
-                  c=!1,
-                  i--
-                }else{
-                  if(i<=o||f<d!=a)return!1;
-                  c=!1
-                }else"s"!=d&&"n"!=d&&(c=!1,
-                i--)
-              }
-            }var u=[],
-            p=u.pop.bind(u);
-            for(s=1;
-            s<t.length;
-            s++){
-              var h=t[s];
-              u.push(1==h?p()|p():2==h?p()&p():h?r(h,
-              n):!p())
-            }return!!p()
           };
-          const n=(t,
+          const t=(t,
           r,
           n)=>{
             const o=n?(e=>Object.keys(e).reduce((t,
@@ -583,134 +518,110 @@ t){
               ){
                 if(n>=t.length)return n<r.length&&"u"!=(typeof r[n])[0];
                 var o=t[n],
-                a=(typeof o)[0];
-                if(n>=r.length)return"u"==a;
-                var s=r[n],
-                i=(typeof s)[0];
-                if(a!=i)return"o"==a&&"n"==i||"s"==i||"u"==a;
-                if("o"!=a&&"u"!=a&&o!=s)return o<s;
+                s=(typeof o)[0];
+                if(n>=r.length)return"u"==s;
+                var a=r[n],
+                i=(typeof a)[0];
+                if(s!=i)return"o"==s&&"n"==i||"s"==i||"u"==s;
+                if("o"!=s&&"u"!=s&&o!=a)return o<a;
                 n++
               }
             })(t,
             r)?r:t,
             0)
           },
-          a=(e,
+          r=(e,
           t,
           r)=>r?r():((e,
           t)=>(e=>{
             throw new Error(e)
           })("Shared module "+t+" doesn't exist in shared scope "+e))(e,
           t),
-          s=(e=>function(t,
+          n=(e=>function(t,
           r,
           n,
-          a,
-          s){
+          s,
+          a){
             const i=o.I(t);
             return i?.then&&!n?i.then(e.bind(e,
             t,
             o.S[t],
             r,
             !1,
-            a,
-            s)):e(t,
+            s,
+            a)):e(t,
             o.S[t],
             r,
             n,
-            a,
-            s)
+            s,
+            a)
           })((e,
+          n,
           s,
-          i,
-          c,
-          l,
-          f)=>{
+          a,
+          i)=>{
             if(!((e,
             t)=>e&&o.o(e,
-            t))(s,
-            i))return a(e,
-            i,
-            f);
-            const d=n(s,
-            i,
-            c);
-            return r(l,
-            d)||(p=((e,
-            r,
-            n,
-            o)=>"Unsatisfied version "+n+" from "+(n&&e[r][n].from)+" of shared singleton module "+r+" (required "+t(o)+")")(s,
-            i,
-            d,
-            l),
-            "undefined"!=typeof console&&console.warn&&console.warn(p)),
-            (u=s[i][d]).loaded=1,
-            u.get();
-            var u,
-            p
+            t))(n,
+            s))return r(e,
+            s,
+            i);
+            const c=t(n,
+            s,
+            a);
+            return(d=n[s][c]).loaded=1,
+            d.get();
+            var d
           }),
-          i={
+          s={
           },
-          c={
-            3082:()=>s("default",
+          a={
+            5748:()=>n("default",
             "react",
             !1,
-            [0],
-            ()=>o.e(581).then(()=>()=>o(2581))),
-            9225:()=>s("default",
-            "react-router-dom",
+            ()=>o.e(888).then(()=>()=>o(3888))),
+            4612:()=>n("default",
+            "react-router",
             !1,
-            [0],
-            ()=>Promise.all([o.e(860),
-            o.e(17)]).then(()=>()=>o(9860))),
-            3331:()=>s("default",
+            ()=>o.e(361).then(()=>()=>o(9361))),
+            3788:()=>n("default",
             "@rsgweb/utils",
             !1,
-            [0],
-            ()=>Promise.all([o.e(944),
-            o.e(830)]).then(()=>()=>o(9830))),
-            4017:()=>s("default",
-            "react-dom",
-            !1,
-            [1,
-            18,
-            2,
-            0],
-            ()=>o.e(162).then(()=>()=>o(162)))
+            ()=>Promise.all([o.e(365),
+            o.e(61)]).then(()=>()=>o(7061)))
           },
-          l={
-            17:[4017],
-            82:[3082],
-            225:[9225],
-            978:[3331]
+          i={
+            612:[4612],
+            748:[5748],
+            978:[3788]
           },
-          f={
+          c={
           };
           o.f.consumes=(e,
           t)=>{
-            o.o(l,
-            e)&&l[e].forEach(e=>{
-              if(o.o(i,
-              e))return t.push(i[e]);
-              if(!f[e]){
+            o.o(i,
+            e)&&i[e].forEach(e=>{
+              if(o.o(s,
+              e))return t.push(s[e]);
+              if(!c[e]){
                 const r=t=>{
-                  i[e]=0,
+                  s[e]=0,
                   o.m[e]=r=>{
                     delete o.c[e],
                     r.exports=t()
                   }
                 };
-                f[e]=!0;
+                c[e]=!0;
                 const n=t=>{
-                  delete i[e],
+                  delete s[e],
                   o.m[e]=r=>{
                     throw delete o.c[e],
                     t
                   }
                 };
                 try{
-                  const o=c[e]();
-                  o.then?t.push(i[e]=o.then(r).catch(n)):r(o)
+                  const o=a[e]();
+                  o.then?t.push(s[e]=o.then(r).catch(n)):r(o)
                 }catch(e){
                   n(e)
                 }
@@ -730,35 +641,35 @@ t){
               }[t]&&r.push(e[t]=(e=>new Promise((t,
               r)=>{
                 var n=o.miniCssF(e),
-                a=o.p+n;
+                s=o.p+n;
                 if(((e,
                 t)=>{
                   for(var r=document.getElementsByTagName("link"),
                   n=0;
                   n<r.length;
                   n++){
-                    var o=(s=r[n]).getAttribute("data-href")||s.getAttribute("href");
-                    if("stylesheet"===s.rel&&(o===e||o===t))return s
-                  }var a=document.getElementsByTagName("style");
+                    var o=(a=r[n]).getAttribute("data-href")||a.getAttribute("href");
+                    if("stylesheet"===a.rel&&(o===e||o===t))return a
+                  }var s=document.getElementsByTagName("style");
                   for(n=0;
-                  n<a.length;
+                  n<s.length;
                   n++){
-                    var s;
-                    if((o=(s=a[n]).getAttribute("data-href"))===e||o===t)return s
+                    var a;
+                    if((o=(a=s[n]).getAttribute("data-href"))===e||o===t)return a
                   }
                 })(n,
-                a))return t();
+                s))return t();
                 ((e,
                 t,
                 r,
                 n,
-                a)=>{
-                  var s=document.createElement("link");
-                  s.rel="stylesheet",
-                  s.type="text/css",
-                  o.nc&&(s.nonce=o.nc),
-                  s.onerror=s.onload=r=>{
-                    if(s.onerror=s.onload=null,
+                s)=>{
+                  var a=document.createElement("link");
+                  a.rel="stylesheet",
+                  a.type="text/css",
+                  o.nc&&(a.nonce=o.nc),
+                  a.onerror=a.onload=r=>{
+                    if(a.onerror=a.onload=null,
                     "load"===r.type)n();
                     else{
                       var o=r&&r.type,
@@ -768,14 +679,14 @@ t){
                       c.code="CSS_CHUNK_LOAD_FAILED",
                       c.type=o,
                       c.request=i,
-                      s.parentNode&&s.parentNode.removeChild(s),
-                      a(c)
+                      a.parentNode&&a.parentNode.removeChild(a),
+                      s(c)
                     }
                   },
-                  s.href=t,
-                  document.head.appendChild(s)
+                  a.href=t,
+                  document.head.appendChild(a)
                 })(e,
-                a,
+                s,
                 0,
                 t,
                 r)
@@ -798,13 +709,13 @@ t){
             let n=o.o(e,
             t)?e[t]:void 0;
             if(0!==n)if(n)r.push(n[2]);
-            else if(/^(17|225|82)$/.test(t))e[t]=0;
+            else if(/^(612|748)$/.test(t))e[t]=0;
             else{
-              const a=new Promise((r,
+              const s=new Promise((r,
               o)=>n=e[t]=[r,
               o]);
-              r.push(n[2]=a);
-              const s=o.p+o.u(t),
+              r.push(n[2]=s);
+              const a=o.p+o.u(t),
               i=new Error,
               c=r=>{
                 if(o.o(e,
@@ -821,7 +732,7 @@ t){
                   n[1](i)
                 }
               };
-              o.l(s,
+              o.l(a,
               c,
               "chunk-"+t,
               t)
@@ -830,18 +741,18 @@ t){
           const t=(t,
           r)=>{
             let[n,
-            a,
-            s]=r;
+            s,
+            a]=r;
             var i,
             c,
-            l=0;
+            d=0;
             if(n.some(t=>0!==e[t])){
-              for(i in a)o.o(a,
-              i)&&(o.m[i]=a[i]);
-              s&&s(o)
+              for(i in s)o.o(s,
+              i)&&(o.m[i]=s[i]);
+              a&&a(o)
             }for(t&&t(r);
-            l<n.length;
-            l++)c=n[l],
+            d<n.length;
+            d++)c=n[d],
             o.o(e,
             c)&&e[c]&&e[c][0](),
             e[c]=0

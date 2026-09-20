@@ -1,7 +1,7 @@
 {
   "package": "modules-core-newswire-article",
-  "version": "17.5.14",
-  "hash": "e443f021ba4d0e0f78f5f969c5575eb07d6402ac51ebeee4830572159c5a8950",
-  "gitHead": "90576ff78edf4e7c067413c3d030b5d466aa6a58",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/modules-core-newswire-article/17.5.14/e443f021ba4d0e0f78f5f969c5575eb07d6402ac51ebeee4830572159c5a8950/remote-entry.js"
+  "version": "18.0.6",
+  "hash": "c4881502de23cb5dc13d95ce2c52941775823fb259ad4f4384a2201ef1da04c9",
+  "gitHead": "67459d972fa138db6c3b11c6d2cf8740c1d8f79b",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/modules-core-newswire-article/18.0.6/c4881502de23cb5dc13d95ce2c52941775823fb259ad4f4384a2201ef1da04c9/remote-entry.js"
 }

@@ -3,8 +3,9 @@
 1 size
 12 Vintage Vice City Pack in a single zip file
 12 Vintage Vice City Screenshots
-22 Artwork & Wallpapers in a single zip file
-22 Artwork and Wallpapers
+23 Artwork & Wallpapers in a single zip file
+23 Artwork and Wallpapers
+3 sizes
 51 Ultimate Edition Benefits in a single zip file
 51 Ultimate Edition Screenshots
 6 sizes
@@ -31,7 +32,6 @@ Grand Theft Auto VI Trailer 1
 Grand Theft Auto VI Trailer 2
 Grand Theft Auto VI: An Extended Look
 Hawk & Little Morgan Revolvers 01
-Jason and Lucia Robbery
 Jason Duval 07
 Jason Duval Video Clip
 Lucia Caminos 09
@@ -46,13 +46,13 @@ Open download dialog - Grand Theft Auto VI Trailer 1 - 1 size
 Open download dialog - Grand Theft Auto VI Trailer 2 - 1 size
 Open download dialog - Grand Theft Auto VI: An Extended Look - 1 size
 Open download dialog - Hawk & Little Morgan Revolvers 01 - 1 size
-Open download dialog - Jason and Lucia Robbery - 6 sizes
 Open download dialog - Jason Duval 07 - 1 size
 Open download dialog - Jason Duval Video Clip - 1 size
 Open download dialog - Lucia Caminos 09 - 1 size
 Open download dialog - Lucia Caminos Video Clip - 1 size
 Open download dialog - Official Cover Art - 6 sizes
 Open download dialog - Official Cover Art Animation - 1 size
+Open download dialog - The Album Cover Art - 3 sizes
 Open download dialog - Ultimate Edition 02 - 1 size
 Open download dialog - Vice City 11 - 1 size
 Open download dialog - Vice City Postcard - 6 sizes
@@ -62,6 +62,7 @@ Plays best on PlayStation 5
 Pre-Order Now
 See All
 Skip to Main Content
+The Album Cover Art
 Ultimate Edition 02
 Ultimate Edition Benefits
 Vice City 11

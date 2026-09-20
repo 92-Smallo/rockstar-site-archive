@@ -1,7 +1,7 @@
 {
   "package": "sites-gta-gen9",
-  "version": "18.5.14",
-  "hash": "a47af564f56ca2d5a0f462471ca4efd7d5aa8cf3a015326038497097f462edf9",
-  "gitHead": "90576ff78edf4e7c067413c3d030b5d466aa6a58",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe6/prod/@rockstargames/sites-gta-gen9/18.5.14/a47af564f56ca2d5a0f462471ca4efd7d5aa8cf3a015326038497097f462edf9/remote-entry.js"
+  "version": "19.0.5",
+  "hash": "403d14e71ea2aaaea61522323ecdcc959b60b1cf9b97e05cc90786ec1ce1f2b6",
+  "gitHead": "67459d972fa138db6c3b11c6d2cf8740c1d8f79b",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/sites-gta-gen9/19.0.5/403d14e71ea2aaaea61522323ecdcc959b60b1cf9b97e05cc90786ec1ce1f2b6/remote-entry.js"
 }

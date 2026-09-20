@@ -1,4 +1,4 @@
-22 artwork and wallpapers (as zip file)
+23 artwork and wallpapers (as zip file)
 3 sizes
 6 sizes
 7 sizes
@@ -56,6 +56,7 @@ Open download dialog - Official Cover Art - 6 sizes
 Open download dialog - Port Gellhorn Postcard - 6 sizes
 Open download dialog - Raul Bautista - 6 sizes
 Open download dialog - Real Dimez - 6 sizes
+Open download dialog - The Album Cover Art - 3 sizes
 Open download dialog - Vice City Postcard - 6 sizes
 Plays best on PlayStation 5
 Port Gellhorn Postcard
@@ -63,5 +64,6 @@ Pre-Order Now
 Raul Bautista
 Real Dimez
 Skip to Main Content
+The Album Cover Art
 Vice City Postcard
 Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive.

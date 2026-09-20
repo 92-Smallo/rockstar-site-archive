@@ -1,7 +1,4 @@
-, rendering default message verbatim'),u,r,e)),
 , rendering default message verbatim`,e,c,t)),
-, using ').concat(t.defaultMessage?
-, using ').concat(v?
 , you should instead write 'globalStyle(
 ,bearer_token_expired:!0,isAMinor:void 0,isNewAccount:!1,nickname:
 ,breakpoints:void 0,breakpointsBase:
@@ -9,7 +6,6 @@
 ,n.onTranslateToWrapperTransitionEnd),n.onTranslateToWrapperTransitionEnd=null,delete n.onTranslateToWrapperTransitionEnd,n.animating=!1,s&&n.emit(
 ,this.status=void 0===t.status?200:t.status,this.status<200||this.status>599)throw new RangeError(
 :i.open&&!s.collapsible||void 0,
-:if(o.options.length>1)throw new RangeError(
 :if(r.options.length>1)throw new RangeError(
 :if(r<4)throw new RangeError(
 :return this.currZoomLevel>this.zoomLevels.initial?
@@ -28,13 +24,13 @@
 !=typeof document?X.useLayoutEffect:X.useEffect,yt=e=>e&&!Array.isArray(e)&&
 !=typeof document&&(
 !=typeof document&&(document.addEventListener(
-!=typeof e?null:
-!=typeof e)throw new n(
+!=typeof e)throw new r(
 !=typeof e)throw new TypeError(
 !=typeof e)throw new TypeError(e+
 !=typeof e&&console.warn(
 !=typeof e||!e.includes(
 !=typeof i&&i.removeAttribute(
+!=typeof l?null:
 !=typeof l||(l=document.createElement(
 !=typeof n?(t.minimumSignificantDigits=r.length,t.maximumSignificantDigits=r.length):
 !=typeof n||(n=document.createElement(
@@ -49,45 +45,39 @@
 !=typeof window&&(window[Symbol.for(
 !=typeof window&&window.addEventListener(
 !=typeof window&&window.document&&(Ar=window,Cr=Ar.document,Dr=Cr.documentElement,Pr=ki(
-!=typeof window&&window[wh]||
+!=typeof window&&window[gh]||
 . Doing nothing
 . Must include exactly one non-modifier key (e.g.
 . Options are
 . This may indicate a circular fallback dependency.`,
+. This means if you navigate deeper, the parent won't match anymore and therefore the child routes will never render. Please change the parent <Route path=
 .gsap-marker-start, .gsap-marker-end, .gsap-marker-scroller-start, .gsap-marker-scroller-end
-" as fallback. See https://formatjs.github.io/docs/react-intl/api#intlshape for more details
-" as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details
 " does not exist in container.
-" in Intl.DateTimeFormat. Using default locale: "
-" in Intl.NumberFormat. Using default locale: "
-", rendering message verbatim
 ". Should be a string, number, null or object. Received: "
-"locale" was not configured, using "
 (hover: none), (pointer: coarse)
 (min-aspect-ratio: 2.5)
 (orientation: landscape)
 (orientation: portrait)
 (prefers-reduced-motion: reduce)
 (see https://github.com/apollographql/invariant-packages)
+(under <Route path=
 ) in the URL path
 ) is greater than the number of directories (
 ) to 'parent', you should add
-),switch:new se(
-),xboxone:new se(
-),xboxsx:new se(
+),`Route path
+),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
+),switch:new ie(
+),xboxone:new ie(
+),xboxsx:new ie(
 ):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
-).concat(null==n?void 0:n.defaultMessage,
-).concat(null==n?void 0:n.description,
 ).toUpperCase():void 0,games_played:n.length?n.join(
-).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:t?
+).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:p,section_layout:t?
 ).toUpperCase():void 0,gta_plus_platforms:s.length?s.map(e=>i[e]??e).join(
 ).toUpperCase():void 0,gtao_platforms_played:r.length?r.map(e=>i[e]??e).join(
-)),D=new RegExp(
 )),n=new s.WebKitCSSMatrix(
 ))return this.error(
 ))throw new Error(
-[@formatjs/intl Error
 [aria-live], script
 [native code]
 [object Arguments]
@@ -128,30 +118,44 @@
 /games/gtaiv
 /graphql
 /npm-monitoring
+`),l(null==v||void 0!==v[v.length-1].route.element||void 0!==v[v.length-1].route.Component||void 0!==v[v.length-1].route.lazy,`Matched leaf route at location
+`useViewTransitionState` must be used within `react-router-dom`'s `RouterProvider`. Did you accidentally import `RouterProvider` from `react-router`?
 +(new Date).getTime()):this.url+=(/\?/.test(this.url)?
 +t.statusText,this.headers=new p(t.headers),this.url=t.url||
 <iframe src="https://www.googletagmanager.com/ns.html?id=
 ===a.key)throw new Error(`Invalid keyboard shortcut:
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
 ===r.preventScrollAxis?(t._active=!1,void this.clean()):(this.timeoutStore.remove(
-===r)return void e.removeAttribute(
 ===this.method)&&o)throw new TypeError(
 ===u.value&&!r)throw new Error(
 ==typeof c.bearerToken&&u.searchParams.append(
-==typeof clearTimeout?clearTimeout:void 0,al=
+==typeof e?new URL(e,
+==typeof e.imageSizes:
+==typeof e.imageSrcSet&&
+==typeof e.internal&&
+==typeof e.rel&&
+==typeof e.status&&
+==typeof e.statusText&&
 ==typeof e.type&&
 ==typeof e&&!1!==i.config().nullTargetWarn?console.warn(
 ==typeof exports&&exports&&!exports.nodeType&&exports,c=n&&
-==typeof n.children||
-==typeof performance.now?performance:Date,We=new Set,Ue=
+==typeof performance.now?performance:Date,Ne=new Set,We=
 ==typeof performance&&performance&&
-==typeof Promise?Promise:void 0,ul=
 ==typeof ResizeObserver,layoutShift:f=
-==typeof setTimeout?setTimeout:void 0,ll=
 ==typeof Symbol&&Symbol.for?Symbol.for(
 ==typeof t?t:t.hasOwnProperty(
-==typeof t.get&&
+==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
+==typeof t.imageSizes?t.imageSizes:void 0,media:
+==typeof t.imageSrcSet?t.imageSrcSet:void 0,imageSizes:
+==typeof t.integrity?t.integrity:void 0,nonce:
+==typeof t.integrity?t.integrity:void 0,o=
+==typeof t.nonce?t.nonce:void 0,type:
+==typeof t.referrerPolicy?t.referrerPolicy:void 0,imageSrcSet:
+==typeof t.type?t.type:void 0,fetchPriority:
 ==typeof t&&!t.includes(
+==typeof window?
+> to <Route path=
+>) but the parent route path has no trailing
 A hotkey has the "scopes" option set, however no active scopes were found. If you want to use the global scopes feature, you need to wrap your app in a <HotkeysProvider>
 A message must be provided as a String or AST.
 Abrir busca
@@ -165,7 +169,6 @@ Accueil Rockstar Games
 Acercar zoom
 Acheter maintenant
 Acquista ora
-act(...) is not supported in production builds of React.
 Activación de juegos
 Activación del juego
 Activation de jeux
@@ -206,8 +209,8 @@ Arial Rounded MT Bold
 Arial Unicode MS
 ARNO PRO
 as fallback. See https://formatjs.github.io/docs/react-intl/api#intlshape for more details`)),n.locale=n.defaultLocale||
-as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details`)):!Intl.DateTimeFormat.supportedLocalesOf(s).length&&a&&a(new de(`Missing locale data for locale:
-as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details`)):(a&&a(new pe(`
+as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details`)):!Intl.DateTimeFormat.supportedLocalesOf(s).length&&a&&a(new be(`Missing locale data for locale:
+as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details`)):(a&&a(new de(`
 Asistencia técnica
 assertion failure
 At least one of max, maxSize, or ttl is required
@@ -218,12 +221,14 @@ Attribute selector didn't terminate
 Aumenta zoom
 Ausgewählte Spiele
 Avatar menu
+Avatar Menu, Accessible title for the avatar menu
 Avatar: Only one `Avatar.Image` component should be rendered per `Avatar.Root`, but multiple were detected. This will lead to unexpected behavior.
 Aviso legal
 Badge Pursuit
 Banda de Van der Linde
 Bandos e Modo Livre
 Bandy i gra swobodna
+because the \`*\` character must always follow a \`/\` in the pattern. To get rid of this warning, please change the route path to
 Bezier x values must be in [0, 1] range
 Bien démarrer
 Bitstream Vera Sans Mono
@@ -240,6 +245,7 @@ Buscar em Rockstar Games...
 Buscar en Rockstar Games
 Buscar en Rockstar Games...
 Búsqueda de placas
+but pathname
 Buy Now
 Cambria Math
 Can't find condition for
@@ -270,16 +276,13 @@ Cerrar menú
 Cerrar menú de jugador
 Cerrar menú del jugador
 Cerrar sesión
-change click focusin focusout input keydown keyup selectionchange
 Charte de confidentialité
 Checkpoint Challenge
-children dangerouslySetInnerHTML defaultValue defaultChecked innerHTML suppressContentEditableWarning suppressHydrationWarning style
 Chiudi menu
 Chiudi Menu giocatore
 Chiudi ricerca
 Clanes y modo Libre
 Class extends value
-clearTimeout has not been defined
 Clicca per aprire il menu
 Click to open menu
 Clique para abrir o menu
@@ -296,9 +299,6 @@ command line
 Community Guidelines
 Community Series
 Competitive Series
-compositionend focusout keydown keypress keyup mousedown
-compositionstart focusout keydown keypress keyup mousedown
-compositionupdate focusout keydown keypress keyup mousedown
 Comprar ahora
 Comunidade em Série
 Configuración de cookies
@@ -347,6 +347,7 @@ Directrices de la comunidad
 Distintivos escondidos
 Do Not Sell or Share My Personal Information
 does not exist in object
+does not have an element or Component. This means it will render an <Outlet /> with a null value by default resulting in an
 DOM blockers debug: ```
 doubleTap doubleClick
 Download the Apollo DevTools for a better development experience: %s
@@ -379,11 +380,11 @@ Envoyer une demande d'assistance
 Error formatting display name.
 Error formatting number.
 Error formatting relative time.
-Error formatting the default message for: "
 Error message not found.
 Erste Schritte
 Esplora le attività
 Esplora le crew
+Esta busca já foi pesquisada. Faça uma nova busca.
 Esta consulta já foi pesquisada. Faça uma nova consulta.
 Estado del servicio
 État du service
@@ -408,10 +409,7 @@ Find Friends
 Fire Phone $1
 first argument should be an array
 First ensure all usages of `canonizeResults` are removed, then remove this option.
-focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
-for locale
 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
-forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
 foundry_11gbdtyf foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdi
 foundry_11gbdtyg foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
 foundry_11gbdtyj foundry_8kowh41 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdi
@@ -504,7 +502,14 @@ Getting Started
 Gill Sans
 Giocatore singolo
 Giochi in evidenza
+Global navigation More, Overflow for small screens More text link
 Global navigation Quick Access, Home text link
+Global navigation search categories aria label
+Global navigation search, Button label for closing search input
+Global navigation search, Button label for opening search input
+Global navigation search, label when icon button is disabled
+Global navigation search, Placeholder text within search input
+Global navigation search, Search action used on buttons and aria-labels
 Global navigation search, Search Target - Community
 Global navigation search, Search Target - Crews
 Global navigation search, Search Target - Games
@@ -512,6 +517,10 @@ Global navigation search, Search Target - Jobs
 Global navigation search, Search Target - Posts
 Global navigation search, Search Target - Users
 Global navigation search, Search Target - Videos
+Global navigation, Hamburger menu closes the Mobile Menu
+Global navigation, Hamburger menu opens the Mobile Menu
+Global navigation, Rockstar Games Home
+Global navigation, Rockstar Games Logo that opens the Quick Access Menu
 Google Play
 Got NaN while animating:
 Gra jednoosobowa
@@ -541,15 +550,13 @@ heart rate monitor
 Helvetica Neue
 Home Rockstar Games
 horizontal rule
-http://www.w3.org/1999/xlink
 http://www.w3.org/2000/svg
-http://www.w3.org/XML/1998/namespace
 HttpLink: Trying to send a client-only query to the server. To send to the server, ensure a non-client field is added to the query or set the `transformOptions.removeClientFields` option to `true`.
 https://addons.mozilla.org/en-US/firefox/addon/apollo-developer-tools/
 https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
 https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm
 https://m1.openfpcdn.io/fingerprintjs/v
-https://reactjs.org/docs/error-decoder.html?invariant=
+https://react.dev/errors/
 I miei amici
 If `dragConstraints` is set as a React ref, that ref must be passed to another component's `ref` prop.
 If you don't want to synchronize component state with the mutation, please use the `useApolloClient` hook to get the client instance and call `client.mutate` directly.
@@ -571,7 +578,6 @@ in not contained inside
 in s?s.hasPointerCapture(a.pointerId)&&s.releasePointerCapture(a.pointerId):s.releasePointerCapture(a.pointerId)),U((0,n.TW)(a.currentTarget),
 in t.documentElement.style,touch:!!(
 in u?u.responseURL:r.headers.get(
-in window||(delete Sr.animationend.animation,delete Sr.animationiteration.animation,delete Sr.animationstart.animation),
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
 Información general
 Informacje prawne
@@ -591,13 +597,14 @@ invalid max value:
 Invalid media feature
 Invalid media query: "
 Invalid range
+Invalid redirect location
 Invalid scope
 invalid size value (must be positive integer). When maxSize or maxEntrySize is used, sizeCalculation or size must be set.
 Invalid value.
 Invia un ticket
-is at invalid UTF-16 code unit boundary
 is not a constructor or null
 is not a function
+is not a valid \`encType\` for \`<Form>\`/\`<fetcher.Form>\` and will default to
 is not an object
 is not observable
 Italiano (Italia)
@@ -618,6 +625,8 @@ La banda di Van der Linde
 La bande de Van der Linde
 La mia dashboard
 La requête actuelle a déjà été effectuée. Veuillez effectuer une nouvelle requête.
+Label for an external link.
+Label for chevron icon, indicating trigger has a sub menu
 Launcher herunterladen
 Le mie attività
 Le mie crew
@@ -698,13 +707,13 @@ Mis Crews
 Misiones de la historia
 Misiones narrativas
 Misje fabularne
-Missing locale data for locale: "
 Missing plugin? gsap.registerPlugin()
 Missioni della storia
 Missions de l'histoire
 Missões de História
 MIUI Browser
 mobile data
+Mobile Menu, Accessible title for the mobile menu
 Mobile Safari
 Modo de Pontuação
 Moi znajomi
@@ -718,7 +727,6 @@ more than
 MS Reference Sans Serif
 MS Reference Specialty
 MS Sans Serif
-must be greater than or equal to the current offset
 MYRIAD PRO
 Nach dieser Anfrage wurde bereits gesucht. Bitte gib eine neue Suchanfrage ein.
 Nagrody klubowe
@@ -726,6 +734,7 @@ Nagrody za rangi
 Não compartilhem minhas informações pessoais
 Navigation menu
 Ne pas vendre ni partager mes données personnelles
+nested under path
 new tab
 new window
 New York Minute
@@ -734,6 +743,7 @@ Niveau de zoom
 Nivel de zoom
 Nível de zoom
 Nivel del zoom
+No `HydrateFallback` element provided to render during initial hydration
 No adapter configured
 No adapter provided when calling "setAdapter"
 no memoMethod provided to constructor
@@ -823,11 +833,11 @@ Primeiros passos
 Primeros pasos
 Privacy Policy
 Prix Luxury Real Estate
-process.binding is not supported
 Progreso en la trayectoria
 Progreso y trayectoria
 Progressi della carriera
 Progresso da Carreira
+prop on your route.
 Przeglądaj akcje
 Przeglądaj ekipy
 Przeglądaj profil
@@ -842,8 +852,8 @@ Rank Unlocks
 Rastreador de Casos
 reachBeginning toEdge
 reachEnd toEdge
+React Router caught the following error during render
 React.Children.only expected to receive a single React element child.
-React.cloneElement(...): The argument must be a React element, but you passed
 Read more on MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 Rechercher sur Rockstar Games...
 Recompensas del club
@@ -903,8 +913,6 @@ Séries Competitivas
 Séries compétitives
 Series de la comunidad
 Service Status
-setState(...): takes an object of state variables to update or a function which returns an object of state variables.
-setTimeout has not been defined
 Sfida a checkpoint
 Sfida a punti
 side nav
@@ -952,9 +960,11 @@ Super expression must either be null or a function
 Symbol.iterator is not defined.
 Szukaj znajomych
 table of contents
+takes an object of state variables to update or a function which returns an object of state variables.
 tap click
 Target ref is defined but not hydrated
 TextDecoder must be defined in the environment: please import a polyfill.
+The argument must be a React element, but you passed
 The input selection has not been updated.
 The requested video does not exist.
 The selection attributes have not been initialized.
@@ -999,6 +1009,10 @@ useBreadcrumbsContext can only be used in a <Breadcrumbs.Root />
 useCheckboxContext can only be used in a <Checkbox.Root />
 useChipGroupContext can only be used in a <ChipGroup.Root />
 useDropdownContext can only be used in a <Dropdown.Root />
+useFormAction must be used inside a RouteContext
+useHref() may be used only in the context of a <Router> component.
+useLocation() may be used only in the context of a <Router> component.
+useNavigate() may be used only in the context of a <Router> component.
 useRadioGroupContext can only be used in a <RadioGroup.Root />
 useSwitchContext can only be used in a <Switch.Root />
 useTagContext can only be used in a <Tag.Root />
@@ -1043,6 +1057,7 @@ was specified but
 waste bin
 WebGL fingerprinting is incomplete, because your browser does not support getShaderPrecisionFormat
 while loading "
+will be treated as if it were
 Windows Phone
 Wskazówki społeczności
 Wybierz język
@@ -1061,6 +1076,9 @@ Xbox Series X|S
 Xperia Tablet
 Ya se ha realizado esta búsqueda. Introduce una nueva búsqueda.
 Ya se realizó esta búsqueda. Inicia una nueva búsqueda.
+You must render this element inside a <DataRouterContext.Provider> element
+You must render this element inside a <DataRouterStateContext.Provider> element
+You should call navigate() in a React.useEffect(), not when your component is first rendered.
 Zabraniam sprzedaży i udostępniania moich danych
 Zamknij menu
 Zamknij menu gracza
@@ -1072,3 +1090,4 @@ Zoom level
 Zoom out
 搜尋 Rockstar Games……
 搜索 Rockstar Games……
+搜索Rockstar Games……
