@@ -80,9 +80,9 @@ n){
               "./main":function(){
                 return Promise.all([r.e(5821),
                 r.e(3641),
-                r.e(6631)]).then(function(){
+                r.e(5410)]).then(function(){
                   return function(){
-                    return r(24)
+                    return r(5779)
                   }
                 })
               }
@@ -706,7 +706,7 @@ n){
         },
         w={
           3641:[3641],
-          6631:[2267,
+          5410:[2267,
           6589]
         },
         k={
