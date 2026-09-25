@@ -5,6 +5,7 @@
 ,defaultMessage:'<span>New mission
 ,description:'First half of the text around the
 ,i=new Set(o.split(
+,message:e instanceof Error?e.message:
 ,s=`No route matches URL
 ,this.status=void 0===t.status?200:t.status,this.status<200||this.status>599)throw new RangeError(
 :</span> – recoge las hierbas requeridas y obtén diversas recompensas
@@ -14,19 +15,20 @@
 :return this.currZoomLevel>this.zoomLevels.initial?
 :t.isInvalid||void 0,
 :throw new RangeError(
-!==a||void 0===navigator.plugins&&
 !==d.type)throw new Error(
 !==e.type)throw new Error(
 !==e[1].type)throw new Error(
 !==e[e.length-1].type)throw new Error(
 !==r.kind)throw new Error(
+!==r||void 0===navigator.plugins&&
 !==t[t.length-1].type)throw new Error(
 !==y)throw new Error(
+!=typeof Buffer&&
 !=typeof CSS&&CSS.supports&&CSS.supports(
-!=typeof document?W.useLayoutEffect:W.useEffect,Bl=e=>e&&!Array.isArray(e)&&
+!=typeof document?E.useLayoutEffect:E.useEffect,Zl=e=>e&&!Array.isArray(e)&&
 !=typeof document&&(
 !=typeof document&&(document.addEventListener(
-!=typeof e)throw new n(
+!=typeof e)throw new i(
 !=typeof e)throw new TypeError(e+
 !=typeof e&&console.warn(
 !=typeof e||!e.includes(
@@ -39,12 +41,11 @@
 !=typeof r)throw new TypeError(r+
 !=typeof t)throw new TypeError(
 !=typeof t&&null!==t)throw new TypeError(
-!=typeof WeakMap?WeakMap:Map,s=
 !=typeof window?window:
 !=typeof window&&(window[Symbol.for(
 !=typeof window&&window.addEventListener(
-!=typeof window&&window.document&&(bs=window,ws=bs.document,_s=ws.documentElement,xs=Js(
-!=typeof window&&window[Pj]||
+!=typeof window&&window.document&&(Ss=window,js=Ss.document,ks=js.documentElement,Rs=il(
+!=typeof window&&window[Bj]||
 . Doing nothing
 . Must include exactly one non-modifier key (e.g.
 . Options are
@@ -71,10 +72,10 @@
 ) to 'parent', you should add
 ),`Route path
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
-),b(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new ie(
-),xboxone:new ie(
-),xboxsx:new ie(
+),R(null!=i,'useFetcher can only be used on routes that contain a unique
+),switch:new ye(
+),xboxone:new ye(
+),xboxsx:new ye(
 ). If you meant to render a collection of children, use an array instead.
 ))return this.error(
 ))throw new Error(
@@ -119,7 +120,7 @@
 @@toPrimitive must return a primitive value.
 /graphql
 /npm-monitoring
-`),E(null==p||void 0!==p[p.length-1].route.element||void 0!==p[p.length-1].route.Component||void 0!==p[p.length-1].route.lazy,`Matched leaf route at location
+`),S(null==p||void 0!==p[p.length-1].route.element||void 0!==p[p.length-1].route.Component||void 0!==p[p.length-1].route.lazy,`Matched leaf route at location
 `useViewTransitionState` must be used within `react-router-dom`'s `RouterProvider`. Did you accidentally import `RouterProvider` from `react-router`?
 +(new Date).getTime()):this.url+=(/\?/.test(this.url)?
 +btoa(String.fromCharCode(...new Uint8Array(a))).replace(/=+$/,
@@ -179,12 +180,14 @@
 <span>Shark Tooth</span> – permanently increases horse bonding experience bonus by 10%
 <span>Turtle Shell</span> – permanently increases health bar refill speed by 10%
 ===d.value&&!r)throw new Error(
-===e.id?$a:void 0:t.HydrateFallback,i=t.ErrorBoundary?t.ErrorBoundary:
+===e.id?za:void 0:t.HydrateFallback,i=t.ErrorBoundary?t.ErrorBoundary:
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
 ===r.preventScrollAxis?(t._active=!1,void this.clean()):(this.timeoutStore.remove(
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===this.method)&&o)throw new TypeError(
-==typeof c.bearerToken&&u.searchParams.append(
+==typeof Buffer.from)return Buffer.from(e).toString(
+==typeof c.bearerToken&&d.searchParams.append(
+==typeof document)return
 ==typeof e?new URL(e,
 ==typeof e.imageSizes:
 ==typeof e.imageSrcSet&&
@@ -198,8 +201,8 @@
 ==typeof e.type&&
 ==typeof e&&!1!==i.config().nullTargetWarn?console.warn(
 ==typeof FormData,
-==typeof i?n.createElement(
-==typeof performance.now?performance:Date,xt=new Set,Ot=
+==typeof i?o.createElement(
+==typeof performance.now?performance:Date,Rt=new Set,Tt=
 ==typeof performance&&performance&&
 ==typeof r&&r instanceof Error||(r=new Error(
 ==typeof ResizeObserver,layoutShift:s=
@@ -210,11 +213,13 @@
 ==typeof t.integrity?t.integrity:void 0,o=
 ==typeof t.message&&
 ==typeof t.nonce?t.nonce:void 0,type:
+==typeof t.placeholderData?t.placeholderData(this.#M?.state.data,this.#M):t.placeholderData,void 0!==e&&(w=
 ==typeof t.referrerPolicy?t.referrerPolicy:void 0,imageSrcSet:
-==typeof t.sri?n.createElement(
+==typeof t.sri?o.createElement(
 ==typeof t.type?t.type:void 0,fetchPriority:
 ==typeof w?.className&&delete w.className,(0,t.jsxs)(
 ==typeof window?
+==typeof window||
 > is not able to match the URL
 > to <Route path=
 >) but the parent route path has no trailing
@@ -397,6 +402,7 @@ Expected a response in query()
 Expected a Response to be returned from resource route handler
 Expected a result
 Expected a route.id in react-router processRoutes() function
+Expected enabled to be a boolean or a callback that returns a boolean
 Expected pending action
 Expected whitespace after media
 Failed to add conditional rule
@@ -438,7 +444,6 @@ foundry_1qqcnuao foundry_1qqcnuau
 foundry_1qqcnuao foundry_1qqcnuav
 foundry_1vzsjidk foundry_8kowh41 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcda
 foundry_2jlbzt7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
-foundry_2jlbzta foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
 foundry_8oytzon foundry_8kowh41 foundry_1d5mo5m0
 foundry_lroh6l3 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf
 foundry_lroh6l4 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde
@@ -448,7 +453,6 @@ foundry_okz6z28 foundry_8kowh41
 foundry_okz6z29 foundry_okz6z24 foundry_okz6z25
 foundry_okz6z2a foundry_okz6z26 foundry_okz6z27
 foundry_okz6z2o foundry_okz6z2k foundry_okz6z2l
-foundry_qmpv6yu foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp foundry_tdsdcdt
 foundry_rmorlsc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_rmorlsd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_tdsdcd2 foundry_tdsdcd0
@@ -482,6 +486,7 @@ foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdr
 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcds
 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt
 foundry_tdsdcdu foundry_tdsdcd0
+foundry_uaq1gw6 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde
 foundry_zxwkyk8 foundry_8kowh41 foundry_1d5mo5m0 foundry_zxwkyk7
 Français (Canada)
 Français (France)
@@ -528,13 +533,13 @@ https://www.youtube.com
 If you don't want to synchronize component state with the mutation, please use the `useApolloClient` hook to get the client instance and call `client.mutate` directly.
 If your `onCompleted` callback sets local state, switch to use derived state using `data` returned from the hook instead. Use `useEffect` to perform side-effects as a result of updates to `data`.
 Imagen anterior
+in c?c.responseURL:r.headers.get(
 in e?e:HTMLInputElement.prototype,
 in e?e.children(e.child):e.children,
 in Intl.DateTimeFormat. Using default locale:
 in Intl.NumberFormat. Using default locale:
 in not contained inside
 in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),B((0,i.TW)(t.currentTarget),
-in u?u.responseURL:r.headers.get(
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
 Initialization of sharing external failed:
 Input type detection error.
@@ -544,6 +549,7 @@ Inscrição efetuada
 instantiate Stack using Stack.create(n)
 Internet Explorer
 Intl.DisplayNames is not available in this environment. Try polyfilling it using "@formatjs/intl-displaynames"
+Intl.DurationFormat is not available in this environment. Try polyfilling it using "@formatjs/intl-durationformat"
 Intl.PluralRules is not available in this environment. Try polyfilling it using "@formatjs/intl-pluralrules"
 Intl.RelativeTimeFormat is not available in this environment. Try polyfilling it using "@formatjs/intl-relativetimeformat"
 IntlMessageFormat.__parse must be set to process `message` of type `string`
@@ -657,6 +663,7 @@ No fetcher match found
 No lazy route function found
 no memoMethod provided to constructor
 No momento, não é possível se inscrever no nosso newsletter usando este endereço de e-mail.
+No mutationFn found
 No optaste por recibir correos con publicidad durante la creación de la cuenta. ¿Quieres suscribirte a nuestro boletín de todos modos?
 No puedes ver el contenido en este momento
 No result assigned in instrumentation chain.
@@ -873,14 +880,12 @@ Unsupported core-js use. Try https://npms.io/search?q=ponyfill.
 Unterminated string.
 use strict
 Use the `fetchPolicy` option instead.
-useAlertBannerContext can only be used in a <AlertBanner.Root />
 useAlertContext can only be used in a <Alert.Root />
 useAvatarContext can only be used in a <Avatar.Root />
 useBadgeContext can only be used in a <Badge.Root />
 useBreadcrumbsContext can only be used in a <Breadcrumbs.Root />
 useCheckboxContext can only be used in a <Checkbox.Root />
 useChipGroupContext can only be used in a <ChipGroup.Root />
-useDropdownContext can only be used in a <Dropdown.Root />
 useFormAction must be used inside a RouteContext
 useHref() may be used only in the context of a <Router> component.
 useRadioGroupContext can only be used in a <RadioGroup.Root />

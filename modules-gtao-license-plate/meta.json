@@ -1,7 +1,7 @@
 {
   "package": "modules-gtao-license-plate",
-  "version": "19.0.5",
-  "hash": "498fe6be42ca0feb4a65b1a30b545ec0bd12c5e8d337e5d5c349eb40a9ca2d81",
-  "gitHead": "67459d972fa138db6c3b11c6d2cf8740c1d8f79b",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/modules-gtao-license-plate/19.0.5/498fe6be42ca0feb4a65b1a30b545ec0bd12c5e8d337e5d5c349eb40a9ca2d81/remote-entry.js"
+  "version": "19.1.2",
+  "hash": "e0cd703869164196194335e35b23a85fc92628d9385884422db8580073ad22c1",
+  "gitHead": "2ca2e8c15383a65d8765393f80cce3745676da96",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/modules-gtao-license-plate/19.1.2/e0cd703869164196194335e35b23a85fc92628d9385884422db8580073ad22c1/remote-entry.js"
 }

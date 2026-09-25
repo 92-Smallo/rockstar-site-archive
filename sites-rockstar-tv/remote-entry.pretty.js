@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="148242db-d5ff-476e-b077-32ee745eed58",
-  e._sentryDebugIdIdentifier="sentry-dbid-148242db-d5ff-476e-b077-32ee745eed58")
+  e._sentryDebugIds[t]="70724bc4-740d-401a-8b68-a9a484d50eaf",
+  e._sentryDebugIdIdentifier="sentry-dbid-70724bc4-740d-401a-8b68-a9a484d50eaf")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"f464875c71ff6a2f67967810cb89cde22d852a2d",
+    release:"2ca2e8c15383a65d8765393f80cce3745676da96",
     packageName:"@rockstargames/sites-rockstar-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"f464875c71ff6a2f67967810cb89cde22d852a2d"
+  id:"2ca2e8c15383a65d8765393f80cce3745676da96"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -44,16 +44,16 @@ t){
     execute:function(){
       e((()=>{
         var e={
-          5946(e,
+          5319(e,
           t,
           r){
             (0,
-            r(9e3).w)(1)
+            r(3199).w)(1)
           },
-          9e3(e,
+          3199(e,
           t,
           r){
-            const n=r(1364).y;
+            const n=r(1975).y;
             t.w=function(e){
               if(e||(e=1),
               !r.y.meta||!r.y.meta.url)throw console.error("__system_context__",
@@ -63,12 +63,12 @@ t){
               e)
             }
           },
-          4769(e,
+          5188(e,
           t,
           r){
-            r(5946)
+            r(5319)
           },
-          1364(e,
+          1975(e,
           t,
           r){
             t.y=function(e,
@@ -77,13 +77,13 @@ t){
               r.href=e;
               for(var n="/"===r.pathname[0]?r.pathname:"/"+r.pathname,
               o=0,
-              s=n.length;
-              o!==t&&s>=0;
-              )"/"===n[--s]&&o++;
+              a=n.length;
+              o!==t&&a>=0;
+              )"/"===n[--a]&&o++;
               if(o!==t)throw Error("systemjs-webpack-interop: rootDirectoryLevel ("+t+") is greater than the number of directories ("+o+") in the URL path "+e);
-              var a=n.slice(0,
-              s+1);
-              return r.protocol+"//"+r.host+a
+              var s=n.slice(0,
+              a+1);
+              return r.protocol+"//"+r.host+s
             };
             Number.isInteger
           },
@@ -92,10 +92,10 @@ t){
           r){
             "use strict";
             const n={
-              "./index":()=>Promise.all([r.e(303),
+              "./index":()=>Promise.all([r.e(41),
               r.e(748),
-              r.e(612),
-              r.e(978)]).then(()=>()=>r(3978))
+              r.e(331),
+              r.e(871)]).then(()=>()=>r(4871))
             },
             o=(e,
             t)=>(r.R=t,
@@ -105,7 +105,7 @@ t){
             }),
             r.R=void 0,
             t),
-            s=(e,
+            a=(e,
             t)=>{
               if(!r.S)return;
               const n="default",
@@ -118,7 +118,7 @@ t){
             r.d(t,
             {
               get:()=>o,
-              init:()=>s
+              init:()=>a
             })
           },
           5136(e){
@@ -131,15 +131,15 @@ t){
         function o(t){
           const r=n[t];
           if(void 0!==r)return r.exports;
-          const s=n[t]={
+          const a=n[t]={
             exports:{
             }
           };
-          return e[t].call(s.exports,
-          s,
-          s.exports,
+          return e[t].call(a.exports,
+          a,
+          a.exports,
           o),
-          s.exports
+          a.exports
         }return o.m=e,
         o.c=n,
         o.y=t,
@@ -153,8 +153,24 @@ t){
           }),
           t
         },
+        o.cw=e=>{
+          var t;
+          return()=>{
+            if(e){
+              var r=e;
+              e=0,
+              t={
+                exports:{
+                }
+              },
+              r.call(t.exports,
+              t,
+              t.exports)
+            }return t.exports
+          }
+        },
         (()=>{
-          const e=Object.getPrototypeOf?e=>Object.getPrototypeOf(e):e=>e.__proto__;
+          const e=Object.getPrototypeOf;
           let t;
           o.t=function(r,
           n){
@@ -163,9 +179,9 @@ t){
             if("object"==typeof r&&r){
               if(4&n&&r.__esModule)return r;
               if(16&n&&"function"==typeof r.then)return r
-            }const s=Object.create(null);
-            o.r(s);
-            const a={
+            }const a=Object.create(null);
+            o.r(a);
+            const s={
             };
             t=t||[null,
             e({
@@ -174,11 +190,11 @@ t){
             e(e)];
             for(var i=2&n&&r;
             ("object"==typeof i||"function"==typeof i)&&!~t.indexOf(i);
-            i=e(i))Object.getOwnPropertyNames(i).forEach(e=>a[e]=()=>r[e]);
-            return a.default=()=>r,
-            o.d(s,
-            a),
-            s
+            i=e(i))Object.getOwnPropertyNames(i).forEach(e=>s[e]=()=>r[e]);
+            return s.default=()=>r,
+            o.d(a,
+            s),
+            a
           }
         })(),
         o.d=(e,
@@ -187,19 +203,18 @@ t){
           r<t.length;
           ){
             var n=t[r++],
-            s=t[r++];
-            o.o(e,
-            n)?0===s&&r++:0===s?Object.defineProperty(e,
-            n,
-            {
+            a=t[r++],
+            s=0===a?{
               enumerable:!0,
               value:t[r++]
-            }):Object.defineProperty(e,
-            n,
-            {
+            }:{
               enumerable:!0,
-              get:s
-            })
+              get:a
+            };
+            o.o(e,
+            n)||Object.defineProperty(e,
+            n,
+            s)
           }else for(var n in t)o.o(t,
           n)&&!o.o(e,
           n)&&Object.defineProperty(e,
@@ -217,13 +232,13 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          61:"b57aaef42d69c2485d005735bec343e3",
-          303:"db4622af17264e75980ff5ed1535bd7d",
-          361:"d75ecae2d4ae1258770076589a6dba56",
-          365:"954a61916602e953c4a756a535942d1c",
-          817:"9789b13ce5a566ce56b583223e8d0688",
-          888:"3ae7ae80941c8b96e0ea1224f7bc6818",
-          978:"85471598e9df6518eba15a0656ab3a08"
+          41:"43f4d8f16b0c2d34613f8e2e9cf905cd",
+          64:"c01509c2dbab593689691cc2ce356406",
+          356:"9be57e06d323de1a6ebd0a83efcf9ea5",
+          401:"37b2e50f40f84ce636232d855a734633",
+          574:"cecfa45b7c3323e57ab7fd435e999a8c",
+          871:"2b80f75fcd40f49a528c59448951edc6",
+          888:"c51022a1764ae3a2300dec80a0cb19b7"
         }[e]+".js",
         o.miniCssF=e=>"css/5eaba88ea2bc687cd596c0a29ea9e04a.css",
         o.g=function(){
@@ -243,18 +258,18 @@ t){
           t="@rockstargames/sites-rockstar-tv:";
           o.l=(r,
           n,
-          s,
-          a)=>{
+          a,
+          s)=>{
             if(e[r])return void e[r].push(n);
             let i,
             c;
-            if(void 0!==s){
+            if(void 0!==a){
               const e=document.getElementsByTagName("script");
               for(var d=0;
               d<e.length;
               d++){
                 const n=e[d];
-                if(n.getAttribute("src")==r||n.getAttribute("data-webpack")==t+s){
+                if(n.getAttribute("src")==r||n.getAttribute("data-webpack")==t+a){
                   i=n;
                   break
                 }
@@ -265,20 +280,20 @@ t){
             o.nc&&i.setAttribute("nonce",
             o.nc),
             i.setAttribute("data-webpack",
-            t+s),
+            t+a),
             i.src=r),
             e[r]=[n];
             const l=(t,
             n)=>{
               i.onerror=i.onload=null,
-              clearTimeout(f);
+              clearTimeout(u);
               const o=e[r];
               if(delete e[r],
               i.parentNode?.removeChild(i),
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            f=setTimeout(l.bind(null,
+            u=setTimeout(l.bind(null,
             void 0,
             {
               type:"timeout",
@@ -293,7 +308,7 @@ t){
           }
         })(),
         o.r=e=>{
-          Symbol.toStringTag&&Object.defineProperty(e,
+          Object.defineProperty(e,
           Symbol.toStringTag,
           {
             value:"Module"
@@ -306,7 +321,7 @@ t){
         },
         (()=>{
           const e={
-            978:[1879]
+            871:[1879]
           },
           t={
             1879:["default",
@@ -319,17 +334,17 @@ t){
             r)&&e[r].forEach(e=>{
               let r=o.R;
               r||(r=[]);
-              const s=t[e];
-              if(r.indexOf(s)>=0)return;
-              if(r.push(s),
-              s.p)return n.push(s.p);
-              const a=t=>{
+              const a=t[e];
+              if(r.indexOf(a)>=0)return;
+              if(r.push(a),
+              a.p)return n.push(a.p);
+              const s=t=>{
                 t||(t=new Error("Container missing")),
-                "string"==typeof t.message&&(t.message+='\nwhile loading "'+s[1]+'" from '+s[2]),
+                "string"==typeof t.message&&(t.message+='\nwhile loading "'+a[1]+'" from '+a[2]),
                 o.m[e]=()=>{
                   throw t
                 },
-                s.p=0
+                a.p=0
               },
               i=(e,
               t,
@@ -346,40 +361,40 @@ t){
                   {
                     const e=d.then(e=>i(e,
                     o),
-                    a);
+                    s);
                     if(!c)return e;
-                    n.push(s.p=e)
+                    n.push(a.p=e)
                   }
                 }catch(e){
-                  a(e)
+                  s(e)
                 }
               },
               c=(e,
               t,
               n)=>i(t.get,
-              s[1],
+              a[1],
               r,
               0,
               d,
               n),
               d=t=>{
-                s.p=1,
+                a.p=1,
                 o.m[e]=e=>{
                   e.exports=t()
                 }
               };
               i(o,
-              s[2],
+              a[2],
               0,
               0,
               (e,
               t,
               r)=>e?i(o.I,
-              s[0],
+              a[0],
               0,
               e,
               c,
-              r):a(),
+              r):s(),
               1)
             })
           }
@@ -394,25 +409,25 @@ t){
           o.I=(r,
           n)=>{
             n||(n=[]);
-            let s=t[r];
-            if(s||(s=t[r]={
+            let a=t[r];
+            if(a||(a=t[r]={
             }),
-            n.indexOf(s)>=0)return;
-            if(n.push(s),
+            n.indexOf(a)>=0)return;
+            if(n.push(a),
             e[r])return e[r];
             o.o(o.S,
             r)||(o.S[r]={
             });
-            const a=o.S[r],
+            const s=o.S[r],
             i="@rockstargames/sites-rockstar-tv",
             c=(e,
             t,
             r,
             n)=>{
-              const o=a[e]=a[e]||{
+              const o=s[e]=s[e]||{
               },
-              s=o[t];
-              (!s||!s.loaded&&(!n!=!s.eager?n:i>s.from))&&(o[t]={
+              a=o[t];
+              (!a||!a.loaded&&(!n!=!a.eager?n:i>a.from))&&(o[t]={
                 get:r,
                 from:i,
                 eager:!!n
@@ -421,16 +436,16 @@ t){
             d=[];
             return"default"===r&&(c("@rsgweb/utils",
             "0.0.0-development",
-            ()=>Promise.all([o.e(365),
-            o.e(303),
+            ()=>Promise.all([o.e(64),
+            o.e(41),
             o.e(748),
-            o.e(61),
-            o.e(612),
-            o.e(817)]).then(()=>()=>o(7061))),
+            o.e(356),
+            o.e(331),
+            o.e(401)]).then(()=>()=>o(4356))),
             c("react-router",
-            "7.18.2",
-            ()=>Promise.all([o.e(361),
-            o.e(748)]).then(()=>()=>o(9361))),
+            "7.18.4",
+            ()=>Promise.all([o.e(574),
+            o.e(748)]).then(()=>()=>o(8574))),
             c("react",
             "19.2.8",
             ()=>o.e(888).then(()=>()=>o(3888))),
@@ -441,13 +456,13 @@ t){
                 var t
               };
               try{
-                const s=o(e);
-                if(!s)return;
-                const a=e=>e&&e.init&&e.init(o.S[r],
+                const a=o(e);
+                if(!a)return;
+                const s=e=>e&&e.init&&e.init(o.S[r],
                 n);
-                if(s.then)return d.push(s.then(a,
+                if(a.then)return d.push(a.then(s,
                 t));
-                const i=a(s);
+                const i=s(a);
                 if(i?.then)return d.push(i.catch(t))
               }catch(e){
                 t(e)
@@ -456,16 +471,6 @@ t){
             d.length?e[r]=Promise.all(d).then(()=>e[r]=1):e[r]=1
           }
         })(),
-        o.cjs=e=>{
-          const t={
-            exports:{
-            }
-          };
-          return e.call(t.exports,
-          t,
-          t.exports),
-          t.exports
-        },
         (()=>{
           let e;
           o.g.importScripts&&(e=o.g.location+"");
@@ -476,14 +481,12 @@ t){
             if(r.length){
               let t=r.length-1;
               for(;
-              t>-1&&(!e||!/^http(s?):/.test(e));
+              t>-1&&(!e||!/^https?:/.test(e));
               )e=r[t--].src
             }
           }if(!e)throw new Error("Automatic publicPath is not supported in this browser");
-          e=e.replace(/^blob:/,
-          "").replace(/#.*$/,
-          "").replace(/\?.*$/,
-          "").replace(/\/[^\/]+$/,
+          e=e.replace(/^blob:|[?#].*$/g,
+          "").replace(/\/[^/]+$/,
           "/"),
           o.p=e
         })(),
@@ -518,12 +521,12 @@ t){
               ){
                 if(n>=t.length)return n<r.length&&"u"!=(typeof r[n])[0];
                 var o=t[n],
-                s=(typeof o)[0];
-                if(n>=r.length)return"u"==s;
-                var a=r[n],
-                i=(typeof a)[0];
-                if(s!=i)return"o"==s&&"n"==i||"s"==i||"u"==s;
-                if("o"!=s&&"u"!=s&&o!=a)return o<a;
+                a=(typeof o)[0];
+                if(n>=r.length)return"u"==a;
+                var s=r[n],
+                i=(typeof s)[0];
+                if(a!=i)return"o"==a&&"n"==i||"s"==i||"u"==a;
+                if("o"!=a&&"u"!=a&&o!=s)return o<s;
                 n++
               }
             })(t,
@@ -540,60 +543,60 @@ t){
           n=(e=>function(t,
           r,
           n,
-          s,
-          a){
+          a,
+          s){
             const i=o.I(t);
             return i?.then&&!n?i.then(e.bind(e,
             t,
             o.S[t],
             r,
             !1,
-            s,
-            a)):e(t,
+            a,
+            s)):e(t,
             o.S[t],
             r,
             n,
-            s,
-            a)
+            a,
+            s)
           })((e,
           n,
-          s,
           a,
+          s,
           i)=>{
             if(!((e,
             t)=>e&&o.o(e,
             t))(n,
-            s))return r(e,
-            s,
+            a))return r(e,
+            a,
             i);
             const c=t(n,
-            s,
-            a);
-            return(d=n[s][c]).loaded=1,
+            a,
+            s);
+            return(d=n[a][c]).loaded=1,
             d.get();
             var d
           }),
-          s={
-          },
           a={
+          },
+          s={
             5748:()=>n("default",
             "react",
             !1,
             ()=>o.e(888).then(()=>()=>o(3888))),
-            4612:()=>n("default",
+            3234:()=>n("default",
             "react-router",
             !1,
-            ()=>o.e(361).then(()=>()=>o(9361))),
+            ()=>o.e(574).then(()=>()=>o(8574))),
             3788:()=>n("default",
             "@rsgweb/utils",
             !1,
-            ()=>Promise.all([o.e(365),
-            o.e(61)]).then(()=>()=>o(7061)))
+            ()=>Promise.all([o.e(64),
+            o.e(356)]).then(()=>()=>o(4356)))
           },
           i={
-            612:[4612],
-            748:[5748],
-            978:[3788]
+            331:[3234,
+            3788],
+            748:[5748]
           },
           c={
           };
@@ -601,11 +604,11 @@ t){
           t)=>{
             o.o(i,
             e)&&i[e].forEach(e=>{
-              if(o.o(s,
-              e))return t.push(s[e]);
+              if(o.o(a,
+              e))return t.push(a[e]);
               if(!c[e]){
                 const r=t=>{
-                  s[e]=0,
+                  a[e]=0,
                   o.m[e]=r=>{
                     delete o.c[e],
                     r.exports=t()
@@ -613,15 +616,15 @@ t){
                 };
                 c[e]=!0;
                 const n=t=>{
-                  delete s[e],
+                  delete a[e],
                   o.m[e]=r=>{
                     throw delete o.c[e],
                     t
                   }
                 };
                 try{
-                  const o=a[e]();
-                  o.then?t.push(s[e]=o.then(r).catch(n)):r(o)
+                  const o=s[e]();
+                  o.then?t.push(a[e]=o.then(r).catch(n)):r(o)
                 }catch(e){
                   n(e)
                 }
@@ -637,39 +640,39 @@ t){
             o.f.miniCss=(t,
             r)=>{
               e[t]?r.push(e[t]):0!==e[t]&&{
-                978:1
+                871:1
               }[t]&&r.push(e[t]=(e=>new Promise((t,
               r)=>{
                 var n=o.miniCssF(e),
-                s=o.p+n;
+                a=o.p+n;
                 if(((e,
                 t)=>{
                   for(var r=document.getElementsByTagName("link"),
                   n=0;
                   n<r.length;
                   n++){
-                    var o=(a=r[n]).getAttribute("data-href")||a.getAttribute("href");
-                    if("stylesheet"===a.rel&&(o===e||o===t))return a
-                  }var s=document.getElementsByTagName("style");
+                    var o=(s=r[n]).getAttribute("data-href")||s.getAttribute("href");
+                    if("stylesheet"===s.rel&&(o===e||o===t))return s
+                  }var a=document.getElementsByTagName("style");
                   for(n=0;
-                  n<s.length;
+                  n<a.length;
                   n++){
-                    var a;
-                    if((o=(a=s[n]).getAttribute("data-href"))===e||o===t)return a
+                    var s;
+                    if((o=(s=a[n]).getAttribute("data-href"))===e||o===t)return s
                   }
                 })(n,
-                s))return t();
+                a))return t();
                 ((e,
                 t,
                 r,
                 n,
-                s)=>{
-                  var a=document.createElement("link");
-                  a.rel="stylesheet",
-                  a.type="text/css",
-                  o.nc&&(a.nonce=o.nc),
-                  a.onerror=a.onload=r=>{
-                    if(a.onerror=a.onload=null,
+                a)=>{
+                  var s=document.createElement("link");
+                  s.rel="stylesheet",
+                  s.type="text/css",
+                  o.nc&&(s.nonce=o.nc),
+                  s.onerror=s.onload=r=>{
+                    if(s.onerror=s.onload=null,
                     "load"===r.type)n();
                     else{
                       var o=r&&r.type,
@@ -679,14 +682,14 @@ t){
                       c.code="CSS_CHUNK_LOAD_FAILED",
                       c.type=o,
                       c.request=i,
-                      a.parentNode&&a.parentNode.removeChild(a),
-                      s(c)
+                      s.parentNode&&s.parentNode.removeChild(s),
+                      a(c)
                     }
                   },
-                  a.href=t,
-                  document.head.appendChild(a)
+                  s.href=t,
+                  document.head.appendChild(s)
                 })(e,
-                s,
+                a,
                 0,
                 t,
                 r)
@@ -709,31 +712,30 @@ t){
             let n=o.o(e,
             t)?e[t]:void 0;
             if(0!==n)if(n)r.push(n[2]);
-            else if(/^(612|748)$/.test(t))e[t]=0;
+            else if(/^(331|748)$/.test(t))e[t]=0;
             else{
-              const s=new Promise((r,
+              const a=new Promise((r,
               o)=>n=e[t]=[r,
               o]);
-              r.push(n[2]=s);
-              const a=o.p+o.u(t),
-              i=new Error,
-              c=r=>{
+              r.push(n[2]=a);
+              const s=new Error,
+              i=r=>{
                 if(o.o(e,
                 t)&&(n=e[t],
                 0!==n&&(e[t]=void 0),
                 n)){
                   const e=r&&("load"===r.type?"missing":r.type),
                   o=r&&r.target&&r.target.src;
-                  i.message="Loading chunk "+t+" failed.\n("+e+": "+o+")",
-                  i.name="ChunkLoadError",
-                  i.type=e,
-                  i.request=o,
-                  i.event=r,
-                  n[1](i)
+                  s.message="Loading chunk "+t+" failed.\n("+e+": "+o+")",
+                  s.name="ChunkLoadError",
+                  s.type=e,
+                  s.request=o,
+                  s.event=r,
+                  n[1](s)
                 }
               };
-              o.l(a,
-              c,
+              o.l(o.p+o.u(t),
+              i,
               "chunk-"+t,
               t)
             }
@@ -741,15 +743,15 @@ t){
           const t=(t,
           r)=>{
             let[n,
-            s,
-            a]=r;
+            a,
+            s]=r;
             var i,
             c,
             d=0;
             if(n.some(t=>0!==e[t])){
-              for(i in s)o.o(s,
-              i)&&(o.m[i]=s[i]);
-              a&&a(o)
+              for(i in a)o.o(a,
+              i)&&(o.m[i]=a[i]);
+              s&&s(o)
             }for(t&&t(r);
             d<n.length;
             d++)c=n[d],
@@ -763,7 +765,7 @@ t){
           r.push=t.bind(null,
           r.push.bind(r))
         })(),
-        o(4769),
+        o(5188),
         o(5819)
       })())
     }
