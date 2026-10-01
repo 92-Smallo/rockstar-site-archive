@@ -113,10 +113,10 @@
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
 ),height:t&&void 0!==t.height&&!this.state.isResizing?w(t.height):n(
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new o(
+),switch:new F(
 ),t.CARRIAGE_RETURN_PLACEHOLDER_REGEX=new RegExp(t.CARRIAGE_RETURN_PLACEHOLDER,
-),xboxone:new o(
-),xboxsx:new o(
+),xboxone:new F(
+),xboxsx:new F(
 ):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
 ).toUpperCase():void 0,games_played:o.length?o.join(
@@ -124,6 +124,7 @@
 ).toUpperCase():void 0,gta_plus_active:n.length>0,use_enhanced_browser_features:p,section_layout:t?
 ).toUpperCase():void 0,gta_plus_platforms:n.length?n.map(e=>i[e]??e).join(
 ).toUpperCase():void 0,gtao_platforms_played:a.length?a.map(e=>i[e]??e).join(
+).toUpperCase():void 0,gtao_platforms_played:r.length?r.map(e=>i[e]??e).join(
 )),a=new s.WebKitCSSMatrix(
 ))||void 0===n?void 0:n.toLowerCase())||g.alreadySilent.add(t),t.setAttribute(
 ))return n*(Number(e.replace(
@@ -228,7 +229,7 @@
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===this.method)&&o)throw new TypeError(
 ==typeof Buffer.from)return Buffer.from(e).toString(
-==typeof c.bearerToken&&d.searchParams.append(
+==typeof c.bearerToken&&u.searchParams.append(
 ==typeof document)return
 ==typeof e?new URL(e,
 ==typeof e.closest?e.closest(
@@ -311,6 +312,7 @@ Aby potwierdzić swoją subskrypcję listy mailingowej Rockstar Games, zweryfiku
 Accedi al tuo account di Rockstar Games per cominciare
 Accedi al tuo account per vedere tutte le ricompense che puoi ottenere, quelle che hai vinto e tutte le possibilità a tua disposizione.
 Accedi per vedere i tuoi progressi
+Accessible label for external link
 Account collegati
 Account di gioco collegato
 Account di Twitch collegato
@@ -532,6 +534,9 @@ cannot set sizeCalculation without setting maxSize or maxEntrySize
 Career Progress
 career progress page
 career progress page module
+Cargando actividades...
+Caricamento attività...
+Carregando Serviços...
 Carrera a dos ruedas
 Carrera a pie
 Carrera acrobática
@@ -560,6 +565,7 @@ Cerrar la sección de navegación
 Cerrar sección
 chained PromiseLike
 Character Card:
+Chargement des missions...
 Check Your Email
 Chiudi il menu
 claim now
@@ -816,6 +822,7 @@ Einen Charakter hinzufügen
 either ensure all objects of type
 Elementi evidenziati
 Elige una plataforma.
+Eliminar marca
 Ellipse Path 1
 Empty sub-selector
 En este momento no puedes suscribirte a nuestro boletín de noticias con este correo electrónico.
@@ -1175,6 +1182,7 @@ Job Bookmarked
 Job markiert
 Job nicht mehr markiert
 Job Unbookmarked
+Jobs werden geladen ...
 Jogo anterior
 Join Now
 Juego anterior
@@ -1203,6 +1211,7 @@ Label for close buttons for the Career Progress Hub (eg. to close a popup) on th
 Label for link to guide
 Label for scroll left buttons for the Career Progress Hub navigation
 Label for scroll right buttons for the Career Progress Hub navigation
+Ładowanie akcji...
 Land Race
 Last Team Standing
 Laufband abspielen
@@ -1296,6 +1305,7 @@ Marcando Território
 Marcando Território em Equipe
 Marco alcançado
 Markierte Elemente
+Markierung entfernen
 Marquee Lecture
 Marquee Pause
 Marquee Play
@@ -1707,6 +1717,7 @@ Query is empty
 Query root type must be provided.
 query()/queryRoute() requests must contain an AbortController signal
 question mark
+Quitar marcador
 Ramka promocyjna Odtwarzanie
 Ramka promocyjna Zatrzymano
 Random Mission
@@ -1728,6 +1739,7 @@ Récompense verrouillée
 Récompenses prêtes à être récupérées. Rendez-vous dans le menu Suivi de carrière en jeu pour les récupérer.
 Relevez des défis uniques pour gagner des GTA$, des articles bonus, et plus, dont des RP bonus pour chaque niveau :
 Remove bookmark
+Remover dos Favoritos
 Report Bug
 Reportar bug
 Reproduciendo video
@@ -1737,6 +1749,7 @@ Reproducir marquesina
 requires param
 resize observerUpdate
 resize orientationchange observerUpdate
+Retirer des favoris
 return this
 returns an invalid value. All route meta functions must return an array of meta objects. To reference the meta function API, see https://reactrouter.com/start/framework/route-module#meta
 Reward locked
@@ -1750,6 +1763,7 @@ Ricompensa bloccata
 Ricompense pronte per essere riscattate
 Ricompense pronte per essere riscattate. Visita il menu Progressi della carriera per riscattarla.
 Rien à voir ici
+Rimuovi dai preferiti
 Riproduci di nuovo
 Riproduci marquee
 Riproduzione video interrotta
@@ -2054,6 +2068,7 @@ useTooltipContext can only be used in a <Tooltip.Root />
 useTwitchDrops must be used within a TwitchDropsProvider
 Ustaw dropy na Twitchu
 Ustaw dropy na Twitchu, aby otrzymywać nagrody w przyszłości
+Usuń zakładkę
 Vai ai contenuti principali
 Vantaggi per i membri
 var(--background-color, transparent)

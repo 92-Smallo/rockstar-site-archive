@@ -52,7 +52,7 @@
 ,s.NumberKeyframeTrack,a,c,f)),new s.AnimationClip(
 ,s),await t.xr.setSession(n),r.textContent=
 ,s=`No route matches URL
-,this.ctx.fillRect(0,0,this.canvas.width,this.canvas.height),this.texture=new c.Texture(this.canvas),this.canvas.id=
+,this.ctx.fillRect(0,0,this.canvas.width,this.canvas.height),this.texture=new u.Texture(this.canvas),this.canvas.id=
 ,this.log(`Request generated for key-session
 ,this.onPointerHover),null==(r=null==(n=this.domElement)?void 0:n.ownerDocument)||r.removeEventListener(
 ,this.onPointerMove),null==(s=null==(i=this.domElement)?void 0:i.ownerDocument)||s.removeEventListener(
@@ -92,7 +92,7 @@
 :throw new Error(
 :throw new RangeError(
 :var n=e.querySelector('style[data-href~=
-!==a||(m=null==(p=m.renderTarget)?void 0:p.texture),m.mapping=o?c.CubeReflectionMapping:c.EquirectangularReflectionMapping,m.colorSpace=null!=n?n:o?
+!==a||(m=null==(p=m.renderTarget)?void 0:p.texture),m.mapping=o?u.CubeReflectionMapping:u.EquirectangularReflectionMapping,m.colorSpace=null!=n?n:o?
 !==b)throw new Error(
 !==e.env)throw new Error(
 !==e.slice(0,3))throw new Error(
@@ -415,15 +415,15 @@
 ==typeof Buffer.from)return Buffer.from(e).toString(
 ==typeof c.bearerToken&&d.searchParams.append(
 ==typeof c.set&&
-==typeof c.set&&Array.isArray(o))
+==typeof c.set&&Array.isArray(a))
 ==typeof clearTimeout?clearTimeout:void 0,wd=
 ==typeof document)return
 ==typeof document||
-==typeof e?e:ti),n.setDRACOLoader(ei)),t&&n.setMeshoptDecoder(
+==typeof e?e:ri),n.setDRACOLoader(ti)),t&&n.setMeshoptDecoder(
 ==typeof e?new URL(e,
 ==typeof e.imageSizes:
 ==typeof e.imageSrcSet&&
-==typeof e.init||Xt))throw new Error(
+==typeof e.init||Qt))throw new Error(
 ==typeof e.internal&&
 ==typeof e.isSigned&&
 ==typeof e.name&&
@@ -659,6 +659,7 @@ Cannot compute cosine similarity between quantized and float embeddings.
 Cannot compute cosine similarity on embedding with 0 norm.
 cannot convert charcode 0x
 Cannot decrypt samples of type Uint8Array
+Cannot find module '
 Cannot handle redirect results in processLoaderData
 Cannot mutate an immutable Map
 Cannot parse

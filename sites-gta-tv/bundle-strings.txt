@@ -39,9 +39,9 @@
 ),`Route path
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new Ge(
-),xboxone:new Ge(
-),xboxsx:new Ge(
+),switch:new We(
+),xboxone:new We(
+),xboxsx:new We(
 ). If you meant to render a collection of children, use an array instead.
 ))return this.error(
 ))throw new Error(

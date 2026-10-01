@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="f74e4321-b1d9-4c93-9be6-e9772bf86778",
-  e._sentryDebugIdIdentifier="sentry-dbid-f74e4321-b1d9-4c93-9be6-e9772bf86778")
+  e._sentryDebugIds[t]="5feddfa4-e47c-48d9-a095-2f936afb4bf5",
+  e._sentryDebugIdIdentifier="sentry-dbid-5feddfa4-e47c-48d9-a095-2f936afb4bf5")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"2ca2e8c15383a65d8765393f80cce3745676da96",
+    release:"b6778eeff7ac7895a078a070a5c7649a0d5e5d39",
     packageName:"@rockstargames/modules-core-videoplayer",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"2ca2e8c15383a65d8765393f80cce3745676da96"
+  id:"b6778eeff7ac7895a078a070a5c7649a0d5e5d39"
 },
 System.register([],
 function(e,
@@ -31,105 +31,105 @@ t){
     execute:function(){
       e((()=>{
         var e={
-          5319(e,
+          7294(e,
           t,
-          r){
+          a){
             (0,
-            r(3199).w)(1)
+            a(5316).w)(1)
           },
-          3199(e,
+          5316(e,
           t,
-          r){
-            const a=r(1975).y;
+          a){
+            const r=a(2232).y;
             t.w=function(e){
               if(e||(e=1),
-              !r.y.meta||!r.y.meta.url)throw console.error("__system_context__",
-              r.y),
+              !a.y.meta||!a.y.meta.url)throw console.error("__system_context__",
+              a.y),
               Error("systemjs-webpack-interop was provided an unknown SystemJS context. Expected context.meta.url, but none was provided");
-              r.p=a(r.y.meta.url,
+              a.p=r(a.y.meta.url,
               e)
             }
           },
-          5188(e,
+          3069(e,
           t,
-          r){
-            r(5319)
+          a){
+            a(7294)
           },
-          1975(e,
+          2232(e,
           t,
-          r){
+          a){
             t.y=function(e,
             t){
-              var r=document.createElement("a");
-              r.href=e;
-              for(var a="/"===r.pathname[0]?r.pathname:"/"+r.pathname,
+              var a=document.createElement("a");
+              a.href=e;
+              for(var r="/"===a.pathname[0]?a.pathname:"/"+a.pathname,
               n=0,
-              o=a.length;
+              o=r.length;
               n!==t&&o>=0;
-              )"/"===a[--o]&&n++;
+              )"/"===r[--o]&&n++;
               if(n!==t)throw Error("systemjs-webpack-interop: rootDirectoryLevel ("+t+") is greater than the number of directories ("+n+") in the URL path "+e);
-              var d=a.slice(0,
+              var c=r.slice(0,
               o+1);
-              return r.protocol+"//"+r.host+d
+              return a.protocol+"//"+a.host+c
             };
             Number.isInteger
           },
           8157(e,
           t,
-          r){
+          a){
             "use strict";
-            const a={
-              "./bootstrap":()=>r.e(6421).then(()=>()=>r(6421)),
-              "./index":()=>Promise.all([r.e(4818),
-              r.e(4105),
-              r.e(549),
-              r.e(3101),
-              r.e(5748),
-              r.e(5472),
-              r.e(3234),
-              r.e(5641),
-              r.e(7281),
-              r.e(5501),
-              r.e(1270),
-              r.e(3705),
-              r.e(2835),
-              r.e(5026),
-              r.e(6058),
-              r.e(1066)]).then(()=>()=>r(1066)),
-              "./tina":()=>r.e(7369).then(()=>()=>r(7369)),
-              "./tinaBlockTemplates":()=>r.e(7369).then(()=>()=>r(7369))
+            const r={
+              "./bootstrap":()=>a.e(9374).then(()=>()=>a(9374)),
+              "./index":()=>Promise.all([a.e(577),
+              a.e(3256),
+              a.e(5347),
+              a.e(2149),
+              a.e(5748),
+              a.e(5472),
+              a.e(3234),
+              a.e(5641),
+              a.e(7281),
+              a.e(5501),
+              a.e(1270),
+              a.e(3705),
+              a.e(7114),
+              a.e(8444),
+              a.e(4684),
+              a.e(9103)]).then(()=>()=>a(9103)),
+              "./tina":()=>a.e(9276).then(()=>()=>a(9276)),
+              "./tinaBlockTemplates":()=>a.e(9276).then(()=>()=>a(9276))
             },
             n=(e,
-            t)=>(r.R=t,
-            t=r.o(a,
-            e)?a[e]():Promise.resolve().then(()=>{
+            t)=>(a.R=t,
+            t=a.o(r,
+            e)?r[e]():Promise.resolve().then(()=>{
               throw new Error('Module "'+e+'" does not exist in container.')
             }),
-            r.R=void 0,
+            a.R=void 0,
             t),
             o=(e,
             t)=>{
-              if(!r.S)return;
-              const a="default",
-              n=r.S[a];
+              if(!a.S)return;
+              const r="default",
+              n=a.S[r];
               if(n&&n!==e)throw new Error("Container initialization failed as it has already been initialized with a different share scope");
-              return r.S[a]=e,
-              r.I(a,
+              return a.S[r]=e,
+              a.I(r,
               t)
             };
-            r.d(t,
+            a.d(t,
             {
               get:()=>n,
               init:()=>o
             })
           }
         };
-        const r={
+        const a={
         };
-        function a(t){
-          const n=r[t];
+        function r(t){
+          const n=a[t];
           if(void 0!==n)return n.exports;
-          const o=r[t]={
+          const o=a[t]={
             id:t,
             loaded:!1,
             exports:{
@@ -138,33 +138,33 @@ t){
           return e[t].call(o.exports,
           o,
           o.exports,
-          a),
+          r),
           o.loaded=!0,
           o.exports
-        }return a.m=e,
-        a.c=r,
-        a.y=t,
-        a.amdO={
+        }return r.m=e,
+        r.c=a,
+        r.y=t,
+        r.amdO={
         },
-        a.n=e=>{
+        r.n=e=>{
           const t=e&&e.__esModule?()=>e.default:()=>e;
-          return a.d(t,
+          return r.d(t,
           {
             a:t
           }),
           t
         },
-        a.cw=e=>{
+        r.cw=e=>{
           var t;
           return()=>{
             if(e){
-              var r=e;
+              var a=e;
               e=0,
               t={
                 exports:{
                 }
               },
-              r.call(t.exports,
+              a.call(t.exports,
               t,
               t.exports)
             }return t.exports
@@ -173,51 +173,51 @@ t){
         (()=>{
           const e=Object.getPrototypeOf;
           let t;
-          a.t=function(r,
+          r.t=function(a,
           n){
-            if(1&n&&(r=this(r)),
-            8&n)return r;
-            if("object"==typeof r&&r){
-              if(4&n&&r.__esModule)return r;
-              if(16&n&&"function"==typeof r.then)return r
+            if(1&n&&(a=this(a)),
+            8&n)return a;
+            if("object"==typeof a&&a){
+              if(4&n&&a.__esModule)return a;
+              if(16&n&&"function"==typeof a.then)return a
             }const o=Object.create(null);
-            a.r(o);
-            const d={
+            r.r(o);
+            const c={
             };
             t=t||[null,
             e({
             }),
             e([]),
             e(e)];
-            for(var c=2&n&&r;
-            ("object"==typeof c||"function"==typeof c)&&!~t.indexOf(c);
-            c=e(c))Object.getOwnPropertyNames(c).forEach(e=>d[e]=()=>r[e]);
-            return d.default=()=>r,
-            a.d(o,
-            d),
+            for(var f=2&n&&a;
+            ("object"==typeof f||"function"==typeof f)&&!~t.indexOf(f);
+            f=e(f))Object.getOwnPropertyNames(f).forEach(e=>c[e]=()=>a[e]);
+            return c.default=()=>a,
+            r.d(o,
+            c),
             o
           }
         })(),
-        a.d=(e,
+        r.d=(e,
         t)=>{
-          if(Array.isArray(t))for(var r=0;
-          r<t.length;
+          if(Array.isArray(t))for(var a=0;
+          a<t.length;
           ){
-            var n=t[r++],
-            o=t[r++],
-            d=0===o?{
+            var n=t[a++],
+            o=t[a++],
+            c=0===o?{
               enumerable:!0,
-              value:t[r++]
+              value:t[a++]
             }:{
               enumerable:!0,
               get:o
             };
-            a.o(e,
+            r.o(e,
             n)||Object.defineProperty(e,
             n,
-            d)
-          }else for(var n in t)a.o(t,
-          n)&&!a.o(e,
+            c)
+          }else for(var n in t)r.o(t,
+          n)&&!r.o(e,
           n)&&Object.defineProperty(e,
           n,
           {
@@ -225,83 +225,83 @@ t){
             get:t[n]
           })
         },
-        a.f={
+        r.f={
         },
-        a.e=e=>Promise.all(Object.keys(a.f).reduce((t,
-        r)=>(a.f[r](e,
+        r.e=e=>Promise.all(Object.keys(r.f).reduce((t,
+        a)=>(r.f[a](e,
         t),
         t),
         [])),
-        a.u=e=>"js/"+{
-          155:"9145ebd50508dd61c7072b6d6e79a6c4",
-          477:"c6f5b3c5c7fb2555bfad9e7c25f98c54",
-          498:"3151c4150665452a7cea93d2c5299c3c",
-          549:"4794bfc6f36df3c2b742435d5c98a7dc",
-          804:"0e21f4baf6a6a55fc2020ec9782962f3",
-          835:"6ab03de8d4cdcaa7d6fd2ee24f1c769c",
-          928:"cc031eeb6071cd4630a71ad23a75247e",
-          975:"9f8908f09b67f69d7342c0710ea1c61b",
-          1018:"a2286a88061da64fc8d5c247270d6d48",
-          1066:"6ef8bb63ec329e00c7258704fddbd1cf",
-          1213:"1a43376ebdf0417eeff482a5e8e75a64",
-          1327:"d5581faa27b1f2ec6f2c9b10b5d57615",
-          1396:"da9dd07753d0b9cdcf299e8004205b3b",
-          1440:"32f557333bef503ab27c6b0feabc2fbe",
-          1519:"59da34ee51bdb1c36bc5e99626d9960a",
-          1617:"3d7cc48bfa25a2a037caa171caf0c36c",
-          2042:"c24a5da7fe3af64c265b1af188ec3809",
-          2311:"1396f8b4d8632a09cd8c584d173f6190",
-          2536:"a1415d0fdf7ff30616df97d196783693",
-          2873:"f55ba1f384bafef16998536260d80adf",
-          3099:"3a3563df6bf1b45db9457b64458d5aee",
-          3167:"1f08557fcf82c3c30298136ca18aa558",
-          3529:"66be04eb278adb0ae3ad4d7b4d27faa2",
-          3727:"31569deef63f1fea60a7f95e3d9d1537",
-          3770:"e825ac62c0a48095fb2060123c974591",
-          3819:"78eab033f66515202390232282d7bae4",
-          3888:"4627dc95a7713ba20f8b619da8790b73",
-          4105:"73974f7ca4bec695d59dc4cbae3b5f9e",
-          4818:"65b333c67f0634ece8febea030b578ed",
-          4921:"5cf817b53bf4fa14bb17dd015b2cb358",
-          5020:"ce4ae0aec53b08dafb461c850bbcc58c",
-          5480:"51ca94a6589a327afb516099450d85d7",
-          5500:"3177bf0679a78fb2c406a3997abb9b03",
-          5708:"997f4eedf6547a66b3815a1c12dcdb1b",
-          6038:"7aeaf28b7d05b1c94cdb489c0752daab",
-          6058:"94ae7d8a973dbd00d513a69a7c59f41c",
-          6281:"b6dd0439ee7bef9e1ede02c889b41762",
-          6295:"d12037883c872ac825b7cf80797a9229",
-          6421:"087b75b1eff99760ee47c73d8e581882",
-          6481:"99611ea17877000fa2f823e5f15b1290",
-          6581:"583c2b9a50f70517ae87f320bc5d265d",
-          6911:"36a469cfad29aeef708da81d37a7fa13",
-          7003:"0b4b1e6e53fd711a3f3187a459a6a61a",
-          7369:"ac86160b30a404d0f2f889a1a0a44769",
-          7508:"eb9e01d38282f98f7981957ca334db65",
-          7929:"9ba95f448fb634135ef4d50656c6dad4",
-          8277:"01eb6593564ad76f833300f14411b967",
-          8423:"0c5b056f913625908e807b508c4548f1",
-          8533:"ed1cc71c187ad20d1f428d1fe6b1d7e2",
-          8574:"6d3de8f309c2dd960836e836089ce8f2",
-          8848:"532dcbdee5b9b3850993d590f8d71119",
-          8876:"cd3f1d058d50fd903206712ae9ab6d60",
-          8878:"941bac1373a30adb1548a61ef6445c79",
-          9292:"642cc637e647e26070e262c2cba977d1",
-          9458:"ad4876415827f93cb56a96d12a5c7f51",
-          9692:"28823e169a8b698e47b8ca9ffd6c5d02",
-          9848:"4b7f535bf3e7e0e591457f4d068fea64"
+        r.u=e=>"js/"+{
+          52:"51089106c92af230d6f3c1c507156197",
+          577:"c252c10b313fdd25017f273a54fc1fbc",
+          1047:"40edf57f51327f609f27971f6803b9eb",
+          1206:"736df03efbcb95352fc229a650ceb348",
+          1519:"901b0cebeb5a420519397bba9f3bcc75",
+          1554:"1984a27a0518b3c31c2fa4eb1cde8944",
+          1640:"6a41b6f458e7f4be44c4ad39a230a4a9",
+          1652:"b6adb6ead5ea6a1981183067e1ae392e",
+          2042:"01f33468bd92abaee3a3a5377f756954",
+          2185:"ce338f82e6b44d23b42efcf9a4256d3f",
+          2199:"ea2596719b588ac09266cfe1fbd80539",
+          2856:"1176c419c2bd0603590cae33500ba663",
+          2873:"8dc1188f1894cfcd26c0d8b120836c71",
+          3099:"2bdaabb6979bd50c5d768bd9a31a3dd6",
+          3256:"e55081d20f1a06e83b86f7e0a43b75b0",
+          3529:"c01dda3058ab99b619e6e17897ca4c46",
+          3559:"02d707b277799f24323d83ed737cf41d",
+          3612:"f9ce7476f90ab100f1373afa5e5a98c7",
+          3770:"9a0b226c87d43e72e7651f6c3e1456f2",
+          3819:"ae13cd36f55fa74c25d0188615b349ea",
+          3888:"dca580350599e57ecf51a30b09464266",
+          4684:"e18717e970382a00d059552a2e166b36",
+          4921:"11def4b0ffcae7a552cee572cbd21bf4",
+          5311:"68e25188e2ce8a6328310e8af235259e",
+          5347:"707ee8e7bf75e67383e2deb3656e0525",
+          5466:"015187c60bd7fd0b93852fbe5db8ebc3",
+          5480:"fb0fc12862442a2532fdc6fd9d71c5b7",
+          5500:"0c28adc70b307863659d54fd98d89cad",
+          5612:"3a6f464456e059ebb89f145a5506758a",
+          5708:"f88762b179ec1061045a991ecb743133",
+          6038:"08faa7f8c038aa53d5ee71111f87ffb3",
+          6096:"67bf984ffebaf64b297b3d77264619d8",
+          6147:"984b7dd149d5afe6618f4f770f1c658a",
+          6225:"fb5a0e2f80390e8eb420265f5ef3beb5",
+          6281:"9cab163acff12b2db07dd7e0e8f5a292",
+          6295:"d0be1b1eb8527795e4fe2874c5462392",
+          6469:"75f3d9b81357672ec523238d503ccb5a",
+          6890:"f8f127405529f10e99b9183fa57b7a5e",
+          6911:"a9c888ddad72c74de63287a65aa0458b",
+          7966:"eebfb44cc6e74fa0ef770f378750d2da",
+          8004:"2fb6245051ed5910db49bc3925daf6f7",
+          8277:"aff3c97ccd099584ede5b5f3eeb30626",
+          8528:"71ee827d2f8228246638688e081889fe",
+          8574:"c159bcaadf5ead86086e759dde107874",
+          8705:"2dfed0bc7a59dad5d59dc82ad34b2d77",
+          8839:"6e8aa3b8bdef2da27d0399307a2efe32",
+          8876:"93187df6eb81269391e1724918a5b798",
+          9103:"c25547707cf12c02cec890cb650bc3f6",
+          9154:"63ce58945da7a818ac17e513f7650bf7",
+          9271:"9f05b8ad673287219706dce5e0890e6f",
+          9276:"5d22c0ac57667439ac3b4b0f53d60a1c",
+          9292:"f21ee58369562f7a5b26baf40273e85c",
+          9295:"7d24a0028de3f05b2d4427425bc47098",
+          9374:"fd41bcc5e2b423a31b82addaf626fc2d",
+          9676:"e88fa150604fc29d8afb2129de492be8",
+          9848:"0759125b06642ce4488ca64f73fb7c1f",
+          9988:"c5c5e221a111900e2788ee7adcd42b8e"
         }[e]+".js",
-        a.miniCssF=e=>"css/"+{
-          750:"0902caa96420fc9df874d2d4044947db",
-          1066:"71d87f7d1fcf7ab23375dcd2f2710464",
-          3101:"5c01f132c6cb5d21be960841e77d81f2",
-          3727:"4237813e7e19d9617f0be2b0e5021534",
-          6058:"7342d6b5aa1da756453edefde998e6ec",
-          6481:"f546cc848e33d8616e02fcb012c13188",
-          8369:"0902caa96420fc9df874d2d4044947db",
-          9692:"fcedfe8e9d754990e1633abd941447ce"
+        r.miniCssF=e=>"css/"+{
+          1640:"f546cc848e33d8616e02fcb012c13188",
+          2149:"5c01f132c6cb5d21be960841e77d81f2",
+          3559:"fcedfe8e9d754990e1633abd941447ce",
+          3695:"0902caa96420fc9df874d2d4044947db",
+          4684:"7342d6b5aa1da756453edefde998e6ec",
+          6076:"0902caa96420fc9df874d2d4044947db",
+          6890:"53a798b308a42723c79d22449c16008d",
+          9103:"71d87f7d1fcf7ab23375dcd2f2710464"
         }[e]+".css",
-        a.g=function(){
+        r.g=function(){
           if("object"==typeof globalThis)return globalThis;
           try{
             return this||new Function("return this")()
@@ -309,65 +309,65 @@ t){
             if("object"==typeof window)return window
           }
         }(),
-        a.o=(e,
+        r.o=(e,
         t)=>Object.prototype.hasOwnProperty.call(e,
         t),
         (()=>{
           const e={
           },
           t="@rockstargames/modules-core-videoplayer:";
-          a.l=(r,
+          r.l=(a,
           n,
           o,
-          d)=>{
-            if(e[r])return void e[r].push(n);
-            let c,
-            f;
+          c)=>{
+            if(e[a])return void e[a].push(n);
+            let f,
+            d;
             if(void 0!==o){
               const e=document.getElementsByTagName("script");
               for(var s=0;
               s<e.length;
               s++){
-                const a=e[s];
-                if(a.getAttribute("src")==r||a.getAttribute("data-webpack")==t+o){
-                  c=a;
+                const r=e[s];
+                if(r.getAttribute("src")==a||r.getAttribute("data-webpack")==t+o){
+                  f=r;
                   break
                 }
               }
-            }c||(f=!0,
-            c=document.createElement("script"),
-            c.charset="utf-8",
-            a.nc&&c.setAttribute("nonce",
-            a.nc),
-            c.setAttribute("data-webpack",
+            }f||(d=!0,
+            f=document.createElement("script"),
+            f.charset="utf-8",
+            r.nc&&f.setAttribute("nonce",
+            r.nc),
+            f.setAttribute("data-webpack",
             t+o),
-            c.src=r),
-            e[r]=[n];
+            f.src=a),
+            e[a]=[n];
             const l=(t,
-            a)=>{
-              c.onerror=c.onload=null,
+            r)=>{
+              f.onerror=f.onload=null,
               clearTimeout(i);
-              const n=e[r];
-              if(delete e[r],
-              c.parentNode?.removeChild(c),
-              n?.forEach(e=>e(a)),
-              t)return t(a)
+              const n=e[a];
+              if(delete e[a],
+              f.parentNode?.removeChild(f),
+              n?.forEach(e=>e(r)),
+              t)return t(r)
             },
             i=setTimeout(l.bind(null,
             void 0,
             {
               type:"timeout",
-              target:c
+              target:f
             }),
             12e4);
-            c.onerror=l.bind(null,
-            c.onerror),
-            c.onload=l.bind(null,
-            c.onload),
-            f&&document.head.appendChild(c)
+            f.onerror=l.bind(null,
+            f.onerror),
+            f.onload=l.bind(null,
+            f.onload),
+            d&&document.head.appendChild(f)
           }
         })(),
-        a.r=e=>{
+        r.r=e=>{
           Object.defineProperty(e,
           Symbol.toStringTag,
           {
@@ -379,358 +379,358 @@ t){
             value:!0
           })
         },
-        a.nmd=e=>(e.paths=[],
+        r.nmd=e=>(e.paths=[],
         e.children||(e.children=[]),
         e),
         (()=>{
-          a.S={
+          r.S={
           };
           const e={
           },
           t={
           };
-          a.I=(r,
+          r.I=(a,
           n)=>{
             n||(n=[]);
-            let o=t[r];
-            if(o||(o=t[r]={
+            let o=t[a];
+            if(o||(o=t[a]={
             }),
             n.indexOf(o)>=0)return;
             if(n.push(o),
-            e[r])return e[r];
-            a.o(a.S,
-            r)||(a.S[r]={
+            e[a])return e[a];
+            r.o(r.S,
+            a)||(r.S[a]={
             });
-            const d=a.S[r],
-            c="@rockstargames/modules-core-videoplayer",
-            f=(e,
+            const c=r.S[a],
+            f="@rockstargames/modules-core-videoplayer",
+            d=(e,
             t,
-            r,
-            a)=>{
-              const n=d[e]=d[e]||{
+            a,
+            r)=>{
+              const n=c[e]=c[e]||{
               },
               o=n[t];
-              (!o||!o.loaded&&(!a!=!o.eager?a:c>o.from))&&(n[t]={
-                get:r,
-                from:c,
-                eager:!!a
+              (!o||!o.loaded&&(!r!=!o.eager?r:f>o.from))&&(n[t]={
+                get:a,
+                from:f,
+                eager:!!r
               })
             },
             s=[];
-            return"default"===r&&(f("@floating-ui/react",
+            return"default"===a&&(d("@floating-ui/react",
             "0.27.20",
-            ()=>Promise.all([a.e(5708),
-            a.e(6295),
-            a.e(8876),
-            a.e(5748),
-            a.e(7281),
-            a.e(9292)]).then(()=>()=>a(8876))),
-            f("@foundry-int/utils",
-            "7.3.0",
-            ()=>Promise.all([a.e(498),
-            a.e(1270),
-            a.e(7508)]).then(()=>()=>a(498))),
-            f("@foundry/react",
-            "7.3.0",
-            ()=>Promise.all([a.e(8277),
-            a.e(1327),
-            a.e(4818),
-            a.e(4105),
-            a.e(2873),
-            a.e(5708),
-            a.e(9692),
-            a.e(3727),
-            a.e(5748),
-            a.e(7281),
-            a.e(5501),
-            a.e(1270),
-            a.e(3705),
-            a.e(2835)]).then(()=>()=>a(1752))),
-            f("@gsap/react",
+            ()=>Promise.all([r.e(5708),
+            r.e(6295),
+            r.e(8876),
+            r.e(5748),
+            r.e(7281),
+            r.e(9292)]).then(()=>()=>r(8876))),
+            d("@foundry-int/utils",
+            "7.4.0",
+            ()=>Promise.all([r.e(1047),
+            r.e(1270),
+            r.e(9295)]).then(()=>()=>r(1047))),
+            d("@foundry/react",
+            "7.4.0",
+            ()=>Promise.all([r.e(8277),
+            r.e(2185),
+            r.e(577),
+            r.e(3256),
+            r.e(2873),
+            r.e(5708),
+            r.e(3559),
+            r.e(6890),
+            r.e(5748),
+            r.e(7281),
+            r.e(5501),
+            r.e(1270),
+            r.e(3705),
+            r.e(7114)]).then(()=>()=>r(6830))),
+            d("@gsap/react",
             "2.1.2",
-            ()=>Promise.all([a.e(5748),
-            a.e(5501),
-            a.e(3099)]).then(()=>()=>a(3099))),
-            f("@rsgweb/locale-tools",
+            ()=>Promise.all([r.e(5748),
+            r.e(5501),
+            r.e(3099)]).then(()=>()=>r(3099))),
+            d("@rsgweb/locale-tools",
             "0.0.0",
-            ()=>Promise.all([a.e(2873),
-            a.e(5748),
-            a.e(5472),
-            a.e(155)]).then(()=>()=>a(2536))),
-            f("@rsgweb/modules-core-agegate",
+            ()=>Promise.all([r.e(2873),
+            r.e(5748),
+            r.e(5472),
+            r.e(6147)]).then(()=>()=>r(6147))),
+            d("@rsgweb/modules-core-agegate",
             "0.0.0",
-            ()=>Promise.all([a.e(1327),
-            a.e(4105),
-            a.e(5748),
-            a.e(5641),
-            a.e(7281),
-            a.e(1270),
-            a.e(2835),
-            a.e(5026),
-            a.e(1396),
-            a.e(750)]).then(()=>()=>a(1396))),
-            f("@rsgweb/rockstar-account",
+            ()=>Promise.all([r.e(2185),
+            r.e(3256),
+            r.e(5748),
+            r.e(5641),
+            r.e(7281),
+            r.e(1270),
+            r.e(7114),
+            r.e(8444),
+            r.e(5612),
+            r.e(3695)]).then(()=>()=>r(5612))),
+            d("@rsgweb/rockstar-account",
             "0.0.0",
-            ()=>Promise.all([a.e(8277),
-            a.e(3167),
-            a.e(5748),
-            a.e(5472),
-            a.e(3234),
-            a.e(5641),
-            a.e(1617),
-            a.e(804)]).then(()=>()=>a(804))),
-            f("@rsgweb/utils",
+            ()=>Promise.all([r.e(8277),
+            r.e(9988),
+            r.e(5748),
+            r.e(5472),
+            r.e(3234),
+            r.e(5641),
+            r.e(3612),
+            r.e(1652)]).then(()=>()=>r(1652))),
+            d("@rsgweb/utils",
             "0.0.0-development",
-            ()=>Promise.all([a.e(8277),
-            a.e(3167),
-            a.e(6581),
-            a.e(5748),
-            a.e(5472),
-            a.e(3234),
-            a.e(5641),
-            a.e(1617),
-            a.e(477),
-            a.e(6911)]).then(()=>()=>a(8363))),
-            f("clsx",
+            ()=>Promise.all([r.e(8277),
+            r.e(9988),
+            r.e(1206),
+            r.e(5748),
+            r.e(5472),
+            r.e(3234),
+            r.e(5641),
+            r.e(3612),
+            r.e(2856),
+            r.e(6911)]).then(()=>()=>r(1636))),
+            d("clsx",
             "2.1.1",
-            ()=>a.e(4921).then(()=>()=>a(4921))),
-            f("focus-trap-react",
+            ()=>r.e(4921).then(()=>()=>r(4921))),
+            d("focus-trap-react",
             "12.0.3",
-            ()=>Promise.all([a.e(6295),
-            a.e(6281),
-            a.e(5748)]).then(()=>()=>a(6281))),
-            f("graphql",
+            ()=>Promise.all([r.e(6295),
+            r.e(6281),
+            r.e(5748)]).then(()=>()=>r(6281))),
+            d("graphql",
             "16.14.2",
-            ()=>a.e(1519).then(()=>()=>a(1519))),
-            f("gsap",
+            ()=>r.e(1519).then(()=>()=>r(1519))),
+            d("gsap",
             "3.12.5",
-            ()=>a.e(3529).then(()=>()=>a(3529))),
-            f("hammerjs",
+            ()=>r.e(3529).then(()=>()=>r(3529))),
+            d("hammerjs",
             "2.0.8",
-            ()=>a.e(6038).then(()=>()=>a(6038))),
-            f("jotai",
+            ()=>r.e(6038).then(()=>()=>r(6038))),
+            d("jotai",
             "2.20.3",
-            ()=>Promise.all([a.e(5500),
-            a.e(5748)]).then(()=>()=>a(5500))),
-            f("lodash-es",
+            ()=>Promise.all([r.e(5500),
+            r.e(5748)]).then(()=>()=>r(5500))),
+            d("lodash-es",
             "4.18.1",
-            ()=>a.e(2042).then(()=>()=>a(6804))),
-            f("react-dom",
+            ()=>r.e(2042).then(()=>()=>r(6804))),
+            d("react-dom",
             "19.2.8",
-            ()=>Promise.all([a.e(5748),
-            a.e(9848)]).then(()=>()=>a(9848))),
-            f("react-router",
+            ()=>Promise.all([r.e(5748),
+            r.e(9848)]).then(()=>()=>r(9848))),
+            d("react-router",
             "7.18.4",
-            ()=>Promise.all([a.e(8574),
-            a.e(5748)]).then(()=>()=>a(8574))),
-            f("react",
+            ()=>Promise.all([r.e(8574),
+            r.e(5748)]).then(()=>()=>r(8574))),
+            d("react",
             "19.2.8",
-            ()=>a.e(3888).then(()=>()=>a(3888))),
-            f("uuid",
+            ()=>r.e(3888).then(()=>()=>r(3888))),
+            d("uuid",
             "9.0.1",
-            ()=>a.e(3770).then(()=>()=>a(3770)))),
-            e[r]=s.length?Promise.all(s).then(()=>e[r]=1):1
+            ()=>r.e(3770).then(()=>()=>r(3770)))),
+            e[a]=s.length?Promise.all(s).then(()=>e[a]=1):1
           }
         })(),
         (()=>{
           let e;
-          a.g.importScripts&&(e=a.g.location+"");
-          const t=a.g.document;
+          r.g.importScripts&&(e=r.g.location+"");
+          const t=r.g.document;
           if(!e&&t&&("SCRIPT"===t.currentScript?.tagName.toUpperCase()&&(e=t.currentScript.src),
           !e)){
-            const r=t.getElementsByTagName("script");
-            if(r.length){
-              let t=r.length-1;
+            const a=t.getElementsByTagName("script");
+            if(a.length){
+              let t=a.length-1;
               for(;
               t>-1&&(!e||!/^https?:/.test(e));
-              )e=r[t--].src
+              )e=a[t--].src
             }
           }if(!e)throw new Error("Automatic publicPath is not supported in this browser");
           e=e.replace(/^blob:|[?#].*$/g,
           "").replace(/\/[^/]+$/,
           "/"),
-          a.p=e
+          r.p=e
         })(),
         (()=>{
           var e=e=>{
             var t=e=>e.split(".").map(e=>+e==e?+e:e),
-            r=/^([^-+]+)?(?:-([^+]+))?(?:\+(.+))?$/.exec(e),
-            a=r[1]?t(r[1]):[];
-            return r[2]&&(a.length++,
-            a.push.apply(a,
-            t(r[2]))),
-            r[3]&&(a.push([]),
-            a.push.apply(a,
-            t(r[3]))),
-            a
+            a=/^([^-+]+)?(?:-([^+]+))?(?:\+(.+))?$/.exec(e),
+            r=a[1]?t(a[1]):[];
+            return a[2]&&(r.length++,
+            r.push.apply(r,
+            t(a[2]))),
+            a[3]&&(r.push([]),
+            r.push.apply(r,
+            t(a[3]))),
+            r
           },
           t=e=>{
-            var r=e[0],
-            a="";
+            var a=e[0],
+            r="";
             if(1===e.length)return"*";
-            if(r+.5){
-              a+=0==r?">=":-1==r?"<":1==r?"^":2==r?"~":r>0?"=":"!=";
+            if(a+.5){
+              r+=0==a?">=":-1==a?"<":1==a?"^":2==a?"~":a>0?"=":"!=";
               for(var n=1,
               o=1;
               o<e.length;
               o++)n--,
-              a+="u"==(typeof(c=e[o]))[0]?"-":(n>0?".":"")+(n=2,
-              c);
-              return a
-            }var d=[];
+              r+="u"==(typeof(f=e[o]))[0]?"-":(n>0?".":"")+(n=2,
+              f);
+              return r
+            }var c=[];
             for(o=1;
             o<e.length;
             o++){
-              var c=e[o];
-              d.push(0===c?"not("+f()+")":1===c?"("+f()+" || "+f()+")":2===c?d.pop()+" "+d.pop():t(c))
-            }return f();
-            function f(){
-              return d.pop().replace(/^\((.+)\)$/,
+              var f=e[o];
+              c.push(0===f?"not("+d()+")":1===f?"("+d()+" || "+d()+")":2===f?c.pop()+" "+c.pop():t(f))
+            }return d();
+            function d(){
+              return c.pop().replace(/^\((.+)\)$/,
               "$1")
             }
           },
-          r=(t,
-          a)=>{
+          a=(t,
+          r)=>{
             if(0 in t){
-              a=e(a);
+              r=e(r);
               var n=t[0],
               o=n<0;
               o&&(n=-n-1);
-              for(var d=0,
-              c=1,
-              f=!0;
+              for(var c=0,
+              f=1,
+              d=!0;
               ;
-              c++,
-              d++){
+              f++,
+              c++){
                 var s,
                 l,
-                i=c<t.length?(typeof t[c])[0]:"";
-                if(d>=a.length||"o"==(l=(typeof(s=a[d]))[0]))return!f||("u"==i?c>n&&!o:""==i!=o);
+                i=f<t.length?(typeof t[f])[0]:"";
+                if(c>=r.length||"o"==(l=(typeof(s=r[c]))[0]))return!d||("u"==i?f>n&&!o:""==i!=o);
                 if("u"==l){
-                  if(!f||"u"!=i)return!1
-                }else if(f)if(i==l)if(c<=n){
-                  if(s!=t[c])return!1
+                  if(!d||"u"!=i)return!1
+                }else if(d)if(i==l)if(f<=n){
+                  if(s!=t[f])return!1
                 }else{
-                  if(o?s>t[c]:s<t[c])return!1;
-                  s!=t[c]&&(f=!1)
+                  if(o?s>t[f]:s<t[f])return!1;
+                  s!=t[f]&&(d=!1)
                 }else if("s"!=i&&"n"!=i){
-                  if(o||c<=n)return!1;
-                  f=!1,
-                  c--
+                  if(o||f<=n)return!1;
+                  d=!1,
+                  f--
                 }else{
-                  if(c<=n||l<i!=o)return!1;
-                  f=!1
-                }else"s"!=i&&"n"!=i&&(f=!1,
-                c--)
+                  if(f<=n||l<i!=o)return!1;
+                  d=!1
+                }else"s"!=i&&"n"!=i&&(d=!1,
+                f--)
               }
             }var u=[],
             b=u.pop.bind(u);
-            for(d=1;
-            d<t.length;
-            d++){
-              var h=t[d];
-              u.push(1==h?b()|b():2==h?b()&b():h?r(h,
-              a):!b())
+            for(c=1;
+            c<t.length;
+            c++){
+              var h=t[c];
+              u.push(1==h?b()|b():2==h?b()&b():h?a(h,
+              r):!b())
             }return!!b()
           };
           const n=(e,
-          t)=>e&&a.o(e,
+          t)=>e&&r.o(e,
           t),
           o=e=>(e.loaded=1,
           e.get()),
-          d=(t,
-          r,
-          a)=>{
-            const n=a?(e=>Object.keys(e).reduce((t,
-            r)=>(e[r].eager&&(t[r]=e[r]),
+          c=(t,
+          a,
+          r)=>{
+            const n=r?(e=>Object.keys(e).reduce((t,
+            a)=>(e[a].eager&&(t[a]=e[a]),
             t),
             {
-            }))(t[r]):t[r];
+            }))(t[a]):t[a];
             return Object.keys(n).reduce((t,
-            r)=>!t||!n[t].loaded&&((t,
-            r)=>{
+            a)=>!t||!n[t].loaded&&((t,
+            a)=>{
               t=e(t),
-              r=e(r);
-              for(var a=0;
+              a=e(a);
+              for(var r=0;
               ;
               ){
-                if(a>=t.length)return a<r.length&&"u"!=(typeof r[a])[0];
-                var n=t[a],
+                if(r>=t.length)return r<a.length&&"u"!=(typeof a[r])[0];
+                var n=t[r],
                 o=(typeof n)[0];
-                if(a>=r.length)return"u"==o;
-                var d=r[a],
-                c=(typeof d)[0];
-                if(o!=c)return"o"==o&&"n"==c||"s"==c||"u"==o;
-                if("o"!=o&&"u"!=o&&n!=d)return n<d;
-                a++
+                if(r>=a.length)return"u"==o;
+                var c=a[r],
+                f=(typeof c)[0];
+                if(o!=f)return"o"==o&&"n"==f||"s"==f||"u"==o;
+                if("o"!=o&&"u"!=o&&n!=c)return n<c;
+                r++
               }
             })(t,
-            r)?r:t,
+            a)?a:t,
             0)
           },
-          c=e=>function(t,
-          r,
+          f=e=>function(t,
+          a,
           n,
           o,
-          d){
-            const c=a.I(t);
-            return c?.then&&!n?c.then(e.bind(e,
+          c){
+            const f=r.I(t);
+            return f?.then&&!n?f.then(e.bind(e,
             t,
-            a.S[t],
-            r,
+            r.S[t],
+            a,
             !1,
             o,
-            d)):e(t,
-            a.S[t],
-            r,
+            c)):e(t,
+            r.S[t],
+            a,
             n,
             o,
-            d)
+            c)
           },
-          f=(e,
+          d=(e,
           t,
-          r)=>r?r():((e,
+          a)=>a?a():((e,
           t)=>(e=>{
             throw new Error(e)
           })("Shared module "+t+" doesn't exist in shared scope "+e))(e,
           t),
-          s=c((e,
+          s=f((e,
           t,
+          a,
           r,
-          a,
-          c)=>{
+          f)=>{
             if(!n(t,
-            r))return f(e,
-            r,
-            c);
-            const s=d(t,
-            r,
-            a);
-            return o(t[r][s])
+            a))return d(e,
+            a,
+            f);
+            const s=c(t,
+            a,
+            r);
+            return o(t[a][s])
           }),
-          l=c((e,
-          a,
-          c,
+          l=f((e,
+          r,
+          f,
           s,
           l,
           i)=>{
-            if(!n(a,
-            c))return f(e,
-            c,
+            if(!n(r,
+            f))return d(e,
+            f,
             i);
-            const u=d(a,
-            c,
+            const u=c(r,
+            f,
             s);
-            return r(l,
+            return a(l,
             u)||(b=((e,
-            r,
             a,
-            n)=>"Unsatisfied version "+a+" from "+(a&&e[r][a].from)+" of shared singleton module "+r+" (required "+t(n)+")")(a,
-            c,
+            r,
+            n)=>"Unsatisfied version "+r+" from "+(r&&e[a][r].from)+" of shared singleton module "+a+" (required "+t(n)+")")(r,
+            f,
             u,
             l),
             "undefined"!=typeof console&&console.warn&&console.warn(b)),
-            o(a[c][u]);
+            o(r[f][u]);
             var b
           }),
           i={
@@ -739,39 +739,39 @@ t){
             5748:()=>s("default",
             "react",
             !1,
-            ()=>a.e(3888).then(()=>()=>a(3888))),
+            ()=>r.e(3888).then(()=>()=>r(3888))),
             5472:()=>s("default",
             "lodash-es",
             !1,
-            ()=>a.e(2042).then(()=>()=>a(6804))),
+            ()=>r.e(2042).then(()=>()=>r(6804))),
             3234:()=>s("default",
             "react-router",
             !1,
-            ()=>a.e(8574).then(()=>()=>a(8574))),
+            ()=>r.e(8574).then(()=>()=>r(8574))),
             3788:()=>s("default",
             "@rsgweb/utils",
             !1,
-            ()=>Promise.all([a.e(8277),
-            a.e(3167),
-            a.e(6581),
-            a.e(5472),
-            a.e(3234),
-            a.e(1617),
-            a.e(477)]).then(()=>()=>a(8363))),
+            ()=>Promise.all([r.e(8277),
+            r.e(9988),
+            r.e(1206),
+            r.e(5472),
+            r.e(3234),
+            r.e(3612),
+            r.e(2856)]).then(()=>()=>r(1636))),
             4564:()=>s("default",
             "@rsgweb/locale-tools",
             !1,
-            ()=>Promise.all([a.e(2873),
-            a.e(5472),
-            a.e(2536)]).then(()=>()=>a(2536))),
+            ()=>Promise.all([r.e(2873),
+            r.e(5472),
+            r.e(8528)]).then(()=>()=>r(6147))),
             7281:()=>s("default",
             "react-dom",
             !1,
-            ()=>a.e(3819).then(()=>()=>a(9848))),
+            ()=>r.e(3819).then(()=>()=>r(9848))),
             5501:()=>s("default",
             "gsap",
             !1,
-            ()=>a.e(3529).then(()=>()=>a(3529))),
+            ()=>r.e(3529).then(()=>()=>r(3529))),
             1270:()=>l("default",
             "clsx",
             !1,
@@ -779,41 +779,41 @@ t){
             2,
             1,
             1],
-            ()=>a.e(4921).then(()=>()=>a(4921))),
+            ()=>r.e(4921).then(()=>()=>r(4921))),
             3705:()=>s("default",
             "@gsap/react",
             !1,
-            ()=>a.e(5480).then(()=>()=>a(3099))),
-            2835:()=>s("default",
+            ()=>r.e(5480).then(()=>()=>r(3099))),
+            7114:()=>s("default",
             "@foundry-int/utils",
             !1,
-            ()=>a.e(498).then(()=>()=>a(498))),
+            ()=>r.e(1047).then(()=>()=>r(1047))),
+            1055:()=>s("default",
+            "@foundry/react",
+            !1,
+            ()=>Promise.all([r.e(8277),
+            r.e(2185),
+            r.e(577),
+            r.e(2873),
+            r.e(5708),
+            r.e(3559),
+            r.e(6890),
+            r.e(5501),
+            r.e(3705)]).then(()=>()=>r(6830))),
             8130:()=>s("default",
             "@rsgweb/rockstar-account",
             !1,
-            ()=>Promise.all([a.e(8277),
-            a.e(3167),
-            a.e(5472),
-            a.e(3234),
-            a.e(1617),
-            a.e(8423)]).then(()=>()=>a(804))),
-            9377:()=>s("default",
-            "@foundry/react",
-            !1,
-            ()=>Promise.all([a.e(8277),
-            a.e(1327),
-            a.e(4818),
-            a.e(2873),
-            a.e(5708),
-            a.e(9692),
-            a.e(3727),
-            a.e(5501),
-            a.e(3705)]).then(()=>()=>a(1752))),
+            ()=>Promise.all([r.e(8277),
+            r.e(9988),
+            r.e(5472),
+            r.e(3234),
+            r.e(3612),
+            r.e(9271)]).then(()=>()=>r(1652))),
             584:()=>s("default",
             "focus-trap-react",
             !1,
-            ()=>Promise.all([a.e(6295),
-            a.e(6281)]).then(()=>()=>a(6281))),
+            ()=>Promise.all([r.e(6295),
+            r.e(6281)]).then(()=>()=>r(6281))),
             1639:()=>l("default",
             "@floating-ui/react",
             !1,
@@ -821,9 +821,9 @@ t){
             0,
             27,
             20],
-            ()=>Promise.all([a.e(5708),
-            a.e(6295),
-            a.e(8876)]).then(()=>()=>a(8876))),
+            ()=>Promise.all([r.e(5708),
+            r.e(6295),
+            r.e(8876)]).then(()=>()=>r(8876))),
             2341:()=>l("default",
             "hammerjs",
             !1,
@@ -831,13 +831,13 @@ t){
             2,
             0,
             8],
-            ()=>a.e(6038).then(()=>()=>a(6038))),
+            ()=>r.e(6038).then(()=>()=>r(6038))),
             3424:()=>s("default",
             "@rsgweb/modules-core-agegate",
             !1,
-            ()=>Promise.all([a.e(1327),
-            a.e(1396),
-            a.e(8369)]).then(()=>()=>a(1396))),
+            ()=>Promise.all([r.e(2185),
+            r.e(5612),
+            r.e(6076)]).then(()=>()=>r(5612))),
             4815:()=>l("default",
             "uuid",
             !1,
@@ -845,64 +845,64 @@ t){
             9,
             0,
             1],
-            ()=>a.e(3770).then(()=>()=>a(3770))),
+            ()=>r.e(3770).then(()=>()=>r(3770))),
             5115:()=>s("default",
             "jotai",
             !1,
-            ()=>a.e(5500).then(()=>()=>a(5500))),
+            ()=>r.e(5500).then(()=>()=>r(5500))),
             6647:()=>s("default",
             "graphql",
             !1,
-            ()=>a.e(1519).then(()=>()=>a(1519)))
+            ()=>r.e(1519).then(()=>()=>r(1519)))
           },
           b={
-            477:[6647],
             1270:[1270],
-            2835:[2835],
+            2856:[6647],
             3234:[3234],
             3705:[3705],
-            5026:[8130,
-            9377],
-            5472:[5472],
-            5501:[5501],
-            5641:[3788,
-            4564],
-            5748:[5748],
-            6058:[584,
+            4684:[584,
             1639,
             2341,
             3424,
             4815,
             5115],
-            7281:[7281]
+            5472:[5472],
+            5501:[5501],
+            5641:[3788,
+            4564],
+            5748:[5748],
+            7114:[7114],
+            7281:[7281],
+            8444:[1055,
+            8130]
           },
           h={
           };
-          a.f.consumes=(e,
+          r.f.consumes=(e,
           t)=>{
-            a.o(b,
+            r.o(b,
             e)&&b[e].forEach(e=>{
-              if(a.o(i,
+              if(r.o(i,
               e))return t.push(i[e]);
               if(!h[e]){
-                const r=t=>{
+                const a=t=>{
                   i[e]=0,
-                  a.m[e]=r=>{
-                    delete a.c[e],
-                    r.exports=t()
+                  r.m[e]=a=>{
+                    delete r.c[e],
+                    a.exports=t()
                   }
                 };
                 h[e]=!0;
                 const n=t=>{
                   delete i[e],
-                  a.m[e]=r=>{
-                    throw delete a.c[e],
+                  r.m[e]=a=>{
+                    throw delete r.c[e],
                     t
                   }
                 };
                 try{
-                  const a=u[e]();
-                  a.then?t.push(i[e]=a.then(r).catch(n)):r(a)
+                  const r=u[e]();
+                  r.then?t.push(i[e]=r.then(a).catch(n)):a(r)
                 }catch(e){
                   n(e)
                 }
@@ -915,75 +915,75 @@ t){
             var e={
               7614:0
             };
-            a.f.miniCss=(t,
-            r)=>{
-              e[t]?r.push(e[t]):0!==e[t]&&{
-                750:1,
-                1066:1,
-                3101:1,
-                3727:1,
-                6058:1,
-                6481:1,
-                8369:1,
-                9692:1
-              }[t]&&r.push(e[t]=(e=>new Promise((t,
-              r)=>{
-                var n=a.miniCssF(e),
-                o=a.p+n;
+            r.f.miniCss=(t,
+            a)=>{
+              e[t]?a.push(e[t]):0!==e[t]&&{
+                1640:1,
+                2149:1,
+                3559:1,
+                3695:1,
+                4684:1,
+                6076:1,
+                6890:1,
+                9103:1
+              }[t]&&a.push(e[t]=(e=>new Promise((t,
+              a)=>{
+                var n=r.miniCssF(e),
+                o=r.p+n;
                 if(((e,
                 t)=>{
-                  for(var r=document.getElementsByTagName("link"),
-                  a=0;
-                  a<r.length;
-                  a++){
-                    var n=(d=r[a]).getAttribute("data-href")||d.getAttribute("href");
-                    if("stylesheet"===d.rel&&(n===e||n===t))return d
+                  for(var a=document.getElementsByTagName("link"),
+                  r=0;
+                  r<a.length;
+                  r++){
+                    var n=(c=a[r]).getAttribute("data-href")||c.getAttribute("href");
+                    if("stylesheet"===c.rel&&(n===e||n===t))return c
                   }var o=document.getElementsByTagName("style");
-                  for(a=0;
-                  a<o.length;
-                  a++){
-                    var d;
-                    if((n=(d=o[a]).getAttribute("data-href"))===e||n===t)return d
+                  for(r=0;
+                  r<o.length;
+                  r++){
+                    var c;
+                    if((n=(c=o[r]).getAttribute("data-href"))===e||n===t)return c
                   }
                 })(n,
                 o))return t();
                 ((e,
                 t,
-                r,
+                a,
                 n,
                 o)=>{
-                  var d=document.createElement("link");
-                  d.rel="stylesheet",
-                  d.type="text/css",
-                  a.nc&&(d.nonce=a.nc),
-                  d.onerror=d.onload=r=>{
-                    if(d.onerror=d.onload=null,
-                    "load"===r.type)n();
+                  var c=document.createElement("link");
+                  c.rel="stylesheet",
+                  c.type="text/css",
+                  r.nc&&(c.nonce=r.nc),
+                  c.onerror=c.onload=a=>{
+                    if(c.onerror=c.onload=null,
+                    "load"===a.type)n();
                     else{
-                      var a=r&&r.type,
-                      c=r&&r.target&&r.target.href||t,
-                      f=new Error("Loading CSS chunk "+e+" failed.\n("+a+": "+c+")");
-                      f.name="ChunkLoadError",
-                      f.code="CSS_CHUNK_LOAD_FAILED",
-                      f.type=a,
-                      f.request=c,
-                      d.parentNode&&d.parentNode.removeChild(d),
-                      o(f)
+                      var r=a&&a.type,
+                      f=a&&a.target&&a.target.href||t,
+                      d=new Error("Loading CSS chunk "+e+" failed.\n("+r+": "+f+")");
+                      d.name="ChunkLoadError",
+                      d.code="CSS_CHUNK_LOAD_FAILED",
+                      d.type=r,
+                      d.request=f,
+                      c.parentNode&&c.parentNode.removeChild(c),
+                      o(d)
                     }
                   },
-                  d.href=t,
-                  document.head.appendChild(d)
+                  c.href=t,
+                  document.head.appendChild(c)
                 })(e,
                 o,
                 0,
                 t,
-                r)
+                a)
               }))(t).then(()=>{
                 e[t]=0
               },
-              r=>{
+              a=>{
                 throw delete e[t],
-                r
+                a
               }))
             }
           }
@@ -992,67 +992,67 @@ t){
           const e={
             7614:0
           };
-          a.f.j=(t,
-          r)=>{
-            let n=a.o(e,
+          r.f.j=(t,
+          a)=>{
+            let n=r.o(e,
             t)?e[t]:void 0;
-            if(0!==n)if(n)r.push(n[2]);
-            else if(/^(3(101|234|705)|5(026|472|501|641|748)|1270|2835|7281|750|8369)$/.test(t))e[t]=0;
+            if(0!==n)if(n)a.push(n[2]);
+            else if(/^(3(234|695|705)|5(472|501|641|748)|1270|2149|6076|7114|7281|8444)$/.test(t))e[t]=0;
             else{
-              const o=new Promise((r,
-              a)=>n=e[t]=[r,
-              a]);
-              r.push(n[2]=o);
-              const d=new Error,
-              c=r=>{
-                if(a.o(e,
+              const o=new Promise((a,
+              r)=>n=e[t]=[a,
+              r]);
+              a.push(n[2]=o);
+              const c=new Error,
+              f=a=>{
+                if(r.o(e,
                 t)&&(n=e[t],
                 0!==n&&(e[t]=void 0),
                 n)){
-                  const e=r&&("load"===r.type?"missing":r.type),
-                  a=r&&r.target&&r.target.src;
-                  d.message="Loading chunk "+t+" failed.\n("+e+": "+a+")",
-                  d.name="ChunkLoadError",
-                  d.type=e,
-                  d.request=a,
-                  d.event=r,
-                  n[1](d)
+                  const e=a&&("load"===a.type?"missing":a.type),
+                  r=a&&a.target&&a.target.src;
+                  c.message="Loading chunk "+t+" failed.\n("+e+": "+r+")",
+                  c.name="ChunkLoadError",
+                  c.type=e,
+                  c.request=r,
+                  c.event=a,
+                  n[1](c)
                 }
               };
-              a.l(a.p+a.u(t),
-              c,
+              r.l(r.p+r.u(t),
+              f,
               "chunk-"+t,
               t)
             }
           };
           const t=(t,
-          r)=>{
+          a)=>{
             let[n,
             o,
-            d]=r;
-            var c,
-            f,
+            c]=a;
+            var f,
+            d,
             s=0;
             if(n.some(t=>0!==e[t])){
-              for(c in o)a.o(o,
-              c)&&(a.m[c]=o[c]);
-              d&&d(a)
-            }for(t&&t(r);
+              for(f in o)r.o(o,
+              f)&&(r.m[f]=o[f]);
+              c&&c(r)
+            }for(t&&t(a);
             s<n.length;
-            s++)f=n[s],
-            a.o(e,
-            f)&&e[f]&&e[f][0](),
-            e[f]=0
+            s++)d=n[s],
+            r.o(e,
+            d)&&e[d]&&e[d][0](),
+            e[d]=0
           },
-          r=self.webpackChunk_rockstargames_modules_core_videoplayer=self.webpackChunk_rockstargames_modules_core_videoplayer||[];
-          r.forEach(t.bind(null,
+          a=self.webpackChunk_rockstargames_modules_core_videoplayer=self.webpackChunk_rockstargames_modules_core_videoplayer||[];
+          a.forEach(t.bind(null,
           0)),
-          r.push=t.bind(null,
-          r.push.bind(r))
+          a.push=t.bind(null,
+          a.push.bind(a))
         })(),
-        a.nc=void 0,
-        a(5188),
-        a(8157)
+        r.nc=void 0,
+        r(3069),
+        r(8157)
       })())
     }
   }

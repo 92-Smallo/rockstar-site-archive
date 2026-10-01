@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="70724bc4-740d-401a-8b68-a9a484d50eaf",
-  e._sentryDebugIdIdentifier="sentry-dbid-70724bc4-740d-401a-8b68-a9a484d50eaf")
+  e._sentryDebugIds[t]="6065bdd4-87ef-43b5-a84c-cc690a76e1c7",
+  e._sentryDebugIdIdentifier="sentry-dbid-6065bdd4-87ef-43b5-a84c-cc690a76e1c7")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"2ca2e8c15383a65d8765393f80cce3745676da96",
+    release:"b6778eeff7ac7895a078a070a5c7649a0d5e5d39",
     packageName:"@rockstargames/sites-rockstar-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"2ca2e8c15383a65d8765393f80cce3745676da96"
+  id:"b6778eeff7ac7895a078a070a5c7649a0d5e5d39"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -44,16 +44,16 @@ t){
     execute:function(){
       e((()=>{
         var e={
-          5319(e,
+          7294(e,
           t,
           r){
             (0,
-            r(3199).w)(1)
+            r(5316).w)(1)
           },
-          3199(e,
+          5316(e,
           t,
           r){
-            const n=r(1975).y;
+            const n=r(2232).y;
             t.w=function(e){
               if(e||(e=1),
               !r.y.meta||!r.y.meta.url)throw console.error("__system_context__",
@@ -63,12 +63,12 @@ t){
               e)
             }
           },
-          5188(e,
+          3069(e,
           t,
           r){
-            r(5319)
+            r(7294)
           },
-          1975(e,
+          2232(e,
           t,
           r){
             t.y=function(e,
@@ -95,7 +95,7 @@ t){
               "./index":()=>Promise.all([r.e(41),
               r.e(748),
               r.e(331),
-              r.e(871)]).then(()=>()=>r(4871))
+              r.e(272)]).then(()=>()=>r(8272))
             },
             o=(e,
             t)=>(r.R=t,
@@ -232,13 +232,13 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          41:"43f4d8f16b0c2d34613f8e2e9cf905cd",
-          64:"c01509c2dbab593689691cc2ce356406",
-          356:"9be57e06d323de1a6ebd0a83efcf9ea5",
-          401:"37b2e50f40f84ce636232d855a734633",
-          574:"cecfa45b7c3323e57ab7fd435e999a8c",
-          871:"2b80f75fcd40f49a528c59448951edc6",
-          888:"c51022a1764ae3a2300dec80a0cb19b7"
+          41:"c19f2f11eeec2a3c7462b02e4159d8af",
+          192:"88464a6243e7c446f177a03070886302",
+          272:"bc9558c61eb6916a299b62440172a7da",
+          384:"a68d1439176f5b01725a047d906d0ace",
+          574:"98975b668843f90ef90f1ae08ea98ccb",
+          821:"487184ff41710313ec5af11159205fad",
+          888:"c9cb638b76819f7ba322552cb1f9f275"
         }[e]+".js",
         o.miniCssF=e=>"css/5eaba88ea2bc687cd596c0a29ea9e04a.css",
         o.g=function(){
@@ -286,14 +286,14 @@ t){
             const l=(t,
             n)=>{
               i.onerror=i.onload=null,
-              clearTimeout(u);
+              clearTimeout(f);
               const o=e[r];
               if(delete e[r],
               i.parentNode?.removeChild(i),
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            u=setTimeout(l.bind(null,
+            f=setTimeout(l.bind(null,
             void 0,
             {
               type:"timeout",
@@ -321,7 +321,7 @@ t){
         },
         (()=>{
           const e={
-            871:[1879]
+            272:[1879]
           },
           t={
             1879:["default",
@@ -436,12 +436,12 @@ t){
             d=[];
             return"default"===r&&(c("@rsgweb/utils",
             "0.0.0-development",
-            ()=>Promise.all([o.e(64),
+            ()=>Promise.all([o.e(192),
             o.e(41),
             o.e(748),
-            o.e(356),
+            o.e(821),
             o.e(331),
-            o.e(401)]).then(()=>()=>o(4356))),
+            o.e(384)]).then(()=>()=>o(5821))),
             c("react-router",
             "7.18.4",
             ()=>Promise.all([o.e(574),
@@ -590,8 +590,8 @@ t){
             3788:()=>n("default",
             "@rsgweb/utils",
             !1,
-            ()=>Promise.all([o.e(64),
-            o.e(356)]).then(()=>()=>o(4356)))
+            ()=>Promise.all([o.e(192),
+            o.e(821)]).then(()=>()=>o(5821)))
           },
           i={
             331:[3234,
@@ -640,7 +640,7 @@ t){
             o.f.miniCss=(t,
             r)=>{
               e[t]?r.push(e[t]):0!==e[t]&&{
-                871:1
+                272:1
               }[t]&&r.push(e[t]=(e=>new Promise((t,
               r)=>{
                 var n=o.miniCssF(e),
@@ -765,7 +765,7 @@ t){
           r.push=t.bind(null,
           r.push.bind(r))
         })(),
-        o(5188),
+        o(3069),
         o(5819)
       })())
     }

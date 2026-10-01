@@ -105,7 +105,7 @@
 ===this.method)&&o)throw new TypeError(
 ==typeof b?.className&&delete b.className,(0,C.jsxs)(
 ==typeof Buffer.from)return Buffer.from(e).toString(
-==typeof c.bearerToken&&d.searchParams.append(
+==typeof c.bearerToken&&u.searchParams.append(
 ==typeof document)return
 ==typeof e?new URL(e,
 ==typeof e.imageSizes:

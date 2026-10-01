@@ -100,16 +100,16 @@
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
 ),height:t&&void 0!==t.height&&!this.state.isResizing?w(t.height):n(
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new o(
+),switch:new i(
 ),t.CARRIAGE_RETURN_PLACEHOLDER_REGEX=new RegExp(t.CARRIAGE_RETURN_PLACEHOLDER,
-),xboxone:new o(
-),xboxsx:new o(
+),xboxone:new i(
+),xboxsx:new i(
 ):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
 ).toUpperCase():void 0,games_played:n.length?n.join(
-).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:t?
-).toUpperCase():void 0,gta_plus_platforms:s.length?s.map(e=>i[e]??e).join(
-).toUpperCase():void 0,gtao_platforms_played:r.length?r.map(e=>i[e]??e).join(
+).toUpperCase():void 0,gta_plus_active:r.length>0,use_enhanced_browser_features:h,section_layout:t?
+).toUpperCase():void 0,gta_plus_platforms:r.length?r.map(e=>i[e]??e).join(
+).toUpperCase():void 0,gtao_platforms_played:s.length?s.map(e=>i[e]??e).join(
 )),a=new s.WebKitCSSMatrix(
 ))||void 0===n?void 0:n.toLowerCase())||g.alreadySilent.add(t),t.setAttribute(
 ))return n*(Number(e.replace(
@@ -184,13 +184,12 @@
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
 ===e.type&&(a=e.renderFraction?e.renderFraction.call(t,e.currentClass,e.totalClass):`<span class=
 ===e.type&&(a=e.renderProgressbar?e.renderProgressbar.call(t,e.progressbarFillClass):`<span class=
-===l&&(console.warn(`The _template
 ===r.preventScrollAxis?(t._active=!1,void this.clean()):(this.timeoutStore.remove(
+===s&&(console.warn(`The _template
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===this.method)&&o)throw new TypeError(
 ===u.value&&!r)throw new Error(
 ==typeof Buffer.from)return Buffer.from(e).toString(
-==typeof c.bearerToken&&d.searchParams.append(
 ==typeof document)return
 ==typeof e?new URL(e,
 ==typeof e.closest?e.closest(
@@ -208,10 +207,11 @@
 ==typeof e&&e.constructor.name===Object.name&&!(
 ==typeof exports&&exports&&!exports.nodeType&&exports,a=o&&
 ==typeof exports&&exports&&!exports.nodeType&&exports,c=n&&
+==typeof F.bearerToken&&c.searchParams.append(
 ==typeof FormData,
 ==typeof h&&(h.endsWith(
 ==typeof i?o.createElement(
-==typeof l.bearerToken&&d.searchParams.append(
+==typeof i.bearerToken&&l.searchParams.append(
 ==typeof n&&!(u=null===(i=this.getDocument())||void 0===i?void 0:i.querySelector(n)))throw new Error(
 ==typeof o?o:parseFloat(o))!==(s.startsWith(
 ==typeof performance.now?performance:Date,ot=new Set,st=
@@ -260,6 +260,7 @@ a Union type
 Abonnement effectué
 Abonnez-vous à la newsletter pour recevoir par e-mail des infos relatives à nos jeux et aux mises à jour, aux évènements spéciaux et aux offres, et plus de la part de Rockstar Games et nos affiliés.
 Aby potwierdzić swoją subskrypcję listy mailingowej Rockstar Games, zweryfikuj swój adres e-mail poprzez link wysłany do twojej skrzynki odbiorczej.
+Accessible label for external link
 Acercar zoom
 ADBE Color Control
 ADBE Effect Parade

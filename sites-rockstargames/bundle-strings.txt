@@ -1,25 +1,37 @@
+_14vii1q0 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdo
 _1ozycm42 _1betujy6 _1betujy5
-_1s6xv7d0 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdo
-_1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
+_1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 , rendering default message verbatim`,t,c,e)),
 , so there is no way to handle the request.`:
 , so there is no way to handle the request.`:n&&(s=`Invalid request method
 , you should instead write 'globalStyle(
-,"string"==typeof t.imageSizes&&(l+=
+,"string"==typeof n.imageSizes&&(l+=
 ,1)>-1)throw new Error(
 ,a.onTranslateToWrapperTransitionEnd),a.onTranslateToWrapperTransitionEnd=null,delete a.onTranslateToWrapperTransitionEnd,a.animating=!1,s&&a.emit(
+,A),backQuote:new C(
+,A),questionDot:new C(
+,A),template:new C(
 ,bearer_token_expired:!0,isAMinor:void 0,isNewAccount:!1,nickname:
 ,breakpoints:void 0,breakpointsBase:
 ,c=void 0!==n.secure?n.secure:o.secure,d=void 0!==n.httponly?n.httponly:o.httponly,u=void 0!==n.samesite?n.samesite:o.samesite,m=s?new Date(
 ,description:'Global navigation search, Search Target (aria label). Formatted:
 ,description:'Label text for the
+,g),dollarBraceL:new d(
+,g),privateId:new d(
 ,height:null!==(n=this.props.size.height)&&void 0!==n?n:
 ,i=new Set(o.split(
+,m),backQuote:new d(
+,m),questionDot:new d(
+,m),template:new d(
 ,message:e instanceof Error?e.message:
 ,n),i=void 0,t.removeEventListener(
-,new Map),B(this,
+,new Map),U(this,
+,P),dollarBraceL:new C(
+,P),privateId:new C(
+,p=(this.props.blacklistedAttrs||[]).map(e=>e instanceof RegExp?e:new RegExp(e,
 ,s=`No route matches URL
 ,scrimColor:void 0,reducedMotion:window&&window.matchMedia&&window.matchMedia(
+,t.CARRIAGE_RETURN_REGEX=new RegExp(t.CARRIAGE_RETURN,
 ,this.renderConfig.id),void 0!==this.renderConfig.focusable&&this.svgElement.setAttribute(
 ,this.status=void 0===t.status?200:t.status,this.status<200||this.status>599)throw new RangeError(
 ,type:new gt(bn),description:
@@ -32,7 +44,7 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 :if(r.options.length>1)throw new RangeError(
 :if(r<4)throw new RangeError(
 :if(t)throw new RangeError(
-:return n=t.async,
+:return s&&this.raiseRecoverable(e.start,
 :return t.day=
 :return t.day=[
 :return t.hour=[
@@ -42,8 +54,10 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 :return t.second=[
 :return t.timeZoneName=r<4?
 :return t.weekday=[void 0,void 0,
+:return t=n.async,
 :return this.currZoomLevel>this.zoomLevels.initial?
-:s,autoPlay:!0,playsInline:!0,muted:!0,poster:h?.url??void 0,children:[e.mobile&&(0,o.jsx)(
+:return(e.async||e.generator)&&this.props.onError?.(new Error(
+:s,autoPlay:!0,playsInline:!0,muted:!0,poster:h?.url??void 0,children:[e.mobile&&(0,r.jsx)(
 :t.isInvalid||void 0,
 :throw new RangeError(
 :var r=e.querySelector('style[data-href~=
@@ -53,15 +67,17 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 !==e)throw new RangeError(
 !==e[1].type)throw new Error(
 !==e[e.length-1].type)throw new Error(
+!==i||void 0===navigator.plugins&&
 !==k.roundingType)throw new TypeError(
 !==n)throw new TypeError(
 !==r)throw new TypeError(
-!==r||void 0===navigator.plugins&&
 !==t.crossOrigin)return t.crossOrigin=
 !==t)throw new Error(
 !==t[t.length-1].type)throw new Error(
 !==u.type)throw new Error(
 !==v)throw new Error(
+!=typeof a.el&&(a.el.removeEventListener(
+!=typeof a)return void console.error(
 !=typeof a)throw new TypeError(
 !=typeof a||(a=document.createElement(
 !=typeof Buffer&&
@@ -69,6 +85,7 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 !=typeof d||(d=document.createElement(
 !=typeof document&&(
 !=typeof document&&(document.addEventListener(
+!=typeof e?(console.error(
 !=typeof e)throw new Error(
 !=typeof e)throw new n(
 !=typeof e)throw new TypeError(
@@ -81,12 +98,11 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 !=typeof L)throw new TypeError(
 !=typeof l||(l=document.createElement(
 !=typeof n?(e.minimumSignificantDigits=r.length,e.maximumSignificantDigits=r.length):
-!=typeof n.async&&
 !=typeof n)throw new TypeError(
 !=typeof n)throw new TypeError(n+
 !=typeof navigator&&(navigator.language||navigator.userLanguage)||
 !=typeof o?e.type=o:e.removeAttribute(
-!=typeof o)throw new TypeError(
+!=typeof o)return void console.error(
 !=typeof o||(o=document.createElement(
 !=typeof PointerEvent&&(n.addEventListener(
 !=typeof PointerEvent&&(r.removeEventListener(
@@ -96,7 +112,7 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 !=typeof r)throw new TypeError(
 !=typeof self&&self.Math==Math?self:Function(
 !=typeof ShadowRoot&&e instanceof ShadowRoot||
-!=typeof t.el&&(t.el.removeEventListener(
+!=typeof t.async&&
 !=typeof t)throw new TypeError(
 !=typeof t&&null!==t)throw new TypeError(
 !=typeof this)throw new TypeError(
@@ -132,10 +148,19 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 .concat(typeof t),TypeError),(0,r.invariant)(
 .concat(typeof t),TypeError),isNaN(t)||!isFinite(t))throw new RangeError(
 .gsap-marker-start, .gsap-marker-end, .gsap-marker-scroller-start, .gsap-marker-scroller-end
+' has already been declared
+' is not defined
+' must be declared in an enclosing class
+'import' and 'export' may appear only with 'sourceType: module'
+'import' and 'export' may only appear at the top level
+'super' keyword outside a method
+'with' in strict mode
 " does not exist in container.
 " has not been loaded in NumberFormat. Please __addLocaleData before adding additional unit data
 " is not supported. Try setting "calendar" to 1 of the following:
 ". Should be a string, number, null or object. Received: "
+"):e.static&&pe(e,"prototype")&&this.raise(e.key.start,"Classes can
+"):e.static&&Z(e,"prototype")&&this.raise(e.key.start,"Classes can
 „Avatar bearbeiten“-Stiftsymbol
 "ext" argument must be a string
 „Freunde plattformübergreifend vergleichen“ umschalten.
@@ -167,19 +192,43 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ) in the URL path
 ) is greater than the number of directories (
 ) to 'parent', you should add
+),_=new RegExp(
 ),!(0,l.IsWellFormedCurrencyCode)(a))throw RangeError(
 ),`Route path
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
+),a=!1,o=this.containsEsc,h=new G,c=this.start,l=t>-1?this.parseExprSubscripts(h,
+),a=!1,o=this.containsEsc,h=new se,c=this.start,l=t>-1?this.parseExprSubscripts(h,
+),arrow:new C(
+),arrow:new d(
+),braceL:new C(
+),braceL:new d(
+),bracketL:new C(
+),bracketL:new d(
+),c=new RegExp(
+),comma:new C(
+),comma:new d(
+),console.error('Error: DiscountsCarousel expects a prop
+),ellipsis:new C(
+),ellipsis:new d(
 ),height:t&&void 0!==t.height&&!this.state.isResizing?w(t.height):n(
+),invalidTemplate:new C(
+),invalidTemplate:new d(
+),jsxText:new r(
+),onMouseEnter:()=>s&&void u.current.play(),onMouseLeave:()=>s&&(u.current.pause(),void(u.current.currentTime=0)),children:(0,i.jsx)(
+),parenL:new C(
+),parenL:new d(
+),question:new C(
+),question:new d(
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new o(
+),switch:new F(
+),t.CARRIAGE_RETURN_PLACEHOLDER_REGEX=new RegExp(t.CARRIAGE_RETURN_PLACEHOLDER,
 ),void 0===t)throw new TypeError(
-),xboxone:new o(
-),xboxsx:new o(
+),xboxone:new F(
+),xboxsx:new F(
 ):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
 ).toUpperCase():void 0,games_played:n.length?n.join(
-).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:t?
+).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:a?
 ).toUpperCase():void 0,gta_plus_platforms:s.length?s.map(e=>l[e]??e).join(
 ).toUpperCase():void 0,gtao_platforms_played:r.length?r.map(e=>l[e]??e).join(
 )),a=new s.WebKitCSSMatrix(
@@ -284,6 +333,7 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ` requires `path` to be set too
 ` without `Compiler`
 ` without `Parser`
+`. Did you mean `
 `),S(null==p||void 0!==p[p.length-1].route.element||void 0!==p[p.length-1].route.Component||void 0!==p[p.length-1].route.lazy,`Matched leaf route at location
 `beforeSendMetric` returned `null`, will not send metric.
 `useViewTransitionState` must be used within `react-router-dom`'s `RouterProvider`. Did you accidentally import `RouterProvider` from `react-router`?
@@ -291,19 +341,22 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 © 2020 Denis Pushkarev (zloirock.ru)
 +(new Date).getTime()):this.url+=(/\?/.test(this.url)?
 +btoa(String.fromCharCode(...new Uint8Array(a))).replace(/=+$/,
-+De),hsl:new RegExp(
-+De),hsv:new RegExp(
-+Oe),hsla:new RegExp(
-+Oe),hsva:new RegExp(
-+Oe),rgba:new RegExp(
++Ee),hsla:new RegExp(
++Ee),hsva:new RegExp(
++Ee),rgba:new RegExp(
++Se),hsl:new RegExp(
++Se),hsv:new RegExp(
 +t.statusText,this.headers=new y(t.headers),this.url=t.url||
 < unknown name >
 <Await> caught the following error during render
 <iframe src="https://www.googletagmanager.com/ns.html?id=
 <Navigate> may be used only in the context of a <Router> component.
 <unlabeled transaction>
+===a&&!r)throw new TypeError(
 ===e.id?za:void 0:t.HydrateFallback,i=t.ErrorBoundary?t.ErrorBoundary:
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
+===e.type&&(a=e.renderFraction?e.renderFraction.call(t,e.currentClass,e.totalClass):`<span class=
+===e.type&&(a=e.renderProgressbar?e.renderProgressbar.call(t,e.progressbarFillClass):`<span class=
 ===e)throw new TypeError(
 ===e&&!r)throw new TypeError(
 ===g,'signDisplay must be
@@ -312,22 +365,22 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ===l&&(console.warn(`The _template
 ===n)throw new TypeError(
 ===n&&!e)throw new TypeError(
+===n&&!i)throw new TypeError(
 ===n&&!o)throw new TypeError(
 ===n&&!r)throw new TypeError(
 ===new Intl.Locale(
 ===new Intl.NumberFormat(
 ===new Intl.PluralRules(
-===o)throw new TypeError(
-===o&&!n)throw new TypeError(
 ===r.preventScrollAxis?(t._active=!1,void this.clean()):(this.timeoutStore.remove(
 ===r)return a.patterns.locale.replace(
 ===r)throw new TypeError(
 ===r&&!a)throw new TypeError(
+===r&&!i)throw new TypeError(
 ===r&&!n)throw new TypeError(
 ===r&&!o)throw new TypeError(
 ===r&&!t)throw new TypeError(
-===t.key)return t.preventDefault(),M(),j.current=
-===t.key)return t.preventDefault(),M(),x.current=
+===t.key)return t.preventDefault(),A(),x.current=
+===t.key)return t.preventDefault(),T(),v.current=
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===t)throw new TypeError(
 ===t&&!a)throw new TypeError(
@@ -340,10 +393,11 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ==typeof a)throw TypeError(
 ==typeof Array.isArray?Array.isArray(e):
 ==typeof Buffer.from)return Buffer.from(e).toString(
-==typeof c.bearerToken&&d.searchParams.append(
+==typeof c.bearerToken&&u.searchParams.append(
 ==typeof clearTimeout?clearTimeout:void 0,Ef=
 ==typeof d.name?d.name:void 0,v.displayName=
 ==typeof d.tagName?d.tagName:
+==typeof define&&i.amdO?define([
 ==typeof document)return
 ==typeof e?new RegExp(u(e),
 ==typeof e?new URL(e,
@@ -360,19 +414,21 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ==typeof e.statusText&&
 ==typeof e.type&&
 ==typeof e&&!1!==o.config().nullTargetWarn?console.warn(
-==typeof e&&(n=[...document.querySelectorAll(e)]),t.params.uniqueNavElements&&
 ==typeof e&&(s=[...document.querySelectorAll(e)]),a.params.uniqueNavElements&&
+==typeof e&&(t=[...document.querySelectorAll(e)]),a.params.uniqueNavElements&&
 ==typeof e&&e.constructor.name===Object.name&&!(
 ==typeof exports&&exports&&!exports.nodeType&&exports,a=o&&
 ==typeof exports&&exports&&!exports.nodeType&&exports,c=n&&
 ==typeof FormData,
 ==typeof h&&(h.endsWith(
 ==typeof i?o.createElement(
+==typeof i.error&&
 ==typeof Intl||!(
+==typeof j?.className&&delete j.className,(0,r.jsxs)(
 ==typeof L.attributes.href&&
 ==typeof L.attributes.rel&&(
 ==typeof l.bearerToken&&d.searchParams.append(
-==typeof n.children||
+==typeof n.precedence&&
 ==typeof n&&!(u=null===(i=this.getDocument())||void 0===i?void 0:i.querySelector(n)))throw new Error(
 ==typeof n&&(n=n.description?
 ==typeof o?o:parseFloat(o))!==(s.startsWith(
@@ -380,16 +436,18 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ==typeof performance&&performance&&
 ==typeof process.emit)return void process.emit(
 ==typeof process&&
-==typeof Promise?Promise:void 0,xf=
+==typeof Promise?Promise:void 0,Cf=
 ==typeof r&&r instanceof Error||(r=new Error(
 ==typeof Reflect&&
 ==typeof ResizeObserver,layoutShift:u=
 ==typeof setTimeout?setTimeout:void 0,Sf=
 ==typeof Symbol&&
+==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?
 ==typeof Symbol&&Symbol.for,r=n?Symbol.for(
 ==typeof Symbol&&Symbol.for?Symbol.for(
 ==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?
 ==typeof t?t:t.hasOwnProperty(
+==typeof t.children||
 ==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
 ==typeof t.imageSizes?t.imageSizes:void 0,media:
 ==typeof t.imageSrcSet?t.imageSrcSet:void 0,imageSizes:
@@ -397,8 +455,7 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ==typeof t.integrity?t.integrity:void 0,o=
 ==typeof t.nonce?t.nonce:void 0,type:
 ==typeof t.parentSampleRate?t.parentSampleRate:
-==typeof t.placeholderData?t.placeholderData(this.#_?.state.data,this.#_):t.placeholderData,void 0!==e&&(w=
-==typeof t.precedence&&
+==typeof t.placeholderData?t.placeholderData(this.#T?.state.data,this.#T):t.placeholderData,void 0!==e&&(w=
 ==typeof t.read,
 ==typeof t.referrerPolicy?t.referrerPolicy:void 0,imageSrcSet:
 ==typeof t.sri?o.createElement(
@@ -412,12 +469,16 @@ _1uxmwi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ==typeof window?
 ==typeof window&&
 ==typeof window||
-==typeof x?.className&&delete x.className,(0,s.jsxs)(
+==typeof window||!e[t]||e[t]instanceof window.Element?null:new Error('Prop name
+==typeof x?.className&&delete x.className,(0,r.jsxs)(
+==typeof x?.className&&delete x.className,(0,t.jsxs)(
 > is not able to match the URL
 > to <Route path=
 >) but the parent route path has no trailing
+></span> / <span class=
 💿 Hey developer 👋. You can provide a way better UX than this
 💿 Hey developer 👋. You can provide a way better UX than this when your app throws errors. Check out https://reactrouter.com/how-to/error-boundary for more information.
+0 solid transparent
 1 argument is required
 100ms transform ease
 2-Step Verification
@@ -481,6 +542,7 @@ Accessibility label for the list of "Company Info"-related links
 Accessibility label for the list of "Contact Us"-related links
 Accessibility label for the list of "Social Media"-related links
 Accessibility label for the list of additional organization info
+Accessible label for external link
 Account / Service Ban
 Account compromesso/hackerato
 Account Deletion Cancellation Request Received
@@ -656,6 +718,8 @@ Algo ha ido mal. Vuelve a intentarlo.
 Algo salió mal.
 Algo salió mal. Inténtalo de nuevo.
 All open support tickets will be closed.
+all var(--eventDeck-transitionCardClose)
+all var(--eventDeck-transitionCardOpen)
 Alle anzeigen
 Alle Crews ansehen
 Alle Jobs ansehen
@@ -718,6 +782,7 @@ An error occurred in the `beforeAddRecordingEvent` callback, skipping the event.
 An error occurred with the provided information.
 An error occurred! For more details, see the full error text at https://go.apollo.dev/c/err#
 An event processor returned `null`, will not send event.
+An export name cannot include a lone surrogate.
 An index route cannot have child routes.
 an Input type
 An instrumentation function threw an error:
@@ -936,6 +1001,7 @@ Asistencia para tu cuenta
 Asistencia técnica
 Assédio/participante ruim
 assertion failure
+Assigning to rvalue
 Assistir agora
 Associer un autre compte
 Associer un compte de jeu
@@ -1014,6 +1080,7 @@ Avoid recent years.
 Avoid repeated words and characters.
 Avoid reversed spellings of common words.
 Avoid years that are associated with you.
+Await expression cannot be a default value
 Azerbaijani Manat
 azeri sul
 Azja Południowa
@@ -1027,6 +1094,7 @@ Back icon
 Back to Profile
 Back to the security landing page
 Background Image Gradient
+Bad escape sequence in untagged template literal
 Bad Request
 Badge Pursuit
 Bahamian Dollar
@@ -1053,6 +1121,7 @@ Bardzo mocne
 Bardzo słabe
 bas-allemand (Pays-Bas)
 bas-saxon néerlandais
+Basic_Emoji Emoji_Keycap_Sequence RGI_Emoji_Modifier_Sequence RGI_Emoji_Flag_Sequence RGI_Emoji_Tag_Sequence RGI_Emoji_ZWJ_Sequence RGI_Emoji
 basso sorabo
 basso tedesco
 basso tedesco (Paesi Bassi)
@@ -1181,6 +1250,7 @@ Brazilian New Cruzeiro (1967–1986)
 Brazilian Portuguese
 Brazilian Real
 brazylijski portugalski
+break case catch continue debugger default do else finally for function if return switch throw try var while with null true false instanceof typeof void delete new in this
 Britische Jungferninseln
 Britisches Territorium im Indischen Ozean
 British English
@@ -1224,6 +1294,7 @@ Button text for the communications page mail list subscribe button when unsubscr
 Button text for the continue form button.
 Button text for the link button on the connections listing page
 Button text to un-block a user.
+button, a[href], input, select, textarea, [tabindex]:not([tabindex="-1"])
 button:not([inert]):not([inert] *)
 Buy Now
 BUY NOW
@@ -1231,6 +1302,7 @@ By submitting this request, you are confirming you understand and agree to all o
 Cabo Verde
 Cacher le mot de passe
 Cajun French
+calc(var(--card-logo-height) * -1)
 Calendário Amete Alem da Etiópia
 Calendario buddista
 calendario budista
@@ -1366,6 +1438,11 @@ Cannot set a numeric property on an object
 Cannot set currentNode to a node that is not contained by the root node.
 cannot set size without setting maxSize or maxEntrySize on cache
 cannot set sizeCalculation without setting maxSize or maxEntrySize
+Cannot use
+Cannot use 'arguments' in class field initializer
+Cannot use 'await' as identifier inside an async function
+Cannot use 'import.meta' outside a module
+Cannot use 'yield' as identifier inside a generator
 Cape Verde
 Cape Verde Standard Time
 Cape Verde Summer Time
@@ -1376,11 +1453,14 @@ Capo Verde
 Caraibi Olandesi
 Career Progress
 Careers on LinkedIn
+Cargando actividades...
 Cargando más jugadores bloqueados.
 Caribbean Netherlands
 Caribe neerlandés
+Caricamento attività...
 Caricamento degli altri utenti bloccati in corso...
 Carregando mais usuários bloqueados.
+Carregando Serviços...
 Carreiras no LinkedIn
 Carrera a dos ruedas
 Carrera a pie
@@ -1416,6 +1496,7 @@ ccc, HH 'Uhr'
 Ce code expirera dans XX minutes.
 Ce pseudo enfreint nos règles.
 Ce pseudo est déjà utilisé.
+Cena promocyjna, poprzednio
 Central Africa Time
 Central African Republic
 Central America
@@ -1464,6 +1545,7 @@ Character Card:
 character selector
 Charakter wechseln
 Chargement d'autres utilisateurs bloqués
+Chargement des missions...
 Charte de confidentialité
 Chatham (czas letni)
 Chatham (czas standardowy)
@@ -1552,8 +1634,12 @@ cinese tradizionale
 Cinese tradizionale - (繁體中文)
 Città del Vaticano
 Ciudad del Vaticano
+claim now
 Clanes y modo Libre
+class enum extends super const export import
 Class extends value
+Classes can't have an element named '#constructor'
+Classes may not have a static property named prototype
 Classical Newari
 Classical Syriac
 Clicca per aprire il menu
@@ -1564,6 +1650,7 @@ Clipperton Island
 Clique para abrir o menu
 Cliquez pour ouvrir le menu
 Cliquez sur le lien contenu dans l'e-mail que nous vous avons envoyé pour annuler votre demande de suppression à tout moment durant cette période.
+close expanding platform button
 Close menu
 Close modal
 Close Modal
@@ -1605,6 +1692,7 @@ Come iniziare
 Come inviare segnalazioni
 Comic Sans
 Comic Sans MS
+Comma is not permitted after the rest element
 command line
 Common character sequences like "abc" are easy to guess.
 Common names and surnames are easy to guess.
@@ -1726,6 +1814,9 @@ Conoce las normas para crear, compartir y monetizar las modificaciones de nuestr
 Conoce las reglas para crear, compartir y monetizar las modificaciones de nuestros juegos y servicios.
 Conquête en équipe
 Consenti il confronto con gli amici sulla stessa piattaforma
+const class extends export import super
+Constructor can't be a generator
+Constructor can't be an async method
 Constructor Intl.DisplayNames requires 'new'
 Consulta el enlace del correo electrónico que te enviamos para cancelar la solicitud de eliminación en cualquier momento durante este periodo.
 Consulta el enlace del correo electrónico que te hemos enviado para cancelar la solicitud de eliminación en cualquier momento durante este periodo.
@@ -1815,7 +1906,9 @@ Costa do Marfim
 Costa Rica
 Costa Rican Colón
 could not be created.
+could not be resolved on the object
 Could not create sandbox iframe for pure fetch check, bailing to window.fetch:
+Could not find `react-scroll-parallax` context value. Please ensure the component is wrapped in a <ParallaxProvider>
 could not read as ArrayBuffer
 could not read FormData body as blob
 Could not store previous trace in sessionStorage
@@ -2117,6 +2210,7 @@ Danke, dass du ein Teil unserer Community bist.
 Danke, dass du Rockstar Games genutzt hast.
 Danke. Bitte überprüfe deine E-Mails, um die Aktualisierung der Präferenzen deines Abonnements abzuschließen.
 Darse de baja de la lista de correo
+Das Limit von Datenanfragen wurde erreicht. Bitte versuche es später noch einmal.
 Das Löschen deines Rockstar-Games-Kontos ist unwiderruflich. Du musst dein Konto verifizieren und bestätigen, dass du keinen Zugang mehr zu bestimmten Rockstar-Games-Titeln und -Diensten haben wirst.
 Das neue Passwort muss sich vom aktuellen unterscheiden.
 Das Passwort muss mindestens eine Zahl enthalten.
@@ -2159,6 +2253,9 @@ Dein Profil kann nicht geändert werden, da das angegebene Alter im ausgewählte
 Dein Verifizierungslink ist abgelaufen. Bitte versuche es erneut.
 Deine Daten werden momentan zusammengestellt. Bitte versuche es später noch einmal.
 Deine Datenanfrage ist bereit.
+Deine Datenanfrage ist in Arbeit. Bitte lade die Seite erneut.
+Deine Datenanfrage ist nicht mehr aktiv oder abgelaufen. Bitte reiche eine neue Anfrage ein.
+Deine Datenanfrage ist ungültig. Bitte lade die Seite erneut.
 Deine Datenanfrage wurde erfolgreich abgebrochen.
 Deine E-Mail-Adresse konnte nicht verifiziert werden. Dein Konto wurde möglicherweise schon verifiziert oder der Link, dem du gefolgt bist, hatte einen Fehler.
 Deine E-Mail-Adresse wurde erfolgreich geändert.
@@ -2166,6 +2263,7 @@ Deine Stufe und Statistiken für alle Rockstar-Games-PC-Titel werden gelöscht.
 Deine verknüpften Konten bleiben weiterhin aktiv, bis die Löschung deines Rockstar-Games-Kontos abgeschlossen ist.
 Delete account
 Delete Account
+Deleting local variable in strict mode
 Deleting your Rockstar Games account is permanent. You will be required to verify your account and confirm that you will no longer be able to access specific Rockstar Games titles and services.
 Demande d'annulation de suppression de compte reçue
 Demande de suppression de compte reçue. Pour valider cette requête, vous devez d'abord vérifier votre compte.
@@ -2200,12 +2298,15 @@ Détails du profil
 details:not([inert]):not([inert] *)
 details>summary:first-of-type:not([inert]):not([inert] *)
 Detalhes de região
+Detalhes do evento
 Detalhes do perfil
+Detalles del evento
 Detalles del perfil
 Detalles regionales
 Detected a manifest version mismatch during eager route discovery. The next navigation/fetch to an undiscovered route will result in a new document navigation to sync up with the latest manifest.
 Detected manifest version mismatch, reloading...
 Dettagli del profilo
+Dettagli evento
 Dettagli regionali
 Deutsch (Deutschland)
 Deutsch (Österreich)
@@ -2269,6 +2370,7 @@ Dirham dos Emirados Árabes Unidos
 dirham ZEA
 dirty is not a string, aborting
 Discarded session because of missing or non-string release
+Discount price, previously
 Dispositivo de verificação em 2 etapas
 Dispositivo esquecido
 Dispositivo olvidado
@@ -2385,6 +2487,10 @@ Du musst Grand Theft Auto Online neu starten, um diesen Job nicht länger in dei
 Du verlierst den Zugang sowohl zum Story-Modus als auch zum Online-Modus für alle Rockstar-Games-PC-Titel, die mit deinem Rockstar-Games-Konto verknüpft sind.
 Du verlierst den Zugang zu deiner Freundesliste von Rockstar Games und deinen Crew-Mitgliedschaften.
 Dumont-d’Urville Time
+Duplicate capture group name
+Duplicate constructor in the same class
+Duplicate export '
+Duplicate regular expression flag
 Durch das Abschicken dieser Anfrage bestätigst du, dass du Folgendes verstehst und dem zustimmst:
 dusun central
 dusun centrale
@@ -2587,10 +2693,12 @@ El proceso de recuperación de la cuenta hará que se elimine tu dispositivo de 
 el próximo trimestre
 el trimestre pasado
 Elegir un avatar
+Elementi evidenziati
 Éléments à déverrouiller
 Elenchi partite
 Elimina account
 Eliminar cuenta
+Eliminar marca
 Eliminar verificación en dos pasos
 Ellipse Path 1
 Email guidelines text
@@ -2651,11 +2759,13 @@ Erfolgreich abonniert
 Erhalte per E-Mail Updates bezüglich Spielankündigungen, speziellen Events und anderen Angeboten.
 Eritrean Nakfa
 Eritreischer Nakfa
+Ermäßigter Preis, vorher
 Erneut versuchen
 Erro ao cancelar inscrição
 Error al cancelar la suscripción
 Error al darse de baja
 Error description for the account deletion cancellation alert.
+Error fetching claim/exists
 Error formatting display name.
 Error formatting number.
 Error formatting relative time.
@@ -2694,6 +2804,8 @@ Error while sending envelope:
 Errore nel tentativo di annullamento dell’iscrizione
 Erste Schritte
 Escaneie este código QR com o aplicativo autenticador e insira abaixo o código de verificação gerado.
+Escape sequence in keyword import
+Escape sequence in keyword new
 Escudo cabo-verdiano
 escudo capoverdiano
 escudo capverdien
@@ -2770,8 +2882,14 @@ European Spanish
 European Union
 europejski hiszpański
 europejski portugalski
+Évènement suivant
+Event Details
 Event dropped due to being a duplicate of previously captured event.
 Event name must be provided to work with custom events
+Evento anterior
+Evento precedente
+Evento siguiente
+Evento successivo
 exclamation mark
 Excluir conta
 Exclusión (cuenta/servicio)
@@ -2790,15 +2908,18 @@ Expected a result
 Expected a route.id in react-router processRoutes() function
 Expected a string
 Expected character
+Expected corresponding JSX closing tag for <
 Expected enabled to be a boolean or a callback that returns a boolean
 Expected function, string, or object as test
 Expected locale to not have a Unicode locale extension
 Expected name to be a non-empty string.
 Expected name to be a string.
 Expected node, got `
+Expected number in radix
 Expected pending action
 Expected usable value, not `
 Expected whitespace after media
+Expecting Unicode escape sequence \uXXXX
 Expliquez-nous les raisons de votre départ
 Explorar todas las actividades
 Explore All Jobs
@@ -2812,6 +2933,7 @@ Explorer toutes les missions
 Explorez nos Règles de la communauté
 Explorez nos ressources de la communauté
 Explorez nos ressources relatives à la sécurité
+export import
 External link to Store
 Externer Link zum Store
 extra field too long
@@ -2880,6 +3002,7 @@ finnois tornédalien
 fiorino delle Antille olandesi
 fiorino di Aruba
 Fire Phone $1
+First argument must be a string
 first argument should be an array
 First bullet point in notice.
 First ensure all usages of `canonizeResults` are removed, then remove this option.
@@ -3292,6 +3415,7 @@ Groupes et mode exploration
 GSAP target
 GTA III
 GTA Online
+GTA Plus
 GTA Trilogy
 GTA: San Andreas
 GTA: Vice City
@@ -3477,6 +3601,7 @@ Hai già annullato l’iscrizione
 Hai problemi con la scansione?
 Hai raggiunto il limite di download per questa richiesta di dati. Potrai effettuare una nuova richiesta di dati il mese prossimo.
 Hai raggiunto il limite di email di verifica. Riprova più tardi.
+Hai raggiunto il limite di richieste di dati Riprova più tardi.
 haida meridional
 haida meridionale
 haida południowy
@@ -3489,6 +3614,7 @@ Harcèlement / Comportement déplacé
 Has actualizado el apodo.
 Has actualizado la contraseña.
 Has alcanzado el límite de descargas para esta solicitud de datos. Puede realizar una nueva solicitud de datos el próximo mes.
+Has alcanzado el límite de solicitudes de datos. Vuelve a intentarlo más tarde.
 Has alcanzado el límite de verificación de correos electrónicos. Vuelve a intentarlo más tarde.
 has been combined with
 Has cambiado el correo electrónico.
@@ -4303,6 +4429,7 @@ Icono de volver
 Ícono de volver
 Iconos de Rockstar
 Íconos de Rockstar
+Identifier directly after number
 idioma desconhecido
 If `dragConstraints` is set as a React ref, that ref must be passed to another component's `ref` prop.
 If you are having difficulty verifying your email, please visit our
@@ -4364,6 +4491,8 @@ Ilhas Salomão
 Ilhas Turcas e Caicos
 Ilhas Virgens Americanas
 Ilhas Virgens Britânicas
+Illegal 'use strict' directive in function with non-simple parameter list
+Illegal newline after throw
 Image avec le texte en anglais Say Sorry, Be Nice
 Image carousel screen reader announcer label
 ImageCarousel.Tab must be used inside ImageCarousel.Tabs
@@ -4402,6 +4531,7 @@ Impostazioni dell’account - Profilo - Social
 Impostazioni dell’account - Ripristina verifica in 2 passaggi
 Impostazioni dell’account - Verifica email
 in c?c.responseURL:r.headers.get(
+in class static initialization block
 in dieser Minute
 in dieser Stunde
 in e?e:HTMLInputElement.prototype,
@@ -4413,10 +4543,12 @@ in n)throw TypeError(
 In neuem Tab öffnen
 in not contained inside
 In qualsiasi momento, durante questo periodo, controlla il link contenuto nell'email che ti abbiamo inviato per annullare la tua richiesta di cancellazione.
-in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),V((0,a.TW)(t.currentTarget),
+in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),V((0,i.TW)(t.currentTarget),
+in strict mode
 in window||(delete fr.animationend.animation,delete fr.animationiteration.animation,delete fr.animationstart.animation),
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
 Inari Sami
+Incomplete quantifier
 Incorrect password
 India Standard Time
 Indian National Calendar
@@ -4554,24 +4686,38 @@ Invalid attempt to spread non-iterable instance. In order to be iterable, non-ar
 Invalid Block
 invalid block type
 invalid calendar
+Invalid character class
+Invalid character in character class
+Invalid class escape
 invalid collation
 Invalid Date
 invalid distance
 Invalid email address
+Invalid escape
+Invalid group
 invalid language typeFields data
 invalid length/literal
 Invalid Link
 invalid max value:
 Invalid media feature
 Invalid media query: "
+Invalid named capture referenced
+Invalid named reference
 Invalid nickname
+Invalid number
 Invalid numbering system
 Invalid numberingSystem
 Invalid numberingSystems:
+invalid params
+Invalid property name
+Invalid property value
+Invalid quantifier
 Invalid range
 Invalid range,
 Invalid redirect location
 invalid region
+Invalid regular expression flag
+Invalid regular expression: /
 Invalid Request
 Invalid rounding increment value:
 Invalid roundingType
@@ -4582,6 +4728,8 @@ invalid styleFields data
 Invalid time
 Invalid timeZoneName
 Invalid translations object fallback to keys
+Invalid unicode escape
+Invalid Unicode escape
 Invalid unit argument for Intl.NumberFormat()
 invalid UTF-8 data
 Invalid value
@@ -4592,6 +4740,8 @@ Invariant failed
 Invariant Violation
 Invia un ticket
 Inviando questa richiesta confermi di aver compreso e di accettare quanto segue:
+iPhone Simulator
+iPod Simulator
 Iran (czas letni)
 Iran (czas standardowy)
 Iran Daylight Time
@@ -4721,6 +4871,7 @@ Job Bookmarked
 Job markiert
 Job nicht mehr markiert
 Job Unbookmarked
+Jobs werden geladen ...
 Jogadores bloqueados não podem ver seu perfil, enviar mensagens para você nem interagir com você no jogo.
 Jogo individual
 Jogos em destaque
@@ -4886,7 +5037,10 @@ la semaine prochaine
 la semana pasada
 La suppression de votre compte Rockstar Games est définitive. Vous devrez vérifier votre compte et confirmer que vous n'aurez plus accès à certains jeux et services Rockstar Games.
 La suppression de votre compte Rockstar Games sera définitive et irréversible.
+La tua richiesta di dati è in elaborazione. Aggiorna la pagina.
 La tua richiesta di dati è ora disponibile
+La tua richiesta di dati non è più attiva o è scaduta. Invia una nuova richiesta.
+La tua richiesta di dati non è valida. Aggiorna la pagina.
 Label describing the avatar loading spinner
 Label describing the countries spinner
 Label describing the edit avatar button
@@ -4919,6 +5073,7 @@ Label to describe the previous page button
 Label to the country dropdown.
 Label to the language dropdown.
 Ladekreisel gespeicherter Geräte
+Ładowanie akcji...
 Ładowanie większej liczby zablokowanych użytkowników.
 Land / Region
 Land auswählen
@@ -5022,6 +5177,7 @@ Limite di download raggiunto
 line in locationOffset is 1-indexed and must be positive.
 Line Islands Time
 linear !important
+linear-gradient(black 0%)
 linear-gradient(to right, rgba(
 Linee guida della comunità
 Linee guida relative alle mod
@@ -5110,6 +5266,7 @@ Location adjacent to an object type definition.
 Location listed in the site footer
 log out
 Log Out
+Logical expressions and coalesce expressions cannot be mixed. Wrap either by parentheses
 Logo de l'assistance Rockstar
 Logo de Rockstar Support
 Logo de soporte técnico de Rockstar
@@ -5117,6 +5274,9 @@ Logo del Supporto di Rockstar
 Logo wsparcia Rockstar
 Logotipo do Suporte da Rockstar
 Loi sur les services de paiement
+Lone quantifier brackets
+Looks like ParallaxController.init() was called on the server. This method must be called on the client.
+loop variable declaration may not have an initializer
 Lord Howe (czas letni)
 Lord Howe (czas standardowy)
 Lord Howe Daylight Time
@@ -5206,6 +5366,8 @@ Mark der DDR
 mark est-allemand
 marka niemiecka
 marka zamienna Bośni i Hercegowiny
+Markierte Elemente
+Markierung entfernen
 marokański arabski
 Marokkanisches Arabisch
 Marque a opção para confirmar a atualização do e-mail. Vamos enviar um link de verificação para o seu novo e-mail para finalizar as alterações.
@@ -5387,6 +5549,7 @@ Misje fabularne
 Missão aleatória
 Missão Competitiva
 Missão de Contato
+Missing catch or finally clause
 Missing character from exported characters list:
 Missing locale data for
 Missing plugin? gsap.registerPlugin()
@@ -5668,6 +5831,7 @@ Mudar senha
 Mudou de ideia?
 Muito forte
 Muito fraca
+Multiple default clauses
 Multiple languages
 múltiplos idiomas
 Musisz uruchomić ponownie Grand Theft Auto Online, aby akcja nie pojawiała się dłużej w sekcji ulubionych akcji.
@@ -5679,12 +5843,14 @@ must not have a selection since type
 must not select an introspection top level field.`:
 Must provide configuration object.
 Must provide document.
+Must provide matching units for the min and max offset values of each axis.
 Must provide name.
 Must provide only one schema definition.
 Must provide operation name if query contains multiple operations.
 Must provide valid Document AST.
 must select only one top level field.`:
 Must specify either a render prop, a render function as children, or a component prop to
+Must wrap your application's <Parallax /> components in a <ParallaxProvider />.
 Muy débil
 Muy fuerte
 mvdol boliviano
@@ -5701,10 +5867,12 @@ MYRIAD PRO
 n should be finite
 Nach dieser Anfrage wurde bereits gesucht. Bitte gib eine neue Suchanfrage ein.
 Nach unten scrollen
+Nächste Seite von Events
 Nächste Videoseite
 nächste Woche
 nächsten Monat
 Nächstes Element
+Nächstes Event
 nächstes Jahr
 nächstes Quartal
 Naciones Unidas
@@ -5733,7 +5901,9 @@ Não podemos processar sua solicitação no momento.
 Não vendam ou compartilhem minhas informações pessoais
 narodowy kalendarz hinduski
 Nascondi password
+Następna strona wydarzeń
 Następna strona z filmami
+Następne wydarzenie
 Następny slajd
 naszej ery
 Nations Unies
@@ -5762,6 +5932,7 @@ Need Account Assistance?
 néerlandais (Belgique)
 neerlandés (Bélgica)
 neerlandés medio
+Negated character class may contain strings
 Nein, zurückkehren
 Nenhum resultado foi encontrado.
 Nenhum usuário bloqueado
@@ -5806,7 +5977,14 @@ Newfoundland Standard Time
 Newsletter abbestellen
 Newsletter abonnieren
 newsletter subscribe
+Newsletter Subscription - CTA Button text
+Newsletter Subscription - CTA text
+Newsletter Subscription - CTA title
+Newsletter Subscription Alert - Successfully Subscribed details post AMP launch
+Newsletter Subscription Alert - Successfully Subscribed title
+Next event
 next month
+Next Page of Events
 next qtr.
 next quarter
 Next Slide
@@ -5845,6 +6023,7 @@ Niemiecki - (Deutsch)
 niemiecki (Austria)
 niemiecki (Szwajcaria)
 niemiecki austriacki
+Nieprawidłowe żądanie danych. Odśwież stronę.
 Nieprawidłowy adres e-mail
 Nieprawidłowy pseudonim
 Niestety nie możemy obecnie przetworzyć twojego zgłoszenia.
@@ -5948,6 +6127,8 @@ Norfolk (czas standardowy)
 Norfolk Island
 Norfolk Island Daylight Time
 Norfolk Island Standard Time
+normalPaddingTopBottom largePaddingSides
+normalPaddingTopBottom largePaddingSides spacing
 norse antico
 North America
 North Korea
@@ -5978,9 +6159,11 @@ norweski (nynorsk)
 nos foires aux questions
 Not Found
 not found. https://gsap.com
+Not implemented yet:
 not serialized
 Not used in WizardContext
 Note legali
+Nothing to repeat
 Nothing to see here
 NOTRE FOIRE AUX QUESTIONS
 Nous contacter
@@ -6035,6 +6218,10 @@ nuevo cruzado brasileño
 nuevo rublo bielorruso (1994–1999)
 null prototype
 Number skeleton cannot be empty
+Numeric separator is not allowed at the first of digits
+Numeric separator is not allowed at the last of digits
+Numeric separator is not allowed in legacy octal numeric literals
+Numeric separator must be exactly one underscore
 Nuova Caledonia
 Nuova password
 Nuova Zelanda
@@ -6074,6 +6261,7 @@ Oceania Remota
 Ocorreu um erro com as informações fornecidas.
 Ocorreu um erro inesperado ao cancelar sua solicitação de dados. Entre em contato com o Suporte da Rockstar.
 Ocorreu um erro inesperado ao recuperar o status da sua solicitação de dados. Entre em contato com o Suporte da Rockstar.
+Octal literal in strict mode
 Ocultar contraseña
 Ocultar senha
 Ocurrió un error inesperado al intentar obtener el estado de la cancelación de tu solicitud de datos. Ponte en contacto con el servicio de soporte técnico de Rockstar.
@@ -6135,6 +6323,7 @@ One of the provided types for building the Schema is missing a name.
 One possible value for a given Enum. Enum values are unique values, not a placeholder for a string or numeric value. However an Enum value is returned in a JSON response as a string.
 Online Communications and Privacy
 Online-Kommunikation und Datenschutz
+Only simple MemberExpressions are supported.
 only supported in development mode
 Open in new tab
 Open menu
@@ -6144,6 +6333,8 @@ Open Search
 Open Wheel Race
 Operazione non riuscita.
 Operazione non riuscita. Riprova.
+Optional chaining cannot appear in the callee of new expressions
+Optional chaining cannot appear in the tag of tagged template expressions
 Ora del Bhutan
 Ora del Brunei Darussalam
 Ora del Chuuk
@@ -6369,6 +6560,7 @@ Original image data error
 Osiągnięto limit pobierania
 Osiągnięto limit pobierania dla tego żądania danych. Ponowne żądania danych może zostać wysłane w następnym miesiącu.
 Osiągnięto limit prób weryfikacji adresu e-mail. Spróbuj ponownie później.
+Osiągnięto limit zgłoszeń żądania danych. Spróbuj ponownie później.
 Ostafrikanische Zeit
 Ostatnia drużyna wygrywa
 Ostaustralische Normalzeit
@@ -6405,22 +6597,30 @@ Pacific Daylight Time
 Pacific Standard Time
 Paesi Bassi
 Page précédente
+Page précédente des évènements
 Page suivante
+Page suivante des évènements
 Page vidéo précédente
 Page vidéo suivante
 Página anterior
+Página anterior de eventos
 Página anterior de vídeos
+Página de eventos anterior
+Página de eventos siguiente
 Página de mi perfil e información
 Página de perfil e información
 Página de video anterior
 Página de vídeo anterior
 Página de video siguiente
 Página de vídeo siguiente
+Pagina degli eventi precedente
+Pagina degli eventi successiva
 Pagina di video precedente
 Pagina di video successiva
 Página do perfil e informações
 Pagina e informazioni relative al profilo
 Pagina precedente
+Página siguiente de eventos
 Países Baixos
 Países Baixos Caribenhos
 Países bajos
@@ -6485,6 +6685,7 @@ Parcourir tous les crews
 Parcourir toutes les activités
 Parêntese angular para a direita
 Parenthesis not matched
+Parenthesized pattern
 parser can only be used once
 Parsing text body from response timed out
 Partager sur Facebook
@@ -6647,6 +6848,7 @@ Placeholder text for current password field.
 Placeholder text for the new nick name field.
 Placeholder text in the form box for password.
 Play request interrupted :
+Playstation Plus Benefit
 Please confirm that you would like to subscribe to the Rockstar Games Newsletter by clicking the button below.
 Please contact Rockstar Games Support for any assistance.
 Please enter a valid email address
@@ -6702,7 +6904,9 @@ Ponte en contacto con el soporte técnico de Rockstar Games para recibir ayuda.
 Poproś o swoje dane
 Poprzedni slajd
 Poprzednia strona
+Poprzednia strona wydarzeń
 Poprzednia strona z filmami
+Poprzednie wydarzenie
 Por que você está nos deixando?
 Porównaj wszystkie akcje
 Porto Rico
@@ -6756,7 +6960,10 @@ Poziom powiększenia
 Pozwól na porównanie ze znajomymi na tej samej platformie
 Präferenzen aktualisieren
 Präferenzen verwalten
+Precio con descuento, anteriormente
+Precio rebajado, anteriormente
 Precisa de ajuda com a sua conta?
+Preço com desconto, antes
 preferredType must be "string" or "number"
 Prefix for the blocked on date label.
 Preguntas frecuentes
@@ -6775,14 +6982,21 @@ Press Rockstar Games Site
 Press Support
 Press Twitter Site
 Press Youtube Site
+Previous event
 Previous page
+Previous Page of Events
 Previous Slide
 Previous video page
+Prezzo scontato: prima
 Primeiros passos
 Primeros pasos
 Privacy / Information
 Privacy Policy
+Private field '#
+Private fields can not be deleted
+Private identifier can only be left side of binary expression
 Prix Luxury Real Estate
+Prix réduit, précédemment
 Problem techniczny
 Problema técnico
 Problème technique
@@ -6809,8 +7023,10 @@ provençal arcaico
 provenzal antiguo
 provenzale antico
 Provide only one value to scale by
+Próxima página de eventos
 próxima semana
 próximo ano
+Próximo evento
 próximo trimestre
 Przeciągnij uchwyt menu
 Przeglądaj akcje
@@ -6864,6 +7080,7 @@ Questo URL potrebbe non essere valido. Puoi apportare modifiche alle preferenze 
 quichua du Haut-Chimborazo
 Quick Access
 Quickly find resources if you or someone you know is struggling and in need of help.
+Quitar marcador
 Quitar verificación en 2 pasos
 Qyzylorda Standard Time
 Qyzylorda Summer Time
@@ -6873,6 +7090,7 @@ RAE de Hong Kong (China)
 RAE de Macao (China)
 Raggiungimento del limite di download
 Random Mission
+Range out of order in character class
 Rank Unlocks
 RAS di Hong Kong
 RAS di Macao
@@ -6950,6 +7168,7 @@ Red Dead在线模式
 Red social
 Red Xbox
 Rede Xbox
+Redefinition of __proto__ property
 Redes sociais
 Redes sociales
 Região da Micronésia
@@ -6977,6 +7196,7 @@ Remembered Devices loading spinner
 Remove 2-Step
 Remove bookmark
 Remover a verificação em 2 etapas
+Remover dos Favoritos
 Rendi l'accesso al tuo account ancora più sicuro per evitare accessi indesiderati.
 renmimbi cinese offshore
 Renminbi Yuan
@@ -7028,6 +7248,7 @@ Ressources de la communauté
 Ressources supplémentaires
 Resuming replay
 Rete Xbox
+Retirer des favoris
 Retornar à página principal de conexões do perfil
 Retour au profil
 Retour vers la page principale des associations
@@ -7053,6 +7274,7 @@ Richiesta di eliminazione dell'account ricevuta. Per proseguire con la richiesta
 Ricompense del club
 Rien à voir ici
 Right-facing chevron
+Rimuovi dai preferiti
 Rimuovi dispositivo
 Rimuovi verifica in 2 passaggi
 Riproduci di nuovo
@@ -7251,6 +7473,7 @@ screen and (pointer: coarse) and (hover: none)
 Scroll Down
 Se alcanzó el límite de correos electrónicos de verificación. Vuelve a intentarlo más tarde.
 Se alcanzó el límite de descarga
+Se alcanzó el límite de solicitud de datos. Vuelve a intentarlo más tarde.
 Se borrarán los datos de tu nivel y estadísticas en todos los juegos de Rockstar Games para PC.
 Se borrarán tu nivel y estadísticas en todos los títulos de Rockstar Games para PC.
 Se cancelarán todas las solicitudes de soporte abiertas.
@@ -7361,6 +7584,7 @@ Setup with QR Code
 Setze hier einen Haken, um zu bestätigen, dass du den obigen Hinweis verstanden hast.
 Seu e-mail foi alterado com sucesso.
 Seu e-mail foi verificado.
+Seu limite de solicitação de dados foi atingido. Tente novamente mais tarde.
 Seu nível e estatísticas de todos os jogos para PC da Rockstar Games serão excluídos.
 Seus dados estão sendo preparados. Cheque novamente mais tarde.
 Seventh bullet point in notice.
@@ -7372,6 +7596,7 @@ Shape Layer 1
 Share to Facebook
 Share to Reddit
 Short keyboard patterns are easy to guess.
+Shorthand property assignments are valid only in destructuring patterns
 Show my Country / Region
 Show my Friends
 Show password
@@ -7410,6 +7635,7 @@ símbolos Bliss
 Simple pseudos are not valid in
 Simplified Chinese
 Sin especificar
+Since Acorn 8.0.0, options.ecmaVersion is required. Defaulting to 2020, but this will stop working in the future.
 Singapore Standard Time
 Singapurische Normalzeit
 Single names or surnames are easy to guess.
@@ -7439,11 +7665,13 @@ Skopiuj do schowka
 Skopiuj kod
 slavo ecclesiastico
 slavon d’église
+slideChange update resize observerUpdate
 slidesLengthChange snapGridLengthChange slidesGridLengthChange
 Small Fonts
 Smuggler's Run
 Smuggler's Run 2: Hostile Territory
 Smuggler's Run Warzones
+Social Club | Prime Gaming
 social media
 Social media
 Social Media
@@ -7593,7 +7821,10 @@ Stworzone przez
 Stworzono w dniu
 Style selectors must target the '&' character (along with any modifiers), e.g.
 Sua conta não pode ser excluída. Entre em contato com nossa equipe de suporte para excluir sua conta.
+Sua solicitação de dados é inválida. Recarregue a página.
+Sua solicitação de dados está pendente. Recarregue a página.
 Sua solicitação de dados está pronta.
+Sua solicitação de dados não está mais ativa ou expirou. Envie uma nova solicitação.
 Suaheli (Kongo-Kinshasa)
 suahili (Demokratyczna Republika Konga)
 suaíli (Congo - Kinshasa)
@@ -7644,6 +7875,7 @@ Suivi d'affaires
 Suivi de carrière
 Super expression must either be null or a function
 Super expression must either be null or a function, not
+super() call outside constructor of a subclass
 Support chat icon
 Support for returning GraphQLObjectType from resolveType was removed in graphql-js@16.0.0 please return type name instead.
 Support kontaktieren
@@ -7686,6 +7918,7 @@ symboles Bliss
 Symboles Rockstar
 Syowa Time
 syriaque classique
+Szczegóły wydarzenia
 szkocki gaelicki
 Szukaj znajomych
 szwajcarski niemiecki
@@ -7693,6 +7926,7 @@ szyling austriacki
 t been initialised - super() hasn
 t exist or another error occurred",defaultMessage:"The page you
 t find variable: gmo$/,/^undefined is not an object \(evaluating
+t have a field named
 table of contents
 Table Tennis
 Tadschikische Zeit
@@ -7792,7 +8026,11 @@ Thank you. Please check your email to finish updating your subscription preferen
 The `Boolean` scalar type represents `true` or `false`.
 The `Float` scalar type represents signed double-precision fractional values as specified by [IEEE 754](https://en.wikipedia.org/wiki/IEEE_floating_point).
 The `String` scalar type represents textual data, represented as UTF-8 character sequences. The String type is most often used by GraphQL to represent free-form human-readable text.
+The a11y intro for the charcter card.
+The a11y player name for the charcter card.
+The a11y rank for the charcter card.
 The accessible label for the allow platform friend comparison toggle.
+The account had reached the maximum number of request initiations and cancellations for the current month.
 The account recovery process has removed your 2-Step Verification device. We strongly advise that you protect your account with 2-Step Verification via Account Settings
 The account recovery process will remove your 2-Step Verification device. We strongly advise that you protect your account with 2-Step Verification.
 The agreement checkbox..
@@ -7808,7 +8046,9 @@ The button label when confirming a dsar cancellation.
 The button text for the I Agree button.
 The button text to delete an account.
 The button text to view all avatars in a group
+The cancellation failed because the request is no longer valid.
 The Castle Sdk was not initialized before attempted use.
+The data cannot be downloaded because the request is no longer active or has expired.
 The data usage tooltip icon description
 The default option for the language selector.
 The deletion of your Rockstar Games account will be final and irreversible.
@@ -7959,6 +8199,7 @@ The visibility option text for the Me Only privacy setting
 The warning terms and conditions box.
 The Warriors
 There are no items
+There is already an active request for this account.
 There should not be any personal or page related data.
 There was an unexpected error cancelling your data request. Please contact Rockstar Games Support.
 There was an unexpected error retrieving the status of your data request. Please contact Rockstar Games Support.
@@ -7989,6 +8230,7 @@ This URL may be invalid. You can make changes to your Rockstar Games email prefe
 this week
 this year
 Thrasher: Skate and Destroy
+thumbnail gallery
 Ti sei cancellato con successo dalla nostra mailing list.
 Ti sei iscritto alla nostra mailing list
 tiempo universal coordinado
@@ -8060,6 +8302,7 @@ tracesSampler returned 0 or false
 Tracking ID is required
 Traditional Chinese
 Traditionelles Chinesisch – (繁體中文)
+Trailing comma is not allowed in import()
 TRAJAN PRO
 Transaction has no name, falling back to `<unlabeled transaction>`.
 Transform Race
@@ -8099,6 +8342,10 @@ Tu enlace de verificación ha caducado, vuelve a intentarlo.
 Tu nuevo apodo debe ser diferente al actual.
 Tu solicitud de datos está lista
 Tu solicitud de datos está lista.
+Tu solicitud de datos está pendiente. Actualiza la página.
+Tu solicitud de datos no es válida. Actualiza la página.
+Tu solicitud de datos ya no está activa o caducó. Envía una nueva solicitud.
+Tu solicitud de datos ya no está activa o ha caducado. Envía una nueva solicitud.
 Tunesisches Arabisch
 tunezyjski arabski
 Tunisian Arabic
@@ -8138,6 +8385,8 @@ Twoje dane są obecnie przygotowywane. Prosimy sprawdzić ponownie wkrótce.
 Twoje konto jest już objęte weryfikacją dwuetapową.
 Twoje powiązane konta pozostaną aktywne, dopóki nie zakończy się proces całkowitego usunięcia twojego konta Rockstar Games.
 Twoje żądanie danych jest gotowe.
+Twoje żądanie danych jest już nieaktywne lub wygasło. Prześlij nowe zgłoszenie.
+Twoje zgłoszenie jest w trakcie realizacji. Odśwież stronę.
 Twojego konta nie można usunąć. Aby usunąć konto, skontaktuj się z naszym zespołem wsparcia.
 U.S. Outlying Islands
 U.S. Virgin Islands
@@ -8180,14 +8429,18 @@ Une erreur est survenue lors du désabonnement
 Une erreur est survenue lors du traitement des informations fournies.
 Une erreur s'est produite.
 Une erreur s'est produite. Veuillez réessayer.
+Unexpected character '
 Unexpected description, descriptions are not supported on shorthand queries.
 unexpected EOF
 Unexpected error value:
 Unexpected input type:
 Unexpected invariant triggered.
+Unexpected keyword '
 Unexpected Server Error
 Unexpected single quote character ('), did you mean to use a double quote (")?
 Unexpected syntax '
+Unexpected token
+Unexpected token `
 Unexpected type:
 Ungültiger Benutzername
 Ungültiger Link
@@ -8231,7 +8484,12 @@ unsignedRoundingMode is mandatory
 unsignedRoundingMode should be half-even
 Unsubscribe from mailing list
 Unsupported core-js use. Try https://npms.io/search?q=ponyfill.
+Unterminated character class
+Unterminated group
+Unterminated regular expression
+Unterminated string constant
 Unterminated string.
+Unterminated template literal
 Unzufrieden mit dem Produkt / Spiel
 Update avatar?
 Update Preferences
@@ -8302,6 +8560,7 @@ Usuń konto
 Usuń powiązanie
 Usuń urządzenie
 Usuń weryfikację dwuetapową
+Usuń zakładkę
 Usunięcie konta Rockstar Games będzie nieodwracalne. Konieczne będą weryfikacja konta oraz potwierdzenie zrozumienia utraty dostępu do określonych gier i usług Rockstar Games.
 Usunięcie konta Rockstar Games jest ostateczne i nieodwracalne.
 Usunięto urządzenie
@@ -8432,6 +8691,7 @@ Visibilité du compte
 Visibilité du profil
 Visibility aria label on the details page for a specific connection
 Visibility label text on the details page for a specific connection
+visible auto
 Visible tooltip for the lightbox close button
 Visible tooltip for the lightbox download button (downloads the image)
 Visible tooltip for the lightbox reset button (resets zoom and position)
@@ -8475,20 +8735,27 @@ Volver a la página sin autenticación
 Volver a ver
 Volver al perfil
 Vorherige Seite
+Vorherige Seite von Events
 Vorherige Videoseite
 Vorheriges Element
+Vorheriges Event
 Vos comptes associés resteront actifs jusqu'à la suppression définitive de votre compte Rockstar Games.
 Vos données sont en cours de préparation. Veuillez revérifier plus tard.
 Vostok Time
+Vote down
 Votre adresse e-mail a été modifiée.
 Votre adresse e-mail n'a pas pu être vérifiée pour le moment. Votre compte a peut-être déjà été vérifié, ou le lien que vous avez suivi n'est peut-être pas valide.
 Votre compte dispose déjà de l'authentification en deux étapes.
 Votre compte est en cours de rétablissement. Veuillez patienter 10 à 15 minutes avant de tenter de vous connecter à votre compte.
 Votre compte ne peut pas être supprimé. Contactez notre équipe d'assistance pour supprimer votre compte.
 Votre demande de données a été annulée avec succès.
+Votre demande de données est en attente. Veuillez actualiser la page.
+Votre demande de données est invalide. Veuillez actualiser la page.
+Votre demande de données n'est plus active ou a expiré. Veuillez envoyer une nouvelle demande.
 Votre désabonnement a été pris en compte
 Votre lien de vérification a expiré. Veuillez réessayer.
 Votre niveau et vos statistiques pour tous les jeux Rockstar Games sur PC seront supprimés.
+Vous avez atteint la limite de demandes de données. Veuillez réessayer ultérieurement.
 Vous avez atteint la limite de téléchargement pour cette demande de données. Vous pourrez effectuer une nouvelle demande de données dans un mois.
 Vous avez atteint la limite de vérification par e-mail. Veuillez réessayer ultérieurement.
 Vous avez changé d'avis ?
@@ -8538,6 +8805,7 @@ Wallis e Futuna
 Wallis i Futuna
 Wallis und Futuna
 Wallis y Futuna
+Warning, must use inside a WebOfferClaim.Root provider
 Warum gehst du?
 was not configured, using
 was not pre-compiled. Please consider using
@@ -8733,6 +9001,7 @@ Yakutsk Summer Time
 Yekaterinburg Standard Time
 Yekaterinburg Summer Time
 Yes, Subscribe
+Yield expression cannot be a default value
 yMd Bhm
 yMd Bhms
 yMd HHmmss
@@ -8980,7 +9249,11 @@ Your account is already enrolled in two-factor authentication.
 Your account is not eligible for deletion. Contact our support team to delete your account.
 Your Avatar update is being processed. It may take several minutes for the changes to appear on your account profile.
 Your data is currently being prepared. Please check back soon.
+Your data request is invalid. Please refresh the page.
+Your data request is no longer active or has expired. Please submit a new request.
+Your data request is pending. Please refresh the page.
 Your data request is ready
+Your data request limit has been reached. Please try again later.
 Your email address could not be verified at this time, your account may have already been verified or the link you followed may be malformed.
 Your email has been changed successfully.
 Your focus-trap must have at least one container with at least one tabbable node in it at all times

@@ -3,34 +3,51 @@
 , so there is no way to handle the request.`:n&&(s=`Invalid request method
 , you should instead write 'globalStyle(
 ,a.onTranslateToWrapperTransitionEnd),a.onTranslateToWrapperTransitionEnd=null,delete a.onTranslateToWrapperTransitionEnd,a.animating=!1,n&&a.emit(
+,A),dollarBraceL:new _(
+,A),privateId:new _(
 ,breakpoints:void 0,breakpointsBase:
+,c=(this.props.blacklistedAttrs||[]).map(t=>t instanceof RegExp?t:new RegExp(t,
+,e.CARRIAGE_RETURN_REGEX=new RegExp(e.CARRIAGE_RETURN,
+,g),dollarBraceL:new d(
+,g),privateId:new d(
 ,height:null!==(n=this.props.size.height)&&void 0!==n?n:
 ,i=new Set(o.split(
+,k),backQuote:new _(
+,k),questionDot:new _(
+,k),template:new _(
+,m),backQuote:new d(
+,m),questionDot:new d(
+,m),template:new d(
 ,message:e instanceof Error?e.message:
 ,s=`No route matches URL
+,this.renderConfig.id),void 0!==this.renderConfig.focusable&&this.svgElement.setAttribute(
 ,this.status=void 0===t.status?200:t.status,this.status<200||this.status>599)throw new RangeError(
 : can't set as prototype!
-:i.open&&!a.collapsible||void 0,
+:i.open&&!s.collapsible||void 0,
 :if(r.options.length>1)throw new RangeError(
 :if(r<4)throw new RangeError(
+:return s&&this.raiseRecoverable(t.start,
 :return this.currZoomLevel>this.zoomLevels.initial?
+:return(t.async||t.generator)&&this.props.onError?.(new Error(
 :t.isInvalid||void 0,
 :throw new RangeError(
-!==d.type)throw new Error(
 !==e.type)throw new Error(
 !==e[1].type)throw new Error(
 !==e[e.length-1].type)throw new Error(
+!==f.type)throw new Error(
 !==i||void 0===navigator.plugins&&
 !==r.kind)throw new Error(
 !==t[t.length-1].type)throw new Error(
 !==y)throw new Error(
+!=typeof a)return void console.error(
 !=typeof a||(a=document.createElement(
 !=typeof Buffer&&
 !=typeof c||(c=document.createElement(
 !=typeof CSS&&CSS.supports&&CSS.supports(
-!=typeof document?E.useLayoutEffect:E.useEffect,Zl=e=>e&&!Array.isArray(e)&&
+!=typeof document?D.useLayoutEffect:D.useEffect,ws=e=>e&&!Array.isArray(e)&&
 !=typeof document&&(
 !=typeof document&&(document.addEventListener(
+!=typeof e?(console.error(
 !=typeof e)throw new Error(
 !=typeof e)throw new r(
 !=typeof e)throw new TypeError(
@@ -43,6 +60,7 @@
 !=typeof l||(l=document.createElement(
 !=typeof n?(t.minimumSignificantDigits=r.length,t.maximumSignificantDigits=r.length):
 !=typeof navigator&&(navigator.language||navigator.userLanguage)||
+!=typeof o)return void console.error(
 !=typeof PointerEvent&&(n.addEventListener(
 !=typeof PointerEvent&&(r.removeEventListener(
 !=typeof process&&void 0!==process.env&&!1),ue=
@@ -52,22 +70,33 @@
 !=typeof self&&self.Math==Math?self:Function(
 !=typeof ShadowRoot&&e instanceof ShadowRoot||
 !=typeof t.el&&(t.el.removeEventListener(
+!=typeof t)throw new Error(
 !=typeof t)throw new TypeError(
 !=typeof t&&null!==t)throw new TypeError(
 !=typeof window?window:
 !=typeof window&&(window[Symbol.for(
 !=typeof window&&void 0!==window.CSS&&
 !=typeof window&&window.addEventListener(
-!=typeof window&&window.document&&(Ps=window,Ss=Ps.document,js=Ss.documentElement,Rs=il(
+!=typeof window&&window.document&&(Qo=window,Jo=Qo.document,ei=Jo.documentElement,ri=Ei(
 !=typeof window&&window.Math==Math?window:
-!=typeof window&&window[BS]||
+!=typeof window&&window[mP]||
 . Doing nothing
 . Must include exactly one non-modifier key (e.g.
 . Options are
+. This may indicate a circular fallback dependency.`,
 . This means if you navigate deeper, the parent won't match anymore and therefore the child routes will never render. Please change the parent <Route path=
 .gsap-marker-start, .gsap-marker-end, .gsap-marker-scroller-start, .gsap-marker-scroller-end
+' has already been declared
+' is not defined
+' must be declared in an enclosing class
+'import' and 'export' may appear only with 'sourceType: module'
+'import' and 'export' may only appear at the top level
+'super' keyword outside a method
+'with' in strict mode
 " does not exist in container.
 ". Should be a string, number, null or object. Received: "
+"):t.static&&ct(t,"prototype")&&this.raise(t.key.start,"Classes can
+"):t.static&&Z(t,"prototype")&&this.raise(t.key.start,"Classes can
 (Abre em uma nova janela)
 (Apri in una nuova finestra)
 (hover: none), (pointer: coarse)
@@ -81,17 +110,43 @@
 (S'ouvre dans une nouvelle fenêtre)
 (Se abre en una ventana nueva)
 (see https://github.com/apollographql/invariant-packages)
+(Si apre in una nuova finestra)
 (under <Route path=
 ) in the URL path
 ) is greater than the number of directories (
 ) to 'parent', you should add
 ),`Route path
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
+),a=!1,o=this.containsEsc,h=new q,l=this.start,p=e>-1?this.parseExprSubscripts(h,
+),a=!1,o=this.containsEsc,h=new st,l=this.start,p=e>-1?this.parseExprSubscripts(h,
+),arrow:new _(
+),arrow:new d(
+),braceL:new _(
+),braceL:new d(
+),bracketL:new _(
+),bracketL:new d(
+),comma:new _(
+),comma:new d(
+),console.error('Error: DiscountsCarousel expects a prop
+),e.CARRIAGE_RETURN_PLACEHOLDER_REGEX=new RegExp(e.CARRIAGE_RETURN_PLACEHOLDER,
+),ellipsis:new _(
+),ellipsis:new d(
 ),height:t&&void 0!==t.height&&!this.state.isResizing?w(t.height):n(
+),invalidTemplate:new _(
+),invalidTemplate:new d(
+),jsxText:new r(
+),l=new RegExp(
+),onMouseEnter:()=>t&&void d.current.play(),onMouseLeave:()=>t&&(d.current.pause(),void(d.current.currentTime=0)),children:(0,f.jsx)(
+),parenL:new _(
+),parenL:new d(
+),question:new _(
+),question:new d(
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new l(
-),xboxone:new l(
-),xboxsx:new l(
+),S=new RegExp(
+),switch:new F(
+),xboxone:new F(
+),xboxsx:new F(
+):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
 )),a=new n.WebKitCSSMatrix(
 ))||void 0===n?void 0:n.toLowerCase())||g.alreadySilent.add(t),t.setAttribute(
@@ -139,6 +194,9 @@
 [React Intl] Could not find required `intl` object. <IntlProvider> needs to exist in the component ancestry.
 [tabindex]:not(slot):not([inert]):not([inert] *)
 [title="ALIENBOLA" i]
+], link[f-origin=
+], script[f-origin=
+], style[f-origin=
 ]),a=await crypto.subtle.sign(
 @@toPrimitive must return a primitive value.
 /graphql
@@ -146,16 +204,17 @@
 /reddeadonline/newswire
 /reddeadonline/videos
 %3E%3Cstyle type=
+`. Did you mean `
 `),S(null==p||void 0!==p[p.length-1].route.element||void 0!==p[p.length-1].route.Component||void 0!==p[p.length-1].route.lazy,`Matched leaf route at location
 `useViewTransitionState` must be used within `react-router-dom`'s `RouterProvider`. Did you accidentally import `RouterProvider` from `react-router`?
 © 2020 Denis Pushkarev (zloirock.ru)
 +(new Date).getTime()):this.url+=(/\?/.test(this.url)?
 +btoa(String.fromCharCode(...new Uint8Array(a))).replace(/=+$/,
-+Ie),hsla:new RegExp(
-+Ie),hsva:new RegExp(
-+Ie),rgba:new RegExp(
-+ke),hsl:new RegExp(
-+ke),hsv:new RegExp(
++Ee),hsla:new RegExp(
++Ee),hsva:new RegExp(
++Ee),rgba:new RegExp(
++Se),hsl:new RegExp(
++Se),hsv:new RegExp(
 +t.statusText,this.headers=new p(t.headers),this.url=t.url||
 <Await> caught the following error during render
 <iframe src="https://www.googletagmanager.com/ns.html?id=
@@ -169,16 +228,18 @@
 <SignInLink>Zaloguj się</SignInLink> na swoje konto Rockstar Games, aby przesłać opinię.
 <SignInLink>登入</SignInLink>您的 Rockstar Games 帳戶以提交意見反應。
 <SignInLink>登录</SignInLink>您的Rockstar Games账户以提交反馈。
-===d.value&&!r)throw new Error(
+===c&&(console.warn(`The _template
 ===e.id?za:void 0:t.HydrateFallback,i=t.ErrorBoundary?t.ErrorBoundary:
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
-===e.type&&(l=e.renderFraction?e.renderFraction.call(t,e.currentClass,e.totalClass):`<span class=
-===e.type&&(l=e.renderProgressbar?e.renderProgressbar.call(t,e.progressbarFillClass):`<span class=
+===e.type&&(a=e.renderFraction?e.renderFraction.call(t,e.currentClass,e.totalClass):`<span class=
+===e.type&&(a=e.renderProgressbar?e.renderProgressbar.call(t,e.progressbarFillClass):`<span class=
+===f.value&&!a)throw new Error(
 ===r.preventScrollAxis?(t._active=!1,void this.clean()):(this.timeoutStore.remove(
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===this.method)&&o)throw new TypeError(
 ==typeof Buffer.from)return Buffer.from(e).toString(
 ==typeof c.bearerToken&&d.searchParams.append(
+==typeof define&&i.amdO?define([
 ==typeof document)return
 ==typeof e?new URL(e,
 ==typeof e.closest?e.closest(
@@ -200,11 +261,16 @@
 ==typeof h&&(h.endsWith(
 ==typeof i?o.createElement(
 ==typeof n&&!(u=null===(i=this.getDocument())||void 0===i?void 0:i.querySelector(n)))throw new Error(
-==typeof performance.now?performance:Date,Rt=new Set,Tt=
+==typeof performance.now?performance:Date,Ee=new Set,Te=
 ==typeof performance&&performance&&
+==typeof r.error&&
 ==typeof r&&r instanceof Error||(r=new Error(
-==typeof ResizeObserver,layoutShift:s=
+==typeof ResizeObserver,layoutShift:a=
+==typeof Symbol&&
+==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?
 ==typeof Symbol&&Symbol.for,r=n?Symbol.for(
+==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?
+==typeof t?t:t.hasOwnProperty(
 ==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
 ==typeof t.imageSizes?t.imageSizes:void 0,media:
 ==typeof t.imageSrcSet?t.imageSrcSet:void 0,imageSizes:
@@ -215,15 +281,20 @@
 ==typeof t.referrerPolicy?t.referrerPolicy:void 0,imageSrcSet:
 ==typeof t.sri?o.createElement(
 ==typeof t.type?t.type:void 0,fetchPriority:
+==typeof t&&!t.includes(
+==typeof t&&Object.prototype.hasOwnProperty.call(t,
+==typeof value?void 0===e?value.substr(t):value.substr(t,e):
 ==typeof window?
 ==typeof window||
-==typeof y?.className&&delete y.className,(0,l.jsxs)(
+==typeof window||!t[e]||t[e]instanceof window.Element?null:new Error('Prop name
+==typeof x?.className&&delete x.className,(0,s.jsxs)(
 > is not able to match the URL
 > to <Route path=
 >) but the parent route path has no trailing
 ></span> / <span class=
 💿 Hey developer 👋. You can provide a way better UX than this
 💿 Hey developer 👋. You can provide a way better UX than this when your app throws errors. Check out https://reactrouter.com/how-to/error-boundary for more information.
+0 solid transparent
 100ms transform ease
 2º Passe de Dia das Bruxas
 A button on XBOX ONE
@@ -240,10 +311,45 @@ about 1 month
 about 1 week
 about 1 year
 Aby potwierdzić swoją subskrypcję listy mailingowej Rockstar Games, zweryfikuj swój adres e-mail poprzez link wysłany do twojej skrzynki odbiorczej.
+Accessible label for external link
 Acercar zoom
+Actividad desmarcada
+Actividad marcada
+Actividad no marcada
+ADBE Color Control
+ADBE Effect Parade
+ADBE Root Vectors Group
+ADBE Text Document
+ADBE Text Properties
+ADBE Transform Group
+ADBE Vector Filter - Trim
+ADBE Vector Graphic - Fill
+ADBE Vector Graphic - Stroke
+ADBE Vector Group
+ADBE Vector Rotation
+ADBE Vector Shape - Ellipse
+ADBE Vector Shape - Group
+ADBE Vector Star Inner Radius
+ADBE Vector Star Outer Radius
+Adicionar aos Favoritos
+Adversary Mode
 Afastar zoom
+Affrontement en équipe
+Affrontement motorisé
+Aggiungi ai preferiti
+Air Race
+Ajouter aux favoris
+Akcja dodana do Zaznaczonych
+Akcja usunięta z Zaznaczonych
 Aktualizuj swoje preferencje
 Alejar zoom
+Algo ha ido mal.
+Algo ha ido mal. Vuelve a intentarlo.
+Algo salió mal.
+Algo salió mal. Inténtalo de nuevo.
+all var(--eventDeck-transitionCardClose)
+all var(--eventDeck-transitionCardOpen)
+Alle Jobs ansehen
 almost 1 year
 Already read
 already recomputing
@@ -252,9 +358,13 @@ Altre informazioni
 always active
 An async animation has been interrupted. You see this error because you forgot to use `await` or `.catch(...)` on its returned promise.
 An error occurred! For more details, see the full error text at https://go.apollo.dev/c/err#
+An export name cannot include a lone surrogate.
 An index route cannot have child routes.
 An instrumentation function threw an error:
+Anchor Point
 Andale Mono
+Anderes Konto verknüpfen
+Anmelden erforderlich
 Anno Domini
 App Store
 Application Error
@@ -263,9 +373,22 @@ Aproximar zoom
 Arabic Typesetting
 are the dependencies of other relied on modules, use
 area[href]:not([inert]):not([inert] *)
+Arena de Guerra
+Arena de Motores
+Arena Deathmatch
+Arena War
+Arena wojny
 Argument to polyad must be a positive number
 argument when connecting component
+Aria label describing modal pagination in list
 Aria label to indicate when a link opens in new window/tab
+Aria-label for the lightbox close button
+Aria-label for the lightbox download button (downloads the image)
+Aria-label for the lightbox open button
+Aria-label for the lightbox reset button (resets zoom and position)
+Aria-label for the lightbox zoom in button
+Aria-label for the lightbox zoom out button
+Aria-label for the lightbox zoom slider
 Arial Black
 Arial Hebrew
 Arial Narrow
@@ -276,24 +399,37 @@ as fallback. See https://formatjs.github.io/docs/react-intl/api#intlshape for mo
 as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details`)):!Intl.DateTimeFormat.supportedLocalesOf(s).length&&a&&a(new de(`Missing locale data for locale:
 as fallback. See https://formatjs.github.io/docs/react-intl#runtime-requirements for more details`)):(a&&a(new pe(`
 assertion failure
+Assigning to rvalue
 Assistir agora
+Associer un autre compte
+Associer un compte de jeu
 At least one node with a positive tabindex was found in one of your focus-trap's multiple containers. Positive tabindexes are only supported in single-container focus-traps.
 At least one of max, maxSize, or ttl is required
+Attività aggiunta ai preferiti
+Attività rimossa dai preferiti
 Attribute selector didn't terminate
 audio[controls]:not([inert]):not([inert] *)
+Auf Facebook teilen
+Auf Reddit teilen
+Auf X teilen
 Aumenta zoom
+Await expression cannot be a default value
 B button on XBOX ONE
 B-Taste auf Xbox One
 Background Image Gradient
+Bad escape sequence in untagged template literal
 Bad Request
+Basic_Emoji Emoji_Keycap_Sequence RGI_Emoji_Modifier_Sequence RGI_Emoji_Flag_Sequence RGI_Emoji_Tag_Sequence RGI_Emoji_ZWJ_Sequence RGI_Emoji
 because the \`*\` character must always follow a \`/\` in the pattern. To get rid of this warning, please change the route path to
 Bei deinem Rockstar-Games-Konto <SignInLink>anmelden</SignInLink>, um dein Feedback einzureichen.
 Bereits abonniert
 Bestätige dein Abo
 Bezier x values must be in [0, 1] range
+Bike Race
 Bitstream Vera Sans Mono
 Bitte drücke auf den Knopf unten, um zu bestätigen, dass du den Newsletter von Rockstar Games abonnieren möchtest.
 Bitte verifiziere deine E-Mail-Adresse über den Link, der an die E-Mail-Adresse geschickt wurde, mit der du dich angemeldet hast, um dein Abo für die E-Mail-Liste von Rockstar Games zu bestätigen.
+Bitte versuche es erneut.
 blood pressure
 Book Antiqua
 Bookman Old Style
@@ -313,6 +449,7 @@ Botão R2 no PlayStation 4
 Botão R3 no PlayStation 4
 Botão superior esquerdo no Xbox One
 Botão X no PlayStation 4
+Both input and output ranges must be the same length
 Botón A en Xbox One
 Botón A en XBOX ONE
 Botón arriba del pad direccional en Xbox One
@@ -348,14 +485,18 @@ Botón stick izquierdo en XBOX ONE
 Botón superior izquierdo en XBOX ONE
 Botón X en PlayStation 4
 Bounty Hunters
+Brak podglądu
+break case catch continue debugger default do else finally for function if return switch throw try var while with null true false instanceof typeof void delete new in this
 but did not provide a \`loader\` for route
 but did not provide an \`action\` for route
 but pathname
 Button label to leave feedback or suggestions
 Button label to report a bug or feedback
+button, a[href], input, select, textarea, [tabindex]:not([tabindex="-1"])
 button:not([inert]):not([inert] *)
 Caçadores de Recompensa
 Cacciatori di taglie
+calc(var(--card-logo-height) * -1)
 Calling PropTypes validators directly is not supported by the `prop-types` package. Use PropTypes.checkPropTypes() to call them. Read more at http://fb.me/use-check-prop-types
 Cambria Math
 Can't call method on
@@ -367,6 +508,8 @@ Cannot animate a `SpringValue` object that is frozen. Did you forget to pass you
 Cannot call a class as a function
 Cannot call setIn() with
 Cannot call the manual advancement of rafz whilst frameLoop is not set as demand
+Cannot convert undefined or null to object
+Cannot find module '
 Cannot handle redirect results in processLoaderData
 Cannot reduce an empty sequence
 Cannot reset() in onSubmit(), use setTimeout(form.reset)
@@ -375,22 +518,67 @@ Cannot set a numeric property on an object
 Cannot set currentNode to a node that is not contained by the root node.
 cannot set size without setting maxSize or maxEntrySize on cache
 cannot set sizeCalculation without setting maxSize or maxEntrySize
+Cannot use
+Cannot use 'arguments' in class field initializer
+Cannot use 'await' as identifier inside an async function
+Cannot use 'import.meta' outside a module
+Cannot use 'yield' as identifier inside a generator
+Cargando actividades...
+Caricamento attività...
+Carousel learn more button text
+Carousel watch more button text
+Carregando Serviços...
+Carrera a dos ruedas
+Carrera a pie
+Carrera acrobática
+Carrera aérea
+Carrera de aceleración
+Carrera de ataque al objetivo
+Carrera de coches de competición
+Carrera de derrapes
+Carrera de drift
+Carrera de Hao's Special Works
+Carrera de persecución
+Carrera de ruedas descubiertas
+Carrera de transformación
+Carrera de vehículos especiales
+Carrera marítima
+Carrera terrestre
+Carrera urbana
 Cartão de Personagem:
 Carte de personnage :
 Catégorie : RP
+Cena promocyjna, poprzednio
 Century Gothic
 Century Schoolbook
+chained PromiseLike
 Character Card:
+Chargement des missions...
 Chasseurs de primes
 Check Your Email
 Circle button on PlayStation4
+claim now
+class enum extends super const export import
 Class extends value
+Classes can't have an element named '#constructor'
+Classes may not have a static property named prototype
+Click-through footer
+Click-through screencap
+close expanding platform button
+Collega un account di gioco
+Collega un altro account
 Color picker
 Color Picker
 column in locationOffset is 1-indexed and must be positive.
 Comic Sans
 Comic Sans MS
+Comma is not permitted after the rest element
 command line
+Compartilhar com Facebook
+Compartilhar com Reddit
+Compartilhar com X
+Compartir en Facebook
+Compartir en Reddit
 Comprar armas
 Comprar Armas
 Comprar atuendos
@@ -398,42 +586,109 @@ Comprar gestos
 Comprar Gestos
 Comprar Trajes
 Comprueba tu correo electrónico
+Condividi su Facebook
+Condividi su Reddit
+Conferma che vuoi iscriverti alla Newsletter di Rockstar Games cliccando sul pulsante qui sotto.
 Conferma che vuoi iscriverti alla Newsletter di Rockstar Games cliccando sul pulsanto qui sotto.
 Conferma la tua iscrizione
 Confirm your subscription
 Confirma tu suscripción
 Confirmar suscripción
+Confirme que você deseja se inscrever na newsletter da Rockstar Games clicando no botão abaixo.
 Confirme que você deseja se inscrever no newsletter da Rockstar Games clicando no botão abaixo.
 Confirme sua inscrição
 Confirmer votre abonnement
 Confirmez votre abonnement
+Connexion requise
+Conquête en équipe
+const class extends export import super
+Constructor can't be a generator
+Constructor can't be an async method
+Contact Mission
 Container missing
 Controlla la tua mail
 cookie has an
 Cookie length will exceed browser maximum. Length:
+Copia il link
+Copiar al portapapeles
+Copiar enlace al portapapeles
+Copiar link para a área de transferência
+Copier le lien dans le presse-papiers
+Copy Link to Clipboard
+Corrida Acrobática
+Corrida Aérea
+Corrida da Hao's Special Works
+Corrida de Arrancada
+Corrida de Assalto com Alvos
+Corrida de Drift
+Corrida de Perseguição
+Corrida de Roda Exposta
+Corrida de Rua
+Corrida de Veículo Especial
+Corrida Marítima
+Corrida Metamorfose
+Corrida sobre duas rodas
+Corrida Terrestre
+Coś poszło nie tak.
+Coś poszło nie tak. Spróbuj ponownie.
 could not be created.
+could not be resolved on the object
+Could not find `react-scroll-parallax` context value. Please ensure the component is wrapped in a <ParallaxProvider>
 could not read as ArrayBuffer
 could not read FormData body as blob
 Couldn't add conditional rule
 counter clockwise
 Courier New
+Course à moto
+Course à pied
+Course aérienne
+Course aux points
+Course d'Hao's Special Works
+Course d'ultralégères
+Course de dragster
+Course de drift
+Course de poursuite
+Course de rue
+Course de véhicules spéciaux
+Course nautique
+Course polymorphes
+Course terrestre
+Creador de misiones
 createTheme.resolve() is client-only
+Creatore di missioni
+Criado por
+Criador de Missões
+Criar conta
 Cruceta hacia arriba de XBOX ONE
 Cruceta hacia la derecha de XBOX ONE
 crypto.getRandomValues() not supported. See https://github.com/uuidjs/uuid#getrandomvalues-not-supported
 CTA that displays on the GTAO feedback page if the viewer is not logged in.
+Cubic bezier arrays must contain four numerical values.
 Custom tracking stop.
 Dangling reference to missing
 Danos tu opinión
 data leak
 days of the month
+Deathmatch a squadre
+Deathmatch con veicoli
+Deathmatch drużynowy
+Deathmatch na arenie
+Deathmatch nell'Arena
+Deathmatch w pojazdach
+Debes iniciar sesión
 defined but its lazy function is also returning a value for this property. The lazy route property
+Deleting local variable in strict mode
+DEPRECATED METHOD:
 Der Halloween-Pass #2
 Derived constructors may only return object or undefined
+Desplazarse hacia abajo
 details:not([inert]):not([inert] *)
 details>summary:first-of-type:not([inert]):not([inert] *)
+Detalhes do evento
+Detalles del evento
 Detected a manifest version mismatch during eager route discovery. The next navigation/fetch to an undiscovered route will result in a new document navigation to sync up with the latest manifest.
 Detected manifest version mismatch, reloading...
+Dettagli evento
 Deutsch (Deutschland)
 Diapositiva anterior
 Diapositiva siguiente
@@ -444,26 +699,49 @@ Diminuisci zoom
 Direcional analógico direito no Xbox One
 Direcional analógico esquerdo no Xbox One
 dirty is not a string, aborting
+Discount price, previously
 Distillateurs clandestins
+Dodaj do zakładek
 Dodaj opinię
 does not exist in object
 does not have an element or Component. This means it will render an <Outlet /> with a null value by default resulting in an
 does not match URL
 doesn't accept regex!
 DOM blockers debug: ```
+Domande frequenti
+DOMANDE FREQUENTI
 Don't miss the next free GTA Online gift
 Donner votre avis
+Dot click
 doubleTap doubleClick
 Dowiedz się więcej
 Download the Apollo DevTools for a better development experience: %s
 Drag 'n' drop some files here,
+Drag Race
 Draggable item. Press space bar to lift
+Drift Race
+Drużynowy Król wzgórza
 Du erhältst bereits Newsletter-Updates an diese E-Mail-Adresse. Verwalte jederzeit deine Präferenzen bezüglich der Kommunikation in den Einstellungen deines Kontos.
 Du hast dich während der Kontoerstellung nicht für Werbe-E-Mails angemeldet. Möchtest du immer noch unseren Newsletter abonnieren?
+Du musst dich erst anmelden, um diese Inhalte zu sehen.
+Du musst Grand Theft Auto Online neu starten, um diesen Job nicht länger in deinen Markierungen sehen zu können.
+Duplicate capture group name
+Duplicate constructor in the same class
+Duplicate export '
+Duplicate regular expression flag
+È necessario eseguire l’accesso
+È necessario eseguire l’accesso prima di poter interagire con questo contenuto
+É necessário iniciar sessão
+É necessário iniciar sessão para interagir com esse conteúdo
 E-Mail-Liste von Rockstar Games beitreten
+Éditeur de missions
 EEEE, MMMM do, y
+Effectuer un signalement
 either ensure all objects of type
 El Pase de Halloween n.º 2
+Elementi evidenziati
+Eliminar marca
+Ellipse Path 1
 Emotes kaufen
 Empty sub-selector
 En este momento no puedes suscribirte a nuestro boletín de noticias con este correo electrónico.
@@ -471,15 +749,31 @@ En este momento, no podemos registrar esta dirección de correo electrónico a n
 En savoir plus
 End date is invalid
 End date must be after start date
+end point
+End Point
 English (United States)
+Enlace copiado
+Enlace externo a la tienda
 Enviar comentarios
 Enviar feedback
 Erfolgreich abonniert
+Ermäßigter Preis, vorher
+Erneut versuchen
+Error fetching claim/exists
 Error formatting display name.
 Error formatting number.
 Error formatting relative time.
+Error Icon
 Error message not found.
+Escape sequence in keyword import
+Escape sequence in keyword new
+Évènement suivant
+Event Details
 Event name must be provided to work with custom events
+Evento anterior
+Evento precedente
+Evento siguiente
+Evento successivo
 exclamation mark
 exit fullscreen
 Expected a function
@@ -489,13 +783,23 @@ Expected a response in query()
 Expected a Response to be returned from resource route handler
 Expected a result
 Expected a route.id in react-router processRoutes() function
+Expected corresponding JSX closing tag for <
 Expected enabled to be a boolean or a callback that returns a boolean
+Expected number in radix
 Expected pending action
 Expected whitespace after media
+Expecting Unicode escape sequence \uXXXX
+Explorar todas las actividades
+Explore All Jobs
+Explorer toutes les missions
+export import
+External link to Store
+Externer Link zum Store
 Fabricantes de aguardiente
 Failed to add conditional rule
 Failed to clone server response
 Failed tokenizing
+Faire défiler vers le bas
 fallback value for
 Feedback geben
 Fehler melden
@@ -504,8 +808,10 @@ fetchMethod must be a function if specified
 Field Setup Guide
 fieldset[disabled] *
 Fire Phone $1
+First argument must be a string
 first argument should be an array
 First ensure all usages of `canonizeResults` are removed, then remove this option.
+Foot Race
 for more information.
 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 for the full message or use the non-minified dev environment for full errors.
@@ -558,7 +864,6 @@ foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcd7
 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcd8
 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcd9
 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcda
-foundry_tdsdcdb foundry_tdsdcd0
 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde
 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
@@ -594,6 +899,21 @@ functions. Check out https://reactrouter.com/start/framework/route-module#hydrat
 Gâchette droite sur Xbox One
 Gâchette gauche sur Xbox One
 Gâchette haute gauche sur Xbox One
+Game Click-through
+Gara a piedi
+Gara acquatica
+Gara aerea
+Gara al bersaglio
+Gara clandestina
+Gara con veicoli speciali
+Gara di Hao's Special Works
+Gara drag
+Gara drift
+Gara multiveicolo
+Gara per ruote scoperte
+Gara stunt
+Gara su due ruote
+Gara terrestre
 Gatilho direito no Xbox One
 Gatilho esquerdo no Xbox One
 Gatillo derecho en XBOX ONE
@@ -602,6 +922,7 @@ Generator is already executing.
 Gerenciar preferências
 Gérer vos préférences
 Gestionar preferencias
+Gestionar tus preferencias
 Gestisci le preferenze
 Gill Sans
 Give Feedback
@@ -611,22 +932,31 @@ GraphQL request
 Grilletto destro su XBOX ONE
 Grilletto sinistro su XBOX ONE
 GSAP target
+GTA Plus
 GTM Id is required
 Guarda ora
+Guerre d'arène
 half a minute
 Halloweenowa przepustka 2
+Hao's Special Works Race
 has been combined with
 have an ID or a custom merge function, or
 Haz clic en el botón a continuación para confirmar que quieres suscribirte al boletín de Rockstar Games.
 Haz click en el botón para confirmar que quieres suscribirte al boletín de noticias de Rockstar Games.
 Headers constructor: expected name/value pair to be length 2, found
 heart rate monitor
+Heist Prep
 Helvetica Neue
 Hero video play button label
+Hier gibt es nichts zu sehen
 horizontal rule
+Houve um erro.
+Houve um erro. Tente novamente.
 http://www.w3.org/1998/Math/MathML
 http://www.w3.org/1999/xhtml
+http://www.w3.org/1999/xlink
 http://www.w3.org/2000/svg
+http://www.w3.org/XML/1998/namespace
 HttpLink: Trying to send a client-only query to the server. To send to the server, ensure a non-client field is added to the query or set the `transformOptions.removeClientFields` option to `true`.
 https://addons.mozilla.org/en-US/firefox/addon/apollo-developer-tools/
 https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
@@ -637,11 +967,25 @@ https://m1.openfpcdn.io/fingerprintjs/v
 https://react.dev/errors/
 https://www.youtube-nocookie.com
 https://www.youtube.com
+Icona di successo
+Icona Errore
+Ícone de erro
+Ícone de êxito
+Icono de aprobación
+Ícono de aprobado
+Icono de error
+Ícono de error
+Identifier directly after number
+If `dragConstraints` is set as a React ref, that ref must be passed to another component's `ref` prop.
 If you don't want to synchronize component state with the mutation, please use the `useApolloClient` hook to get the client instance and call `client.mutate` directly.
 If your `onCompleted` callback sets local state, switch to use derived state using `data` returned from the hook instead. Use `useEffect` to perform side-effects as a result of updates to `data`.
 iframe:not([inert]):not([inert] *)
+Ikona sukcesu
+Illegal 'use strict' directive in function with non-simple parameter list
+Illegal newline after throw
 Imagen anterior
 in c?c.responseURL:r.headers.get(
+in class static initialization block
 in e?e:HTMLInputElement.prototype,
 in e?e.children(e.child):e.children,
 in Intl.DateTimeFormat. Using default locale:
@@ -649,15 +993,22 @@ in Intl.NumberFormat. Using default locale:
 in n)throw TypeError(
 in not contained inside
 in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),V((0,i.TW)(t.currentTarget),
+in strict mode
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
+Incomplete quantifier
 Informar sobre un error
 Informar sobre un problema
+Iniciar marquee
+Iniciar sesión
+Iniciar sessão
 Initialization of sharing external failed:
 Input type detection error.
 Inscreva-se na lista de e-mails da Rockstar Games
 Inscreva-se no nosso newsletter para receber informações sobre atualizações e anúncios, detalhes sobre eventos e ofertas especiais e mais da Rockstar Games e afiliadas.
+Inscrição confirmada
 Inscrição efetuada
 instantiate Stack using Stack.create(n)
+Inténtalo de nuevo.
 Internet Explorer
 Intl.DisplayNames is not available in this environment. Try polyfilling it using "@formatjs/intl-displaynames"
 Intl.DurationFormat is not available in this environment. Try polyfilling it using "@formatjs/intl-durationformat"
@@ -669,19 +1020,39 @@ Invalid attempt to iterate non-iterable instance. In order to be iterable, non-a
 Invalid attempt to spread non-iterable instance
 Invalid attempt to spread non-iterable instance. In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
 Invalid Block
+Invalid character class
+Invalid character in character class
+Invalid class escape
+Invalid escape
+Invalid group
 invalid max value:
 Invalid media feature
 Invalid media query: "
+Invalid named capture referenced
+Invalid named reference
+Invalid number
+invalid params
+Invalid property name
+Invalid property value
+Invalid quantifier
 Invalid range
 Invalid redirect location
+Invalid regular expression flag
+Invalid regular expression: /
 Invalid Request
 Invalid scope
 invalid size value (must be positive integer). When maxSize or maxEntrySize is used, sizeCalculation or size must be set.
 Invalid time value
+Invalid unicode escape
+Invalid Unicode escape
 Invalid value of type
 Invalid value.
 Invariant failed
 Invariant Violation
+iPhone Simulator
+iPod Simulator
+Irgendetwas ist schiefgelaufen.
+Irgendetwas ist schiefgelaufen. Bitte versuche es erneut.
 is not a constructor or null
 is not a File
 is not a function
@@ -698,8 +1069,15 @@ Italiano (Italia)
 Já está inscrito
 Jetzt abonnieren
 Jetzt anschauen
+Job Bookmarked
+Job markiert
+Job nicht mehr markiert
+Job Unbookmarked
+Jobs werden geladen ...
 Już otrzymujesz powiadomienia o nowościach na ten adres e-mail. Zmień swoje preferencje w dowolnym momencie w ustawieniach swojego konta.
 Karta postaci:
+King of the Hill
+Kreator misji
 Kreis-Taste auf PlayStation 4
 Kreuz-Taste auf PlayStation 4
 Kup broń
@@ -714,18 +1092,37 @@ L3-Taste auf PlayStation 4
 La page que vous recherchez n'existe pas ou une autre erreur est survenue.
 La pagina che stai cercando non esiste o si è verificato un altro errore.
 La página que buscas no existe o ha habido otro error.
+Ładowanie akcji...
+Land Race
+Last Team Standing
+Laufband abspielen
+Laufband pausieren
 Learn More
 Left bumper button on XBOX ONE
 Left thumbstick button on XBOX ONE
 Left trigger button on XBOX ONE
+Legal Text
 less than
 less than a minute
 less than a second
 Letter Gothic
 Lewy bumper na XBOX ONE
 Lewy spust na XBOX ONE
+Lien copié
+Lien externe vers la boutique
 line in locationOffset is 1-indexed and must be positive.
+linear-gradient(black 0%)
 linear-gradient(to right, rgba(
+Link Another Account
+Link copiado
+Link copiato
+Link Copied
+Link esterno per il Negozio
+Link externo para a Loja
+Link Game Account
+Link in die Zwischenablage kopieren
+Link kopiert
+Link skopiowany
 Linker Bumper auf Xbox One
 Linker Stick auf Xbox One
 Linker Trigger auf Xbox One
@@ -735,6 +1132,12 @@ Lista de pistas
 Lista utworów
 Liste des morceaux
 Livello zoom
+Loading Jobs...
+Logical expressions and coalesce expressions cannot be mixed. Wrap either by parentheses
+Lone quantifier brackets
+Looks like ParallaxController.init() was called on the server. This method must be called on the client.
+loop variable declaration may not have an initializer
+Losowa misja
 Łowcy nagród
 Lucida Bright
 Lucida Calligraphy
@@ -747,46 +1150,110 @@ Lucida Sans Typewriter
 Lucida Sans Unicode
 magnifying glass
 Manage Preferences
+Marcando Território
+Marcando Território em Equipe
+Markierte Elemente
+Markierung entfernen
+Marquee Lecture
+Marquee Pause
+Marquee Play
+Mata-mata da Arena
+Mata-mata em Equipe
+Mata-mata em Veículos
 max option must be a nonnegative integer
 maxEntrySize must be a positive integer if specified
 maxSize must be a positive integer if specified
 Mehr erfahren
 Melde dich bei unserem E-Mail-Newsletter an, um über Spielankündigungen und Updates, besondere Events, Angebote und mehr von Rockstar Games und unseren Partnern informiert zu werden.
 memoMethod must be a function if defined
+Metti in pausa marquee
 Microsoft Sans Serif
 Microsoft Uighur
+Mini animate() doesn't support "type" as a string.
 Minified React error #
 Minified Redux error #
 Minion Pro
+Misión aleatoria
+Misión de contacto
+Misión preliminar de golpe
+Misión preliminar del golpe
+Misión versus
+Misión Versus
+Misiones de contacto
+Misja od kontaktów
+Misja przeciwko
+Misja w terenie
+Missão aleatória
+Missão Competitiva
+Missão de Contato
+Missing catch or finally clause
+Missing character from exported characters list:
 Missing plugin? gsap.registerPlugin()
+Mission ajoutée aux favoris
+Mission aléatoire
+Mission Creator
+Mission de contact
+Mission retirée des favoris
+Missione casuale
+Missione dei contatti
+Missione preliminare del colpo
+Missione Versus
 MIUI Browser
 mobile data
 Mobile Safari
+Modalità Competizione
+Mode rivalité
+Modo Adversario
+Modo Adversário
 Monotype Corsiva
 more than
+mousemove mouseup
 MS Reference Sans Serif
 MS Reference Specialty
 MS Sans Serif
+MSPointerMove MSPointerUp MSPointerCancel
+Multiple default clauses
+Musisz uruchomić ponownie Grand Theft Auto Online, aby akcja nie pojawiała się dłużej w sekcji ulubionych akcji.
 must be used inside of a <Form> component
+Must provide matching units for the min and max offset values of each axis.
 Must specify either a render prop, a render function as children, or a component prop to
+Must wrap your application's <Parallax /> components in a <ParallaxProvider />.
 MYRIAD PRO
+Nach unten scrollen
+Nächste Seite von Events
 Nächste Videoseite
 Nächstes Element
+Nächstes Event
+Nada que ver aquí
+Najczęstsze pytania
+NAJCZĘSTSZE PYTANIA
 Należy potwierdzić swoją subskrypcję listy mailingowej Rockstar Games poprzez kliknięcie poniższego przycisku.
+Não há nada aqui
 Não perca o próximo presente gratuito do GTA Online
+Następna strona wydarzeń
 Następna strona z filmami
+Następne wydarzenie
 Następny slajd
 native code
 Ne manquez pas le prochain cadeau gratuit dans GTA Online.
+Necesitas iniciar sesión
+Necesitas iniciar sesión para poder interactuar con este contenido.
+Necesitas reiniciar Grand Theft Auto Online para dejar de ver esta actividad en tu lista de actividades marcadas.
+Necesitas reiniciar Grand Theft Auto Online para dejar de ver esta actividad en tus actividades marcadas.
+Negated character class may contain strings
 Nein, zurückkehren
 nested under path
 new tab
 new window
+Next event
+Next Page of Events
 Next slide
 Next Slide
 Next video page
 Nie możemy w tym momencie dodać twojego adresu do listy mailingowej Rockstar Games.
 Nie możemy w tym momencie dodać twojego adresu do listy mailingowej Rockstar Games. Zmień swoje preferencje w ustawieniach swojego konta lub spróbuj ponownie później.
+Nie możemy w tym momencie dodać twojego adresu do listy mailingowej.
+Nie możemy w tym momencie dodać twojego adresu do listy mailingowej. Zmień swoje preferencje w ustawieniach swojego konta lub spróbuj ponownie później.
 Nie przegap kolejnych darmowych korzyści w GTA Online
 Nie udzielono zgody na otrzymywanie powiadomień marketingowych przy zakładaniu konta. Czy chcesz subskrybować naszą listę mailingową?
 Nie, cofnij
@@ -803,11 +1270,15 @@ No `routeModule` available for critical-route action
 No `routeModule` available for critical-route loader
 No adapter provided when calling "setAdapter"
 No callback given.
+No client configured on scope - will not capture event!
+No client configured on scope - will not capture exception!
+No client configured on scope - will not capture message!
 No config specified
 No fetcher match found
 No lazy route function found
 no memoMethod provided to constructor
 No Modal Container context provided
+No momento, não é possível se inscrever na nossa newsletter usando este endereço de e-mail.
 No momento, não é possível se inscrever no nosso newsletter usando este endereço de e-mail.
 No mutationFn found
 No node provided
@@ -821,57 +1292,108 @@ No te pierdas el próximo regalo de GTA Online
 No valid media queries
 No value found for context
 No, torna indietro
+Non c’è niente da vedere
 Non è stato possibile procedere con l’iscrizione di questo indirizzo email alla nostra newsletter in questo momento.
 Non hai acconsentito a ricevere le email di marketing durante la creazione dell'account. Vuoi ancora iscriverti alla nostra newsletter?
 Non perdere il prossimo omaggio di GTA Online
 Non, retour
+normalPaddingTopBottom largePaddingSides
+normalPaddingTopBottom largePaddingSides spacing
+nos foires aux questions
 Not Found
 not found. https://gsap.com
+Not implemented yet:
+Nothing to repeat
+Nothing to see here
+NOTRE FOIRE AUX QUESTIONS
 Nous ne pouvons pas abonner cette adresse e-mail à notre newsletter pour l'instant.
 Nous ne pouvons pas abonner votre adresse e-mail à notre newsletter pour l'instant. Modifiez vos préférences concernant les e-mails sur la page des paramètres de votre compte ou réessayez plus tard.
 Number skeleton cannot be empty
+Numeric separator is not allowed at the first of digits
+Numeric separator is not allowed at the last of digits
+Numeric separator is not allowed in legacy octal numeric literals
+Numeric separator must be exactly one underscore
 Oben-Richtungstaste auf PlayStation 4
 Oben-Steuerkreuz-Taste auf Xbox One
+Octal literal in strict mode
 Ocurrió un problema o la página que estás buscando no existe.
+Odnośnik zewnętrzny do sklepu
+Odtwórz ponownie
 of shared singleton module
+Only simple MemberExpressions are supported.
 only supported in development mode
+Open Wheel Race
+Operazione non riuscita.
+Operazione non riuscita. Riprova.
+Optional chaining cannot appear in the callee of new expressions
+Optional chaining cannot appear in the tag of tagged template expressions
 Options button on PlayStation4
 Options button on XBOX ONE
 Options-Taste auf PlayStation 4
 Options-Taste auf Xbox One
+Ostatnia drużyna wygrywa
+Otrzymujesz już powiadomienia o nowościach na ten adres e-mail. Zmień swoje preferencje w dowolnym momencie w ustawieniach swojego konta.
 Oui, je m'abonne
 out of bound
 Outfits kaufen
 over 1 year
 Page précédente
+Page précédente des évènements
 Page suivante
+Page suivante des évènements
 Page updated
 Page vidéo précédente
 Page vidéo suivante
+Página anterior de eventos
 Página anterior de vídeos
+Página de eventos anterior
+Página de eventos siguiente
 Página de video anterior
 Página de vídeo anterior
 Página de video siguiente
 Página de vídeo siguiente
+Pagina degli eventi precedente
+Pagina degli eventi successiva
 Pagina di video precedente
 Pagina di video successiva
+Página siguiente de eventos
 Palatino Linotype
+pan-x pan-y
 paper aeroplane
 paper airplane
 Para confirmar sua inscrição na lista de e-mails da Rockstar Games, verifique seu endereço de e-mail pelo link enviado para o endereço que você usou para se inscrever.
 Para confirmar tu suscripción a la lista de correo de Rockstar Games, verifica tu correo electrónico a través del enlace enviado al correo electrónico con el que te has suscrito.
+Para interactuar con este contenido debes iniciar sesión.
 Parenthesis not matched
+Parenthesized pattern
 parser can only be used once
+Partager sur Facebook
+Partager sur Reddit
+Partager sur X
+Partida a muerte
+Partida a muerte con vehículos
+Partida a muerte de arena
+Partida a muerte por equipos
+Partida de supervivencia
 Pase de Halloween 2
+Pasek przewijania Odtwórz
+Pasek przewijania Zatrzymaj
 Pass `context` to the returned `execute` function instead.
 Pass all `variables` to the returned `execute` function instead.
 Pass di Halloween 2
 Pass the options directly to the hook instead.
 Passe d'Halloween n° 2
+Pausar marco
+Pausar marquee
+Pausar marquesina
 Per confermare la tua iscrizione alla mailing list di Rockstar Games, verifica il tuo indirizzo email tramite il link che ti abbiamo inviato all’indirizzo email che hai usato per iscriverti.
+Per non visualizzare più questa attività tra i preferiti, è necessario riavviare Grand Theft Auto Online.
+Perguntas Frequentes
+PERGUNTAS FREQUENTES
 pin push
 PlayStation 4 的 OPTIONS 按鈕
 PlayStation 4의 OPTIONS 버튼
+Playstation Plus Benefit
 Please confirm that you would like to subscribe to the Rockstar Games Newsletter by clicking the button below.
 Please gsap.registerPlugin(ScrollTrigger)
 Please initialize an instance of `HttpLink` with `credentials` instead.
@@ -881,24 +1403,48 @@ Please pass the option to the `useLazyQuery` hook instead.
 Please remove the `addTypename` option when initializing `InMemoryCache`.
 Please remove the `canonizeResults` option when initializing `InMemoryCache`.
 Please remove this option.
+Please try again.
 Please use `devtools.enabled` instead.
 Please use the "new" operator, this DOM object constructor cannot be called as a function.
 Please use the `clientAwareness.name` option instead.
 Please use the `clientAwareness.version` option instead.
+pointermove pointerup pointercancel
 Pomyślnie zasubskrybowano
 Poprzedni slajd
+Poprzednia strona wydarzeń
 Poprzednia strona z filmami
+Poprzednie wydarzenie
+Porównaj wszystkie akcje
 Português (Brasil)
 Potwierdź swoją subskrypcję
+Potwierdź swoją subskrypcję listy mailingowej Rockstar Games poprzez kliknięcie poniższego przycisku.
+Powiąż inne konto
+Powiąż konto gracza
 Poziom powiększenia
 Präferenzen verwalten
 Prawy drążek na XBOX ONE
 Prawy spust na XBOX ONE
+Precio con descuento, anteriormente
+Precio rebajado, anteriormente
+Preço com desconto, antes
+Preguntas frecuentes
+PREGUNTAS FRECUENTES
+Preliminar do Golpe
+Préparation de braquage
+Previous event
+Previous Page of Events
 Previous slide
 Previous Slide
 Previous video page
+Prezzo scontato: prima
+Private field '#
+Private fields can not be deleted
+Private identifier can only be left side of binary expression
+Prix réduit, précédemment
 prop name cannot be undefined in <Field> component
 prop on your route.
+Próxima página de eventos
+Próximo evento
 Przycisk B na XBOX ONE
 Przycisk kierunku w górę na PlayStation 4
 Przycisk kierunku w prawo na PlayStation 4
@@ -923,13 +1469,19 @@ Pulsante direzionale destro su XBOX ONE
 Pulsante direzionale su per XBOX ONE
 Pulsante dorsale sinistro su XBOX ONE
 Pulsante Opzioni su XBOX ONE
+Pursuit Race
 Query is empty
 query()/queryRoute() requests must contain an AbortController signal
 question mark
+Quitar marcador
 R2 button on PlayStation4
 R2-Taste auf PlayStation 4
 R3 button on PlayStation4
 R3-Taste auf PlayStation 4
+Random Mission
+Range out of order in character class
+Re della collina
+Re della collina a squadre
 reachBeginning toEdge
 reachEnd toEdge
 React Router caught the following error during render
@@ -941,26 +1493,49 @@ Rechter Stick auf Xbox One
 Rechter Trigger auf Xbox One
 Rechts-Richtungstaste auf PlayStation 4
 Rechts-Steuerkreuz-Taste auf Xbox One
+Redefinition of __proto__ property
+Remove bookmark
+Remover dos Favoritos
 Report Bug
 Reportar bug
+Reproduciendo video
+Reproduciendo vídeo
+Reproducir marco
+Reproducir marquesina
 requires param
 resize observerUpdate
 resize orientationchange observerUpdate
+Retirer des favoris
 return this
 returns an invalid value. All route meta functions must return an array of meta objects. To reference the meta function API, see https://reactrouter.com/start/framework/route-module#meta
+Rey de la colina
+Rey de la colina por equipos
+Rien à voir ici
 Right directional button on PlayStation4
 Right directional pad button on XBOX ONE
 Right thumbstick button on XBOX ONE
 Right trigger button on XBOX ONE
+Rimuovi dai preferiti
+Riproduci di nuovo
+Riproduci marquee
+Riproduzione video interrotta
+Rockstar Games Home
+Role para baixo
 root node is forbidden and cannot be sanitized in-place
+Round Corners 1
 Route property
 S'abonner à la liste de diffusion de Rockstar Games
 Saiba mais
 Samsung Browser
+Saut en parachute
 Scheda personaggio:
 Scheda precedente
 Scheda successiva
+Scopri tutte le attività
+Scorri in basso
 screen and (pointer: coarse) and (hover: none)
+Scroll Down
+Sea Race
 Segnala un problema
 Segoe Print
 Segoe Script
@@ -969,58 +1544,93 @@ Segoe UI Semibold
 Segoe UI Symbol
 Sei già iscritto
 select:not([inert]):not([inert] *)
+Será preciso reiniciar Grand Theft Auto Online para não ver mais este serviço como um de seus Favoritos.
+Serviço adicionado aos Favoritos
+Serviço removido dos Favoritos
+Shape Layer 1
+Share to Facebook
+Share to Reddit
 Shop Emotes
 Shop Outfits
 Shop Weapons
+Shorthand property assignments are valid only in destructuring patterns
 side nav
 Sidecar medium not found
 Sidecar: could not `read` from an `assigned` medium. `read` could be used only with `useMedium`.
 Sidecar: please provide `sideCar` property to import the right car
+Sign In Required
 Sign up for our email newsletter to get info on game announcements and updates, details on special events and offers, and more from Rockstar Games and our affiliates.
 Signaler un bug
+signed out
 Siguiente imagen
 Sim, fazer inscrição
 Simple pseudos are not valid in
+Sin especificar
+Since Acorn 8.0.0, options.ecmaVersion is required. Defaulting to 2020, but this will stop working in the future.
 sizeCalculation must be a function
 sizeCalculation return invalid (expect positive integer)
 sizeCalculation set to non-function
 Skipping invalid key "
+Skoki spadochronowe
+Skopiuj do schowka
+slideChange update resize observerUpdate
 slidesLengthChange snapGridLengthChange slidesGridLengthChange
 Small Fonts
+Social Club | Prime Gaming
 social media
 Social media
+Something has gone horribly awry.
+Something went wrong.
+Something went wrong. Please try again.
+Special Vehicle Race
 speech bubble
+Spielkonto verknüpfen
 Sprawdź swoją pocztę
+Spring duration must be 10 seconds or less
+Spróbuj ponownie
+Spróbuj ponownie.
 stable both-edges
 Stai già usando questo indirizzo email per ricevere la newsletter. Gestisci le tue preferenze di comunicazione in qualsiasi momento nelle impostazioni del tuo account.
 Start date is invalid
+start point
+Start Point
 Stick analogique droit sur Xbox One
 Stick analogique gauche sur Xbox One
 Stick derecho en Xbox One
 Stick izquierdo en Xbox One
+Street Race
+stroke width
+Stroke Width
 Strona główna
 Strona, której szukasz, nie istnieje lub wystąpił inny błąd.
+Stunt Race
+Stworzone przez
 Style selectors must target the '&' character (along with any modifiers), e.g.
 Subscribe Now
 Subscribe to the Rockstar Games Email List
 Subskrybuj listę mailingową Rockstar Games
 Subskrybuj teraz
 Subskrypcja jest już aktywna
+Success Icon
 Successfully Subscribed
 Super expression must either be null or a function
 Super expression must either be null or a function, not
+super() call outside constructor of a subclass
 Suscríbete a la lista de correo de Rockstar Games
 Suscríbete a la lista de correos de Rockstar Games
 Suscríbete ya
 Suscribirse ahora
 Suscripción exitosa
 Symbol.iterator is not defined.
+Szczegóły wydarzenia
 t been initialised - super() hasn
 t exist or another error occurred",defaultMessage:"The page you
+t have a field named
 table of contents
 Tak, subskrybuj
 takes an object of state variables to update or a function which returns an object of state variables.
 tap click
+Target Assault Race
 Tarjeta de personaje:
 Tarjeta del personaje:
 Tasto cerchio su Playstation 4
@@ -1034,6 +1644,10 @@ Tasto Opzioni su Playstation 4
 Tasto R2 su Playstation 4
 Tasto R3 su Playstation 4
 Te has suscrito
+Team Deathmatch
+Team King of the Hill
+Tentar novamente
+Tente novamente.
 Text for Bounty Hunters highlight
 Text for each thumbnail
 Text for Moonshiners highlight
@@ -1041,6 +1655,9 @@ Text for The Halloween Pass 2 highlight
 Text for the slideshow aria label
 textarea:not([inert]):not([inert] *)
 TextDecoder must be defined in the environment: please import a polyfill.
+The a11y intro for the charcter card.
+The a11y player name for the charcter card.
+The a11y rank for the charcter card.
 The argument must be a React element, but you passed
 The Halloween Pass 2
 The input selection has not been updated.
@@ -1048,6 +1665,7 @@ The item
 The item has been dropped while not over a drop area.
 The item has returned to its starting position of
 The page you're looking for doesn't exist or another error occurred.
+The property has no keyframe at index
 The requested video does not exist.
 The route at
 The selection attributes have not been initialized.
@@ -1058,6 +1676,7 @@ This is the first slide
 This is the last slide
 This option does not affect `client.query` and can be safely removed.
 This should never happen
+thumbnail gallery
 Times New Roman
 Times New Roman PS
 to 'child'). If your selector is targeting something global, use the 'globalStyle' function instead, e.g. if you wanted to write
@@ -1080,21 +1699,38 @@ Touche Menu sur Xbox One
 Touche Options sur PlayStation 4
 Touche R2 sur PlayStation 4
 Touche R3 sur PlayStation 4
+touchstart touchmove touchend touchcancel
+Trailing comma is not allowed in import()
 TRAJAN PRO
+Transform Race
 translate(0, 0) scale(1)
+Trim Paths 1
 triple bar
+Try Again
+Tryb adwerszarza
 TTL caching without ttlAutopurge, max, or maxSize can result in unbounded memory consumption.
 ttl must be a positive integer if specified
 Überprüfe deine E-Mails
+Udostępnij na Facebooku
+Udostępnij na Reddit
+Udostępnij na X
+Última Equipe Sobrevivente
+Último equipo en pie
 Unable to decode prerendered data
 Unable to decode turbo-stream response
 Unable to discover routes due to manifest version mismatch.
 Unable to find AppCallbacks in <ErrorBoundary/>
+Une erreur s'est produite.
+Une erreur s'est produite. Veuillez réessayer.
+Unexpected character '
 Unexpected description, descriptions are not supported on shorthand queries.
 Unexpected invariant triggered.
+Unexpected keyword '
 Unexpected Server Error
 Unexpected single quote character ('), did you mean to use a double quote (")?
 Unexpected syntax '
+Unexpected token
+Unexpected token `
 Unhandled fetcher revalidation redirect
 Unhandled Thrown Response!
 Univers CE 55 Medium
@@ -1103,11 +1739,18 @@ Unknown body type for responseIterator. Please pass a streamable response.
 Unknown browser
 Unknown getter
 Unknown Server Error
+Unknown Stack Trace
 unknown value
 Unrecognised option
+Unterminated character class
+Unterminated group
+Unterminated regular expression
+Unterminated string constant
 Unterminated string.
+Unterminated template literal
 Up directional button on PlayStation4
 Up directional pad button on XBOX ONE
+Use `assign`.
 use strict
 Use the `fetchPolicy` option instead.
 useAlertContext can only be used in a <Alert.Root />
@@ -1123,33 +1766,80 @@ useSwitchContext can only be used in a <Switch.Root />
 useTagContext can only be used in a <Tag.Root />
 useTextFieldContext can only be used in a <TextField.Root />
 useTooltipContext can only be used in a <Tooltip.Root />
+Usuń zakładkę
+var(--background-color, transparent)
+var(--grid-background-repeat, no-repeat)
+var(--grid-background-size, cover)
+var(--theme-adaptive-gradient-background, var(--theme-background))
+Vehicle Deathmatch
+Ver todas las actividades
+Ver todos os Serviços
 Verifica tu dirección de correo electrónico
 Verifica tu dirección de correo electrónico mediante el enlace que enviamos al correo con el que te registraste para confirmar la suscripción a la lista de correos de Rockstar Games.
 Vérifiez votre adresse e-mail
 Verifique seu e-mail
 Verpass nicht dein nächstes Gratisgeschenk in GTA Online.
 version control
+Versus Mission
 Veuillez confirmer que vous souhaitez vous abonner à la newsletter de Rockstar Games en cliquant sur le bouton ci-dessous.
+Veuillez réessayer.
+Video angehalten
+video carousel buttons
 Video Click-through
+Video detenido
+Vidéo en cours de lecture
+Vídeo en pausa
+Video in riproduzione
+Vídeo parado
 video playback
+Video Playing
+Video Stopped
+Video wird wiedergegeben
 video[controls]:not([inert]):not([inert] *)
+Vincular conta do jogo
+Vincular otra cuenta
+Vincular outra conta
+Vincular una cuenta de juego
+Vincular una cuenta del juego
 virtual machine
+visible auto
+Visible tooltip for the lightbox close button
+Visible tooltip for the lightbox download button (downloads the image)
+Visible tooltip for the lightbox reset button (resets zoom and position)
+Visible tooltip for the lightbox zoom in button
+Visible tooltip for the lightbox zoom out button
+Visible tooltip for the lightbox zoom slider
 Visionner maintenant
 vital signs
+Você escolheu não receber e-mails de marketing quando criou a sua conta. Deseja se inscrever na nosso newsletter?
 Você escolheu não receber e-mails de marketing quando criou a sua conta. Deseja se inscrever no nosso newsletter?
 Você já está recebendo atualizações da newsletter neste endereço de e-mail. Gerencie suas preferências de comunicação a qualquer momento nas configurações da sua conta.
+Você já se inscreveu
 Voir les armes
 Voir les interactions
 Voir les tenues
+Volver a intentar
+Volver a ver
+Vorherige Seite von Events
 Vorherige Videoseite
 Vorheriges Element
+Vorheriges Event
+Vote down
 Vous avez choisi de ne pas recevoir d'e-mails publicitaires lors de la création de votre compte. Voulez-vous toujours vous abonner à notre newsletter ?
+Vous devez vous connecter pour interagir avec ce contenu.
+Vous devrez redémarrer Grand Theft Auto Online pour ne plus voir cette mission dans vos favoris.
 Vous êtes déjà abonné(e) à la newsletter avec cette adresse e-mail. Gérez vos préférences concernant les communications à tout moment sur la page des paramètres de votre compte.
+Vuelve a intentarlo
+Vuelve a intentarlo.
 Waffen kaufen
+Walka o przetrwanie
+Warning, must use inside a WebOfferClaim.Root provider
 was not configured, using
 was not pre-compiled. Please consider using
 was not provided to the string
+was replaced with
 was specified but
+wasn't found in the available components. The _template
 waste bin
 Watch Now
 We cannot sign up this email address to our newsletter at this time.
@@ -1159,11 +1849,26 @@ When using middleware in `staticHandler.query()`, any provided `requestContext` 
 When using middleware in `staticHandler.queryRoute()`, any provided `requestContext` must be an instance of `RouterContextProvider`
 when your app is loading JS modules and/or running `clientLoader`
 while loading "
+Wideo odtwarzane
+Wideo zatrzymane
 will be treated as if it were
 Windows Phone
 Wir können deine E-Mail-Adresse derzeit nicht bei unserem Newsletter anmelden. Ändere deine Präferenzen bezüglich E-Mails in den Einstellungen deines Kontos oder versuche es später erneut.
 Wir können diese E-Mail-Adresse derzeit nicht bei unserem Newsletter anmelden.
 write to private field
+Wymagane zalogowanie się
+Wyścig bolidów
+Wyścig driftowe
+Wyścig jednośladów
+Wyścig kaskaderski
+Wyścig morski
+Wyścig pieszy
+Wyścig pojazdów specjalnych
+Wyścig powietrzny
+Wyścig strzelecki
+Wyścig uliczny
+Wyścig z transformacją
+Wyścigi Hao’s Special Works
 X button on PlayStation4
 Xbox One
 XBOX ONE
@@ -1181,12 +1886,15 @@ XBOX ONE의 A 버튼
 XBOX ONE의 B 버튼
 XBOX ONE上的Options键
 Xbox Series X|S
+xMidYMid meet
+xMidYMid slice
 Xperia Tablet
 Ya cuentas con una suscripción
 Ya recibes actualizaciones del boletín de noticias en este correo electrónico. Cambia tus preferencias de comunicación en cualquier momento en los ajustes de tu cuenta.
 Ya recibes actualizaciones del boletín en esta dirección de correo electrónico. Gestiona las preferencias de comunicación cuando quieras desde los ajustes de la cuenta.
 Ya tienes una suscripción
 Yes, Subscribe
+Yield expression cannot be a default value
 You are already receiving newsletter updates at this email address. Manage your communication preferences at any time in your account settings.
 You cannot call instrumented handlers more than once
 You cannot use navigator.back() on the server because it is a stateless environment.
@@ -1200,16 +1908,22 @@ You must render this element inside a <DataRouterContext.Provider> element
 You must render this element inside a <DataRouterStateContext.Provider> element
 You must render this element inside a <HydratedRouter> element
 You must specify a widget type.
+You need to sign in first to interact with this content
 You provided the `viewTransition` option to a router update, but you do not appear to be running in a DOM environment as `window.startViewTransition` is not available.
 You should not include both `Component` and `element` on your route - `Component` will be used.
 You should not include both `ErrorBoundary` and `errorElement` on your route - `ErrorBoundary` will be used.
 You should not include both `HydrateFallback` and `hydrateFallbackElement` on your route - `HydrateFallback` will be used.
+You will need to restart Grand Theft Auto Online to no longer see this job in your bookmarks.
+You're using a 3d camera. Try the html renderer.
 Your focus-trap must have at least one container with at least one tabbable node in it at all times
+Zaloguj się, aby zapoznać się z zawartością.
 Zapisz się, aby otrzymywać powiadomienia o nowościach dotyczących gier i aktualizacji, a także informacje na temat specjalnych wydarzeń i ofert oraz więcej od Rockstar Games i naszych oddziałów.
 Zoom arrière
 Zoom avant
 Zoom level
 Zoom out
+Zufällige Mission
+Гонка Hao’s Special Works
 Кнопка OPTIONS на PlayStation 4
 訂閱 Rockstar Games 電子郵件通知
 订阅Rockstar Games邮件通知
