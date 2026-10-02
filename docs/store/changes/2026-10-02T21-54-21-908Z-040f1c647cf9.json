@@ -1,0 +1,67 @@
+{
+  "id": "040f1c647cf9",
+  "at": 1790978061908,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-02T21-54-21-908Z-040f1c647cf9.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539153,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Screenshot Tee 2XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348504-DE",
+        "stock": 5,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1539153,
+        "sku": "348504-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Screenshot Tee 2XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 6,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
