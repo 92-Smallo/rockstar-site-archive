@@ -1,0 +1,169 @@
+{
+  "id": "70f771936954",
+  "at": 1790983461948,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 3,
+  "removedCount": 0,
+  "file": "2026-10-02T23-24-21-948Z-70f771936954.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131283,
+        "longDescription": "",
+        "media": [],
+        "name": "Navy Rockstar Games Varsity Crewneck L",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348550-US",
+        "stock": 48,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        }
+      },
+      "after": {
+        "itemId": 1131283,
+        "sku": "348550-US",
+        "type": "physical_good",
+        "name": "Navy Rockstar Games Varsity Crewneck L",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 47,
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141687,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto III Screenshot Tee XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348515-UK",
+        "stock": 2,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1141687,
+        "sku": "348515-UK",
+        "type": "physical_good",
+        "name": "Grand Theft Auto III Screenshot Tee XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 3,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539158,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: Vice City Screenshot Tee XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348509-DE",
+        "stock": 9,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1539158,
+        "sku": "348509-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: Vice City Screenshot Tee XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 8,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
