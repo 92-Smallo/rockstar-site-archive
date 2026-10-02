@@ -1,0 +1,373 @@
+{
+  "id": "c8e053c9e355",
+  "at": 1790969061844,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 7,
+  "removedCount": 0,
+  "file": "2026-10-02T19-24-21-844Z-c8e053c9e355.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143427,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "price": null,
+        "releaseDate": null,
+        "sku": "234626-UK",
+        "stock": 29,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 143427,
+        "sku": "234626-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 28,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143772,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "76922-US",
+        "stock": 47,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 143772,
+        "sku": "76922-US",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 49,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 244089,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games 5 Panel Hat - Reflective Gray",
+        "price": null,
+        "releaseDate": null,
+        "sku": "277538-UK",
+        "stock": 117,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "9.6000000"
+        }
+      },
+      "after": {
+        "itemId": 244089,
+        "sku": "277538-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games 5 Panel Hat - Reflective Gray",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 116,
+        "weight": {
+          "grams": null,
+          "ounces": "9.6000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 455002,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Sock Pack - Patterned - L/XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "293570-UK",
+        "stock": 5,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "8.1600000"
+        }
+      },
+      "after": {
+        "itemId": 455002,
+        "sku": "293570-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Sock Pack - Patterned - L/XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 4,
+        "weight": {
+          "grams": null,
+          "ounces": "8.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131240,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: Vice City Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348507-US",
+        "stock": 9,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131240,
+        "sku": "348507-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: Vice City Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 8,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141691,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348519-UK",
+        "stock": 5,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1141691,
+        "sku": "348519-UK",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 4,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1145718,
+        "longDescription": "",
+        "media": [],
+        "name": "Black Rockstar Games Varsity Crewneck XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348901-US",
+        "stock": 20,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.6000000"
+        }
+      },
+      "after": {
+        "itemId": 1145718,
+        "sku": "348901-US",
+        "type": "physical_good",
+        "name": "Black Rockstar Games Varsity Crewneck XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 21,
+        "weight": {
+          "grams": null,
+          "ounces": "17.6000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
