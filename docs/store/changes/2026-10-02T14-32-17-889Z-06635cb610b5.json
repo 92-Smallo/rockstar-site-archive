@@ -1,0 +1,67 @@
+{
+  "id": "06635cb610b5",
+  "at": 1790951537889,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-02T14-32-17-889Z-06635cb610b5.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142593,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Studio Colors Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "42315-UK",
+        "stock": 2,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.9600000"
+        }
+      },
+      "after": {
+        "itemId": 142593,
+        "sku": "42315-UK",
+        "type": "physical_good",
+        "name": "Rockstar Studio Colors Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 3,
+        "weight": {
+          "grams": null,
+          "ounces": "12.9600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
