@@ -1,0 +1,67 @@
+{
+  "id": "fb8b949cf21a",
+  "at": 1790952267240,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-02T14-44-27-240Z-fb8b949cf21a.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538992,
+        "longDescription": "",
+        "media": [],
+        "name": "Red on Black Linocut Rockstar Games Logo Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "176818-DE",
+        "stock": 39,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        }
+      },
+      "after": {
+        "itemId": 1538992,
+        "sku": "176818-DE",
+        "type": "physical_good",
+        "name": "Red on Black Linocut Rockstar Games Logo Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 38,
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
