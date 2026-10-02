@@ -1,0 +1,67 @@
+{
+  "id": "036a561a53a3",
+  "at": 1790949118946,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-02T13-51-58-946Z-036a561a53a3.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142959,
+        "longDescription": "",
+        "media": [],
+        "name": "Black Rockstar Camo Tee - Men's Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "125332-UK",
+        "stock": 3,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "5.1200000"
+        }
+      },
+      "after": {
+        "itemId": 142959,
+        "sku": "125332-UK",
+        "type": "physical_good",
+        "name": "Black Rockstar Camo Tee - Men's Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 4,
+        "weight": {
+          "grams": null,
+          "ounces": "5.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
