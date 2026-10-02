@@ -4,8 +4,8 @@
   "country": "US",
   "locale": "en",
   "repoUrl": "https://github.com/92-Smallo/rockstar-site-archive",
-  "updatedAt": 1790979861919,
-  "lastEventId": "cac38ced3aec",
+  "updatedAt": 1790981661935,
+  "lastEventId": "f0202f6a9a5e",
   "records": {
     "id:138253": {
       "item": {
@@ -69072,7 +69072,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348545-DE",
-        "stock": 8,
+        "stock": 7,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -69081,7 +69081,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1790981661935
     },
     "id:1539190": {
       "item": {
