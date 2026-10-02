@@ -1,0 +1,526 @@
+{
+  "id": "e5bf5768f547",
+  "at": 1790976261901,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 10,
+  "removedCount": 0,
+  "file": "2026-10-02T21-24-21-901Z-e5bf5768f547.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143207,
+        "longDescription": "",
+        "media": [],
+        "name": "OUTLAWS FOR LIFE Tee (Red on Black) - Men's 1X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "176841-UK",
+        "stock": 1,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "7.3600000"
+        }
+      },
+      "after": {
+        "itemId": 143207,
+        "sku": "176841-UK",
+        "type": "physical_good",
+        "name": "OUTLAWS FOR LIFE Tee (Red on Black) - Men's 1X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 2,
+        "weight": {
+          "grams": null,
+          "ounces": "7.3600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143345,
+        "longDescription": "",
+        "media": [],
+        "name": "Red Dead Redemption 2 Arthur Morgan Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "216918-UK",
+        "stock": 5,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "7.7600000"
+        }
+      },
+      "after": {
+        "itemId": 143345,
+        "sku": "216918-UK",
+        "type": "physical_good",
+        "name": "Red Dead Redemption 2 Arthur Morgan Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 6,
+        "weight": {
+          "grams": null,
+          "ounces": "7.7600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143772,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "76922-US",
+        "stock": 49,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 143772,
+        "sku": "76922-US",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 42,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 155385,
+        "longDescription": "",
+        "media": [],
+        "name": "GTA V Xbox Series X",
+        "price": null,
+        "releaseDate": "2022-04-12T11:00:00+03:00",
+        "sku": "254335-US",
+        "stock": 200,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 155385,
+        "sku": "254335-US",
+        "type": "physical_good",
+        "name": "GTA V Xbox Series X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": "2022-04-12T11:00:00+03:00",
+        "stock": 199,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 456115,
+        "longDescription": "",
+        "media": [],
+        "name": "Red Dead Redemption 2 Standard Edition Xbox One",
+        "price": null,
+        "releaseDate": null,
+        "sku": "305527-US",
+        "stock": 22,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 456115,
+        "sku": "305527-US",
+        "type": "physical_good",
+        "name": "Red Dead Redemption 2 Standard Edition Xbox One",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 20,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131289,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto Trilogy Enamel Pins Set 2",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348556-US",
+        "stock": 10,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        }
+      },
+      "after": {
+        "itemId": 1131289,
+        "sku": "348556-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto Trilogy Enamel Pins Set 2",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 9,
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131290,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Enamel Pins",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348557-US",
+        "stock": 100,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        }
+      },
+      "after": {
+        "itemId": 1131290,
+        "sku": "348557-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Enamel Pins",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 99,
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538829,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Logo Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "23719-DE",
+        "stock": 8,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        }
+      },
+      "after": {
+        "itemId": 1538829,
+        "sku": "23719-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Logo Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 7,
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538831,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "23721-DE",
+        "stock": 2,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.2400000"
+        }
+      },
+      "after": {
+        "itemId": 1538831,
+        "sku": "23721-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 1,
+        "weight": {
+          "grams": null,
+          "ounces": "6.2400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538839,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Hoodie - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "28934-DE",
+        "stock": 1,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "28.5712000"
+        }
+      },
+      "after": {
+        "itemId": 1538839,
+        "sku": "28934-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Hoodie - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 0,
+        "weight": {
+          "grams": null,
+          "ounces": "28.5712000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
