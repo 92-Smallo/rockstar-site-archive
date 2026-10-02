@@ -1,0 +1,118 @@
+{
+  "id": "6cca3976c636",
+  "at": 1790948950377,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 2,
+  "removedCount": 0,
+  "file": "2026-10-02T13-49-10-377Z-6cca3976c636.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142959,
+        "longDescription": "",
+        "media": [],
+        "name": "Black Rockstar Camo Tee - Men's Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "125332-UK",
+        "stock": 6,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "5.1200000"
+        }
+      },
+      "after": {
+        "itemId": 142959,
+        "sku": "125332-UK",
+        "type": "physical_good",
+        "name": "Black Rockstar Camo Tee - Men's Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 3,
+        "weight": {
+          "grams": null,
+          "ounces": "5.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539208,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Logo Water Bottle",
+        "price": null,
+        "releaseDate": null,
+        "sku": "349979-DE",
+        "stock": 27,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.3488000"
+        }
+      },
+      "after": {
+        "itemId": 1539208,
+        "sku": "349979-DE",
+        "type": "physical_good",
+        "name": "Rockstar Games Logo Water Bottle",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 28,
+        "weight": {
+          "grams": null,
+          "ounces": "6.3488000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
