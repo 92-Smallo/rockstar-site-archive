@@ -1,0 +1,67 @@
+{
+  "id": "7516cc483804",
+  "at": 1790945696871,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-02T12-54-56-871Z-7516cc483804.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 144552,
+        "longDescription": "",
+        "media": [],
+        "name": "Knuckleduster Pocket Tee - Men's 1X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "124040-US",
+        "stock": 15,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "7.0544000"
+        }
+      },
+      "after": {
+        "itemId": 144552,
+        "sku": "124040-US",
+        "type": "physical_good",
+        "name": "Knuckleduster Pocket Tee - Men's 1X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 14,
+        "weight": {
+          "grams": null,
+          "ounces": "7.0544000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
