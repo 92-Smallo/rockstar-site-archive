@@ -1,0 +1,679 @@
+{
+  "id": "cac38ced3aec",
+  "at": 1790979861919,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 13,
+  "removedCount": 0,
+  "file": "2026-10-02T22-24-21-919Z-cac38ced3aec.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142959,
+        "longDescription": "",
+        "media": [],
+        "name": "Black Rockstar Camo Tee - Men's Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "125332-UK",
+        "stock": 9,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "5.1200000"
+        }
+      },
+      "after": {
+        "itemId": 142959,
+        "sku": "125332-UK",
+        "type": "physical_good",
+        "name": "Black Rockstar Camo Tee - Men's Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 8,
+        "weight": {
+          "grams": null,
+          "ounces": "5.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143772,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "76922-US",
+        "stock": 42,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 143772,
+        "sku": "76922-US",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 49,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 155385,
+        "longDescription": "",
+        "media": [],
+        "name": "GTA V Xbox Series X",
+        "price": null,
+        "releaseDate": "2022-04-12T11:00:00+03:00",
+        "sku": "254335-US",
+        "stock": 199,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 155385,
+        "sku": "254335-US",
+        "type": "physical_good",
+        "name": "GTA V Xbox Series X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": "2022-04-12T11:00:00+03:00",
+        "stock": 200,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 244088,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games 5 Panel Hat - Reflective Black",
+        "price": null,
+        "releaseDate": null,
+        "sku": "277537-UK",
+        "stock": 175,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        }
+      },
+      "after": {
+        "itemId": 244088,
+        "sku": "277537-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games 5 Panel Hat - Reflective Black",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 174,
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 456115,
+        "longDescription": "",
+        "media": [],
+        "name": "Red Dead Redemption 2 Standard Edition Xbox One",
+        "price": null,
+        "releaseDate": null,
+        "sku": "305527-US",
+        "stock": 20,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 456115,
+        "sku": "305527-US",
+        "type": "physical_good",
+        "name": "Red Dead Redemption 2 Standard Edition Xbox One",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 22,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141687,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto III Screenshot Tee XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348515-UK",
+        "stock": 3,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1141687,
+        "sku": "348515-UK",
+        "type": "physical_good",
+        "name": "Grand Theft Auto III Screenshot Tee XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 2,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141723,
+        "longDescription": "",
+        "media": [],
+        "name": "Navy Rockstar Games Varsity Crewneck XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348551-UK",
+        "stock": 1,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        }
+      },
+      "after": {
+        "itemId": 1141723,
+        "sku": "348551-UK",
+        "type": "physical_good",
+        "name": "Navy Rockstar Games Varsity Crewneck XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 0,
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141726,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Enamel Pins",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348554-UK",
+        "stock": 45,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        }
+      },
+      "after": {
+        "itemId": 1141726,
+        "sku": "348554-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Enamel Pins",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 44,
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141727,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348555-UK",
+        "stock": 35,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        }
+      },
+      "after": {
+        "itemId": 1141727,
+        "sku": "348555-UK",
+        "type": "physical_good",
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 34,
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538829,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Logo Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "23719-DE",
+        "stock": 7,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        }
+      },
+      "after": {
+        "itemId": 1538829,
+        "sku": "23719-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Logo Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 8,
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538831,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "23721-DE",
+        "stock": 1,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.2400000"
+        }
+      },
+      "after": {
+        "itemId": 1538831,
+        "sku": "23721-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 2,
+        "weight": {
+          "grams": null,
+          "ounces": "6.2400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538839,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Hoodie - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "28934-DE",
+        "stock": 0,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "28.5712000"
+        }
+      },
+      "after": {
+        "itemId": 1538839,
+        "sku": "28934-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Hoodie - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 1,
+        "weight": {
+          "grams": null,
+          "ounces": "28.5712000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538897,
+        "longDescription": "",
+        "media": [],
+        "name": "Noise Rockstar Logo Tee - Men's Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "124052-DE",
+        "stock": 3,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "4.0000000"
+        }
+      },
+      "after": {
+        "itemId": 1538897,
+        "sku": "124052-DE",
+        "type": "physical_good",
+        "name": "Noise Rockstar Logo Tee - Men's Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 2,
+        "weight": {
+          "grams": null,
+          "ounces": "4.0000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
