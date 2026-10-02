@@ -4,8 +4,8 @@
   "country": "US",
   "locale": "en",
   "repoUrl": "https://github.com/92-Smallo/rockstar-site-archive",
-  "updatedAt": 1790958253431,
-  "lastEventId": "d7bbb258689a",
+  "updatedAt": 1790961861788,
+  "lastEventId": "242d9959d6f4",
   "records": {
     "id:138253": {
       "item": {
@@ -2068,7 +2068,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "23721-UK",
-        "stock": 4,
+        "stock": 3,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -2077,7 +2077,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1790961861788
     },
     "id:142366": {
       "item": {
@@ -30964,7 +30964,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "76921-US",
-        "stock": 147,
+        "stock": 145,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -30973,7 +30973,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790951198501
+      "lastChangedAt": 1790961861788
     },
     "id:143772": {
       "item": {
@@ -30992,7 +30992,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "76922-US",
-        "stock": 49,
+        "stock": 48,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -31001,7 +31001,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1790961861788
     },
     "id:143773": {
       "item": {
@@ -39812,7 +39812,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "186417-US",
-        "stock": 188,
+        "stock": 187,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -39821,7 +39821,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790956656969
+      "lastChangedAt": 1790961861788
     },
     "id:144268": {
       "item": {
@@ -47064,7 +47064,7 @@
         "price": null,
         "releaseDate": "2022-04-12T11:00:00+03:00",
         "sku": "254335-US",
-        "stock": 200,
+        "stock": 199,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -47073,7 +47073,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1790961861788
     },
     "id:157660": {
       "item": {
@@ -60560,7 +60560,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348557-UK",
-        "stock": 49,
+        "stock": 48,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -60569,7 +60569,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1790961861788
     },
     "id:1141730": {
       "item": {
@@ -60588,7 +60588,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348558-UK",
-        "stock": 65,
+        "stock": 64,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -60597,7 +60597,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1790961861788
     },
     "id:1145679": {
       "item": {
@@ -60728,7 +60728,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348900-UK",
-        "stock": 1,
+        "stock": 0,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -60737,7 +60737,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1790961861788
     },
     "id:1145684": {
       "item": {
@@ -61288,7 +61288,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348896-US",
-        "stock": 8,
+        "stock": 7,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -61297,7 +61297,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1790961861788
     },
     "id:1145714": {
       "item": {

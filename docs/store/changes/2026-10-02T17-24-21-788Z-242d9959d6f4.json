@@ -1,0 +1,475 @@
+{
+  "id": "242d9959d6f4",
+  "at": 1790961861788,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 9,
+  "removedCount": 0,
+  "file": "2026-10-02T17-24-21-788Z-242d9959d6f4.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142365,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "23721-UK",
+        "stock": 4,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.2400000"
+        }
+      },
+      "after": {
+        "itemId": 142365,
+        "sku": "23721-UK",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 3,
+        "weight": {
+          "grams": null,
+          "ounces": "6.2400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143771,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and White - Large",
+        "price": null,
+        "releaseDate": null,
+        "sku": "76921-US",
+        "stock": 147,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 143771,
+        "sku": "76921-US",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and White - Large",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 145,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143772,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "76922-US",
+        "stock": 49,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 143772,
+        "sku": "76922-US",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 48,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 144267,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and Gold - Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "186417-US",
+        "stock": 188,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 144267,
+        "sku": "186417-US",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and Gold - Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 187,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 155385,
+        "longDescription": "",
+        "media": [],
+        "name": "GTA V Xbox Series X",
+        "price": null,
+        "releaseDate": "2022-04-12T11:00:00+03:00",
+        "sku": "254335-US",
+        "stock": 200,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 155385,
+        "sku": "254335-US",
+        "type": "physical_good",
+        "name": "GTA V Xbox Series X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": "2022-04-12T11:00:00+03:00",
+        "stock": 199,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141729,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Enamel Pins",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348557-UK",
+        "stock": 49,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        }
+      },
+      "after": {
+        "itemId": 1141729,
+        "sku": "348557-UK",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Enamel Pins",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 48,
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141730,
+        "longDescription": "",
+        "media": [],
+        "name": "Red Dead Redemption Enamel Pins",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348558-UK",
+        "stock": 65,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        }
+      },
+      "after": {
+        "itemId": 1141730,
+        "sku": "348558-UK",
+        "type": "physical_good",
+        "name": "Red Dead Redemption Enamel Pins",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 64,
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1145683,
+        "longDescription": "",
+        "media": [],
+        "name": "Black Rockstar Games Varsity Crewneck S",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348900-UK",
+        "stock": 1,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        }
+      },
+      "after": {
+        "itemId": 1145683,
+        "sku": "348900-UK",
+        "type": "physical_good",
+        "name": "Black Rockstar Games Varsity Crewneck S",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 0,
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1145713,
+        "longDescription": "",
+        "media": [],
+        "name": "Black Rockstar Games Varsity Crewneck 2XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348896-US",
+        "stock": 8,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.6000000"
+        }
+      },
+      "after": {
+        "itemId": 1145713,
+        "sku": "348896-US",
+        "type": "physical_good",
+        "name": "Black Rockstar Games Varsity Crewneck 2XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 7,
+        "weight": {
+          "grams": null,
+          "ounces": "17.6000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
