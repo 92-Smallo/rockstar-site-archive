@@ -1,0 +1,424 @@
+{
+  "id": "1a184fd51971",
+  "at": 1790956656969,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 8,
+  "removedCount": 0,
+  "file": "2026-10-02T15-57-36-969Z-1a184fd51971.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 144267,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and Gold - Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "186417-US",
+        "stock": 189,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 144267,
+        "sku": "186417-US",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and Gold - Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 188,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 144552,
+        "longDescription": "",
+        "media": [],
+        "name": "Knuckleduster Pocket Tee - Men's 1X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "124040-US",
+        "stock": 14,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "7.0544000"
+        }
+      },
+      "after": {
+        "itemId": 144552,
+        "sku": "124040-US",
+        "type": "physical_good",
+        "name": "Knuckleduster Pocket Tee - Men's 1X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 13,
+        "weight": {
+          "grams": null,
+          "ounces": "7.0544000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131236,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Screenshot Tee XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348503-US",
+        "stock": 15,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131236,
+        "sku": "348503-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Screenshot Tee XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 14,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131241,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: Vice City Screenshot Tee L",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348508-US",
+        "stock": 5,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131241,
+        "sku": "348508-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: Vice City Screenshot Tee L",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 3,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131242,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: Vice City Screenshot Tee XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348509-US",
+        "stock": 17,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131242,
+        "sku": "348509-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: Vice City Screenshot Tee XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 16,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1145715,
+        "longDescription": "",
+        "media": [],
+        "name": "Black Rockstar Games Varsity Crewneck L",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348898-US",
+        "stock": 21,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.6000000"
+        }
+      },
+      "after": {
+        "itemId": 1145715,
+        "sku": "348898-US",
+        "type": "physical_good",
+        "name": "Black Rockstar Games Varsity Crewneck L",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 20,
+        "weight": {
+          "grams": null,
+          "ounces": "17.6000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538920,
+        "longDescription": "",
+        "media": [],
+        "name": "White Rockstar Camo Tee - Men's 1X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "125327-DE",
+        "stock": 6,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.7024000"
+        }
+      },
+      "after": {
+        "itemId": 1538920,
+        "sku": "125327-DE",
+        "type": "physical_good",
+        "name": "White Rockstar Camo Tee - Men's 1X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 5,
+        "weight": {
+          "grams": null,
+          "ounces": "6.7024000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538966,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Tee - Men's Medium",
+        "price": null,
+        "releaseDate": null,
+        "sku": "176172-DE",
+        "stock": 3,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "5.9200000"
+        }
+      },
+      "after": {
+        "itemId": 1538966,
+        "sku": "176172-DE",
+        "type": "physical_good",
+        "name": "Rockstar Games Tee - Men's Medium",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 2,
+        "weight": {
+          "grams": null,
+          "ounces": "5.9200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
