@@ -1,0 +1,67 @@
+{
+  "id": "0a41ffd68b33",
+  "at": 1790946101832,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-02T13-01-41-832Z-0a41ffd68b33.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141717,
+        "longDescription": "",
+        "media": [],
+        "name": "Maroon Rockstar Games Varsity Crewneck XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348545-UK",
+        "stock": 5,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "16.9312000"
+        }
+      },
+      "after": {
+        "itemId": 1141717,
+        "sku": "348545-UK",
+        "type": "physical_good",
+        "name": "Maroon Rockstar Games Varsity Crewneck XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 6,
+        "weight": {
+          "grams": null,
+          "ounces": "16.9312000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
