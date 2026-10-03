@@ -1,0 +1,67 @@
+{
+  "id": "e980b81d1449",
+  "at": 1790987061272,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-03T00-24-21-272Z-e980b81d1449.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 235255,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games 5 Panel Hat - Reflective Black",
+        "price": null,
+        "releaseDate": null,
+        "sku": "277537-US",
+        "stock": 142,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        }
+      },
+      "after": {
+        "itemId": 235255,
+        "sku": "277537-US",
+        "type": "physical_good",
+        "name": "Rockstar Games 5 Panel Hat - Reflective Black",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 141,
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
