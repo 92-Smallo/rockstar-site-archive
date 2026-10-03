@@ -4,8 +4,8 @@
   "country": "US",
   "locale": "en",
   "repoUrl": "https://github.com/92-Smallo/rockstar-site-archive",
-  "updatedAt": 1791018862193,
-  "lastEventId": "b1c6b7a10fd2",
+  "updatedAt": 1791020662204,
+  "lastEventId": "626bc0372c61",
   "records": {
     "id:138253": {
       "item": {
@@ -23152,7 +23152,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "23721-US",
-        "stock": 12,
+        "stock": 13,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -23161,7 +23161,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791017062178
+      "lastChangedAt": 1791020662204
     },
     "id:143465": {
       "item": {
@@ -33120,7 +33120,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "85673-US",
-        "stock": 13,
+        "stock": 14,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -33129,7 +33129,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791017062178
+      "lastChangedAt": 1791020662204
     },
     "id:143850": {
       "item": {
@@ -34352,7 +34352,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "87421-US",
-        "stock": 2,
+        "stock": 1,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -34361,7 +34361,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791020662204
     },
     "id:143895": {
       "item": {
@@ -58544,7 +58544,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348556-US",
-        "stock": 7,
+        "stock": 8,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -58553,7 +58553,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791017062178
+      "lastChangedAt": 1791020662204
     },
     "id:1131290": {
       "item": {
@@ -65320,7 +65320,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "124073-DE",
-        "stock": 4,
+        "stock": 3,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -65329,7 +65329,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791020662204
     },
     "id:1538906": {
       "item": {

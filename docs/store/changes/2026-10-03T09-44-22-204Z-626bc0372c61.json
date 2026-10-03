@@ -1,0 +1,271 @@
+{
+  "id": "626bc0372c61",
+  "at": 1791020662204,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 5,
+  "removedCount": 0,
+  "file": "2026-10-03T09-44-22-204Z-626bc0372c61.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143464,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "23721-US",
+        "stock": 12,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.2400000"
+        }
+      },
+      "after": {
+        "itemId": 143464,
+        "sku": "23721-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 13,
+        "weight": {
+          "grams": null,
+          "ounces": "6.2400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143849,
+        "longDescription": "",
+        "media": [],
+        "name": "CNT Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "85673-US",
+        "stock": 13,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "7.7600000"
+        }
+      },
+      "after": {
+        "itemId": 143849,
+        "sku": "85673-US",
+        "type": "physical_good",
+        "name": "CNT Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 14,
+        "weight": {
+          "grams": null,
+          "ounces": "7.7600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143894,
+        "longDescription": "",
+        "media": [],
+        "name": "Loneliest Robot Greeting Card",
+        "price": null,
+        "releaseDate": null,
+        "sku": "87421-US",
+        "stock": 2,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": ".6400000"
+        }
+      },
+      "after": {
+        "itemId": 143894,
+        "sku": "87421-US",
+        "type": "physical_good",
+        "name": "Loneliest Robot Greeting Card",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 1,
+        "weight": {
+          "grams": null,
+          "ounces": ".6400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131289,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto Trilogy Enamel Pins Set 2",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348556-US",
+        "stock": 7,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        }
+      },
+      "after": {
+        "itemId": 1131289,
+        "sku": "348556-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto Trilogy Enamel Pins Set 2",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 8,
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538905,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Logo White Out Tee - Men's 3X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "124073-DE",
+        "stock": 4,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "9.5232000"
+        }
+      },
+      "after": {
+        "itemId": 1538905,
+        "sku": "124073-DE",
+        "type": "physical_good",
+        "name": "Rockstar Logo White Out Tee - Men's 3X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 3,
+        "weight": {
+          "grams": null,
+          "ounces": "9.5232000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
