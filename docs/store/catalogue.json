@@ -4,8 +4,8 @@
   "country": "US",
   "locale": "en",
   "repoUrl": "https://github.com/92-Smallo/rockstar-site-archive",
-  "updatedAt": 1791061762474,
-  "lastEventId": "aa0cf5f65d95",
+  "updatedAt": 1791065362508,
+  "lastEventId": "a022a33342b9",
   "records": {
     "id:138253": {
       "item": {
@@ -5204,7 +5204,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "42103-UK",
-        "stock": 2,
+        "stock": 1,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -5213,7 +5213,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791065362508
     },
     "id:142505": {
       "item": {
@@ -14444,7 +14444,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "124052-UK",
-        "stock": 3,
+        "stock": 2,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -14453,7 +14453,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791065362508
     },
     "id:142893": {
       "item": {
@@ -22116,7 +22116,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "234626-UK",
-        "stock": 26,
+        "stock": 27,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -22125,7 +22125,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791061762474
+      "lastChangedAt": 1791065362508
     },
     "id:143428": {
       "item": {
@@ -65152,7 +65152,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "124059-DE",
-        "stock": 4,
+        "stock": 3,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -65161,7 +65161,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791065362508
     },
     "id:1538900": {
       "item": {

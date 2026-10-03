@@ -1,0 +1,220 @@
+{
+  "id": "a022a33342b9",
+  "at": 1791065362508,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 4,
+  "removedCount": 0,
+  "file": "2026-10-03T22-09-22-508Z-a022a33342b9.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142504,
+        "longDescription": "",
+        "media": [],
+        "name": "Barcode Tee - Women's Medium",
+        "price": null,
+        "releaseDate": null,
+        "sku": "42103-UK",
+        "stock": 2,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.7600000"
+        }
+      },
+      "after": {
+        "itemId": 142504,
+        "sku": "42103-UK",
+        "type": "physical_good",
+        "name": "Barcode Tee - Women's Medium",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 1,
+        "weight": {
+          "grams": null,
+          "ounces": "3.7600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142892,
+        "longDescription": "",
+        "media": [],
+        "name": "Noise Rockstar Logo Tee - Men's Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "124052-UK",
+        "stock": 3,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "4.0000000"
+        }
+      },
+      "after": {
+        "itemId": 142892,
+        "sku": "124052-UK",
+        "type": "physical_good",
+        "name": "Noise Rockstar Logo Tee - Men's Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 2,
+        "weight": {
+          "grams": null,
+          "ounces": "4.0000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143427,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "price": null,
+        "releaseDate": null,
+        "sku": "234626-UK",
+        "stock": 26,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 143427,
+        "sku": "234626-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 27,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538899,
+        "longDescription": "",
+        "media": [],
+        "name": "Noise Rockstar Logo Tee - Women's Large",
+        "price": null,
+        "releaseDate": null,
+        "sku": "124059-DE",
+        "stock": 4,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "5.1200000"
+        }
+      },
+      "after": {
+        "itemId": 1538899,
+        "sku": "124059-DE",
+        "type": "physical_good",
+        "name": "Noise Rockstar Logo Tee - Women's Large",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 3,
+        "weight": {
+          "grams": null,
+          "ounces": "5.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
