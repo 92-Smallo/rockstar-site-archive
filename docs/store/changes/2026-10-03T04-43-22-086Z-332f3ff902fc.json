@@ -1,0 +1,271 @@
+{
+  "id": "332f3ff902fc",
+  "at": 1791002602086,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 5,
+  "removedCount": 0,
+  "file": "2026-10-03T04-43-22-086Z-332f3ff902fc.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131240,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: Vice City Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348507-US",
+        "stock": 6,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131240,
+        "sku": "348507-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: Vice City Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 7,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131241,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: Vice City Screenshot Tee L",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348508-US",
+        "stock": 3,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131241,
+        "sku": "348508-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: Vice City Screenshot Tee L",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 2,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131246,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto III Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348513-US",
+        "stock": 20,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131246,
+        "sku": "348513-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto III Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 19,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131288,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348555-US",
+        "stock": 84,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        }
+      },
+      "after": {
+        "itemId": 1131288,
+        "sku": "348555-US",
+        "type": "physical_good",
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 85,
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1145722,
+        "longDescription": "",
+        "media": [],
+        "name": "Red Dead Redemption 2 Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348905-US",
+        "stock": 30,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1145722,
+        "sku": "348905-US",
+        "type": "physical_good",
+        "name": "Red Dead Redemption 2 Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 31,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
