@@ -1,0 +1,169 @@
+{
+  "id": "ba79f5a2c1cf",
+  "at": 1791006202110,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 3,
+  "removedCount": 0,
+  "file": "2026-10-03T05-43-22-110Z-ba79f5a2c1cf.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143772,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "76922-US",
+        "stock": 49,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 143772,
+        "sku": "76922-US",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 43,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 456115,
+        "longDescription": "",
+        "media": [],
+        "name": "Red Dead Redemption 2 Standard Edition Xbox One",
+        "price": null,
+        "releaseDate": null,
+        "sku": "305527-US",
+        "stock": 22,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 456115,
+        "sku": "305527-US",
+        "type": "physical_good",
+        "name": "Red Dead Redemption 2 Standard Edition Xbox One",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 21,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131259,
+        "longDescription": "",
+        "media": [],
+        "name": "Manhunt Screenshot Tee L",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348526-US",
+        "stock": 26,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131259,
+        "sku": "348526-US",
+        "type": "physical_good",
+        "name": "Manhunt Screenshot Tee L",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 25,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
