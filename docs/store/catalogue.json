@@ -4,8 +4,8 @@
   "country": "US",
   "locale": "en",
   "repoUrl": "https://github.com/92-Smallo/rockstar-site-archive",
-  "updatedAt": 1791006202110,
-  "lastEventId": "ba79f5a2c1cf",
+  "updatedAt": 1791009802139,
+  "lastEventId": "2c7c8db5ab7b",
   "records": {
     "id:138253": {
       "item": {
@@ -18392,7 +18392,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "176172-UK",
-        "stock": 1,
+        "stock": 0,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -18401,7 +18401,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791009802139
     },
     "id:143136": {
       "item": {
@@ -30992,7 +30992,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "76922-US",
-        "stock": 43,
+        "stock": 49,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -31001,7 +31001,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791006202110
+      "lastChangedAt": 1791009802139
     },
     "id:143773": {
       "item": {
@@ -50116,7 +50116,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "305527-US",
-        "stock": 21,
+        "stock": 22,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -50125,7 +50125,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791006202110
+      "lastChangedAt": 1791009802139
     },
     "id:472180": {
       "item": {
@@ -58516,7 +58516,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348555-US",
-        "stock": 85,
+        "stock": 84,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -58525,7 +58525,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791002602086
+      "lastChangedAt": 1791009802139
     },
     "id:1131289": {
       "item": {
