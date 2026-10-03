@@ -1,0 +1,169 @@
+{
+  "id": "8689e2897c35",
+  "at": 1791047302358,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 3,
+  "removedCount": 0,
+  "file": "2026-10-03T17-08-22-358Z-8689e2897c35.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143427,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "price": null,
+        "releaseDate": null,
+        "sku": "234626-UK",
+        "stock": 28,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 143427,
+        "sku": "234626-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 27,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 144158,
+        "longDescription": "",
+        "media": [],
+        "name": "RM Red Dead Redemption 2 Black Glass Candle",
+        "price": null,
+        "releaseDate": null,
+        "sku": "175402-US",
+        "stock": 34,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "23.2000000"
+        }
+      },
+      "after": {
+        "itemId": 144158,
+        "sku": "175402-US",
+        "type": "physical_good",
+        "name": "RM Red Dead Redemption 2 Black Glass Candle",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 33,
+        "weight": {
+          "grams": null,
+          "ounces": "23.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539082,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Ashtray",
+        "price": null,
+        "releaseDate": null,
+        "sku": "293513-DE",
+        "stock": 50,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "32.8048000"
+        }
+      },
+      "after": {
+        "itemId": 1539082,
+        "sku": "293513-DE",
+        "type": "physical_good",
+        "name": "Rockstar Games Ashtray",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 49,
+        "weight": {
+          "grams": null,
+          "ounces": "32.8048000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
