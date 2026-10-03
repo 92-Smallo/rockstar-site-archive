@@ -1,0 +1,271 @@
+{
+  "id": "384a35ff94f2",
+  "at": 1791034487693,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 5,
+  "removedCount": 0,
+  "file": "2026-10-03T13-34-47-693Z-384a35ff94f2.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143427,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "price": null,
+        "releaseDate": null,
+        "sku": "234626-UK",
+        "stock": 28,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 143427,
+        "sku": "234626-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 27,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143771,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and White - Large",
+        "price": null,
+        "releaseDate": null,
+        "sku": "76921-US",
+        "stock": 146,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 143771,
+        "sku": "76921-US",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and White - Large",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 145,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 455003,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Sock Pack - Tie-Dye - L/XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "293571-UK",
+        "stock": 111,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "8.1600000"
+        }
+      },
+      "after": {
+        "itemId": 455003,
+        "sku": "293571-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Sock Pack - Tie-Dye - L/XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 110,
+        "weight": {
+          "grams": null,
+          "ounces": "8.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1145715,
+        "longDescription": "",
+        "media": [],
+        "name": "Black Rockstar Games Varsity Crewneck L",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348898-US",
+        "stock": 20,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.6000000"
+        }
+      },
+      "after": {
+        "itemId": 1145715,
+        "sku": "348898-US",
+        "type": "physical_good",
+        "name": "Black Rockstar Games Varsity Crewneck L",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 19,
+        "weight": {
+          "grams": null,
+          "ounces": "17.6000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538897,
+        "longDescription": "",
+        "media": [],
+        "name": "Noise Rockstar Logo Tee - Men's Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "124052-DE",
+        "stock": 2,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "4.0000000"
+        }
+      },
+      "after": {
+        "itemId": 1538897,
+        "sku": "124052-DE",
+        "type": "physical_good",
+        "name": "Noise Rockstar Logo Tee - Men's Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 1,
+        "weight": {
+          "grams": null,
+          "ounces": "4.0000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
