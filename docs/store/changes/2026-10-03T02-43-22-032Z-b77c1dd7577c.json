@@ -1,0 +1,67 @@
+{
+  "id": "b77c1dd7577c",
+  "at": 1790995402032,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-03T02-43-22-032Z-b77c1dd7577c.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 144194,
+        "longDescription": "",
+        "media": [],
+        "name": "REDEMPTION Tee (White on Red) - Men's Medium",
+        "price": null,
+        "releaseDate": null,
+        "sku": "176188-US",
+        "stock": 51,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        }
+      },
+      "after": {
+        "itemId": 144194,
+        "sku": "176188-US",
+        "type": "physical_good",
+        "name": "REDEMPTION Tee (White on Red) - Men's Medium",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 50,
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
