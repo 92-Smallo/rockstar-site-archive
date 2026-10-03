@@ -1,0 +1,169 @@
+{
+  "id": "4bb89f0ec05d",
+  "at": 1791023951328,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 3,
+  "removedCount": 0,
+  "file": "2026-10-03T10-39-11-328Z-4bb89f0ec05d.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141687,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto III Screenshot Tee XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348515-UK",
+        "stock": 3,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1141687,
+        "sku": "348515-UK",
+        "type": "physical_good",
+        "name": "Grand Theft Auto III Screenshot Tee XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 2,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538964,
+        "longDescription": "",
+        "media": [],
+        "name": "RM Red Dead Redemption 2 Metal Earth Maxim",
+        "price": null,
+        "releaseDate": null,
+        "sku": "175415-DE",
+        "stock": 14,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "1.6000000"
+        }
+      },
+      "after": {
+        "itemId": 1538964,
+        "sku": "175415-DE",
+        "type": "physical_good",
+        "name": "RM Red Dead Redemption 2 Metal Earth Maxim",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 13,
+        "weight": {
+          "grams": null,
+          "ounces": "1.6000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539054,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "price": null,
+        "releaseDate": null,
+        "sku": "234626-DE",
+        "stock": 71,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 1539054,
+        "sku": "234626-DE",
+        "type": "physical_good",
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 69,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
