@@ -1,0 +1,67 @@
+{
+  "id": "ff7f5e9026e1",
+  "at": 1791070462548,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-03T23-34-22-548Z-ff7f5e9026e1.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539190,
+        "longDescription": "",
+        "media": [],
+        "name": "Navy Rockstar Games Varsity Crewneck S",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348548-DE",
+        "stock": 4,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        }
+      },
+      "after": {
+        "itemId": 1539190,
+        "sku": "348548-DE",
+        "type": "physical_good",
+        "name": "Navy Rockstar Games Varsity Crewneck S",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 3,
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
