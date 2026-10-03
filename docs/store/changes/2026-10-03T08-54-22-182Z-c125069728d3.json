@@ -1,0 +1,220 @@
+{
+  "id": "c125069728d3",
+  "at": 1791017662182,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 4,
+  "removedCount": 0,
+  "file": "2026-10-03T08-54-22-182Z-c125069728d3.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539167,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348519-DE",
+        "stock": 13,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1539167,
+        "sku": "348519-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 14,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539195,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348555-DE",
+        "stock": 50,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        }
+      },
+      "after": {
+        "itemId": 1539195,
+        "sku": "348555-DE",
+        "type": "physical_good",
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 49,
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539196,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto Trilogy Enamel Pins Set 2",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348556-DE",
+        "stock": 17,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        }
+      },
+      "after": {
+        "itemId": 1539196,
+        "sku": "348556-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto Trilogy Enamel Pins Set 2",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 16,
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539197,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Enamel Pins",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348557-DE",
+        "stock": 63,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        }
+      },
+      "after": {
+        "itemId": 1539197,
+        "sku": "348557-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Enamel Pins",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 62,
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
