@@ -1,0 +1,67 @@
+{
+  "id": "63948514c2c2",
+  "at": 1791031061758,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-03T12-37-41-758Z-63948514c2c2.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 455003,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Sock Pack - Tie-Dye - L/XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "293571-UK",
+        "stock": 110,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "8.1600000"
+        }
+      },
+      "after": {
+        "itemId": 455003,
+        "sku": "293571-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Sock Pack - Tie-Dye - L/XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 111,
+        "weight": {
+          "grams": null,
+          "ounces": "8.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
