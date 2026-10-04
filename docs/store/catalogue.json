@@ -4,8 +4,8 @@
   "country": "US",
   "locale": "en",
   "repoUrl": "https://github.com/92-Smallo/rockstar-site-archive",
-  "updatedAt": 1791090562695,
-  "lastEventId": "4b8ad95d26fa",
+  "updatedAt": 1791097762746,
+  "lastEventId": "ce8b535ed49c",
   "records": {
     "id:138253": {
       "item": {
@@ -61372,7 +61372,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348899-US",
-        "stock": 46,
+        "stock": 45,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -61381,7 +61381,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791083362639
+      "lastChangedAt": 1791097762746
     },
     "id:1145717": {
       "item": {
@@ -61400,7 +61400,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348900-US",
-        "stock": 22,
+        "stock": 21,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -61409,7 +61409,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791097762746
     },
     "id:1145718": {
       "item": {
@@ -65880,7 +65880,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "175415-DE",
-        "stock": 13,
+        "stock": 12,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -65889,7 +65889,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791023951328
+      "lastChangedAt": 1791097762746
     },
     "id:1538965": {
       "item": {
