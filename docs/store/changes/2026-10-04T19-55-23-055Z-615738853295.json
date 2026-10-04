@@ -1,0 +1,271 @@
+{
+  "id": "615738853295",
+  "at": 1791143723055,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 5,
+  "removedCount": 0,
+  "file": "2026-10-04T19-55-23-055Z-615738853295.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131235,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Screenshot Tee L",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348502-US",
+        "stock": 40,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131235,
+        "sku": "348502-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Screenshot Tee L",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 41,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131252,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348519-US",
+        "stock": 12,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131252,
+        "sku": "348519-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 13,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538829,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Logo Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "23719-DE",
+        "stock": 6,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        }
+      },
+      "after": {
+        "itemId": 1538829,
+        "sku": "23719-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Logo Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 5,
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538831,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Tee - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "23721-DE",
+        "stock": 2,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.2400000"
+        }
+      },
+      "after": {
+        "itemId": 1538831,
+        "sku": "23721-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Tee - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 1,
+        "weight": {
+          "grams": null,
+          "ounces": "6.2400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538839,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Hoodie - Men's 2X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "28934-DE",
+        "stock": 1,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "28.5712000"
+        }
+      },
+      "after": {
+        "itemId": 1538839,
+        "sku": "28934-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Hoodie - Men's 2X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 0,
+        "weight": {
+          "grams": null,
+          "ounces": "28.5712000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
