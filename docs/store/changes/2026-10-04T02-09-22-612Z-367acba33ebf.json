@@ -1,0 +1,526 @@
+{
+  "id": "367acba33ebf",
+  "at": 1791079762612,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 10,
+  "removedCount": 0,
+  "file": "2026-10-04T02-09-22-612Z-367acba33ebf.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 819441,
+        "longDescription": "",
+        "media": [],
+        "name": "Vice Candle",
+        "price": null,
+        "releaseDate": null,
+        "sku": "310473-UK",
+        "stock": 20,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.6368000"
+        }
+      },
+      "after": {
+        "itemId": 819441,
+        "sku": "310473-UK",
+        "type": "physical_good",
+        "name": "Vice Candle",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 19,
+        "weight": {
+          "grams": null,
+          "ounces": "17.6368000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 819442,
+        "longDescription": "",
+        "media": [],
+        "name": "Liberty Candle",
+        "price": null,
+        "releaseDate": null,
+        "sku": "310482-UK",
+        "stock": 15,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.6368000"
+        }
+      },
+      "after": {
+        "itemId": 819442,
+        "sku": "310482-UK",
+        "type": "physical_good",
+        "name": "Liberty Candle",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 14,
+        "weight": {
+          "grams": null,
+          "ounces": "17.6368000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131228,
+        "longDescription": "",
+        "media": [],
+        "name": "Midnight Club: Los Angeles Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348495-US",
+        "stock": 23,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131228,
+        "sku": "348495-US",
+        "type": "physical_good",
+        "name": "Midnight Club: Los Angeles Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 22,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131240,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: Vice City Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348507-US",
+        "stock": 7,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131240,
+        "sku": "348507-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: Vice City Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 6,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131246,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto III Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348513-US",
+        "stock": 19,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131246,
+        "sku": "348513-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto III Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 18,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131252,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348519-US",
+        "stock": 14,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131252,
+        "sku": "348519-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 13,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131258,
+        "longDescription": "",
+        "media": [],
+        "name": "Manhunt Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348525-US",
+        "stock": 31,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131258,
+        "sku": "348525-US",
+        "type": "physical_good",
+        "name": "Manhunt Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 30,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131270,
+        "longDescription": "",
+        "media": [],
+        "name": "Red Dead Redemption Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348537-US",
+        "stock": 8,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131270,
+        "sku": "348537-US",
+        "type": "physical_good",
+        "name": "Red Dead Redemption Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 7,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1145716,
+        "longDescription": "",
+        "media": [],
+        "name": "Black Rockstar Games Varsity Crewneck M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348899-US",
+        "stock": 46,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        }
+      },
+      "after": {
+        "itemId": 1145716,
+        "sku": "348899-US",
+        "type": "physical_good",
+        "name": "Black Rockstar Games Varsity Crewneck M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 45,
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1180320,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Logo Water Bottle",
+        "price": null,
+        "releaseDate": null,
+        "sku": "349979-UK",
+        "stock": 29,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.3488000"
+        }
+      },
+      "after": {
+        "itemId": 1180320,
+        "sku": "349979-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Logo Water Bottle",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 28,
+        "weight": {
+          "grams": null,
+          "ounces": "6.3488000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
