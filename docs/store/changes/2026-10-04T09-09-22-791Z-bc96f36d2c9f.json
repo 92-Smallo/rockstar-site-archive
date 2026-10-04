@@ -1,0 +1,271 @@
+{
+  "id": "bc96f36d2c9f",
+  "at": 1791104962791,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 5,
+  "removedCount": 0,
+  "file": "2026-10-04T09-09-22-791Z-bc96f36d2c9f.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142637,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and White - Large",
+        "price": null,
+        "releaseDate": null,
+        "sku": "76921-UK",
+        "stock": 51,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 142637,
+        "sku": "76921-UK",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and White - Large",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 49,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143427,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "price": null,
+        "releaseDate": null,
+        "sku": "234626-UK",
+        "stock": 27,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 143427,
+        "sku": "234626-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 26,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 542879,
+        "longDescription": "",
+        "media": [],
+        "name": "Say Sorry Be Nice Welcome Mat",
+        "price": null,
+        "releaseDate": null,
+        "sku": "310518-US",
+        "stock": 45,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "61.8400000"
+        }
+      },
+      "after": {
+        "itemId": 542879,
+        "sku": "310518-US",
+        "type": "physical_good",
+        "name": "Say Sorry Be Nice Welcome Mat",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 44,
+        "weight": {
+          "grams": null,
+          "ounces": "61.8400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131242,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: Vice City Screenshot Tee XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348509-US",
+        "stock": 16,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131242,
+        "sku": "348509-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: Vice City Screenshot Tee XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 17,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141729,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Enamel Pins",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348557-UK",
+        "stock": 48,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        }
+      },
+      "after": {
+        "itemId": 1141729,
+        "sku": "348557-UK",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Enamel Pins",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 47,
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
