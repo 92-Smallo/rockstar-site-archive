@@ -1,0 +1,118 @@
+{
+  "id": "3123d649ce65",
+  "at": 1791148223100,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 2,
+  "removedCount": 0,
+  "file": "2026-10-04T21-10-23-100Z-3123d649ce65.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539195,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348555-DE",
+        "stock": 48,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        }
+      },
+      "after": {
+        "itemId": 1539195,
+        "sku": "348555-DE",
+        "type": "physical_good",
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 47,
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539196,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto Trilogy Enamel Pins Set 2",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348556-DE",
+        "stock": 17,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        }
+      },
+      "after": {
+        "itemId": 1539196,
+        "sku": "348556-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto Trilogy Enamel Pins Set 2",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 16,
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
