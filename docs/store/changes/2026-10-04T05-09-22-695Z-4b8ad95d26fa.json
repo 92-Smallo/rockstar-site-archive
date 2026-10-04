@@ -1,0 +1,169 @@
+{
+  "id": "4b8ad95d26fa",
+  "at": 1791090562695,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 3,
+  "removedCount": 0,
+  "file": "2026-10-04T05-09-22-695Z-4b8ad95d26fa.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143491,
+        "longDescription": "",
+        "media": [],
+        "name": "Republican Space Rangers Tee - Men's 1X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "24295-US",
+        "stock": 18,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "8.4800000"
+        }
+      },
+      "after": {
+        "itemId": 143491,
+        "sku": "24295-US",
+        "type": "physical_good",
+        "name": "Republican Space Rangers Tee - Men's 1X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 17,
+        "weight": {
+          "grams": null,
+          "ounces": "8.4800000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 394165,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Canvas Tote",
+        "price": null,
+        "releaseDate": null,
+        "sku": "293512-US",
+        "stock": 34,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "14.8144000"
+        }
+      },
+      "after": {
+        "itemId": 394165,
+        "sku": "293512-US",
+        "type": "physical_good",
+        "name": "Rockstar Games Canvas Tote",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 33,
+        "weight": {
+          "grams": null,
+          "ounces": "14.8144000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1179058,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Varsity Water Bottle",
+        "price": null,
+        "releaseDate": null,
+        "sku": "349978-US",
+        "stock": 20,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.3488000"
+        }
+      },
+      "after": {
+        "itemId": 1179058,
+        "sku": "349978-US",
+        "type": "physical_good",
+        "name": "Rockstar Games Varsity Water Bottle",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 19,
+        "weight": {
+          "grams": null,
+          "ounces": "6.3488000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
