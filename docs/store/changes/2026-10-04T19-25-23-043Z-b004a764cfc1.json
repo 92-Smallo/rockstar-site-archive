@@ -1,0 +1,169 @@
+{
+  "id": "b004a764cfc1",
+  "at": 1791141923043,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 3,
+  "removedCount": 0,
+  "file": "2026-10-04T19-25-23-043Z-b004a764cfc1.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539167,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348519-DE",
+        "stock": 14,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1539167,
+        "sku": "348519-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 13,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539168,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee L",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348520-DE",
+        "stock": 17,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1539168,
+        "sku": "348520-DE",
+        "type": "physical_good",
+        "name": "Grand Theft Auto: San Andreas Screenshot Tee L",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 16,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539189,
+        "longDescription": "",
+        "media": [],
+        "name": "Maroon Rockstar Games Varsity Crewneck XL",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348545-DE",
+        "stock": 8,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "16.9312000"
+        }
+      },
+      "after": {
+        "itemId": 1539189,
+        "sku": "348545-DE",
+        "type": "physical_good",
+        "name": "Maroon Rockstar Games Varsity Crewneck XL",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 7,
+        "weight": {
+          "grams": null,
+          "ounces": "16.9312000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
