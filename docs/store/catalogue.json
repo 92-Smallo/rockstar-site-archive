@@ -4,8 +4,8 @@
   "country": "US",
   "locale": "en",
   "repoUrl": "https://github.com/92-Smallo/rockstar-site-archive",
-  "updatedAt": 1791121222892,
-  "lastEventId": "776e2e679c00",
+  "updatedAt": 1791122122898,
+  "lastEventId": "b7d6fb8172ba",
   "records": {
     "id:138253": {
       "item": {
@@ -61428,7 +61428,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348901-US",
-        "stock": 20,
+        "stock": 19,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -61437,7 +61437,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790972661869
+      "lastChangedAt": 1791122122898
     },
     "id:1145719": {
       "item": {
@@ -66496,7 +66496,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "176227-DE",
-        "stock": 1,
+        "stock": 0,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -66505,7 +66505,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791122122898
     },
     "id:1538987": {
       "item": {
@@ -66636,7 +66636,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "176814-DE",
-        "stock": 55,
+        "stock": 54,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -66645,7 +66645,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791122122898
     },
     "id:1538992": {
       "item": {
@@ -67196,7 +67196,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "234626-DE",
-        "stock": 69,
+        "stock": 68,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -67205,7 +67205,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791023951328
+      "lastChangedAt": 1791122122898
     },
     "id:1539055": {
       "item": {
