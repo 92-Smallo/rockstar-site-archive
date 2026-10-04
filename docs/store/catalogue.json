@@ -4,8 +4,8 @@
   "country": "US",
   "locale": "en",
   "repoUrl": "https://github.com/92-Smallo/rockstar-site-archive",
-  "updatedAt": 1791148223100,
-  "lastEventId": "3123d649ce65",
+  "updatedAt": 1791150983116,
+  "lastEventId": "087ad7a4e2d3",
   "records": {
     "id:138253": {
       "item": {
@@ -22116,7 +22116,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "234626-UK",
-        "stock": 24,
+        "stock": 25,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -22125,7 +22125,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791147323089
+      "lastChangedAt": 1791150983116
     },
     "id:143428": {
       "item": {
@@ -60000,7 +60000,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348537-UK",
-        "stock": 6,
+        "stock": 5,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -60009,7 +60009,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791150983116
     },
     "id:1141710": {
       "item": {
@@ -60868,7 +60868,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348905-UK",
-        "stock": 9,
+        "stock": 8,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -60877,7 +60877,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790937371221
+      "lastChangedAt": 1791150983116
     },
     "id:1145689": {
       "item": {
@@ -67196,7 +67196,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "234626-DE",
-        "stock": 68,
+        "stock": 67,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -67205,7 +67205,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791122122898
+      "lastChangedAt": 1791150983116
     },
     "id:1539055": {
       "item": {
