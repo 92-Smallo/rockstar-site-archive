@@ -1,0 +1,220 @@
+{
+  "id": "418279e3ca0c",
+  "at": 1791136523001,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 4,
+  "removedCount": 0,
+  "file": "2026-10-04T17-55-23-001Z-418279e3ca0c.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142927,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Logo Black Out Tee - Men's 3X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "124089-UK",
+        "stock": 10,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "9.5232000"
+        }
+      },
+      "after": {
+        "itemId": 142927,
+        "sku": "124089-UK",
+        "type": "physical_good",
+        "name": "Rockstar Logo Black Out Tee - Men's 3X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 9,
+        "weight": {
+          "grams": null,
+          "ounces": "9.5232000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143244,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and Gold - Large",
+        "price": null,
+        "releaseDate": null,
+        "sku": "186418-UK",
+        "stock": 8,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 143244,
+        "sku": "186418-UK",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and Gold - Large",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 7,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143771,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and White - Large",
+        "price": null,
+        "releaseDate": null,
+        "sku": "76921-US",
+        "stock": 144,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 143771,
+        "sku": "76921-US",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and White - Large",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 143,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1180322,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Logo Baggu",
+        "price": null,
+        "releaseDate": null,
+        "sku": "349980-UK",
+        "stock": 39,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "21.0400000"
+        }
+      },
+      "after": {
+        "itemId": 1180322,
+        "sku": "349980-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Logo Baggu",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 38,
+        "weight": {
+          "grams": null,
+          "ounces": "21.0400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
