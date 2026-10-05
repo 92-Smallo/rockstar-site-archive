@@ -4,8 +4,8 @@
   "country": "US",
   "locale": "en",
   "repoUrl": "https://github.com/92-Smallo/rockstar-site-archive",
-  "updatedAt": 1791220343654,
-  "lastEventId": "34c2d8d37d02",
+  "updatedAt": 1791221157660,
+  "lastEventId": "12379acf2434",
   "records": {
     "id:138253": {
       "item": {
@@ -30964,7 +30964,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "76921-US",
-        "stock": 143,
+        "stock": 142,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -30973,7 +30973,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791136523001
+      "lastChangedAt": 1791221157660
     },
     "id:143772": {
       "item": {
@@ -30992,7 +30992,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "76922-US",
-        "stock": 49,
+        "stock": 48,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -31001,7 +31001,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791183383345
+      "lastChangedAt": 1791221157660
     },
     "id:143773": {
       "item": {
@@ -39812,7 +39812,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "186417-US",
-        "stock": 188,
+        "stock": 187,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -39821,7 +39821,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790965461814
+      "lastChangedAt": 1791221157660
     },
     "id:144268": {
       "item": {
@@ -47064,7 +47064,7 @@
         "price": null,
         "releaseDate": "2022-04-12T11:00:00+03:00",
         "sku": "254335-US",
-        "stock": 200,
+        "stock": 199,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -47073,7 +47073,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791183383345
+      "lastChangedAt": 1791221157660
     },
     "id:157660": {
       "item": {
@@ -60504,7 +60504,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348555-UK",
-        "stock": 33,
+        "stock": 32,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -60513,7 +60513,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791154583144
+      "lastChangedAt": 1791221157660
     },
     "id:1141728": {
       "item": {
@@ -60532,7 +60532,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348556-UK",
-        "stock": 1,
+        "stock": 0,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -60541,7 +60541,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791154583144
+      "lastChangedAt": 1791221157660
     },
     "id:1141729": {
       "item": {
@@ -60560,7 +60560,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "348557-UK",
-        "stock": 47,
+        "stock": 46,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -60569,7 +60569,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791111262830
+      "lastChangedAt": 1791221157660
     },
     "id:1141730": {
       "item": {
