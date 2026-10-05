@@ -1,0 +1,67 @@
+{
+  "id": "d2a19752bdfd",
+  "at": 1791183083345,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-05T06-51-23-345Z-d2a19752bdfd.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539209,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Logo Baggu",
+        "price": null,
+        "releaseDate": null,
+        "sku": "349980-DE",
+        "stock": 44,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "21.0400000"
+        }
+      },
+      "after": {
+        "itemId": 1539209,
+        "sku": "349980-DE",
+        "type": "physical_good",
+        "name": "Rockstar Games Logo Baggu",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 43,
+        "weight": {
+          "grams": null,
+          "ounces": "21.0400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
