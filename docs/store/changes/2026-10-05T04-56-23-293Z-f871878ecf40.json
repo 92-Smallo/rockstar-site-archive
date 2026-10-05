@@ -1,0 +1,67 @@
+{
+  "id": "f871878ecf40",
+  "at": 1791176183293,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-05T04-56-23-293Z-f871878ecf40.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131288,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348555-US",
+        "stock": 83,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        }
+      },
+      "after": {
+        "itemId": 1131288,
+        "sku": "348555-US",
+        "type": "physical_good",
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 84,
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
