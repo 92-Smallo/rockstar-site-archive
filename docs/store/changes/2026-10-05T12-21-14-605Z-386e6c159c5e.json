@@ -1,0 +1,67 @@
+{
+  "id": "386e6c159c5e",
+  "at": 1791202874605,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-05T12-21-14-605Z-386e6c159c5e.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143500,
+        "longDescription": "",
+        "media": [],
+        "name": "Leather Dog Collar/Leash Large",
+        "price": null,
+        "releaseDate": null,
+        "sku": "28906-US",
+        "stock": 32,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.2400000"
+        }
+      },
+      "after": {
+        "itemId": 143500,
+        "sku": "28906-US",
+        "type": "physical_good",
+        "name": "Leather Dog Collar/Leash Large",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 31,
+        "weight": {
+          "grams": null,
+          "ounces": "10.2400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
