@@ -1,0 +1,118 @@
+{
+  "id": "624a585e994c",
+  "at": 1791198653076,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 2,
+  "removedCount": 0,
+  "file": "2026-10-05T11-10-53-076Z-624a585e994c.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142892,
+        "longDescription": "",
+        "media": [],
+        "name": "Noise Rockstar Logo Tee - Men's Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "124052-UK",
+        "stock": 1,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "4.0000000"
+        }
+      },
+      "after": {
+        "itemId": 142892,
+        "sku": "124052-UK",
+        "type": "physical_good",
+        "name": "Noise Rockstar Logo Tee - Men's Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 0,
+        "weight": {
+          "grams": null,
+          "ounces": "4.0000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1141715,
+        "longDescription": "",
+        "media": [],
+        "name": "Maroon Rockstar Games Varsity Crewneck M",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348543-UK",
+        "stock": 2,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        }
+      },
+      "after": {
+        "itemId": 1141715,
+        "sku": "348543-UK",
+        "type": "physical_good",
+        "name": "Maroon Rockstar Games Varsity Crewneck M",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 1,
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
