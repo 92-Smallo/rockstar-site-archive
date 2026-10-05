@@ -1,0 +1,67 @@
+{
+  "id": "3e5b4013a6b4",
+  "at": 1791213683597,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-05T15-21-23-597Z-3e5b4013a6b4.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 144175,
+        "longDescription": "",
+        "media": [],
+        "name": "Red on Black Red Dead Redemption 2 Logo Tee (In Dynamite Canister) - 1X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "175467-US",
+        "stock": 97,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        }
+      },
+      "after": {
+        "itemId": 144175,
+        "sku": "175467-US",
+        "type": "physical_good",
+        "name": "Red on Black Red Dead Redemption 2 Logo Tee (In Dynamite Canister) - 1X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 95,
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
