@@ -1,0 +1,67 @@
+{
+  "id": "350415e86e70",
+  "at": 1791228397713,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-05T19-26-37-713Z-350415e86e70.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 540483,
+        "longDescription": "",
+        "media": [],
+        "name": "Vice Candle",
+        "price": null,
+        "releaseDate": null,
+        "sku": "310473-US",
+        "stock": 30,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.6368000"
+        }
+      },
+      "after": {
+        "itemId": 540483,
+        "sku": "310473-US",
+        "type": "physical_good",
+        "name": "Vice Candle",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 29,
+        "weight": {
+          "grams": null,
+          "ounces": "17.6368000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
