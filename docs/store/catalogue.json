@@ -4,8 +4,8 @@
   "country": "US",
   "locale": "en",
   "repoUrl": "https://github.com/92-Smallo/rockstar-site-archive",
-  "updatedAt": 1791200005661,
-  "lastEventId": "c21dccb62601",
+  "updatedAt": 1791200268320,
+  "lastEventId": "21f03eef932c",
   "records": {
     "id:138253": {
       "item": {
@@ -22116,7 +22116,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "234626-UK",
-        "stock": 24,
+        "stock": 23,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -22125,7 +22125,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1791200005661
+      "lastChangedAt": 1791200268320
     },
     "id:143428": {
       "item": {
@@ -69548,7 +69548,7 @@
         "price": null,
         "releaseDate": null,
         "sku": "349979-DE",
-        "stock": 28,
+        "stock": 27,
         "type": "physical_good",
         "weight": {
           "grams": null,
@@ -69557,7 +69557,7 @@
       },
       "active": true,
       "firstSeenAt": null,
-      "lastChangedAt": 1790948950377
+      "lastChangedAt": 1791200268320
     },
     "id:1539209": {
       "item": {
