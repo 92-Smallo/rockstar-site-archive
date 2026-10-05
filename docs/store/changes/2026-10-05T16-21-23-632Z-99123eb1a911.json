@@ -1,0 +1,169 @@
+{
+  "id": "99123eb1a911",
+  "at": 1791217283632,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 3,
+  "removedCount": 0,
+  "file": "2026-10-05T16-21-23-632Z-99123eb1a911.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 144175,
+        "longDescription": "",
+        "media": [],
+        "name": "Red on Black Red Dead Redemption 2 Logo Tee (In Dynamite Canister) - 1X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "175467-US",
+        "stock": 95,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        }
+      },
+      "after": {
+        "itemId": 144175,
+        "sku": "175467-US",
+        "type": "physical_good",
+        "name": "Red on Black Red Dead Redemption 2 Logo Tee (In Dynamite Canister) - 1X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 96,
+        "weight": {
+          "grams": null,
+          "ounces": "6.4000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1179060,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Logo Baggu",
+        "price": null,
+        "releaseDate": null,
+        "sku": "349980-US",
+        "stock": 73,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "21.0400000"
+        }
+      },
+      "after": {
+        "itemId": 1179060,
+        "sku": "349980-US",
+        "type": "physical_good",
+        "name": "Rockstar Games Logo Baggu",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 72,
+        "weight": {
+          "grams": null,
+          "ounces": "21.0400000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1539188,
+        "longDescription": "",
+        "media": [],
+        "name": "Maroon Rockstar Games Varsity Crewneck L",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348544-DE",
+        "stock": 12,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        }
+      },
+      "after": {
+        "itemId": 1539188,
+        "sku": "348544-DE",
+        "type": "physical_good",
+        "name": "Maroon Rockstar Games Varsity Crewneck L",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 13,
+        "weight": {
+          "grams": null,
+          "ounces": "17.1200000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
