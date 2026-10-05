@@ -1,0 +1,67 @@
+{
+  "id": "7af034d9f484",
+  "at": 1791202560250,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-05T12-16-00-250Z-7af034d9f484.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1538920,
+        "longDescription": "",
+        "media": [],
+        "name": "White Rockstar Camo Tee - Men's 1X",
+        "price": null,
+        "releaseDate": null,
+        "sku": "125327-DE",
+        "stock": 4,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.7024000"
+        }
+      },
+      "after": {
+        "itemId": 1538920,
+        "sku": "125327-DE",
+        "type": "physical_good",
+        "name": "White Rockstar Camo Tee - Men's 1X",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 5,
+        "weight": {
+          "grams": null,
+          "ounces": "6.7024000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
