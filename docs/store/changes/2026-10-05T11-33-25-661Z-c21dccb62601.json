@@ -1,0 +1,67 @@
+{
+  "id": "c21dccb62601",
+  "at": 1791200005661,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 1,
+  "removedCount": 0,
+  "file": "2026-10-05T11-33-25-661Z-c21dccb62601.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143427,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "price": null,
+        "releaseDate": null,
+        "sku": "234626-UK",
+        "stock": 25,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        }
+      },
+      "after": {
+        "itemId": 143427,
+        "sku": "234626-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games New Era Snapback Hat - Black",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 24,
+        "weight": {
+          "grams": null,
+          "ounces": "3.2000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
