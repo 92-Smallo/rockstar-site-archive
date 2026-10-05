@@ -1,0 +1,373 @@
+{
+  "id": "2d21dd64e3da",
+  "at": 1791209963575,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 7,
+  "removedCount": 0,
+  "file": "2026-10-05T14-19-23-575Z-2d21dd64e3da.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 142638,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "76922-UK",
+        "stock": 161,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        }
+      },
+      "after": {
+        "itemId": 142638,
+        "sku": "76922-UK",
+        "type": "physical_good",
+        "name": "Rockstar Baseball Cap: Navy and White - Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 160,
+        "weight": {
+          "grams": null,
+          "ounces": "2.8224000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143134,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Tee - Men's Small",
+        "price": null,
+        "releaseDate": null,
+        "sku": "176171-UK",
+        "stock": 10,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "4.9600000"
+        }
+      },
+      "after": {
+        "itemId": 143134,
+        "sku": "176171-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Tee - Men's Small",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 9,
+        "weight": {
+          "grams": null,
+          "ounces": "4.9600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 143429,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Patch Set 1",
+        "price": null,
+        "releaseDate": null,
+        "sku": "242963-UK",
+        "stock": 74,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "1.6000000"
+        }
+      },
+      "after": {
+        "itemId": 143429,
+        "sku": "242963-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Patch Set 1",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 73,
+        "weight": {
+          "grams": null,
+          "ounces": "1.6000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 454999,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Canvas Tote",
+        "price": null,
+        "releaseDate": null,
+        "sku": "293512-UK",
+        "stock": 31,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "14.8144000"
+        }
+      },
+      "after": {
+        "itemId": 454999,
+        "sku": "293512-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Canvas Tote",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 30,
+        "weight": {
+          "grams": null,
+          "ounces": "14.8144000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 455001,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Drawstring Bag",
+        "price": null,
+        "releaseDate": null,
+        "sku": "293569-UK",
+        "stock": 4,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "5.6000000"
+        }
+      },
+      "after": {
+        "itemId": 455001,
+        "sku": "293569-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Drawstring Bag",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 2,
+        "weight": {
+          "grams": null,
+          "ounces": "5.6000000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131235,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Screenshot Tee L",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348502-US",
+        "stock": 41,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        }
+      },
+      "after": {
+        "itemId": 1131235,
+        "sku": "348502-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Screenshot Tee L",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 40,
+        "weight": {
+          "grams": null,
+          "ounces": "12.1600000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1180320,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Logo Water Bottle",
+        "price": null,
+        "releaseDate": null,
+        "sku": "349979-UK",
+        "stock": 28,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "6.3488000"
+        }
+      },
+      "after": {
+        "itemId": 1180320,
+        "sku": "349979-UK",
+        "type": "physical_good",
+        "name": "Rockstar Games Logo Water Bottle",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 26,
+        "weight": {
+          "grams": null,
+          "ounces": "6.3488000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
