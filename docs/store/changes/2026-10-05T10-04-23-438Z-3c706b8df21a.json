@@ -1,0 +1,220 @@
+{
+  "id": "3c706b8df21a",
+  "at": 1791194663438,
+  "baseline": false,
+  "projectId": "100851",
+  "country": "US",
+  "locale": "en",
+  "addedCount": 0,
+  "updatedCount": 4,
+  "removedCount": 0,
+  "file": "2026-10-05T10-04-23-438Z-3c706b8df21a.html",
+  "added": [],
+  "updated": [
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 541132,
+        "longDescription": "",
+        "media": [],
+        "name": "Liberty Candle",
+        "price": null,
+        "releaseDate": null,
+        "sku": "310482-US",
+        "stock": 46,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "17.6368000"
+        }
+      },
+      "after": {
+        "itemId": 541132,
+        "sku": "310482-US",
+        "type": "physical_good",
+        "name": "Liberty Candle",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 45,
+        "weight": {
+          "grams": null,
+          "ounces": "17.6368000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131287,
+        "longDescription": "",
+        "media": [],
+        "name": "Rockstar Games Enamel Pins",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348554-US",
+        "stock": 86,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        }
+      },
+      "after": {
+        "itemId": 1131287,
+        "sku": "348554-US",
+        "type": "physical_good",
+        "name": "Rockstar Games Enamel Pins",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 85,
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131288,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348555-US",
+        "stock": 84,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        }
+      },
+      "after": {
+        "itemId": 1131288,
+        "sku": "348555-US",
+        "type": "physical_good",
+        "name": "Grand Thet Auto Trilogy Enamel Pins Set 1",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 83,
+        "weight": {
+          "grams": null,
+          "ounces": "10.9344000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    },
+    {
+      "before": {
+        "attributes": [],
+        "canBeBought": true,
+        "customAttributes": null,
+        "description": "",
+        "groups": [],
+        "imageUrl": "",
+        "isFree": false,
+        "isPreOrder": false,
+        "itemId": 1131290,
+        "longDescription": "",
+        "media": [],
+        "name": "Grand Theft Auto V Enamel Pins",
+        "price": null,
+        "releaseDate": null,
+        "sku": "348557-US",
+        "stock": 97,
+        "type": "physical_good",
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        }
+      },
+      "after": {
+        "itemId": 1131290,
+        "sku": "348557-US",
+        "type": "physical_good",
+        "name": "Grand Theft Auto V Enamel Pins",
+        "description": "",
+        "longDescription": "",
+        "imageUrl": "",
+        "price": null,
+        "canBeBought": true,
+        "isFree": false,
+        "isPreOrder": false,
+        "releaseDate": null,
+        "stock": 96,
+        "weight": {
+          "grams": null,
+          "ounces": "10.5824000"
+        },
+        "groups": [],
+        "attributes": [],
+        "customAttributes": null,
+        "media": []
+      },
+      "fields": [
+        "stock"
+      ]
+    }
+  ],
+  "removed": []
+}
