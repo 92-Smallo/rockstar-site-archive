@@ -106,12 +106,12 @@ RSG LandingPagePromo1x1 720x720 test
 RSG LandingPagePromo3x2 1500x1000 test
 Say Sorry Be Nice Welcome Mat
 Search
-Shop by Grand Theft Auto
-Shop by Rockstar Games
+Shop Grand Theft Auto
 Shop Grand Theft Auto Collection
 Shop Grand Theft Auto VI Collection
 Shop Now
 Shop Red Dead Redemption
+Shop Rockstar Games
 Sign In
 Skip to Content
 Terms of Service
