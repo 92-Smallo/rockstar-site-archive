@@ -1,4 +1,4 @@
-23 artwork and wallpapers (as zip file)
+25 artwork and wallpapers (as zip file)
 3 sizes
 6 sizes
 7 sizes
@@ -28,6 +28,8 @@ Jason and Lucia 02
 Jason and Lucia 02 (With Logos)
 Jason and Lucia Beach
 Jason and Lucia Beach (With Logos)
+Jason and Lucia Lock and Load
+Jason and Lucia Lock and Load (With Logos)
 Jason and Lucia Motel
 Jason and Lucia Robbery
 Jason and Lucia Robbery (With Logo)
@@ -47,6 +49,8 @@ Open download dialog - Jason and Lucia 02 - 7 sizes
 Open download dialog - Jason and Lucia 02 (With Logos) - 3 sizes
 Open download dialog - Jason and Lucia Beach - 6 sizes
 Open download dialog - Jason and Lucia Beach (With Logos) - 3 sizes
+Open download dialog - Jason and Lucia Lock and Load - 6 sizes
+Open download dialog - Jason and Lucia Lock and Load (With Logos) - 3 sizes
 Open download dialog - Jason and Lucia Motel - 6 sizes
 Open download dialog - Jason and Lucia Robbery - 6 sizes
 Open download dialog - Jason and Lucia Robbery (With Logo) - 3 sizes

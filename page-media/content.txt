@@ -3,9 +3,10 @@
 1 size
 12 Vintage Vice City Pack in a single zip file
 12 Vintage Vice City Screenshots
-23 Artwork & Wallpapers in a single zip file
-23 Artwork and Wallpapers
+25 Artwork & Wallpapers in a single zip file
+25 Artwork and Wallpapers
 3 sizes
+4 Videos
 51 Ultimate Edition Benefits in a single zip file
 51 Ultimate Edition Screenshots
 6 sizes
@@ -27,12 +28,13 @@ Get Rockstar Propaganda
 Get the latest game announcements, updates on special events and offers, and much more from Rockstar Games.
 Grand Theft Auto VI
 Grand Theft Auto VI - Rockstar Games
-Grand Theft Auto VI Trailer 1
+Grand Theft Auto VI Launch Trailer
 Grand Theft Auto VI Trailer 2
 Grand Theft Auto VI: An Extended Look
 Hawk & Little Morgan Revolvers 01
 https://esrb.org
 In-Game Purchases.
+Jason and Lucia Lock and Load
 Jason Duval 07
 Jason Duval Video Clip
 Lucia Caminos 09
@@ -42,10 +44,11 @@ Official Cover Art
 Official Cover Art Animation
 Open download dialog - ’55 Vapid Stanier 01 - 1 size
 Open download dialog - ’95 Grotti Cheetah 01 - 1 size
-Open download dialog - Grand Theft Auto VI Trailer 1 - 1 size
+Open download dialog - Grand Theft Auto VI Launch Trailer - 1 size
 Open download dialog - Grand Theft Auto VI Trailer 2 - 1 size
 Open download dialog - Grand Theft Auto VI: An Extended Look - 1 size
 Open download dialog - Hawk & Little Morgan Revolvers 01 - 1 size
+Open download dialog - Jason and Lucia Lock and Load - 6 sizes
 Open download dialog - Jason Duval 07 - 1 size
 Open download dialog - Jason Duval Video Clip - 1 size
 Open download dialog - Lucia Caminos 09 - 1 size
@@ -55,7 +58,6 @@ Open download dialog - Official Cover Art Animation - 1 size
 Open download dialog - The Album Cover Art - 3 sizes
 Open download dialog - Ultimate Edition 02 - 1 size
 Open download dialog - Vice City 11 - 1 size
-Open download dialog - Vice City Postcard - 6 sizes
 Open download dialog - Vintage Vice City Outfits and Hairstyles 03 - 1 size
 Open download dialog - Vintage Vice City Pack 01 - 1 size
 Plays best on PlayStation 5
@@ -66,7 +68,6 @@ The Album Cover Art
 Ultimate Edition 02
 Ultimate Edition Benefits
 Vice City 11
-Vice City Postcard
 Vice City, USA. Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive.
 Vintage Vice City Outfits and Hairstyles 03
 Vintage Vice City Pack
