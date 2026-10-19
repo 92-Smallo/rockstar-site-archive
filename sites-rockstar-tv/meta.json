@@ -1,7 +1,7 @@
 {
   "package": "sites-rockstar-tv",
-  "version": "17.1.6",
-  "hash": "94e8e1527dca84f50f8a61158899a14e10323a1e47dec4f8093d57debf81e23a",
-  "gitHead": "b6778eeff7ac7895a078a070a5c7649a0d5e5d39",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/sites-rockstar-tv/17.1.6/94e8e1527dca84f50f8a61158899a14e10323a1e47dec4f8093d57debf81e23a/remote-entry.js"
+  "version": "18.0.2",
+  "hash": "942450f0810cb920ab9b02a832120d8cf1e47bebac00b69b91c8cfe3b0dcc86c",
+  "gitHead": "1c0cd640ea21e77096021a545b1d94f05dfbdd99",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/sites-rockstar-tv/18.0.2/942450f0810cb920ab9b02a832120d8cf1e47bebac00b69b91c8cfe3b0dcc86c/remote-entry.js"
 }

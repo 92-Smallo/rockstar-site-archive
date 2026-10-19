@@ -24,24 +24,24 @@
 .gsap-marker-start, .gsap-marker-end, .gsap-marker-scroller-start, .gsap-marker-scroller-end
 " does not exist in container.
 (Abre em uma nova janela)
-(Apri in una nuova finestra)
 (hover: none), (pointer: coarse)
 (Öffnet ein neues Fenster)
 (Opens in a new window)
-(Otwórz w nowym oknie)
+(Otworzy się w nowym oknie)
 (prefers-reduced-motion: reduce)
 (S'ouvre dans une nouvelle fenêtre)
 (Se abre en una ventana nueva)
 (see https://github.com/apollographql/invariant-packages)
+(Si apre in una nuova finestra)
 (under <Route path=
 ) in the URL path
 ) is greater than the number of directories (
 ),`Route path
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new We(
-),xboxone:new We(
-),xboxsx:new We(
+),switch:new Ne(
+),xboxone:new Ne(
+),xboxsx:new Ne(
 ). If you meant to render a collection of children, use an array instead.
 ))return this.error(
 ))throw new Error(
@@ -500,6 +500,7 @@ use strict
 Use the `fetchPolicy` option instead.
 useFormAction must be used inside a RouteContext
 useHref() may be used only in the context of a <Router> component.
+useScroll must be used within a ScrollProvider
 Verifica tu dirección de correo electrónico
 Verifica tu dirección de correo electrónico mediante el enlace que enviamos al correo con el que te registraste para confirmar la suscripción a la lista de correos de Rockstar Games.
 Vérifiez votre adresse e-mail

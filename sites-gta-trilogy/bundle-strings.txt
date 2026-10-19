@@ -32,15 +32,15 @@
 .gsap-marker-start, .gsap-marker-end, .gsap-marker-scroller-start, .gsap-marker-scroller-end
 " does not exist in container.
 (Abre em uma nova janela)
-(Apri in una nuova finestra)
 (hover: none), (pointer: coarse)
 (Öffnet ein neues Fenster)
 (Opens in a new window)
-(Otwórz w nowym oknie)
+(Otworzy się w nowym oknie)
 (prefers-color-scheme: dark)
 (S'ouvre dans une nouvelle fenêtre)
 (Se abre en una ventana nueva)
 (see https://github.com/apollographql/invariant-packages)
+(Si apre in una nuova finestra)
 (under <Route path=
 ) in the URL path
 ) is greater than the number of directories (

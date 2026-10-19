@@ -1,6 +1,8 @@
-_14vii1q0 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdo
+_1lfzhz24 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
+_1ms3f580 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdo
 _1ozycm42 _1betujy6 _1betujy5
-_1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
+, must take to meet this laudable goal. These Regulations cover accessibility standards in customer service, information and communications, employment, transportation and the built environment.
+, press Down to open the menu,
 , rendering default message verbatim`,t,c,e)),
 , so there is no way to handle the request.`:
 , so there is no way to handle the request.`:n&&(s=`Invalid request method
@@ -8,35 +10,38 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ,"string"==typeof n.imageSizes&&(l+=
 ,1)>-1)throw new Error(
 ,a.onTranslateToWrapperTransitionEnd),a.onTranslateToWrapperTransitionEnd=null,delete a.onTranslateToWrapperTransitionEnd,a.animating=!1,s&&a.emit(
-,A),backQuote:new C(
-,A),questionDot:new C(
-,A),template:new C(
+,A),backQuote:new E(
+,A),questionDot:new E(
+,A),template:new E(
 ,bearer_token_expired:!0,isAMinor:void 0,isNewAccount:!1,nickname:
 ,breakpoints:void 0,breakpointsBase:
 ,c=void 0!==n.secure?n.secure:o.secure,d=void 0!==n.httponly?n.httponly:o.httponly,u=void 0!==n.samesite?n.samesite:o.samesite,m=s?new Date(
 ,description:'Global navigation search, Search Target (aria label). Formatted:
 ,description:'Label text for the
-,g),dollarBraceL:new d(
-,g),privateId:new d(
+,description:'Text for reward
 ,height:null!==(n=this.props.size.height)&&void 0!==n?n:
+,I),dollarBraceL:new E(
+,I),privateId:new E(
 ,i=new Set(o.split(
+,l=(this.props.blacklistedAttrs||[]).map(t=>t instanceof RegExp?t:new RegExp(t,
 ,m),backQuote:new d(
 ,m),questionDot:new d(
 ,m),template:new d(
 ,message:e instanceof Error?e.message:
 ,n),i=void 0,t.removeEventListener(
 ,new Map),U(this,
-,P),dollarBraceL:new C(
-,P),privateId:new C(
-,p=(this.props.blacklistedAttrs||[]).map(e=>e instanceof RegExp?e:new RegExp(e,
 ,s=`No route matches URL
 ,scrimColor:void 0,reducedMotion:window&&window.matchMedia&&window.matchMedia(
 ,t.CARRIAGE_RETURN_REGEX=new RegExp(t.CARRIAGE_RETURN,
 ,this.renderConfig.id),void 0!==this.renderConfig.focusable&&this.svgElement.setAttribute(
 ,this.status=void 0===t.status?200:t.status,this.status<200||this.status>599)throw new RangeError(
+,type to refine list
 ,type:new gt(bn),description:
+,x),dollarBraceL:new d(
+,x),privateId:new d(
 : can't set as prototype!
 : raccoglieremo tutte le informazioni su di te e le invieremo al tuo indirizzo email.
+:i,autoPlay:!0,playsInline:!0,muted:!0,poster:b?.url??void 0,children:[e.mobile&&(0,a.jsx)(
 :i.open&&!s.collapsible||void 0,
 :if(e)throw new RangeError(
 :if(L)throw new RangeError(
@@ -44,7 +49,7 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 :if(r.options.length>1)throw new RangeError(
 :if(r<4)throw new RangeError(
 :if(t)throw new RangeError(
-:return s&&this.raiseRecoverable(e.start,
+:return i&&this.raiseRecoverable(t.start,
 :return t.day=
 :return t.day=[
 :return t.hour=[
@@ -56,11 +61,13 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 :return t.weekday=[void 0,void 0,
 :return t=n.async,
 :return this.currZoomLevel>this.zoomLevels.initial?
-:return(e.async||e.generator)&&this.props.onError?.(new Error(
-:s,autoPlay:!0,playsInline:!0,muted:!0,poster:h?.url??void 0,children:[e.mobile&&(0,r.jsx)(
+:return(t.async||t.generator)&&this.props.onError?.(new Error(
 :t.isInvalid||void 0,
 :throw new RangeError(
 :var r=e.querySelector('style[data-href~=
+:void 0,height:
+:void 0,pointerEvents:t?
+:void 0,position:
 !==a.kind)throw new Error(
 !==e.type)throw new Error(
 !==e)throw new Error(
@@ -71,6 +78,7 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 !==k.roundingType)throw new TypeError(
 !==n)throw new TypeError(
 !==r)throw new TypeError(
+!==s)throw Error(
 !==t.crossOrigin)return t.crossOrigin=
 !==t)throw new Error(
 !==t[t.length-1].type)throw new Error(
@@ -81,6 +89,7 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 !=typeof a)throw new TypeError(
 !=typeof a||(a=document.createElement(
 !=typeof Buffer&&
+!=typeof crypto&&crypto.getRandomValues&&crypto.getRandomValues.bind(crypto),!i))throw new Error(
 !=typeof CSS&&CSS.supports&&CSS.supports(
 !=typeof d||(d=document.createElement(
 !=typeof document&&(
@@ -102,7 +111,6 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 !=typeof n)throw new TypeError(n+
 !=typeof navigator&&(navigator.language||navigator.userLanguage)||
 !=typeof o?e.type=o:e.removeAttribute(
-!=typeof o)return void console.error(
 !=typeof o||(o=document.createElement(
 !=typeof PointerEvent&&(n.addEventListener(
 !=typeof PointerEvent&&(r.removeEventListener(
@@ -110,8 +118,10 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 !=typeof process&&void 0!==process.env&&(process.env.REACT_APP_SC_ATTR||process.env.SC_ATTR)||
 !=typeof r.key&&
 !=typeof r)throw new TypeError(
+!=typeof s)return void console.error(
 !=typeof self&&self.Math==Math?self:Function(
 !=typeof ShadowRoot&&e instanceof ShadowRoot||
+!=typeof Symbol&&e[Symbol.iterator]||e[
 !=typeof t.async&&
 !=typeof t)throw new TypeError(
 !=typeof t&&null!==t)throw new TypeError(
@@ -125,16 +135,22 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 !=typeof window&&void 0!==window.CSS&&
 !=typeof window&&void 0!==window.HTMLElement&&
 !=typeof window&&window.addEventListener(
-!=typeof window&&window.document&&(Sn=window,En=Sn.document,Dn=En.documentElement,Pn=ur(
+!=typeof window&&window.document&&(i=window,n=i.document,s=n.documentElement,o=L(
 !=typeof window&&window.Math==Math?window:
-!=typeof window&&window[ip]||
+!=typeof window&&window[dp]||
+¡Ya puedes solicitar las recompensas!
+¡Ya puedes solicitar las recompensas! Visita el menú de progreso en la trayectoria para solicitarla en el juego.
 ¿Actualizar avatar?
+¿Aún no tienes una cuenta?
 ¿Cambiaste de opinión?
+¿Estás disfrutando GTA Online? Cuéntanos lo que opinas para poder mejorar el juego en el futuro.
 ¿Has cambiado de opinión?
 ¿Necesitas asistencia para tu cuenta?
 ¿Necesitas ayuda con tu cuenta?
 ¿No funciona el escáner?
 ¿No puedes escanear el código?
+¿No tienes una cuenta?
+¿Te está gustando GTA Online? Comparte tus opiniones e ideas con nosotros para ayudarnos a mejorar el juego en el futuro.
 . Doing nothing
 . Must include exactly one non-modifier key (e.g.
 . Options are
@@ -142,6 +158,7 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 . This means if you navigate deeper, the parent won't match anymore and therefore the child routes will never render. Please change the parent <Route path=
 . Valid values are
 .",yMMMM:"LLLL y
+.concat(a.primary):void 0,
 .concat(pr.source)),yr=new RegExp(
 .concat(sa.source)),ma=new RegExp(
 .concat(typeof b,
@@ -159,8 +176,8 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 " has not been loaded in NumberFormat. Please __addLocaleData before adding additional unit data
 " is not supported. Try setting "calendar" to 1 of the following:
 ". Should be a string, number, null or object. Received: "
-"):e.static&&pe(e,"prototype")&&this.raise(e.key.start,"Classes can
-"):e.static&&Z(e,"prototype")&&this.raise(e.key.start,"Classes can
+"):t.static&&lt(t,"prototype")&&this.raise(t.key.start,"Classes can
+"):t.static&&Z(t,"prototype")&&this.raise(t.key.start,"Classes can
 „Avatar bearbeiten“-Stiftsymbol
 "ext" argument must be a string
 „Freunde plattformübergreifend vergleichen“ umschalten.
@@ -180,45 +197,51 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 (orientation: portrait)
 (Otwórz w nowej karcie)
 (Otwórz w nowym oknie)
+(Otworzy się w nowym oknie)
+(Passer à la section)
 (prefers-reduced-motion: reduce)
+(Przejdź do sekcji)
 (s'ouvre dans un nouvel onglet)
 (S'ouvre dans une nouvelle fenêtre)
+(Salta alla sezione)
 (Se abre en una pestaña nueva)
 (Se abre en una ventana nueva)
 (see https://github.com/apollographql/invariant-packages)
 (Si apre in una nuova finestra)
+(Skip to section)
 (under <Route path=
 (wird in einem neuen Tab geöffnet)
+(Zu Abschnitt springen)
 ) in the URL path
 ) is greater than the number of directories (
 ) to 'parent', you should add
-),_=new RegExp(
 ),!(0,l.IsWellFormedCurrencyCode)(a))throw RangeError(
 ),`Route path
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
-),a=!1,o=this.containsEsc,h=new G,c=this.start,l=t>-1?this.parseExprSubscripts(h,
-),a=!1,o=this.containsEsc,h=new se,c=this.start,l=t>-1?this.parseExprSubscripts(h,
-),arrow:new C(
 ),arrow:new d(
-),braceL:new C(
+),arrow:new E(
 ),braceL:new d(
-),bracketL:new C(
+),braceL:new E(
 ),bracketL:new d(
-),c=new RegExp(
-),comma:new C(
+),bracketL:new E(
 ),comma:new d(
+),comma:new E(
 ),console.error('Error: DiscountsCarousel expects a prop
-),ellipsis:new C(
 ),ellipsis:new d(
+),ellipsis:new E(
 ),height:t&&void 0!==t.height&&!this.state.isResizing?w(t.height):n(
-),invalidTemplate:new C(
 ),invalidTemplate:new d(
+),invalidTemplate:new E(
 ),jsxText:new r(
+),k=new RegExp(
+),n=!1,o=this.containsEsc,h=new it,p=this.start,c=e>-1?this.parseExprSubscripts(h,
+),n=!1,o=this.containsEsc,h=new W,p=this.start,c=e>-1?this.parseExprSubscripts(h,
 ),onMouseEnter:()=>s&&void u.current.play(),onMouseLeave:()=>s&&(u.current.pause(),void(u.current.currentTime=0)),children:(0,i.jsx)(
-),parenL:new C(
+),p=new RegExp(
 ),parenL:new d(
-),question:new C(
+),parenL:new E(
 ),question:new d(
+),question:new E(
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
 ),switch:new F(
 ),t.CARRIAGE_RETURN_PLACEHOLDER_REGEX=new RegExp(t.CARRIAGE_RETURN_PLACEHOLDER,
@@ -228,7 +251,7 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
 ).toUpperCase():void 0,games_played:n.length?n.join(
-).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:a?
+).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:t?
 ).toUpperCase():void 0,gta_plus_platforms:s.length?s.map(e=>l[e]??e).join(
 ).toUpperCase():void 0,gtao_platforms_played:r.length?r.map(e=>l[e]??e).join(
 )),a=new s.WebKitCSSMatrix(
@@ -316,14 +339,31 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 /games
 /games/gtaiv
 /graphql
+/gta-online
+/gta-online/guides
+/gta-online/heists/lsdw
 /gta-online/mansions
+/gta-plus
+/gta-plus/benefits
+/gta-plus/join
+/gta-plus/legal
+/gta-v
+/manuals
+/manuals/music
 /members
 /newswire
 /notifications
 /npm-monitoring
+/privacy
+/recaptcha/
+/refund-policy
 /screenshot-viewer
+/search
+/socialclubmaintenance
+/unsubscribe
 /videoplayer
 /videos
+& Multi-Year Accessibility Plan for Rockstar Games Toronto ULC
 %3E%3Cstyle type=
 ` cannot be a path: did not expect `
 ` cannot be empty
@@ -351,8 +391,16 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 <Await> caught the following error during render
 <iframe src="https://www.googletagmanager.com/ns.html?id=
 <Navigate> may be used only in the context of a <Router> component.
+<SignInLink>Accedi</SignInLink> al tuo account di Rockstar Games per inviare feedback.
+<SignInLink>Connectez-vous</SignInLink> à votre compte Rockstar Games pour envoyer votre avis.
+<SignInLink>Inicia sesión</SignInLink> en tu cuenta de Rockstar Games para enviar comentarios.
+<SignInLink>Inicia sesión</SignInLink> en tu cuenta de Rockstar Games para enviar tus comentarios.
+<SignInLink>Inicie sessão</SignInLink> na sua conta da Rockstar Games para enviar feedback.
+<SignInLink>Sign in</SignInLink> to your Rockstar Games Account to submit feedback.
+<SignInLink>Zaloguj się</SignInLink> na swoje konto Rockstar Games, aby przesłać opinię.
+<SignInLink>登入</SignInLink>您的 Rockstar Games 帳戶以提交意見反應。
+<SignInLink>登录</SignInLink>您的Rockstar Games账户以提交反馈。
 <unlabeled transaction>
-===a&&!r)throw new TypeError(
 ===e.id?za:void 0:t.HydrateFallback,i=t.ErrorBoundary?t.ErrorBoundary:
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
 ===e.type&&(a=e.renderFraction?e.renderFraction.call(t,e.currentClass,e.totalClass):`<span class=
@@ -379,25 +427,26 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ===r&&!n)throw new TypeError(
 ===r&&!o)throw new TypeError(
 ===r&&!t)throw new TypeError(
-===t.key)return t.preventDefault(),A(),x.current=
-===t.key)return t.preventDefault(),T(),v.current=
+===t.key)return t.preventDefault(),E(),k.current=
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===t)throw new TypeError(
 ===t&&!a)throw new TypeError(
 ===t&&!L)throw new TypeError(
+===t&&!r)throw new TypeError(
 ===t&&e.dateStyle)throw new TypeError(
 ===t&&e.timeStyle)throw new TypeError(
 ===this.method)&&o)throw new TypeError(
 ===u.value&&!r)throw new Error(
 ==typeof a)throw new TypeError(
 ==typeof a)throw TypeError(
+==typeof a&&(a=a.description?
 ==typeof Array.isArray?Array.isArray(e):
 ==typeof Buffer.from)return Buffer.from(e).toString(
 ==typeof c.bearerToken&&u.searchParams.append(
 ==typeof clearTimeout?clearTimeout:void 0,Ef=
 ==typeof d.name?d.name:void 0,v.displayName=
 ==typeof d.tagName?d.tagName:
-==typeof define&&i.amdO?define([
+==typeof define&&s.amdO?define([
 ==typeof document)return
 ==typeof e?new RegExp(u(e),
 ==typeof e?new URL(e,
@@ -439,10 +488,10 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ==typeof Promise?Promise:void 0,Cf=
 ==typeof r&&r instanceof Error||(r=new Error(
 ==typeof Reflect&&
-==typeof ResizeObserver,layoutShift:u=
 ==typeof setTimeout?setTimeout:void 0,Sf=
 ==typeof Symbol&&
 ==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?
+==typeof Symbol&&Symbol.for,d=p?Symbol.for(
 ==typeof Symbol&&Symbol.for,r=n?Symbol.for(
 ==typeof Symbol&&Symbol.for?Symbol.for(
 ==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?
@@ -465,12 +514,12 @@ _1t2som04 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 ==typeof t&&(t=t.description?
 ==typeof u)return r(
 ==typeof u&&(0,Y.hY)()>u)throw this.recordDroppedEvent(
+==typeof v?.className&&delete v.className,(0,r.jsxs)(
 ==typeof value?void 0===e?value.substr(t):value.substr(t,e):
 ==typeof window?
 ==typeof window&&
 ==typeof window||
 ==typeof window||!e[t]||e[t]instanceof window.Element?null:new Error('Prop name
-==typeof x?.className&&delete x.className,(0,r.jsxs)(
 ==typeof x?.className&&delete x.className,(0,t.jsxs)(
 > is not able to match the URL
 > to <Route path=
@@ -519,7 +568,10 @@ A senha deve ter, no mínimo, uma letra minúscula
 A senha nova não pode ser igual à senha atual
 a Union type
 A verificação em 2 etapas foi removida da sua conta. Para saber mais sobre como proteger sua conta da Rockstar Games usando a verificação em 2 etapas, acesse nosso site de Suporte.
+A11y Label for Next slide button for Rewards Carousel on the Career Progress Hub
+A11y Label for Previous slide button for Rewards Carousel on the Career Progress Hub
 Abbiamo modificato con successo il tuo indirizzo email
+Abbonati ora
 Abbruch bestätigen
 Abonnement effectué
 Abonnez-vous à la newsletter pour recevoir par e-mail des infos relatives à nos jeux et aux mises à jour, aux évènements spéciaux et aux offres, et plus de la part de Rockstar Games et nos affiliés.
@@ -528,25 +580,36 @@ Abre em uma nova janela
 Abrir busca
 Abrir búsqueda
 Abrir en una pestaña nueva
+Abrir la sección de navegación
 Abrir menu
 Abrir menú
 Abrir menu de jogador
 Abrir menú de jugador
 Abrir menú del jugador
+Abrir navegação entre seções
+Abrir sección
 Aby dowiedzieć się więcej o naszym podejściu do prywatności, zapoznaj się z naszą <privacyPolicyAnchor>Polityką prywatności</privacyPolicyAnchor>.
 Aby kontynuować, wprowadź hasło Rockstar Games, aby usunąć weryfikację dwuetapową ze swojego konta:
+Aby otrzymywać wyjątkowe prezenty i nagrody w Grand Theft Auto Online, powiąż swoje konta do gier i oglądaj zaangażowane kanały Twitch.
 Aby potwierdzić swoją subskrypcję listy mailingowej Rockstar Games, zweryfikuj swój adres e-mail poprzez link wysłany do twojej skrzynki odbiorczej.
 Aby uzyskać więcej informacji na temat zabezpieczania twojego konta Rockstar Games dzięki weryfikacji dwuetapowej, odwiedź naszą <mfaSupportAnchor>stronę wsparcia</mfaSupportAnchor>.
+Accedi al tuo account di Rockstar Games per cominciare
+Accedi al tuo account per vedere tutte le ricompense che puoi ottenere, quelle che hai vinto e tutte le possibilità a tua disposizione.
+Accedi per vedere i tuoi progressi
 Accessibility label for the external link icon
 Accessibility label for the list of "Company Info"-related links
 Accessibility label for the list of "Contact Us"-related links
 Accessibility label for the list of "Social Media"-related links
 Accessibility label for the list of additional organization info
+Accessibility or other related policy.
 Accessible label for external link
 Account / Service Ban
+Account collegati
 Account compromesso/hackerato
 Account Deletion Cancellation Request Received
 Account Deletion request received. In order to proceed with this request you must first verify your account.
+Account di gioco collegato
+Account di Twitch collegato
 account menu
 Account Settings
 Account Settings - Cancel Delete Account
@@ -561,6 +624,7 @@ Account Settings - Reset 2-Step Verification
 Account Settings - Security
 Account Settings - Social
 Account Settings - Thank You
+Account Twitch
 Account visibility
 Accueil Rockstar Games
 Acercar zoom
@@ -571,6 +635,8 @@ Acoso/Persona malintencionada
 Acquista ora
 Acre Standard Time
 Acre Summer Time
+Activa los Drops de Twitch
+Activa los Drops de Twitch para obtener recompensas en el futuro
 Activación de juegos
 Activación del juego
 Activar Mostrar mi país/región
@@ -605,11 +671,14 @@ ADBE Vector Shape - Ellipse
 ADBE Vector Shape - Group
 ADBE Vector Star Inner Radius
 ADBE Vector Star Outer Radius
+Add a Character
 Add an additional layer of security to help protect your account from unwanted access.
 Add more words that are less common.
 Adding invalid event
 Additional Resources
+additions text
 Adicionar aos Favoritos
+Adicionar um personagem
 Adicione mais uma camada de segurança para proteger sua conta de acessos indesejados.
 Administra las plataformas vinculadas a tu cuenta de Rockstar Games.
 Administrar cuenta
@@ -618,7 +687,9 @@ Adversary Mode
 Afastar zoom
 Afegane afegão
 Afficher mes amis
+Afficher moins
 Afficher mon pays / ma région
+Afficher tout
 Afficher/masquer mes amis
 Affrontement en équipe
 Affrontement motorisé
@@ -658,6 +729,7 @@ Afryka Zachodnia
 Aggiorna avatar?
 Aggiorna le preferenze
 Aggiungi ai preferiti
+Aggiungi un personaggio
 Agradecemos por fazer parte da comunidade.
 Agradecemos por usar a Rockstar Games
 Agradecemos. Verifique seu e-mail para finalizar a atualização das preferências de inscrição.
@@ -665,6 +737,7 @@ Agradecemos. Verifique seu e-mail para finalizar a atualização das preferênci
 Ägyptisches Pfund
 Air Race
 Ajouter aux favoris
+Ajouter un personnage
 Ajoutez un niveau de sécurité supplémentaire pour protéger votre compte contre les accès indésirables.
 Ajustes de cookies
 Ajustes de la cuenta
@@ -685,11 +758,14 @@ Akcja usunięta z Zaznaczonych
 Aktivierungsschlüssel und DLC-Codes bleiben mit dem gelöschten Konto verknüpft und können mit keinem anderen Rockstar-Games-Konto verwendet werden.
 Aktualizuj swoje preferencje
 Aktualne hasło
+Aktualnie nie ma dostępnych dropów na Twitchu. Zapraszamy na kolejną rundę. Czekając, możesz przejrzeć swój ekwipunek i odebrać dostępne nagrody.
+Aktualnie nie ma dostępnych dropów na Twitchu. Zapraszamy na kolejną rundę. Stwórz postać Grand Theft Auto Online i ukończ samouczek, aby otrzymywać dropy.
 Aktuelles Passwort
 Aktuelles Passwort eingeben
 Aktywacja gry
 Al enviar esta solicitud, confirmas que comprendes y aceptas todo lo siguiente:
 Al momento è impossibile elaborare la tua richiesta.
+Al momento non ci sono Twitch Drop disponibili, ma continua a seguirci. Crea un personaggio di Grand Theft Auto Online e completa il tutorial in gioco per ricevere i Drop.
 Åland Islands
 Alaska (czas letni)
 Alaska (czas standardowy)
@@ -790,6 +866,7 @@ an Interface type
 an Object type
 Añade una medida de seguridad adicional para proteger tu cuenta de accesos no deseados.
 Añade una medida de seguridad adicional que ayudará a proteger tu cuenta de accesos no deseados.
+Añadir personaje
 Anadyr Normalzeit
 Anadyr Sommerzeit
 Anadyr Standard Time
@@ -800,6 +877,7 @@ ancien français
 ancien haut allemand
 ancien irlandais
 Ancient Greek
+and ongoing.
 Andale Mono
 Andere Gründe
 Anderes Konto verknüpfen
@@ -880,11 +958,13 @@ Appareil oublié
 Application Error
 Application Error!
 Application Xbox pour PC
+Apply now
 Apprenez à gérer avec qui vous jouez et interagissez dans GTA Online.
 Apprenez comment améliorer la sécurité de votre compte Rockstar Games.
 Apprenez les règles pour créer, partager et monétiser des mods de nos jeux et services.
 Aprenda como gerenciar com quem você joga e quem interage com você no GTA Online.
 après Jésus-Christ
+Apri il menu
 Apri menu
 Apri Menu giocatore
 Apri ricerca
@@ -952,9 +1032,27 @@ Argentyna Zachodnia (czas standardowy)
 Argument to polyad must be a positive number
 argument when connecting component
 Arguments provided to Fields or Directives and the input fields of an InputObject are represented as Input Values which describe their type and optionally a default value.
+Aria label for an award progress bar
+Aria label for button which select the next item
+Aria label for button which select the next slide
+Aria label for button which select the previous item
+Aria label for button which select the previous slide
+Aria label for next button in game carousel for Buy Now
+Aria label for next button of carousel
+Aria label for previous button in game carousel for Buy Now
+Aria label for previous button of carousel
+Aria label for screen readers only whichcontain discounted price text
+Aria label for the close button on the modal
+aria label for the discover callout cards.
+Aria label for the group/modal which contains the event details
 Aria label for the icon button to play the hero carousel
+Aria label for the next button on the events deck (modal closed - multiple slides visible at a time)
+Aria label for the next button on the events deck (modal open - one event slide visible at a time)
+Aria label for the previous button on the events deck (modal closed - multiple slides visible at a time)
+Aria label for the previous button on the events deck (modal open - one event slide visible at a time)
 Aria label for toast close icon.
 Aria label for toast notification.
+Aria label for which page the user is on in the deck
 Aria label text for the linked account navigation button on each connection row
 Aria label text for the MFA back navigation button on the header for auth setup
 Aria label text for the MFA navigation button on the landing page for no auth
@@ -963,6 +1061,8 @@ Aria label text for the the user's avatar image associated with the linked onlin
 Aria label to indicate going to the next page of videos
 Aria label to indicate going to the previous page of videos
 Aria label to indicate when a link opens in new window/tab
+Aria label when a metal level is completed
+Aria label when a metal level is not unlocked
 Aria-label for the lightbox close button
 Aria-label for the lightbox download button (downloads the image)
 Aria-label for the lightbox open button
@@ -1003,8 +1103,11 @@ Assédio/participante ruim
 assertion failure
 Assigning to rvalue
 Assistir agora
+Associer Twitch
 Associer un autre compte
 Associer un compte de jeu
+Associer un compte de personnage valide
+Associer un personnage de GTA Online
 At anytime during this period, check the link in the email we've sent you to cancel your deletion request.
 At least one node with a positive tabindex was found in one of your focus-trap's multiple containers. Positive tabindexes are only supported in single-container focus-traps.
 At least one of max, maxSize, or ttl is required
@@ -1030,9 +1133,15 @@ Attivazione gioco
 Attività aggiunta ai preferiti
 Attività rimossa dai preferiti
 Atto relativo ai Servizi e ai Pagamenti
+attr(data-value) " "
 Attribute selector didn't terminate
 Atualizar avatar?
 Atualizar preferências
+Aucun compte de jeu associé
+Aucun compte Twitch associé
+Aucun personnage trouvé
+Aucune donnée trouvée
+Aucune récompense disponible
 audio[controls]:not([inert]):not([inert] *)
 Auf Facebook teilen
 Auf Reddit teilen
@@ -1066,6 +1175,7 @@ Authentification effectuée via application d'authentification
 Authentifiziert über die Authenticator-App.
 Autoriser la comparaison entre les amis de la plateforme
 avant Jésus-Christ
+Avantages pour les abonnés
 Avatar aktualisieren?
 Avatar bearbeiten
 Avatar menu
@@ -1081,6 +1191,7 @@ Avoid repeated words and characters.
 Avoid reversed spellings of common words.
 Avoid years that are associated with you.
 Await expression cannot be a default value
+Awards section title
 Azerbaijani Manat
 azeri sul
 Azja Południowa
@@ -1130,6 +1241,7 @@ batak toba
 Batak Toba
 because the \`*\` character must always follow a \`/\` in the pattern. To get rid of this warning, please change the route path to
 Będziesz otrzymywać powiadomienia o nowościach dotyczących gier, a także informacje od Rockstar Games i naszych partnerów na temat specjalnych wydarzeń, ofert i nie tylko.
+Bei deinem Rockstar-Games-Konto <SignInLink>anmelden</SignInLink>, um dein Feedback einzureichen.
 Bei den bereitgestellten Informationen ist ein Fehler aufgetreten.
 Belarusian Ruble
 Belästigung / Problematische Person
@@ -1140,13 +1252,21 @@ Belgischer Finanz-Franc
 Belgischer Franc
 Belgischer Franc (konvertibel)
 Belize Dollar
+Belohnung gesperrt
+Belohnungen sind bereit zur Abholung
+Belohnungen sind bereit zur Abholung. Besuche das Karrierefortschrittsmenü im Spiel, um sie abzuholen.
 beluci occidentale
 beludżi północny
+Benefícios para membros
+Beneficios para miembros
 Benutzername kann nicht geändert werden.
 Benutzername wird benötigt.
 Benutzernamen ändern
 Benutzernamen bearbeiten
 Benutzernamen von Rockstar-Games-Konten können nur einmal alle 365 Tage geändert werden. Bestätige jegliche Änderungen per Kästchen und wähle dann „Änderungen speichern“.
+Bereichsnavigation öffnen
+Bereichsnavigation schließen
+Bereit zur Abholung
 Bereits abonniert
 Bermudan Dollar
 Besoin d'aide avec votre compte ?
@@ -1216,7 +1336,10 @@ Botswanan Pula
 Botswanischer Pula
 bottom top
 Bouvet Island
+Brak dostępnych nagród
 Brak podglądu
+Brak powiązanego konta
+Brak powiązanego konta Twitch
 Brak wyników.
 Brak zapamiętanych urządzeń
 Brand name for Amazon
@@ -1281,6 +1404,7 @@ Buscar categorías
 Buscar em Rockstar Games...
 Buscar en Rockstar Games
 Buscar en Rockstar Games...
+Buscar streams
 Búsqueda de placas
 but did not provide a \`loader\` for route
 but did not provide an \`action\` for route
@@ -1288,6 +1412,8 @@ but must be non-nullable to be used for OneOf Input Object
 but pathname
 Button aria label for the communications page mail list subscribe button when unsubscribed
 Button aria label for the link button on the connections listing page
+Button label to leave feedback or suggestions
+Button label to report a bug or feedback
 Button text for the button label.
 Button text for the communications page mail list subscribe button when subscribed
 Button text for the communications page mail list subscribe button when unsubscribed
@@ -1301,8 +1427,15 @@ BUY NOW
 By submitting this request, you are confirming you understand and agree to all of the following:
 Cabo Verde
 Cacher le mot de passe
+Caixa de destaque iniciada
+Caixa de destaque pausada
 Cajun French
 calc(var(--card-logo-height) * -1)
+calc(var(--modal-padding) + var(--padding-md)) var(--padding-lg) var(--padding-lg)
+Calcolo risultati in corso...
+Calcul des résultats...
+Calculando resultados...
+Calculating Results...
 Calendário Amete Alem da Etiópia
 Calendario buddista
 calendario budista
@@ -1371,6 +1504,8 @@ calendrier républicain chinois
 call stack
 called on incompatible receiver
 Calling PropTypes validators directly is not supported by the `prop-types` package. Use PropTypes.checkPropTypes() to call them. Read more at http://fb.me/use-check-prop-types
+Callout-Textbox aktivieren
+Callout-Textbox deaktivieren
 cambia il nickname
 cambia l'email
 Cambia l'email
@@ -1452,6 +1587,8 @@ Capitalize some, but not all letters.
 Capo Verde
 Caraibi Olandesi
 Career Progress
+career progress page
+career progress page module
 Careers on LinkedIn
 Cargando actividades...
 Cargando más jugadores bloqueados.
@@ -1484,6 +1621,7 @@ Cartão de perfil
 Cartão de Personagem:
 Carte de personnage :
 Carte du profil
+Cartes de suivi
 Case Tracker
 Casey Time
 Categorías de búsqueda
@@ -1514,10 +1652,12 @@ Century Schoolbook
 Cerca in Rockstar Games...
 Cerca le categorie
 Cerrar búsqueda
+Cerrar la sección de navegación
 Cerrar menú
 Cerrar menú de jugador
 Cerrar menú del jugador
 Cerrar notificación
+Cerrar sección
 Cerrar sesión
 Ces règles décrivent nos valeurs et les politiques que nous faisons appliquer pour assurer à tous les joueurs une expérience juste, respectueuse et sûre.
 cette année
@@ -1614,6 +1754,7 @@ chiński uproszczony
 Chiński uproszczony - (简体中文)
 Chiny (czas letni)
 Chiny (czas standardowy)
+Chiudi il menu
 Chiudi il pop-up
 Chiudi la notifica
 Chiudi menu
@@ -1650,6 +1791,8 @@ Clipperton Island
 Clique para abrir o menu
 Cliquez pour ouvrir le menu
 Cliquez sur le lien contenu dans l'e-mail que nous vous avons envoyé pour annuler votre demande de suppression à tout moment durant cette période.
+Close Banner Message Button
+Close Contact Us Modal Button
 close expanding platform button
 Close menu
 Close modal
@@ -1657,6 +1800,7 @@ Close Modal
 Close player menu
 Close Player Menu
 Close Search
+Close Section Navigation
 Close toast
 Club Rewards
 Cochez cette case pour confirmer que vous comprenez l'avertissement ci-dessus.
@@ -1674,8 +1818,11 @@ Código de verificação inválido
 Collection : Misc
 Collection : Patches
 Collection: View All
+Collega Twitch
 Collega un account di gioco
+Collega un account personaggio valido
 Collega un altro account
+Collega un personaggio di GTA Online
 Colombia Standard Time
 Colombia Summer Time
 Colombian Peso
@@ -1690,12 +1837,14 @@ Color Picker
 column in locationOffset is 1-indexed and must be positive.
 Come iniziare
 Come inviare segnalazioni
+Comenta aquí
 Comic Sans
 Comic Sans MS
 Comma is not permitted after the rest element
 command line
 Common character sequences like "abc" are easy to guess.
 Common names and surnames are easy to guess.
+community challenge rewards
 Community Guidelines
 Community Resources
 Community Series
@@ -1704,16 +1853,24 @@ Community-Richtlinien anschauen
 Como denunciar
 Cómo enviar denuncias
 Cómo enviar un reporte
+Como está sendo a sua experiência no GTA Online? Envie suas ideias e opiniões e ajude a construir o futuro do jogo.
 Company established date in decimals
 Company established date in roman numericals
 Company Info
+Comparte tus comentarios
 Compartilhar com Facebook
 Compartilhar com Reddit
 Compartilhar com X
+Compartilhe seu feedback
 Compartir en Facebook
 Compartir en Reddit
 Competitive Series
+Completa desafíos únicos para ganar GTA$, artículos de bonificación y más, aparte de bonificaciones de RP en cada nivel:
+Completa desafíos únicos para ganar GTA$, artículos y mucho más, como bonificaciones de RP por cada nivel:
+Completa sfide uniche per guadagnare GTA$, articoli omaggio e altro ancora, inclusi RP bonus per ogni livello:
 Completato con successo
+Complete badge title
+Complete unique challenges to earn GTA$, bonus items, and more including RP bonuses for each Level:
 compositionend focusout keydown keypress keyup mousedown
 compositionstart focusout keydown keypress keyup mousedown
 compositionupdate focusout keydown keypress keyup mousedown
@@ -1723,12 +1880,17 @@ COMPRAR AHORA
 Compromised / Hacked Account
 Comprueba tu correo electrónico
 Compte compromis / piraté
+Compte de jeu associé
+Compte Twitch
+Compte Twitch associé
 Comptes associés
 Comunicação online e privacidade
 Comunicaciones en línea y privacidad
 Comunicaciones online y privacidad
 Comunicazioni online e privacy
 Comunidade em Série
+Conclua desafios únicos para ganhar GTA$, itens bônus e mais, incluindo bônus de RP para cada nível:
+Condividi il tuo feedback
 Condividi su Facebook
 Condividi su Reddit
 Conferma annullamento
@@ -1739,6 +1901,8 @@ Conferma la nuova password
 Conferma la tua iscrizione
 Conferma le modifiche prima di proseguire
 Confidentialité et communication en ligne
+Configura Drops de Twitch
+Configura Drops de Twitch para recibir recompensas futuras
 Configura las opciones de esta página para administrar la información de tu perfil. Parte de la información siempre será visible, como la pertenencia a un Crew o los datos multijugador.
 Configuración de cookies
 Configuración de cuenta
@@ -1776,7 +1940,9 @@ Configurar verificación en 2 pasos
 Configurer avec un code QR
 Configurer l'application d'authentification
 Configurer la vérification en deux étapes
+Configurez vos drops Twitch
 Confira na conta de e-mail informada a mensagem de solicitação de alteração de e-mail. Seu endereço de e-mail só será atualizado depois da verificação usando o link fornecido.
+Confira todos os desafios que você concluiu na sua carreira no GTA Online. Você também pode descobrir novos desafios e ganhar grandes recompensas conforme cresce na hierarquia do crime.
 Confirm Cancellation
 Confirm Download
 Confirm Download button text
@@ -1809,10 +1975,15 @@ Congo - Brazzaville
 Congo - Kinshasa
 Congo Swahili
 Congolese Franc
+Connectez-vous à votre compte pour consulter toutes les récompenses que vous pouvez gagner ou avez déjà gagnées, ainsi que les opportunités qui vous attendent.
+Connectez-vous à votre compte Rockstar Games pour commencer la configuration.
+Connectez-vous à votre compte Rockstar Games pour vous lancer
+Connectez-vous pour suivre votre progression
 Connexion requise
 Conoce las normas para crear, compartir y monetizar las modificaciones de nuestros juegos y servicios.
 Conoce las reglas para crear, compartir y monetizar las modificaciones de nuestros juegos y servicios.
 Conquête en équipe
+Consejos sobre niveles
 Consenti il confronto con gli amici sulla stessa piattaforma
 const class extends export import super
 Constructor can't be a generator
@@ -1820,13 +1991,19 @@ Constructor can't be an async method
 Constructor Intl.DisplayNames requires 'new'
 Consulta el enlace del correo electrónico que te enviamos para cancelar la solicitud de eliminación en cualquier momento durante este periodo.
 Consulta el enlace del correo electrónico que te hemos enviado para cancelar la solicitud de eliminación en cualquier momento durante este periodo.
+Consulta todos los desafíos que completaste en tu trayectoria en GTA Online. Además, descubre desafíos nuevos y obtén recompensas valiosas mientras avanzas en tu carrera criminal.
+Consulta tu progreso
 Conta comprometida/hackeada
+Conta da Twitch
+Conta da Twitch vinculada.
+Conta de jogo vinculada.
 Contact Mission
 Contacta con el servicio de asistencia técnica de Rockstar Games si necesitas ayuda.
 Contacta con nosotros
 Contacte con nosotros
 Container missing
 Container ref is defined but not hydrated
+Contas vinculadas
 Contatta il supporto di Rockstar Games per ricevere assistenza.
 Conte por que você está nos deixando
 Contentful Component Rendering Issue
@@ -1935,18 +2112,37 @@ Course de véhicules spéciaux
 Course nautique
 Course polymorphes
 Course terrestre
+Crea un account
+Crea un personaggio di Grand Theft Auto Online e completa il tutorial in gioco per ricevere i Drop.
+Crea un personaggio per le ricompense future
+Crea un personaggio per ricevere i Drop
+Crea un personaje de Grand Theft Auto Online y completa el tutorial del juego para recibir Drops.
+Crea un personaje para obtener recompensas en el futuro
+Crea un personaje para recibir Drops
+Crea un personaje para recompensas futuras
 Crea una crew
+Crea una cuenta
 Creador de matrículas
 Creador de misiones
 Creador de placas
 Crear una Crew
+Crear una cuenta
 Create a Crew
+Create a Grand Theft Auto Online character and complete the in-game tutorial to receive drops.
+Create a Grand Theft Auto Online character and complete the in-game tutorial to receive Drops.
+Create an Account
+Create Your Character for Future Rewards
+Create your Character to get Drops
 createTheme.resolve() is client-only
 Creating new session
 Creatore di missioni
 Creatore di targhe
 cree de los pantanos
 cree swampy
+Créez un personnage dans Grand Theft Auto Online et terminez l'introduction en jeu pour recevoir des drops.
+Créez un personnage dans Grand Theft Auto Online et terminez l'introduction pour recevoir des drops.
+Créez votre personnage pour obtenir des drops
+Créez votre personnage pour profiter de futures récompenses
 créole jamaïcain
 creolo giamaicano
 creolo haitiano
@@ -1958,6 +2154,10 @@ Criador de Missões
 Criador de Placas
 Criar conta
 Criar um Comando
+Crie seu personagem para obter recompensas futuras
+Crie seu personagem para receber Drops
+Crie um personagem do Grand Theft Auto Online e conclua o tutorial no jogo para receber Drops.
+Crie uma conta
 criollo haitiano
 crioulo da Louisiana
 cruceiro brasileño
@@ -1978,6 +2178,7 @@ Cruzeiro novo brasileiro (1967–1986)
 cruzeiro novo brasiliano (1967–1986)
 cruzeiro novo brazylijskie (1967–1986)
 crypto.getRandomValues() not supported. See https://github.com/uuidjs/uuid#getrandomvalues-not-supported
+CTA that displays on the GTAO feedback page if the viewer is not logged in.
 Cuadrillas y Modo Libre
 Cuanza angolano reajustado (1995–1999)
 Cuba Daylight Time
@@ -1986,11 +2187,16 @@ Cuban Convertible Peso
 Cuban Peso
 Cubic bezier arrays must contain four numerical values.
 Cuenta comprometida/hackeada
+Cuenta de juego vinculada
+Cuenta de Twitch
+Cuenta de Twitch vinculada
+Cuentas vinculadas
 curdo meridional
 curdo meridionale
 currency cannot be undefined
 Current Password
 Custom tracking stop.
+Customer Service Standard Policy.
 Cypriot Pound
 czas Afganistan
 czas amazoński letni
@@ -2209,6 +2415,7 @@ Danish Krone
 Danke, dass du ein Teil unserer Community bist.
 Danke, dass du Rockstar Games genutzt hast.
 Danke. Bitte überprüfe deine E-Mails, um die Aktualisierung der Präferenzen deines Abonnements abzuschließen.
+Danos tu opinión
 Darse de baja de la lista de correo
 Das Limit von Datenanfragen wurde erreicht. Bitte versuche es später noch einmal.
 Das Löschen deines Rockstar-Games-Kontos ist unwiderruflich. Du musst dein Konto verifizieren und bestätigen, dass du keinen Zugang mehr zu bestimmten Rockstar-Games-Titeln und -Diensten haben wirst.
@@ -2227,6 +2434,7 @@ Date of Birth
 Date text for when a specific connection was linked to the current account
 Datenschutz / Informationen
 Dates are easy to guess.
+Dati non trovati
 Davis Time
 dd 'de' MMM – dd 'de' MMM 'de' y G
 Deathmatch a squadre
@@ -2240,13 +2448,13 @@ Debes introducir un apodo
 Debounced method called with different contexts of the same prototype.
 Decorated type deeper than introspection query.
 decorative video
-Decorative video play button label
 Découvrez comment gérer votre expérience en ligne en utilisant les ressources de la communauté.
 Découvrez comment gérer votre expérience en utilisant les ressources de la communauté.
 Découvrez comment signaler du contenu ou un comportement qui enfreint nos Règles de la communauté.
 Défi points de passage
 Défi Traque & plaque
 defined but its lazy function is also returning a value for this property. The lazy route property
+Dein Browser unterstützt die Wiedergabe von Videos nicht.
 Dein Konto kann nicht gelöscht werden. Bitte wende dich an unser Support-Team, um dein Konto zu löschen.
 Dein Konto wurde bereits für die Zwei-Faktor-Authentifizierung registriert.
 Dein Profil kann nicht geändert werden, da das angegebene Alter im ausgewählten Land/in der ausgewählten Region als minderjährig gilt.
@@ -2261,6 +2469,7 @@ Deine E-Mail-Adresse konnte nicht verifiziert werden. Dein Konto wurde mögliche
 Deine E-Mail-Adresse wurde erfolgreich geändert.
 Deine Stufe und Statistiken für alle Rockstar-Games-PC-Titel werden gelöscht.
 Deine verknüpften Konten bleiben weiterhin aktiv, bis die Löschung deines Rockstar-Games-Kontos abgeschlossen ist.
+del juego para obtenerlas.
 Delete account
 Delete Account
 Deleting local variable in strict mode
@@ -2286,12 +2495,22 @@ Desafío de puntos de control
 Desbloqueios por Nível
 Desbloqueos de nivel
 Descontento con el producto/juego
+Descripción emergente sobre rangos
 Description informing user of an error updating their email preferences.
 Description to let user know they have already unsubscribed
 Description to let user know they have successfully unsubscribed
+Descubre lo destacado en pausa
+Descubre lo destacado reproduciéndose
+Descubrimiento de aviso en reproducción
+Descubrimiento de aviso pausado
 Désolé, aucun résultat n'a été trouvé.
+Désolé, les cartes de suivi de carrière ne sont actuellement pas disponibles.
 Désolé, nous ne pouvons donner suite à votre demande pour le moment.
+Desplazar hacia la derecha
+Desplazar hacia la izquierda
 Desplazarse hacia abajo
+Desplazarse hacia la derecha
+Desplazarse hacia la izquierda
 después de Cristo
 Destroying compression worker
 Détails du profil
@@ -2371,6 +2590,14 @@ dirham ZEA
 dirty is not a string, aborting
 Discarded session because of missing or non-string release
 Discount price, previously
+Discover Callout pause button label
+Discover Callout Paused
+Discover Callout play button label
+Discover Callout Playing
+Disponibile solo su
+Disponible solamente en
+Disponible solo en
+Disponível apenas para
 Dispositivo de verificação em 2 etapas
 Dispositivo esquecido
 Dispositivo olvidado
@@ -2386,6 +2613,8 @@ Dlaczego nas opuszczasz?
 Do Not Sell or Share My Personal Information
 Document has become active, but session has expired
 Dodaj do zakładek
+Dodaj opinię
+Dodaj postać
 Dodatkowe zasoby
 does not exist in
 does not exist in object
@@ -2438,14 +2667,18 @@ Dominican Peso
 Dominican Republic
 Dominikanische Republik
 Dominikanischer Peso
+Don't have an account?
 Don't miss the next free GTA Online gift
+Donner votre avis
 dopo Cristo
+Dostępne wyłącznie na
 Dot click
 doubleTap doubleClick
 Dowiedz się jak poprawić bezpieczeństwo twojego konta Rockstar Games.
 Dowiedz się jak zarządzać swoim doświadczeniem online dzięki Zasobom społeczności.
 Dowiedz się jak zgłaszać zawartość lub zachowanie niezgodne z naszym Regulaminem społeczności.
 Dowiedz się więcej
+Dowiedz się więcej o szerokiej gamie aktualizacji Grand Theft Auto Online i odkryj specjalne wyzwania i nagrody dostępne tylko na PlayStation 5, Xbox Series X|S oraz w ulepszonej wersji GTAV na PC.
 Dowiedz się więcej o tym, jak zarządzać swoim doświadczeniem online dzięki Zasobom społeczności.
 Dowiedz się więcej o tym, jak zarządzać tym, z kim wchodzisz w interakcję oraz grasz w GTA Online.
 Download bestätigen
@@ -2470,8 +2703,10 @@ Drift Race
 Drops da Twitch
 Drops de Twitch
 Drops Twitch
+Drops-Inventar ansehen
 Dropy na Twitchu
 Drużynowy Król wzgórza
+Du bist bereit
 Du erhältst bereits Newsletter-Updates an diese E-Mail-Adresse. Verwalte jederzeit deine Präferenzen bezüglich der Kommunikation in den Einstellungen deines Kontos.
 Du hast das Download-Limit für diese Datenanfrage erreicht. Du kannst im nächsten Monat eine neue Datenanfrage beantragen.
 Du hast das Limit an E-Mails zur Verifizierung erreicht. Bitte versuche es später noch einmal.
@@ -2480,6 +2715,7 @@ Du hast den Newsletter erfolgreich abbestellt.
 Du hast dich mit dem falschen Konto angemeldet. Bitte melde dich mit dem richtigen Konto an und versuche es erneut.
 Du hast dich während der Kontoerstellung nicht für Werbe-E-Mails angemeldet. Möchtest du immer noch unseren Newsletter abonnieren?
 Du hast E-Mails bereits abbestellt
+Du hast noch kein Konto?
 Du hast unseren Newsletter abonniert und erhältst ab jetzt Updates zu Spielankündigungen, speziellen Events und mehr von Rockstar Games und unseren Partnern.
 Du kannst dich auf diesen Geräten ohne zweistufige Verifizierung anmelden.
 Du musst dich erst anmelden, um diese Inhalte zu sehen.
@@ -2672,6 +2908,7 @@ EEEEd Hmsv
 EEEEd hmv
 EEEEd Hmv
 EEEEd mmss
+Effective immediately and ongoing.
 Effectuer un signalement
 egipski arabski
 Egyptian Arabic
@@ -2682,6 +2919,7 @@ Ein unerwarteter Fehler ist während des Abrufs des Status deiner Datenanfrage a
 Eine Anfrage einreichen
 Eine Minute in New York
 Eine Sprache auswählen
+Einen Charakter hinzufügen
 Einrichtung über QR-Code
 either ensure all objects of type
 El apodo nuevo no puede coincidir con el actual.
@@ -2696,11 +2934,13 @@ Elegir un avatar
 Elementi evidenziati
 Éléments à déverrouiller
 Elenchi partite
+Elige una plataforma.
 Elimina account
 Eliminar cuenta
 Eliminar marca
 Eliminar verificación en dos pasos
 Ellipse Path 1
+Email Address
 Email guidelines text
 Email Verification
 Emblem Editor
@@ -2710,13 +2950,16 @@ Emiratos Árabes Unidos
 Émirats arabes unis
 emit function is required
 Empleos en LinkedIn
+employees being trained.
 Empty sub-selector
 En este momento no puedes suscribirte a nuestro boletín de noticias con este correo electrónico.
+En este momento, no hay Drops de Twitch disponibles, pero presta atención. Crea un personaje de Grand Theft Auto Online y completa el tutorial del juego para recibir Drops.
 En este momento, no podemos añadir esta dirección de correo electrónico a la lista de nuestro boletín.
 En este momento, no podemos registrar esta dirección de correo electrónico a nuestro boletín.
 En savoir plus
 En soumettant cette demande, vous confirmez que vous comprenez et acceptez que :
 Encontrar amigos
+Encontrar transmissões
 Encontre recursos rapidamente se você ou alguém que você conhece precisa de ajuda.
 Encountered error running transport request:
 Encuentra ayuda rápidamente en caso de que tú o alguien que conoces esté pasando por dificultades y necesite apoyo.
@@ -2736,6 +2979,10 @@ Enlace externo a la tienda
 Enlace no válido
 Enter Authenticator Code
 Enter current password
+Enter email address
+Enter first name
+Enter last name
+Enter major/course subject
 Enter new email address
 Enter new nickname
 Enter password
@@ -2744,6 +2991,8 @@ Enter the Secret Key in your Authenticator App to generate a Verification Code.
 Entre em contato
 Entre em contato com o Suporte da Rockstar Games para obter ajuda.
 Entrer le code d'authentification
+Enviar comentarios
+Enviar feedback
 Enviar uma solicitação
 Enviar una solicitud
 Envoyer une demande d'assistance
@@ -2756,6 +3005,7 @@ Erfahre, wie du die Sicherheit deines Kontos bei Rockstar Games verbessern kanns
 Erfahre, wie du Inhalte oder Verhalten meldest, die gegen unsere Community-Richtlinien verstoßen.
 Erfolgreich abbestellt
 Erfolgreich abonniert
+Ergebnisse werden berechnet …
 Erhalte per E-Mail Updates bezüglich Spielankündigungen, speziellen Events und anderen Angeboten.
 Eritrean Nakfa
 Eritreischer Nakfa
@@ -2772,6 +3022,8 @@ Error formatting relative time.
 Error Icon
 Error in compression worker
 Error in compression worker:
+Error loading google recaptcha script
+Error loading video:
 Error message for when the new password does not meet requirements
 Error message for when the user is already enrolled in two-factor authentication
 Error message for when the user is attempting to verify their new email address while being logged into the wrong account
@@ -2803,6 +3055,11 @@ Error when enriching network breadcrumb
 Error while sending envelope:
 Errore nel tentativo di annullamento dell’iscrizione
 Erste Schritte
+Erstelle einen Charakter in Grand Theft Auto Online und schließe das Tutorial im Spiel ab, um Drops zu erhalten.
+Erstelle einen Charakter, um Drops zu erhalten
+Erstelle einen Charakter, um zukünftige Belohnungen zu erhalten
+Es tut uns Leid, die Karrierefortschrittskarten sind momentan leider nicht verfügbar.
+Es wurde kein GTA-Online-Charakter gefunden, der mit deinem Rockstar-Games-Konto verknüpft ist.
 Escaneie este código QR com o aplicativo autenticador e insira abaixo o código de verificação gerado.
 Escape sequence in keyword import
 Escape sequence in keyword new
@@ -2948,6 +3205,8 @@ Failed to load the compression worker, falling back to simple buffer
 Failed to serialize response body
 Failed to snapshot the document
 Failed tokenizing
+Faire défiler vers la droite
+Faire défiler vers la gauche
 Faire défiler vers le bas
 Falkland Islands
 Falkland Islands Standard Time
@@ -2968,10 +3227,14 @@ Fechar busca
 Fechar menu
 Fechar menu de jogador
 Fechar modal
+Fechar navegação entre seções
 Fechar notificação
 Federación Rusa
 Federazione Russa
+Feedback geben
 Fehler beim Abbestellen
+Fehler melden
+Fermer la navigation pour cette section
 Fermer la recherche
 Fermer le menu
 Fermer le menu Joueur
@@ -2996,6 +3259,7 @@ filename too long
 Filipiny (czas letni)
 Filipiny (czas standardowy)
 Find Friends
+Find Streams
 Finde schnell Ressourcen, falls du oder jemand, den du kennst, Probleme hat und Hilfe braucht.
 finlandese del Tornedalen
 finnois tornédalien
@@ -3006,6 +3270,7 @@ First argument must be a string
 first argument should be an array
 First bullet point in notice.
 First ensure all usages of `canonizeResults` are removed, then remove this option.
+First Name
 First option in group.
 First paragraph in the notice.
 First parameter must be a function or config object
@@ -3025,6 +3290,7 @@ Footer text that appears specifically in the details page for a Steam account
 For additional assistance with managing your account or data and privacy settings, visit our Customer Support page.
 For more information about how to secure your Rockstar Games account using 2-Step Verification, visit our <mfaSupportAnchor>Support site</mfaSupportAnchor>.
 for more information.
+For special gifts and rewards in Grand Theft Auto Online, link your gaming accounts and watch participating Twitch channels.
 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 for the full message or use the non-minified dev environment for full errors.
 Força da senha
@@ -3034,6 +3300,8 @@ Forget Device
 format was called on a invalid context
 format was called on a non-object
 formats should be a list of things
+Fornisci feedback
+Fortschritt ansehen
 Foto da silhueta
 Foto de silueta
 Foto de una silueta
@@ -3048,6 +3316,10 @@ foundry_17pcofyb foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_17pcofyc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_17pcofyd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_18omk9t6 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdp
+foundry_19t2d1j6 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdj
+foundry_19t2d1j7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
+foundry_19t2d1j8 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
+foundry_19t2d1j9 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_1a74xwb3 foundry_1a74xwb2
 foundry_1a74xwb4 foundry_8kowh41
 foundry_1a74xwba foundry_1a74xwb2
@@ -3268,6 +3540,7 @@ Game name of The Rockstar Games - Table Tennis
 Game name of The Warriors
 Game Stats
 Game Stats Visibility
+Gaming account linked
 Gang van der Lindego
 Gangue Van der Linde
 Gara a piedi
@@ -3292,10 +3565,12 @@ Gerät entfernen
 Gerät erfolgreich entfernt.
 Gerät für die zweistufige Verifizierung
 Gerenciar conta
+Gerenciar contas vinculadas
 Gerenciar preferências
 Gerencie as contas vinculadas à sua conta da Rockstar Games.
 Gerencie como as informações na página do seu perfil da Rockstar Games aparecem em outras áreas do nosso site.
 Gérer le compte
+Gérer les comptes associés
 Gérer vos préférences
 Gérez la manière dont les infos de votre page de profil Rockstar Games s'affichent dans d'autres zones de notre site.
 Gérez les réseaux associés à votre compte Rockstar Games.
@@ -3306,9 +3581,11 @@ German Mark
 Gespeicherte Geräte
 Gestiona cómo aparece la información de tu perfil de Rockstar Games en otras áreas de nuestro sitio web.
 Gestionar cuenta
+Gestionar cuentas vinculadas
 Gestionar las redes conectadas a tu cuenta de Rockstar Games.
 Gestionar preferencias
 Gestionar tus preferencias
+Gestisci gli account collegati
 Gestisci le connessioni al tuo account di Rockstar Games.
 Gestisci le preferenze
 Get email updates on game announcements, special events, and other offers.
@@ -3319,12 +3596,16 @@ Getting Started
 GGGGGy-MM – GGGGGy-MM
 GGGGGy-MM-ddE – GGGGGy-MM-ddE
 Gib den Geheimschlüssel in deiner Authenticator-App ein, um einen Verifizierungscode zu generieren.
+Gib uns dein Feedback
 Gilbert Islands Time
 Gill Sans
 Giocatore singolo
 Giochi in evidenza
+Gioco precedente
 giudeo arabo
 giudeo persiano
+Give feedback
+Give Feedback
 Global navigation More, Overflow for small screens More text link
 Global navigation Quick Access, Home text link
 Global navigation search categories aria label
@@ -3346,7 +3627,9 @@ Global navigation, Rockstar Games Home
 Global navigation, Rockstar Games Logo that opens the Quick Access Menu
 Google icon
 Google Play
+GoogleReCaptcha Context has not yet been implemented, if you are using useGoogleReCaptcha hook, make sure the hook is called inside component wrapped by GoogleRecaptchaProvider
 Got NaN while animating:
+Gotowe do odebrania
 Gra jednoosobowa
 Gracias por formar parte de nuestra comunidad.
 Gracias por utilizar Rockstar Games.
@@ -3417,6 +3700,7 @@ GTA III
 GTA Online
 GTA Plus
 GTA Trilogy
+GTA-Online-Charakter verknüpfen
 GTA: San Andreas
 GTA: Vice City
 GTA:San Andreas
@@ -3429,6 +3713,7 @@ Guardar cambios
 Guayana Francesa
 Guerre d'arène
 Guiana Francesa
+guide nav
 Guiné Equatorial
 Guinea Ecuatorial
 Guinea Equatoriale
@@ -3436,6 +3721,7 @@ Guinée équatoriale
 Gujana Francuska
 gulden antylski
 Gulf Standard Time
+Gültiges Charakter-Konto verknüpfen
 gultrum butanés
 Guyana Francese
 Guyana Time
@@ -3594,6 +3880,8 @@ GyMMMMEd, Hmv
 Ha habido un error inesperado al recuperar el estado de tu solicitud de datos. Ponte en contacto con el servicio de asistencia técnica de Rockstar.
 Habilitar autenticador
 Habilitar com código QR
+Habilite seus Drops da Twitch
+Habilite seus Drops da Twitch para obter recompensas futuras
 Hai bisogno di aiuto con il tuo account?
 Hai cambiato idea?
 Hai effettuato l’accesso con l’account sbagliato. Effettua l’accesso con l’account corretto e riprova.
@@ -3621,6 +3909,7 @@ Has cambiado el correo electrónico.
 Has cancelado tu suscripción a nuestra lista de correo.
 Has cancelado tu suscripción con éxito
 Has iniciado sesión en la cuenta incorrecta. Inicia sesión en la cuenta correcta y vuelve a intentarlo.
+has put procedures in place to prevent service disruptions to its accessible parts of its public spaces.
 Hasła nie są identyczne.
 Hasło musi zawierać przynajmniej jedną cyfrę.
 Hasło musi zawierać przynajmniej jedną dużą literę.
@@ -3636,6 +3925,7 @@ Haz clic en el botón a continuación para confirmar que quieres suscribirte al 
 Haz clic para abrir el menú
 Haz click en el botón para confirmar que quieres suscribirte al boletín de noticias de Rockstar Games.
 head > title
+Header for the getting started section
 Header to let user know there was an error unsubscribing
 Header to let user know they have already unsubscribed
 Header to let user know they have successfully unsubscribed
@@ -4328,6 +4618,7 @@ Houve um erro. Tente de novo.
 Houve um erro. Tente novamente.
 Hovd Standard Time
 Hovd Summer Time
+How are you enjoying GTA Online? Tell us your thoughts and ideas to help us shape the future of the game.
 How To Report
 HTML document title for /account
 HTML document title for /account/communications
@@ -4360,6 +4651,7 @@ https://instagram.com/rockstargames
 https://m1.openfpcdn.io/fingerprintjs/v
 https://react.dev/errors/
 https://store.rockstargames.com/game/buy-red-dead-redemption-2?_gl=1
+https://support.rockstargames.com
 https://support.rockstargames.com/
 https://support.rockstargames.com/articles/7bNaeoMFTV0iUDGhStTXvz
 https://twitch.tv/rockstargames
@@ -4371,6 +4663,7 @@ https://www.rockstargames.com/careers
 https://www.rockstargames.com/gta-online/feedback
 https://www.rockstargames.com/reddeadonline/feedback
 https://www.tiktok.com/@rockstargames
+https://www.twitch.tv/drops/inventory
 https://www.youtube-nocookie.com
 https://www.youtube.com
 https://www.youtube.com/rockstargames
@@ -4446,10 +4739,13 @@ Ikona uścisku dłoni
 Ikonka powrotu
 Ikony Rockstar
 Il mio personaggio
+Il n'y a pas de drop Twitch disponible actuellement, mais gardez un œil sur les prochains. En attendant, gérez votre inventaire et récupérez vos récompenses disponibles.
+Il n'y a pas de drop Twitch disponible actuellement, mais restez à l'écoute. Créez un personnage dans Grand Theft Auto Online et terminez l'introduction pour recevoir des drops.
 Il nickname può contenere solo lettere, numeri, trattini e trattini bassi
 Il nuovo nickname deve essere diverso da quello già esistente
 Il processo di recupero dell'account rimuoverà il tuo dispositivo per la verifica in 2 passaggi. Consigliamo caldamente di proteggere il tuo account con la verifica in 2 passaggi.
 Il tuo account è già registrato per l’autenticazione a due fattori.
+Il tuo browser non supporta la riproduzione di video.
 Il tuo link di verifica è scaduto, riprova.
 Il tuo livello e le tue statistiche dei giochi Rockstar Games per PC saranno eliminati.
 Il tuo nuovo indirizzo email deve essere diverso da quello in uso
@@ -4512,6 +4808,8 @@ Impossibile verificare il tuo indirizzo email al momento. L’account potrebbe e
 Impossible de modifier le pseudo
 Impossible de modifier votre profil car il n'atteint pas l'âge minimum requis dans le pays ou la région sélectionnés.
 Impossible de vérifier l'adresse e-mail
+Imposta i tuoi Twitch Drop
+Imposta i Twitch Drop per ricevere le ricompense future
 Imposta il tuo sistema di autenticazione
 Imposta la verifica in due passaggi.
 Impostazione tramite codice QR
@@ -4555,12 +4853,14 @@ Indian National Calendar
 Indian Ocean Time
 Indicador de carga
 Indicador de carga de dispositivos guardados
+indicates a required field
 Indicatore di caricamento in corso
 Indiquez qui peut consulter votre profil et vos statistiques de jeu via les fonctionnalités et services de Rockstar.
 Indirizzo email non valido
 Indische Normalzeit
 Indischer Nationalkalender
 Indochina Time
+Informação sobre níveis
 Información de la compañía
 Información de la organización
 Información general
@@ -4568,9 +4868,12 @@ Informacje dotyczące regionu
 Informacje na temat profilu
 Informacje o firmie
 Informacje o organizacji
+Informacje o poziomach
 Informacje prawne
 Informações Corporativas
 Informações da Loja da Rockstar, bem como de qualquer conta de jogos de terceiros ou de consoles, não serão incluídas em resposta a esta solicitação.
+Informar sobre un error
+Informar sobre un problema
 Infórmate sobre cómo gestionar con quién juegas y quién puede interactuar contigo en GTA Online.
 Infórmate sobre cómo gestionar tu experiencia con los recursos para la comunidad.
 Infórmate sobre cómo gestionar tu experiencia en línea con los recursos para la comunidad.
@@ -4579,7 +4882,10 @@ Infórmate sobre cómo reportar contenido o conductas que no cumplan con las Dir
 Information from the Rockstar Store as well as any third-party or console game account will not be included in response to this request.
 Information icon displaying additional text
 Informationen aus dem Rockstar Store sowie aus jeglichen Drittanbieter- oder Konsolenspielkonten werden in der Antwort auf diese Anfrage nicht enthalten sein.
+Informations sur le palier
 Informationssymbol zeigt zusätzlichen Text an
+Informazioni dei livelli
+Informazioni sui contenuti aggiuntivi
 Informazioni sull’azienda
 Informazioni sull’organizzazione
 Informazioni sulla società
@@ -4614,10 +4920,20 @@ inglese canadese
 inglese medio
 Ingresa tu contraseña de Rockstar Games
 Ingresar código de la aplicación de autenticación
+Inicia sesión con tu cuenta de Rockstar Games para comenzar
+Inicia sesión con tu cuenta de Rockstar Games para empezar
+Inicia sesión con tu cuenta para ver todas las recompensas disponibles, los premios que has ganado y las sorpresas que te esperan.
+Inicia sesión en tu cuenta de Rockstar Games para empezar.
+Inicia sesión en tu cuenta para ver todas las recompensas que puedes conseguir, los premios que has ganado y todas las posibilidades que tienes por delante.
+Inicia sesión para seguir tu progreso
+Inicia sesión para ver tu progreso
 Iniciar marquee
 Iniciar sesión
 Iniciar sessão
 Iniciaste sesión en la cuenta incorrecta. Inicia sesión en la cuenta correcta e inténtalo de nuevo.
+Inicie sessão na sua conta da Rockstar Games para configurar.
+Inicie sessão na sua conta para ver todas as recompensas que você pode ganhar, as recompensas que já ganhou e todas as possibilidades futuras.
+Inicie sessão para ver seu Progresso
 Inicio de Rockstar Games
 Initialization of sharing external failed:
 Inmobiliaria Prix Luxury
@@ -4653,6 +4969,7 @@ Insira o novo endereço de e-mail
 Insira um endereço de e-mail válido
 Insoddisfazione verso il prodotto/gioco
 instantiate Stack using Stack.create(n)
+Instruction indicating which guide can be read
 Inténtalo de nuevo.
 Internet Explorer
 Intl.DateTimeFormat format property accessor called on incompatible receiver
@@ -4680,6 +4997,7 @@ inuktitut de l’Ouest canadien
 inuktitut zachodniokanadyjski
 Invalid `imports` option passed into `_.template`
 Invalid attempt to destructure non-iterable instance
+Invalid attempt to destructure non-iterable instance. In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
 Invalid attempt to iterate non-iterable instance. In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
 Invalid attempt to spread non-iterable instance
 Invalid attempt to spread non-iterable instance. In order to be iterable, non-array objects must have a [Symbol.iterator]() method.
@@ -4738,10 +5056,12 @@ Invalid value.
 invalid zip data
 Invariant failed
 Invariant Violation
+Invia feedback
 Invia un ticket
 Inviando questa richiesta confermi di aver compreso e di accettare quanto segue:
 iPhone Simulator
 iPod Simulator
+Ir al contenido principal
 Iran (czas letni)
 Iran (czas standardowy)
 Iran Daylight Time
@@ -4762,6 +5082,12 @@ irlandés medio
 irlandês médio
 irlandese antico
 irlandese medio
+is committed to accessible customer service in keeping with the principles of dignity, independence, integration and equal opportunity.
+is committed to fair and accessible employment practices.
+is committed to improving accessibility for individuals with disabilities and treating all people in a way that allows them to maintain their dignity and independence.
+is committed to meeting the information and communication needs of people with disabilities.
+is committed to providing its customers with publicly available emergency information, in an accessible way, upon request.
+is disabled. Select another option.
 is not a constructor or null
 is not a File
 is not a function
@@ -4839,6 +5165,7 @@ Izrael (czas letni)
 Izrael (czas standardowy)
 Já está inscrito
 Jagd nach Abzeichen
+Jak ci się podoba GTA Online? Podziel się z nami swoimi przemyśleniami i pomysłami, które pomogą nam kształtować przyszłość gry.
 Jak zgłaszać
 Jakuck (czas letni)
 Jakuck (czas standardowy)
@@ -4865,6 +5192,7 @@ Jetzt abonnieren
 Jetzt anschauen
 Jetzt kaufen
 JETZT KAUFEN
+Jeu suivant
 Jeux à la une
 Jeżeli masz problem z weryfikacją swojego adresu e-mail, odwiedź naszą
 Job Bookmarked
@@ -4873,10 +5201,14 @@ Job nicht mehr markiert
 Job Unbookmarked
 Jobs werden geladen ...
 Jogadores bloqueados não podem ver seu perfil, enviar mensagens para você nem interagir com você no jogo.
+Jogo anterior
 Jogo individual
 Jogos em destaque
+Join Now
 juan chiński
 juan chiński (rynek zewnętrzny)
+Juego anterior
+Juego siguiente
 Juegos destacados
 Już otrzymujesz powiadomienia o nowościach na ten adres e-mail. Zmień swoje preferencje w dowolnym momencie w ustawieniach swojego konta.
 Już szukano bieżącej frazy. Wpisz nową frazę.
@@ -4898,16 +5230,24 @@ kalendarz muzułmański (Umm al-Kura)
 kalendarz perski
 kalendarz Republiki Chińskiej
 Kaliningrader Zeit
+Kamień milowy osiągnięty
 Kanadischer Dollar
 Kanarische Inseln
 karatchaï balkar
 Karibische Niederlande
 Karta postaci:
 Karta profilu
+Karty aktualizacji
+Karty postępu kariery są obecnie niedostępne.
 keczua górski (Chimborazo)
 Keep Your Account Safe
 Kehre zur Hauptseite für Konto-Verknüpfungen zurück.
+Kein Charakter gefunden
+Kein Spielkonto verknüpft
+Kein Twitch-Konto verknüpft
+Keine Belohnungen verfügbar
 Keine blockierten Benutzer
+Keine Daten gefunden
 Keine gespeicherten Geräte
 King of the Hill
 Kirgisische Zeit
@@ -4929,7 +5269,9 @@ komi permio
 Komunikacja online i ustawienia prywatności
 kongijski suahili
 Kontaktiere uns
+Konto erstellen
 Konto löschen
+Konto Twitch
 Konto verwalten
 Kontoeinstellungen – „Konto löschen“ abbrechen
 Kontoeinstellungen – Benachrichtigungen
@@ -4959,6 +5301,7 @@ korona czechosłowacka
 korona czeska
 korona duńska
 korona estońska
+Korzyści członkowskie
 Kosrae Time
 koyra chiini
 Koyra Chiini
@@ -5047,9 +5390,16 @@ Label describing the edit avatar button
 Label describing the edit avatar button icon
 Label describing the remembered devices loading spinner
 Label for an external link.
+Label for button which closes the secondary menu
+Label for button which opens the secondary menu
 Label for chevron icon, indicating trigger has a sub menu
+Label for close buttons for the Career Progress Hub (eg. to close a popup) on the Career Progress Hub
 Label for closing the toast
 Label for CTA on email settings prompt.
+Label for learn more buttons.
+Label for link to guide
+Label for scroll left buttons for the Career Progress Hub navigation
+Label for scroll right buttons for the Career Progress Hub navigation
 Label for the communications page mail list subscription section when subscribed
 Label for the communications page mail list subscription section when unsubscribed
 Label for the communications page notification section for crew invite email switch
@@ -5088,6 +5438,7 @@ Las claves de activación y los códigos del contenido descargable permanecerán
 Las contraseñas deben coincidir.
 Lass uns wissen, warum du gehst
 last month
+Last Name
 last qtr.
 last quarter
 Last Team Standing
@@ -5122,7 +5473,9 @@ Learn how to improve your Rockstar Games account security.
 Learn how to manage who you play with and who can interact with you in GTA Online.
 Learn how to manage your online experience using our Community Resources.
 Learn how to report content or behavior that goes against our Community Guidelines.
+Learn more
 Learn More
+Learn more about a huge range of Grand Theft Auto Online updates, and discover special challenges and rewards only available on PlayStation 5, Xbox Series X|S, and the upgraded version of GTAV on PC.
 Learn more about how to manage your experience using our Community Resources.
 Learn the rules for creating, sharing, and monetizing mods of our games and services.
 Legal Text
@@ -5184,6 +5537,11 @@ Linee guida relative alle mod
 lingua franca nova
 Lingua Franca Nova
 lingua imprecisata
+Link a game account
+Link A Game Account
+Link a GTA Online Character
+Link a valid character account
+link another account
 Link Another Account
 Link Click
 Link copiado
@@ -5192,6 +5550,7 @@ Link Copied
 Link esterno per il Negozio
 Link externo para a Loja
 Link Game Account
+Link gaming account
 Link in die Zwischenablage kopieren
 link in the site footer',defaultMessage:
 Link inválido
@@ -5199,6 +5558,12 @@ Link kopiert
 Link non valido
 Link skopiowany
 Link to go back to the profile settings page.
+link twitch
+Link Twitch
+linked account has no character data
+Linked Accounts
+Links scrollen
+Lisez le guide \
 Lista bloccati
 Lista de bloqueados
 Lista de bloqueio
@@ -5221,6 +5586,7 @@ Liste de diffusion
 Liste des morceaux
 Listy gier
 Literary Chinese
+Livello completato
 Livello zoom
 livre chypriote
 livre égyptienne
@@ -5233,6 +5599,8 @@ LLLL – LLLL
 LLLL y–LLLL y
 LLLL–LLLL y
 Lo lamentamos, pero no se encontraron resultados.
+Lo sentimos, las categorías de progreso en la trayectoria no están disponibles en este momento.
+Lo sentimos, las tarjetas de los contenidos descargables de \
 Lo sentimos, no hay resultados.
 Lo sentimos, no podemos atender tu petición en este momento.
 Lo sentimos, no podemos procesar tu solicitud en este momento.
@@ -5270,9 +5638,15 @@ Logical expressions and coalesce expressions cannot be mixed. Wrap either by par
 Logo de l'assistance Rockstar
 Logo de Rockstar Support
 Logo de soporte técnico de Rockstar
+Logo de Twitch
 Logo del Supporto di Rockstar
+Logo di Twitch
+Logo Twitch
 Logo wsparcia Rockstar
+Logotipo da Twitch
+Logotipo de Twitch
 Logotipo do Suporte da Rockstar
+Logro alcanzado
 Loi sur les services de paiement
 Lone quantifier brackets
 Looks like ParallaxController.init() was called on the server. This method must be called on the client.
@@ -5338,6 +5712,7 @@ Man Hunt
 Man Hunt 2
 Manage Account
 Manage how info on your Rockstar Games profile page appears in other areas of our site.
+Manage Linked Accounts
 Manage networks connected to your Rockstar Games account.
 Manage Preferences
 manat azerbaiyano
@@ -5351,6 +5726,7 @@ Marca esta casilla para confirmar que entiendes el aviso anterior
 Marca esta casilla para confirmar que entiendes el aviso anterior.
 Marcando Território
 Marcando Território em Equipe
+Marco alcançado
 marco alemán
 Marco alemão
 Marco conversível da Bósnia e Herzegovina
@@ -5430,6 +5806,7 @@ MEEEEd Hmv
 MEEEEd mmss
 Mehr blockierte Nutzer werden geladen.
 Mehr erfahren
+Meilenstein erreicht
 Mein Charakter
 Mein Land / meine Region anzeigen
 Mein Profil ansehen
@@ -5445,8 +5822,12 @@ Meio Horário de Verão das Ilhas Cook
 Meksyk (czas pacyficzny letni)
 Meksyk (czas pacyficzny standardowy)
 meksykański hiszpański
+Melde dich an, um deinen Fortschritt anzusehen
+Melde dich bei deinem Rockstar-Games-Konto an, um mit der Einrichtung zu beginnen
 Melde dich bei unserem E-Mail-Newsletter an, um über Spielankündigungen und Updates, besondere Events, Angebote und mehr von Rockstar Games und unseren Partnern informiert zu werden.
+Melde dich mit deinem Konto an und sieh dir die Belohnungen an, die du freischalten kannst, die Auszeichnungen, die du schon verdient hast, sowie die Möglichkeiten, die noch vor dir liegen.
 Meldung erstellen
+Member Benefits
 memoMethod must be a function if defined
 meński frankoński
 Mentions légales
@@ -5519,6 +5900,7 @@ Midnight Club Street Racing
 Midnight Club: Los Angeles
 Midnight Club：Los Angeles
 Mikronesisches Inselgebiet
+Milestone achieved
 min nan
 Min Nan
 Min Nan Chinese
@@ -5567,6 +5949,8 @@ Missione Versus
 Missioni della storia
 Missions de l'histoire
 Missões de História
+Mit Twitch verknüpfen
+Mitglied werden
 Mitteleuropäische Normalzeit
 Mitteleuropäische Sommerzeit
 Mittlere Greenwich-Zeit
@@ -5785,6 +6169,8 @@ Moje zapamiętane urzadzenia
 Molestie/comportamento inadeguato
 Molto debole
 Molto forte
+Momentan gibt es keine Twitch Drops, aber bleib dran. Erstelle einen Charakter in Grand Theft Auto Online und schließe das Tutorial im Spiel ab, um Drops zu erhalten.
+Momentan gibt es keine Twitch Drops. Bleib dran für die nächste Runde. In der Zwischenzeit kannst du dein Inventar verwalten und deine verfügbaren Belohnungen abholen.
 Mon personnage
 Mon tableau de bord
 Monotype Corsiva
@@ -5871,13 +6257,18 @@ Nächste Seite von Events
 Nächste Videoseite
 nächste Woche
 nächsten Monat
+Nächstes Bild
 Nächstes Element
 Nächstes Event
 nächstes Jahr
 nächstes Quartal
+Nächstes Spiel
 Naciones Unidas
 Nada que ver aquí
 nafka érythréen
+Nagroda zablokowana
+Nagrody gotowe do odebrania
+Nagrody gotowe do odebrania Odwiedź menu postępów kariery w grze, aby odebrać.
 Nagrody klubowe
 Nagrody za rangi
 Najczęstsze pytania
@@ -5889,18 +6280,23 @@ nakfa erytrejska
 Należy potwierdzić swoją subskrypcję listy mailingowej Rockstar Games poprzez kliknięcie poniższego przycisku.
 Name nicht verfügbar
 Name not available
+Não achamos nenhum personagem do GTA Online vinculado à sua conta da Rockstar Games.
 Não compartilhem minhas informações pessoais
 Não é possível alterar o apelido
 Não está conseguindo escanear?
 Não foi possível atualizar o seu perfil pois ele está classificado como menor de idade para o país/região selecionado.
 Não foi possível verificar o endereço de e-mail
 Não foi possível verificar o seu endereço de e-mail. Sua conta já pode ter sido verificada ou o link utilizado pode estar com problemas.
+Não há Drops da Twitch disponíveis no momento, mas fique de olho na próxima rodada. Enquanto isso, gerencie seu inventário e resgate suas recompensas disponíveis.
+Não há Drops da Twitch disponíveis no momento, mas fique de olho. Crie um personagem do Grand Theft Auto Online e conclua o tutorial no jogo para receber Drops.
 Não há nada aqui
 Não perca o próximo presente gratuito do GTA Online
 Não podemos processar sua solicitação no momento.
+Não tem uma conta?
 Não vendam ou compartilhem minhas informações pessoais
 narodowy kalendarz hinduski
 Nascondi password
+Następna gra
 Następna strona wydarzeń
 Następna strona z filmami
 Następne wydarzenie
@@ -5934,11 +6330,19 @@ neerlandés (Bélgica)
 neerlandés medio
 Negated character class may contain strings
 Nein, zurückkehren
+Nenhum dado encontrado
+Nenhum personagem encontrado
 Nenhum resultado foi encontrado.
 Nenhum usuário bloqueado
+Nenhuma conta da Twitch vinculada.
+Nenhuma conta de jogo vinculada.
+Nenhuma recompensa disponível
 Nepal Time
 Nepalesische Zeit
+Nessun account di gioco collegato
+Nessun account di Twitch collegato
 Nessun dispositivo memorizzato
+Nessun personaggio trovato
 nested under path
 Netherlands Antillean Guilder
 Neue Benachrichtigungen
@@ -5983,10 +6387,12 @@ Newsletter Subscription - CTA title
 Newsletter Subscription Alert - Successfully Subscribed details post AMP launch
 Newsletter Subscription Alert - Successfully Subscribed title
 Next event
+Next Game
 next month
 Next Page of Events
 next qtr.
 next quarter
+Next slide
 Next Slide
 Next video page
 next week
@@ -6013,9 +6419,13 @@ Nie możemy w tym momencie dodać twojego adresu do listy mailingowej. Zmień sw
 Nie możemy w tym momencie dodać twojego adresu do naszego newslettera.
 Nie można zaktualizować profilu, ponieważ nie spełnia wymagań wiekowych w wybranym kraju lub regionie.
 Nie można zmienić pseudonimu
+Nie odnaleziono postaci GTA Online powiązanej z twoim kontem Rockstar Games.
+Nie posiadasz konta?
 Nie przegap kolejnych darmowych korzyści w GTA Online
 Nie udało się zweryfikować adresu e-mail
 Nie udzielono zgody na otrzymywanie powiadomień marketingowych przy zakładaniu konta. Czy chcesz subskrybować naszą listę mailingową?
+Nie znaleziono danych
+Nie znaleziono postaci
 Nie, cofnij
 Niederdeutsch (Niederlande)
 Niederländisch (Belgien)
@@ -6038,6 +6448,8 @@ Nintendo Switch
 Nintendo Switch™
 Niue Time
 Niveau de zoom
+Nivel completado
+Nível concluído
 Nivel de zoom
 Nível de zoom
 Nivel del zoom
@@ -6051,17 +6463,28 @@ No adapter provided when calling "setAdapter"
 no atom init
 No Blocked Users
 No callback given.
+No Character Found
 No client available to capture metric.
 No client configured on scope - will not capture event!
 No client configured on scope - will not capture exception!
 No client configured on scope - will not capture message!
 No config specified
+No Data Found
 No DSN provided, client will not send events.
 No error message
 No es posible actualizar tu perfil porque eres menor de edad en el país/región que seleccionaste.
+no están disponibles en este momento.
 No fetcher match found
+No gaming account linked
+No has vinculado ninguna cuenta de juego
+No has vinculado ninguna cuenta de Twitch
 No hay dispositivos guardados
+No hay Drops de Twitch disponibles en este momento, pero no te pierdas la próxima ronda. Mientras tanto, gestiona tu inventario y obtén las recompensas disponibles.
+No hay Drops de Twitch disponibles en este momento, pero presta atención a la próxima ronda. Mientras tanto, gestiona tu inventario y solicita tus recompensas disponibles.
+No hay Drops de Twitch disponibles en este momento, vuelve más tarde. Crea un personaje de Grand Theft Auto Online y completa el tutorial del juego para recibir Drops.
 No hay jugadores bloqueados
+No hay recompensas disponibles
+No hemos encontrado un personaje de GTA Online vinculado a tu cuenta de Rockstar Games.
 No lazy route function found
 No matching distance found
 no memoMethod provided to constructor
@@ -6069,6 +6492,7 @@ No Modal Container context provided
 No momento, não é possível se inscrever na nossa newsletter usando este endereço de e-mail.
 No momento, não é possível se inscrever no nosso boletim informativo usando este endereço de e-mail.
 No momento, não é possível se inscrever no nosso newsletter usando este endereço de e-mail.
+No momento, os quadros do progresso da carreira não estão disponíveis.
 No mutationFn found
 No node provided
 No onSubmit function specified
@@ -6082,9 +6506,14 @@ No puedes eliminar tu cuenta. Ponte en contacto con el equipo de soporte para el
 No recibirás más correos de publicidad de Rockstar Games. Puedes suscribirte de nuevo o hacer cambios adicionales a tu correo de Rockstar Games en la página de configuración de cuenta.
 No remembered devices
 No result assigned in instrumentation chain.
+No rewards available
 No route found in manifest
+No se encontró información
+No se encontró ningún personaje
+No se ha encontrado ningún personaje compatible
 No se ha podido actualizar tu perfil porque está clasificado como de menor de edad en el país/región que has seleccionado.
 No se ha podido verificar tu dirección de correo electrónico, es posible que tu cuenta ya se haya verificado o que el enlace que has seguido tenga algún error.
+No se han encontrado datos
 No se puede verificar la dirección de correo electrónico
 No session or eventBuffer found to flush.
 no stream handler
@@ -6092,24 +6521,32 @@ No subscription provided. What values do you want to listen to?
 No te has suscrito a los correos electrónicos comerciales al crear tu cuenta. ¿Quieres suscribirte a nuestro boletín de noticias?
 No te pierdas el próximo regalo de GTA Online
 No tienes dispositivos guardados
+No Twitch account linked
 No valid elements provided.
 No valid media queries
 No value found for context
 No vender ni compartir mis datos personales
+No vinculaste ninguna cuenta de juego
+No vinculaste ninguna cuenta de Twitch
 No, torna indietro
 Nom indisponible
 Nombre no disponible
 Nome indisponível
 Nome non disponibile
+Non abbiamo trovato un personaggio di GTA Online collegato al tuo account di Rockstar Games.
 Non c’è niente da vedere
+Non ci sono ricompense disponibili
+Non ci sono Twitch Drop disponibili ora, ma non perderti il prossimo round. Intanto, gestisci il tuo inventario e riscatta le ricompense disponibili.
 Non è possibile eliminare il tuo account. Per eliminare il tuo account, contatta il nostro team di supporto.
 Non è stato possibile procedere con l’iscrizione di questo indirizzo email alla nostra newsletter in questo momento.
 Non hai acconsentito a ricevere le email di marketing durante la creazione dell'account. Vuoi ancora iscriverti alla nostra newsletter?
 Non hai ancora effettuato l’accesso e salvato questo account su alcun dispositivo.
 Non hai bloccato nessun utente
+Non hai un account?
 Non perdere il prossimo omaggio di GTA Online
 Non vendere o condividere i miei dati personali
 Non, retour
+noopener noreferrer
 Nord America
 Nordamerikanische Ostküsten-Normalzeit
 Nordamerikanische Ostküsten-Sommerzeit
@@ -6163,10 +6600,12 @@ Not implemented yet:
 not serialized
 Not used in WizardContext
 Note legali
+Note: Please only select locations where you currently have a legal right to work.
 Nothing to repeat
 Nothing to see here
 NOTRE FOIRE AUX QUESTIONS
 Nous contacter
+Nous n'avons pas trouvé de personnage de GTA Online associé à votre compte Rockstar Games.
 Nous ne pouvons pas abonner cette adresse e-mail à notre newsletter pour l'instant.
 Nous ne pouvons pas abonner votre adresse e-mail à notre newsletter pour l'instant. Modifiez vos préférences concernant les e-mails sur la page des paramètres de votre compte ou réessayez plus tard.
 nouveau cruzado
@@ -6230,6 +6669,7 @@ Nuovo indirizzo email
 nuovo kwanza angolano (1990–2000)
 Nuovo nickname
 nuovo rublo bielorusso (1994–1999)
+Nur auf
 Nur ich
 Nutze die folgende Anfrage, um dein Rockstar-Games-Konto und deine Informationen löschen zu lassen.
 nyasa del Tonga
@@ -6241,10 +6681,14 @@ O link de verificação expirou. Tente de novo.
 O novo apelido não pode ser igual ao apelido atual.
 O novo endereço de e-mail não pode ser o mesmo que o atual
 O processo de recuperação da conta removerá o seu dispositivo de verificação em 2 etapas. Recomendamos fortemente que você proteja sua conta com a verificação em 2 etapas.
+O seu navegador não tem suporte para reprodução de vídeo.
+Obiettivo raggiunto
 Object and Interface types are described by a list of Fields, each of which has a name, potentially a list of arguments, and a return type.
 object expected
 Object expected
 Object is not iterable.
+Objectif atteint
+Obliczanie wyników...
 Obtén asistencia
 Obtén información acerca de cómo denunciar contenido que infringe nuestras directrices de la comunidad.
 Obtén información acerca de cómo gestionar con quién juegas y quién puede interactuar contigo en GTA Online.
@@ -6289,6 +6733,7 @@ Offizielle Seite
 Offres d'emploi sur LinkedIn
 Ofícios Especializados
 Oficjalna strona
+Oglądaj kanały Twitch, które biorą udział, aby otrzymywać darmowe nagrody w grach.
 Ogólny zarys
 ojibwa central
 ojibwa do noroeste
@@ -6323,6 +6768,7 @@ One of the provided types for building the Schema is missing a name.
 One possible value for a given Enum. Enum values are unique values, not a placeholder for a string or numeric value. However an Enum value is returned in a JSON response as a string.
 Online Communications and Privacy
 Online-Kommunikation und Datenschutz
+Only available on
 Only simple MemberExpressions are supported.
 only supported in development mode
 Open in new tab
@@ -6330,6 +6776,7 @@ Open menu
 Open player menu
 Open Player Menu
 Open Search
+Open Section Navigation
 Open Wheel Race
 Operazione non riuscita.
 Operazione non riuscita. Riprova.
@@ -6583,6 +7030,7 @@ Ottieni il launcher
 Ottoman Turkish
 Otwórz menu
 Otwórz menu gracza
+Otwórz menu nawigacji
 Otwórz w nowej karcie
 Oublier cet appareil
 Oui, je m'abonne
@@ -6590,11 +7038,13 @@ out of bound
 Outlying Oceania
 Outro motivo
 Ouvrir dans un nouvel onglet
+Ouvrir la navigation pour cette section
 Ouvrir la recherche
 Ouvrir le menu
 Ouvrir le menu Joueur
 Pacific Daylight Time
 Pacific Standard Time
+Pack Cards
 Paesi Bassi
 Page précédente
 Page précédente des évènements
@@ -6636,6 +7086,7 @@ Palatine German
 Palatino Linotype
 Palau Time
 Palestinian Territories
+Palier terminé
 pan-x pan-y
 Panel użytkownika
 paper aeroplane
@@ -6657,9 +7108,13 @@ Para obtener más información sobre cómo proteger tu cuenta de Rockstar Games 
 Para obtener más información sobre nuestras medidas de privacidad, lee nuestra <privacyPolicyAnchor>Política de privacidad</privacyPolicyAnchor>.
 Para obter mais ajuda com o gerenciamento da sua conta, dados e configurações de privacidade, acesse a página de suporte.
 Para prosseguir, insira sua senha da Rockstar Games para remover a verificação em 2 etapas da sua conta:
+Para receber recompensas e presentes especiais no Grand Theft Auto Online, vincule suas contas de jogo e assista aos canais da Twitch participantes.
 Para recibir asistencia adicional en relación con tu cuenta, datos o ajustes de privacidad, visita nuestra página de soporte.
+Para recibir la recompensa en el juego, mira los canales de Twitch participantes.
+Para resgatar uma recompensa grátis no jogo, assista aos canais da Twitch participantes.
 Para saber mais sobre as nossas práticas de privacidade, confira a nossa <privacyPolicyAnchor>Política de Privacidade</privacyPolicyAnchor>.
 Para saber mais sobre como proteger sua conta da Rockstar Games usando a verificação em 2 etapas, acesse nosso <mfaSupportAnchor>site de Suporte</mfaSupportAnchor>.
+Para solicitar la recompensa gratuita en el juego, sigue los canales de Twitch participantes.
 Paraguay Standard Time
 Paraguay Summer Time
 Paraguayische Normalzeit
@@ -6680,6 +7135,7 @@ Paramètres du compte - Réinitialiser la vérification en deux étapes
 Paramètres du compte - Réseaux sociaux
 Paramètres du compte - Sécurité
 Paramètres du compte - Vérifiez votre e-mail
+Paramétrez vos drops Twitch pour les prochaines récompenses
 Parametro di ricerca già utilizzato. Inserisci un nuovo termine di ricerca.
 Parcourir tous les crews
 Parcourir toutes les activités
@@ -6691,6 +7147,7 @@ Parsing text body from response timed out
 Partager sur Facebook
 Partager sur Reddit
 Partager sur X
+Partagez vos idées
 Partida a muerte
 Partida a muerte con vehículos
 Partida a muerte de arena
@@ -6698,11 +7155,13 @@ Partida a muerte por equipos
 Partida de supervivencia
 Pas d'utilisateur bloqué
 pasado mañana
+Pasar al contenido principal
 Pasek przewijania Odtwórz
 Pasek przewijania Zatrzymaj
 Pass `context` to the returned `execute` function instead.
 Pass all `variables` to the returned `execute` function instead.
 Pass the options directly to the hook instead.
+Passer au contenu principal
 Passer le menu
 Password aggiornata con successo.
 Password attuale
@@ -6739,6 +7198,8 @@ Per maggiori informazioni su come proteggere il tuo account di Rockstar Games ut
 Per maggiori informazioni sulle nostre norme relative alla privacy, consulta la nostra <privacyPolicyAnchor>Politica sulla Privacy</privacyPolicyAnchor>.
 Per non visualizzare più questa attività tra i preferiti, è necessario riavviare Grand Theft Auto Online.
 Per procedere, inserisci la password del tuo account di Rockstar Games per rimuovere la verifica in 2 passaggi dal tuo account:
+Per ricevere regali e ricompense speciali in Grand Theft Auto Online, collega i tuoi account di gioco e guarda i canali Twitch che partecipano.
+Per riscattare le ricompense gratuite in gioco, guarda i canali Twitch che partecipano all’iniziativa.
 Per ulteriore assistenza sulla gestione del tuo account o dei tuoi data e sulle impostazioni della privacy, visita la nostra pagina del supporto clienti.
 Per ulteriore assistenza sulla gestione del tuo account o dei tuoi dati e sulle impostazioni della privacy, visita la nostra pagina del supporto clienti.
 Perché te ne stai andando?
@@ -6847,13 +7308,18 @@ Placares de líderes
 Placeholder text for current password field.
 Placeholder text for the new nick name field.
 Placeholder text in the form box for password.
+Platform name used in ARIA labels: PC
+Platform name used in ARIA labels: Playstation 5
+Platform name used in ARIA labels: Xbox Series X / S
 Play request interrupted :
 Playstation Plus Benefit
 Please confirm that you would like to subscribe to the Rockstar Games Newsletter by clicking the button below.
 Please contact Rockstar Games Support for any assistance.
+Please define an onVerify function
 Please enter a valid email address
 Please enter your Rockstar Games password
 Please gsap.registerPlugin(ScrollTrigger)
+Please indicate your preferred studio location.
 Please initialize an instance of `HttpLink` with `credentials` instead.
 Please initialize an instance of `HttpLink` with `headers` instead.
 Please initialize an instance of `HttpLink` with `uri` instead.
@@ -6870,6 +7336,7 @@ Please use the `clientAwareness.name` option instead.
 Please use the `clientAwareness.version` option instead.
 pluralrules must be initialized
 Pobierz aplikację
+Podziel się opinią
 pointermove pointerup pointercancel
 Pokaż hasło
 Pokaż informacje dla:
@@ -6903,6 +7370,7 @@ Ponape Time
 Ponte en contacto con el soporte técnico de Rockstar Games para recibir ayuda.
 Poproś o swoje dane
 Poprzedni slajd
+Poprzednia gra
 Poprzednia strona
 Poprzednia strona wydarzeń
 Poprzednia strona z filmami
@@ -6950,13 +7418,27 @@ Potwierdź swoją subskrypcję listy mailingowej Rockstar Games poprzez kliknię
 Potwierdź zmiany, zanim przejdziesz dalej.
 Pour commencer, veuillez saisir votre mot de passe Rockstar Games pour supprimer la vérification en deux étapes de votre compte :
 Pour en savoir plus sur nos pratiques en matière de respect de la vie privée, veuillez consulter notre <privacyPolicyAnchor>charte de confidentialité</privacyPolicyAnchor>.
+pour en savoir plus.
 Pour plus d'informations sur la protection de votre compte Rockstar Games à l'aide de la vérification en deux étapes, rendez-vous sur notre <mfaSupportAnchor>site d'assistance</mfaSupportAnchor>.
+Pour recevoir des récompenses et des cadeaux spéciaux dans Grand Theft Auto Online, associez vos comptes de jeu et regardez les chaînes Twitch participant.
+Pour récupérer la récompense gratuite en jeu, regardez les chaînes Twitch participantes.
 Pourquoi partez-vous ?
 Powiąż inne konto
+Powiąż kolejne konto
+Powiąż konto
 Powiąż konto gracza
+Powiąż konto Twitch
+Powiąż odpowiednie konto postaci
+Powiąż postać GTA Online
+Powiąż swoje konto
+Powiązane konta
+Powiązano konto
+Powiązano konto Twitch
 Powiedz, dlaczego nas opuszczasz.
 Poziom i statystyki użytkownika ze wszystkich gier Rockstar Games na PC zostaną usunięte.
 Poziom powiększenia
+Poziom ukończony
+Pozostały czas
 Pozwól na porównanie ze znajomymi na tej samej platformie
 Präferenzen aktualisieren
 Präferenzen verwalten
@@ -6971,20 +7453,24 @@ PREGUNTAS FRECUENTES
 Preliminar do Golpe
 Prêmios do Clube
 Préparation de braquage
+Prepend for platforms that the feature is available on. Will be accompanied by platforms and Icons
 Press Careers
 Press Copyright Email
 Press Copyright Policy
 Press Facebook Site
 Press GTAOnline Feedback
 Press Instagram Site
+press left to focus selected values
 Press RDO Feedback
 Press Rockstar Games Site
 Press Support
 Press Twitter Site
 Press Youtube Site
 Previous event
+Previous Game
 Previous page
 Previous Page of Events
+Previous slide
 Previous Slide
 Previous video page
 Prezzo scontato: prima
@@ -7001,6 +7487,7 @@ Problem techniczny
 Problema técnico
 Problème technique
 Problemi tecnici
+Prochaine page
 Product / Game Dissatisfaction
 Profil et infos
 Profile Card
@@ -7012,10 +7499,15 @@ Progreso en la trayectoria
 Progreso y trayectoria
 Progressi della carriera
 Progresso da Carreira
+Project Review
 promise rejection
+Pronta per essere riscattata
+Pronto para resgatar
 prop name cannot be undefined in <Field> component
 prop on your route.
 property of introspection response and no
+Prossima slide
+Prossimo gioco
 Protege tu cuenta
 Proteggi il tuo account
 provençal ancien
@@ -7027,6 +7519,7 @@ Próxima página de eventos
 próxima semana
 próximo ano
 Próximo evento
+Próximo Jogo
 próximo trimestre
 Przeciągnij uchwyt menu
 Przeglądaj akcje
@@ -7034,7 +7527,10 @@ Przeglądaj ekipy
 Przeglądaj informacje dotyczące bezpieczeństwa
 Przeglądaj profil
 Przeglądaj regulamin społeczności
+Przeglądaj swoje dropy
 Przeglądaj Zasoby społeczności
+Przesuń w lewo
+Przesuń w prawo
 Przeszukaj Rockstar Games...
 Przywrócono ci dostęp do konta. Zaczekaj 10-15 minut, następnie spróbuj zalogować się do konta.
 PS3 - Version numérique
@@ -7055,11 +7551,14 @@ pula botswanais
 pula botswańska
 pula del Botswana
 Pular o menu
+Pular para
+Pular para o conteúdo principal
 Puntuación máxima
 Puoi accedere a questi dispositivi senza utilizzare la verifica in due passaggi.
 Puoi richiedere in qualsiasi momento una copia dei dati personali che abbiamo raccolto su di te. Ti basterà slezionare il pulsante \
 Pursuit Race
 Pyongyang Time
+Quadros das atualizações
 quechua dell’altopiano del Chimborazo
 Query is empty
 Query root type must be provided.
@@ -7089,6 +7588,8 @@ R.A.S. chinoise de Macao
 RAE de Hong Kong (China)
 RAE de Macao (China)
 Raggiungimento del limite di download
+Ramka promocyjna Odtwarzanie
+Ramka promocyjna Zatrzymano
 Random Mission
 Range out of order in character class
 Rank Unlocks
@@ -7109,10 +7610,12 @@ read from private field
 Read More
 Read more at the Rockstar Newswire
 Read more on MDN: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+Ready to claim
 Real brasileiro
 real brasileño
 real brasiliano
 real brazylijski
+Recaptcha script is not available
 Receba atualizações por e-mail sobre anúncios, eventos especiais e outras ofertas.
 Receber convites de Comando por e-mail
 Receber mensagens diretas por e-mail
@@ -7129,6 +7632,7 @@ Recevoir les demandes d'ami par e-mail
 Recevoir les invitations de crews par e-mail
 Recevoir les messages directs par e-mail
 Rechercher sur Rockstar Games...
+Rechts scrollen
 Recibe actualizaciones por correo electrónico sobre anuncios de juegos, eventos especiales y otras ofertas.
 Recibe información sobre anuncios de juegos, eventos especiales y ofertas por correo electrónico.
 Recibe invitaciones de Crew por correo electrónico
@@ -7138,8 +7642,13 @@ Recibir asistencia
 Recibir invitaciones a Crews por correo electrónico
 Recibir mensajes directos por correo electrónico
 Recibir solicitudes de amistad por correo electrónico
+Recompensa bloqueada
 Recompensas del club
+Recompensas disponíveis para resgatar
+Recompensas disponíveis para resgatar. Acesse o Menu de Progresso da Carreira no jogo para resgatar.
+Récompense verrouillée
 Récompenses du club
+Récompenses prêtes à être récupérées. Rendez-vous dans le menu Suivi de carrière en jeu pour les récupérer.
 Recording is already in progress
 Recuperação da conta com verificação em 2 etapas habilitada
 Recuperación de la cuenta con verificación en 2 pasos
@@ -7192,6 +7701,7 @@ Regulamin modyfikacji
 Regulamin społeczności
 Reino Unido
 Related Videos
+Relevez des défis uniques pour gagner des GTA$, des articles bonus, et plus, dont des RP bonus pour chaque niveau :
 Remembered Devices loading spinner
 Remove 2-Step
 Remove bookmark
@@ -7204,6 +7714,8 @@ Renminbi-Yuan (Offshore)
 Repeated character patterns like "abcabcabc" are easy to guess.
 Repeated characters like "aaa" are easy to guess.
 Replay is disabled because neither `replaysSessionSampleRate` nor `replaysOnErrorSampleRate` are set.
+Report Bug
+Reportar bug
 Reproduciendo video
 Reproduciendo vídeo
 Reproducir marco
@@ -7258,6 +7770,9 @@ returns an invalid value. All route meta functions must return an array of meta 
 Réunion Time
 Revenir à la page principale sur la sécurité
 Revisa tu correo electrónico
+Reward locked
+Rewards ready to be claimed
+Rewards ready to be claimed. Visit the Career Progress Menu in-game to claim.
 Rey de la colina
 Rey de la colina por equipos
 Rezygnacja z listy mailingowej zakończona pomyślnie.
@@ -7271,7 +7786,12 @@ Richiesta di annullamento dell'eliminazione dell'account ricevuta
 Richiesta di dati annullata con successo.
 Richiesta di eliminazione dell'account di Rockstar Games annullata
 Richiesta di eliminazione dell'account ricevuta. Per proseguire con la richiesta, devi verificare il tuo account.
+Richte deine Twitch Drops ein
+Richte deine Twitch Drops für zukünftige Belohnungen ein
+Ricompensa bloccata
 Ricompense del club
+Ricompense pronte per essere riscattate
+Ricompense pronte per essere riscattate. Visita il menu Progressi della carriera per riscattarla.
 Rien à voir ici
 Right-facing chevron
 Rimuovi dai preferiti
@@ -7299,6 +7819,8 @@ Rockstar Games 首頁
 Rockstar Games主页
 Rockstar Icons
 Rockstar Support logo
+Rolar para a direita
+Rolar para a esquerda
 Role para baixo
 Role specjalistyczne
 Roles de especialistas
@@ -7442,6 +7964,7 @@ Scegli se ricevere inviti alle crew tramite email
 Scegli se ricevere messaggi diretti tramite email
 Scegli se ricevere richieste di amicizia tramite email
 scellino austriaco
+Schau dir die teilnehmenden Twitch-Kanäle an, um die Belohnung im Spiel zu erhalten.
 Scheda del profilo
 Scheda personaggio:
 Scheda precedente
@@ -7453,9 +7976,12 @@ Schema is not configured to execute subscription operation.
 schilling autrichien
 Schlesisch (Niederschlesisch)
 Schlesisch (Wasserpolnisch)
+Schließe einzigartige Herausforderungen ab, um GTA$, besondere Gegenstände und mehr zu erhalten, inklusive RP-Boni für jede Stufe:
 Schütze dein Konto
 Schweizer Franken
 Schweizer Hochdeutsch
+Scopri callout in pausa
+Scopri callout in riproduzione
 Scopri come decidere con chi giocare e chi può interagire con te in GTA Online.
 Scopri come gestire la tua esperienza utilizzando le nostre Risorse della comunità.
 Scopri come gestire le tue esperienze online utilizzando le nostre Risorse della comunità.
@@ -7467,10 +7993,14 @@ Scopri le Risorse della comunità
 Scopri le risorse per la sicurezza
 Scopri tutte le attività
 Score Attack
+Scorri a destra
+Scorri a sinistra
 Scorri in basso
 Scottish Gaelic
 screen and (pointer: coarse) and (hover: none)
 Scroll Down
+Scroll Left
+Scroll Right
 Se alcanzó el límite de correos electrónicos de verificación. Vuelve a intentarlo más tarde.
 Se alcanzó el límite de descarga
 Se alcanzó el límite de solicitud de datos. Vuelve a intentarlo más tarde.
@@ -7500,8 +8030,12 @@ Search Rockstar Games...
 Second bullet point in notice.
 Second option in group.
 Second paragraph in the notice.
+Section header for highlights component
 Sécurisez votre compte
+See all
 See all %s videos
+See all the challenges you've completed in your GTA Online Career. You can also discover new ones and earn valuable rewards as you rise through the criminal ranks.
+Segnala un problema
 Segoe Print
 Segoe Script
 Segoe UI Light
@@ -7518,6 +8052,7 @@ Selecciona si quieres recibir mensajes directos por correo electrónico
 Selecciona si quieres recibir solicitudes de amistad por correo electrónico
 Selecciona si quieres recibir solicitudes de Crew por correo electrónico
 Selecciona tu aplicación de autenticación, escanea este código QR e introduce el código de verificación.
+Selecciona tu plataforma.
 Selecciona un idioma
 Seleccionar ajuste de visibilidad
 Seleccionar ajustes de visibilidad
@@ -7525,9 +8060,11 @@ Seleccionar idioma
 Seleccionar un idioma
 Selecionar configuração de visibilidade
 Selecionar idioma
+Selecione sua plataforma de jogo.
 Selecione um avatar
 Selecione um idioma
 Select a Language
+Select a Rockstar event
 Select an avatar
 Select country
 Select language
@@ -7535,14 +8072,21 @@ Select Retailer
 Select Size
 Select Visibility Setting
 Select Visibility Settings
+Select yes or no
+Select your degree level
+Select your gaming platform.
+Select your preferred work location
+Select your school
 select:not([inert]):not([inert] *)
 Sélectionner les paramètres de visibilité
 Sélectionner un avatar
 Sélectionner une langue
 Sélectionnez un pays
 Sélectionnez une langue
+Sélectionnez votre plateforme de jeu.
 Selector de países
 Seleziona la lingua
+Seleziona la tua piattaforma di gioco.
 Seleziona le impostazioni relative alla visibilità
 Seleziona Paese
 Seleziona per confermare l'aggiornamento dell'email. Invieremo un link di verifica alla tua nuova email per finalizzare le modifiche dopo il salvataggio.
@@ -7576,6 +8120,8 @@ Session in sessionStorage is expired, creating new one...
 Session is too long, not sending replay
 Set up 2-step verification
 Set up Authenticator
+Set Up Your Twitch Drops
+Set Up Your Twitch Drops for Future Rewards
 sett. prossima
 sett. scorsa
 settimana prossima
@@ -7595,6 +8141,7 @@ Sfida a punti
 Shape Layer 1
 Share to Facebook
 Share to Reddit
+Share Your Feedback
 Short keyboard patterns are easy to guess.
 Shorthand property assignments are valid only in destructuring patterns
 Show my Country / Region
@@ -7608,6 +8155,7 @@ Si tienes dificultades al verificar el correo electrónico, visita nuestra
 Si vous avez besoin d'aide supplémentaire pour gérer votre compte ou les paramètres de vos données et de votre confidentialité, rendez-vous sur notre page d'assistance à la clientèle.
 Si vous rencontrez des problèmes lors de la vérification de votre adresse e-mail, consultez notre
 Si vous sélectionnez \
+Siamo spiacenti, le informazioni sui progressi della carriera nei vari pacchetti non sono al momento disponibili.
 Sicherheitsressourcen anschauen
 Sichtbarkeit der Spielstatistiken
 Sichtbarkeit des Kontos
@@ -7623,9 +8171,15 @@ Sieć Xbox
 Sierra Leona
 Sierra Leone
 Sign In Required
+Sign in to Rockstar Games account to start setup
+Sign In to Track Your Progress
+Sign in to your account to see all the rewards you can earn, the awards you've won, and the possibilities still ahead of you.
+Sign in to your Rockstar Games account to start setup
 Sign up for our email newsletter to get info on game announcements and updates, details on special events and offers, and more from Rockstar Games and our affiliates.
+Signaler un bug
 signed out
 Siguiente imagen
+Siguiente juego
 silabarios aborígenes canadienses unificados
 Silhouette mugshot
 Sim, fazer inscrição
@@ -7656,6 +8210,7 @@ sizeCalculation return invalid (expect positive integer)
 sizeCalculation set to non-function
 Skan nie działa?
 Skip the Menu
+Skip to Main Content
 Skipped sending event because buffer is full.
 Skipping invalid key "
 Skoki spadochronowe
@@ -7665,6 +8220,7 @@ Skopiuj do schowka
 Skopiuj kod
 slavo ecclesiastico
 slavon d’église
+Slide successiva
 slideChange update resize observerUpdate
 slidesLengthChange snapGridLengthChange slidesGridLengthChange
 Small Fonts
@@ -7685,6 +8241,7 @@ Solicitud de cancelación de eliminación de cuenta recibida
 Solicitud de datos cancelada con éxito.
 Solicitud de eliminación de cuenta de Rockstar Games cancelada
 Solicitud de eliminación de cuenta recibida. Para continuar, primero debes verificar tu cuenta.
+Solo disponible en
 Solomon Islands
 Solomon Islands Time
 Something Else
@@ -7693,6 +8250,7 @@ Something went wrong.
 Something went wrong. Please try again.
 Sonderverwaltungsregion Hongkong
 Sonderverwaltungsregion Macau
+Sorry, career progress pack cards are currently unavailable.
 Sorry, there were no results.
 Sorry, we are unable to handle your request at this time.
 sotho del nord
@@ -7751,6 +8309,7 @@ Spiacente, nessun risultato trovato.
 Spielermenü öffnen
 Spielermenü schließen
 Spielkonto verknüpfen
+Spielkonto verknüpft
 Spitzbergen und Jan Mayen
 Sprache auswählen
 Sprawdź skrzynkę odbiorczą i znajdź wiadomość o aktualizacji adresu e-mail. Twój adres e-mail zostanie zaktualizowany po zweryfikowaniu nowego adresu e-mail z wykorzystaniem linku weryfikacyjnego.
@@ -7806,6 +8365,7 @@ Straight rows of keys on your keyboard are easy to guess.
 Straits Salish
 stream finished
 stream finishing
+Streams finden
 Street Race
 strefa euro
 stroke width
@@ -7815,8 +8375,12 @@ Strona główna Rockstar Games
 Strona profilu i informacje
 Strona, której szukasz, nie istnieje lub wystąpił inny błąd.
 Strzałka w prawo
+Stufe abgeschlossen
 Stunt Race
 Stwórz ekipę
+Stwórz postać Grand Theft Auto Online i ukończ samouczek, aby otrzymywać dropy.
+Stwórz postać, aby otrzymać dropy
+Stwórz postać, aby otrzymywać nagrody w przyszłości
 Stworzone przez
 Stworzono w dniu
 Style selectors must target the '&' character (along with any modifiers), e.g.
@@ -7873,6 +8437,7 @@ Südliches Tutchone
 suisse allemand
 Suivi d'affaires
 Suivi de carrière
+Suivi de progression
 Super expression must either be null or a function
 Super expression must either be null or a function, not
 super() call outside constructor of a subclass
@@ -7957,6 +8522,8 @@ Tarjeta de perfil
 Tarjeta de personaje:
 Tarjeta del perfil
 Tarjeta del personaje:
+Tarjetas de contenido descargable
+Tarjetas de pack
 tat islamico
 tati caucasien
 Te autenticaste mediante la aplicación de autenticación
@@ -7981,11 +8548,15 @@ tedesco slesiano
 tedesco svizzero
 Tell us why you're leaving
 Tempo coordinato universale
+Tempo restante
+Tempo rimasto
+Temps restant
 temps universel coordonné
 Ten pseudonim jest już zajęty.
 Ten regulamin opisuje wartości, jakimi się kierujemy, jak również zasady, których przestrzegamy, aby zapewnić graczom sprawiedliwe, bezpieczne i pełne szacunku doświadczenia.
 Tentar novamente
 Tente novamente.
+Teraz odtwarzane
 Terre Australi Francesi
 Terres australes françaises
 Territoire britannique de l’océan Indien
@@ -8035,10 +8606,14 @@ The account recovery process has removed your 2-Step Verification device. We str
 The account recovery process will remove your 2-Step Verification device. We strongly advise that you protect your account with 2-Step Verification.
 The agreement checkbox..
 The alert to notify the user that their name can't be changed.
+The alt tag for the player characters mugshot.
 The argument must be a React element, but you passed
 The aria a11y label for the crew invite email toggle
 The aria a11y label for the direct message email toggle
 The aria a11y label for the friend request email toggle
+The aria label used for cards when they have a tag.
+The aria label used for cards when they have platforms and a tag.
+The aria label used for cards when they have platforms.
 The aria-label for the e-mail button link.
 The aria-label for the nickname button link.
 The aria-label for the password button link.
@@ -8067,6 +8642,9 @@ The description when a dsar initialization is successful.
 The description when confirming a dsar cancellation.
 The description when getting a dsar cancellation fails (unexpected).
 The description when getting a dsar status fails (unexpected).
+The Discover Callout CTA label
+The Discover Callout section description.
+The Discover Callout section heading.
 The dropdown label for screen readers.
 the enum value
 The error message for castle errors.
@@ -8199,6 +8777,8 @@ The visibility option text for the Me Only privacy setting
 The warning terms and conditions box.
 The Warriors
 There are no items
+There are no Twitch Drops available right now, but stay tuned for the next round. In the meantime, manage your inventory and claim your available rewards.
+There are no Twitch Drops available right now, but stay tuned. Create a Grand Theft Auto Online character and complete the in-game tutorial to receive Drops.
 There is already an active request for this account.
 There should not be any personal or page related data.
 There was an unexpected error cancelling your data request. Please contact Rockstar Games Support.
@@ -8231,15 +8811,25 @@ this week
 this year
 Thrasher: Skate and Destroy
 thumbnail gallery
+Ti piace GTA Online? Dicci cosa ne pensi e aiutaci a plasmare il futuro del gioco.
 Ti sei cancellato con successo dalla nostra mailing list.
 Ti sei iscritto alla nostra mailing list
+Tiempo restante
 tiempo universal coordinado
+Tieni traccia dei progressi
+Tier Complete
+Tier list labels on the Career Progress Hub
+Tiers Info tooltip
+Time Remaining
 Timeout while trying to read response body
 Times New Roman
 Times New Roman PS
 Timor Est
 Timor oriental
 Timor Wschodni
+Title for Challenges section on the Career Progress Hub
+Title for Rewards section on the Career Progress Hub
+Title for section on the Career Progress Hub
 Title for the alert message.
 Title for the communications page mailing list section
 Title for the communications page notifications section
@@ -8247,14 +8837,20 @@ Title for the connections page
 Title for the mfa account recovery initiated by email.
 Title for the successful reset section
 Title for the unblock modal
+Title for View All button for Rewards on the Career Progress Hub
+Title for View Less button for Rewards on the Career Progress Hub
+Title message to be displayed when no rewards are available
 Title of the page.
 Title of the password form submission box.
 Title of the social page.
 title when the user does not have any MFA remembered devices
 to 'child'). If your selector is targeting something global, use the 'globalStyle' function instead, e.g. if you wanted to write
+To claim the free in-game reward, watch participating Twitch channels.
+to communicate its accessibility initiatives internally and to the public.
 To confirm your subscription to the Rockstar Games Email List, please verify your email address via the link sent to the email address you’ve signed up with.
 to ensure only one version is installed. https://yarnpkg.com/en/docs/selective-version-resolutions Duplicate
 To learn more about our privacy practices, review our <privacyPolicyAnchor>privacy policy</privacyPolicyAnchor>.
+to notify the public and staff that it will accommodate people with disabilities during the recruitment and assessment processes and when hired:
 To proceed, please enter your Rockstar Games password to remove 2-Step Verification from your account:
 To urządzenie będzie używane do pozyskania kodu weryfikacyjnego.
 to use an inline fragment on
@@ -8264,6 +8860,7 @@ Todas as solicitações de suporte abertas serão encerradas.
 Todavía no has iniciado sesión ni guardado esta cuenta en ningún dispositivo.
 Todavía no has iniciado sesión ni has guardado esta cuenta en un dispositivo.
 Todo el mundo
+Todo listo
 Toggle platform friend comparison
 toggle play
 Toggle show my country / region
@@ -8288,6 +8885,7 @@ Tongaische Sommerzeit
 tonganês de Nyasa
 Too many validation errors, error limit reached. Validation aborted.
 too much recursion
+Tooltip der Stufeninformationen
 toPath() expects a string
 Torna al profilo
 Torna alla pagina principale delle connessioni del profilo
@@ -8299,6 +8897,7 @@ touchstart touchmove touchend touchcancel
 Tous les tickets en cours de traitement seront clôturés.
 Tout le monde
 tracesSampler returned 0 or false
+Track Progress
 Tracking ID is required
 Traditional Chinese
 Traditionelles Chinesisch – (繁體中文)
@@ -8322,8 +8921,10 @@ triple bar
 Tristan da Cunha
 Tristão da Cunha
 Trouver des amis
+Trouver des streams
 Trouvez rapidement des ressources si vous, ou une personne que vous connaissez, êtes en difficulté et avez besoin d'aide.
 Trova amici
+Trova streaming
 Trova velocemente le risorse che cerchi se tu o qualcuno che conosci è in difficoltà e ha bisogno di aiuto.
 Trupps und Free Roam
 Trwa przetwarzanie awatara Może minąć kilka minut, zanim zmiany będą widoczne na profilu.
@@ -8336,9 +8937,12 @@ Tschechische Republik
 Tschechoslowakische Krone
 TTL caching without ttlAutopurge, max, or maxSize can result in unbounded memory consumption.
 ttl must be a positive integer if specified
+Tu cuenta de Rockstar Games no está vinculada a ningún personaje de GTA Online.
 Tu cuenta ya tiene activada la verificación en dos pasos.
 Tu cuenta ya tiene autenticación en dos pasos.
 Tu enlace de verificación ha caducado, vuelve a intentarlo.
+Tu navegador no es compatible con la reproducción de videos.
+Tu navegador no puede reproducir vídeos.
 Tu nuevo apodo debe ser diferente al actual.
 Tu solicitud de datos está lista
 Tu solicitud de datos está lista.
@@ -8346,6 +8950,7 @@ Tu solicitud de datos está pendiente. Actualiza la página.
 Tu solicitud de datos no es válida. Actualiza la página.
 Tu solicitud de datos ya no está activa o caducó. Envía una nueva solicitud.
 Tu solicitud de datos ya no está activa o ha caducado. Envía una nueva solicitud.
+Tudo pronto
 Tunesisches Arabisch
 tunezyjski arabski
 Tunisian Arabic
@@ -8375,12 +8980,19 @@ tutchone septentrional
 tutchone setentrional
 tutchone settentrionale
 Tutti i ticket di supporto aperti saranno chiusi.
+Tutto pronto
 Tuvalu Time
+Twitch account
+Twitch account linked
 Twitch Drop
 Twitch Drops
+Twitch Dropsを設定する
+Twitch Logo
+Twitch-Konto verknüpft
 Twój adres e-mail nie został zweryfikowany podczas tej próby. Twoje konto mogło już zostać zweryfikowane lub użyty link może być nieprawidłowy.
 Twój adres e-mail został pomyślnie zmieniony.
 Twój link weryfikacyjny wygasł. Spróbuj ponownie.
+Twoja przeglądarka nie obsługuje odtwarzania wideo.
 Twoje dane są obecnie przygotowywane. Prosimy sprawdzić ponownie wkrótce.
 Twoje konto jest już objęte weryfikacją dwuetapową.
 Twoje powiązane konta pozostaną aktywne, dopóki nie zakończy się proces całkowitego usunięcia twojego konta Rockstar Games.
@@ -8459,6 +9071,8 @@ unidades de fomento chilene
 Unión Europea
 Union européenne
 Unione europea
+Uniquement disponible sur
+Unirse ahora
 unité d’investissement chilienne
 unité de valeur constante équatoriale (UVC)
 unité de valeur réelle colombienne
@@ -8530,6 +9144,7 @@ useHeroContext must be used within HeroProvider
 useHref() may be used only in the context of a <Router> component.
 usePasswordSummaryContext can only be used in a Form PasswordSummaryRoot
 useRadioGroupContext can only be used in a <RadioGroup.Root />
+uses a career development and redeployment processes:
 useSwitchContext can only be used in a <Switch.Root />
 useTagContext can only be used in a <Tag.Root />
 useTextFieldContext can only be used in a <TextField.Root />
@@ -8539,6 +9154,8 @@ Using your Authenticator App, scan this QR code and enter the generated Verifica
 Ustal, jak wygląda strona twojego profilu Rockstar Games w innych miejscach naszej strony.
 Ustal, kto może oglądać twój profil i statystyki gracza za pośrednictwem usług i funkcji Rockstar.
 Ustaw aplikację uwierzytelniającą
+Ustaw dropy na Twitchu
+Ustaw dropy na Twitchu, aby otrzymywać nagrody w przyszłości
 Ustaw weryfikację dwuetapową
 Ustaw za pomocą kodu QR
 Ustawa o usługach płatniczych
@@ -8579,6 +9196,8 @@ Uzbekistan Summer Time
 Użyj ustawień na tej stronie, aby zarządzać niektórymi informacjami profilowymi. Niektóre informacje zawsze będą widoczne, w tym członkostwo w ekipie oraz dane rozgrywki wieloosobowej.
 Użyj wniosku poniżej, by usunąć twoje konto Rockstar Games i zapisane informacje.
 Uzyskaj wsparcie
+Vai ai contenuti principali
+Vantaggi per i membri
 Vanuatu (czas letni)
 Vanuatu (czas standardowy)
 Vanuatu Standard Time
@@ -8591,13 +9210,21 @@ Variables must be provided as an Object where each property is a variable value.
 varios idiomas
 Vatican City
 vectors must be same length
+Vedi tutte le sfide che hai completato nella tua carriera di GTA Online. Puoi anche scoprirne di nuove e ottenere delle ricompense preziose mentre sali di rango nella tua carriera criminale.
 Vehicle Deathmatch
 Venezuela Time
+Ventajas para miembros
 Ver actividades
+Ver el inventario de Drops
+Ver inventario de Drops
+Ver inventário de Drops
 Ver las directrices de la comunidad
 Ver los recursos de la comunidad
 Ver los servicios de ayuda
+Ver menos
 Ver mi perfil
+Ver Progresso
+Ver todas
 Ver todas las actividades
 Ver todas las Crews
 Ver todo
@@ -8605,7 +9232,9 @@ Ver todos
 Ver todos os Comandos
 Ver todos os serviços
 Ver todos os Serviços
+Ver tu progreso
 Ver tudo
+Verbleibende Zeit
 Verbrecherfoto mit Silhouette
 Vereinfachtes Chinesisch – (简体中文)
 Vereinigte Arabische Emirate
@@ -8634,6 +9263,9 @@ Vérifiez vos e-mails
 Vérifiez votre adresse e-mail
 Verifique seu e-mail
 Verifying new email...
+Verknüpfe deine Spielkonten und sieh dir teilnehmende Twitch-Kanäle an, um exklusive Geschenke und Belohnungen in Grand Theft Auto Online zu erhalten.
+Verknüpfte Konten
+Verknüpfte Konten verwalten
 Verpass nicht dein nächstes Gratisgeschenk in GTA Online.
 Verrechnungseinheit für Ecuador
 version control
@@ -8654,10 +9286,16 @@ video carousel buttons
 Video Click-through
 Video detenido
 Vidéo en cours de lecture
+Video en pausa
 Vídeo en pausa
 Video failed to load sources.
+Video in pausa
 Video in riproduzione
+Vidéo mise en pause
 Vídeo parado
+Vídeo pausado
+Video Paused
+Video pausiert
 video playback
 Video Playing
 Video Stopped
@@ -8669,12 +9307,29 @@ Vielen Dank, deine E-Mail-Adresse wurde erfolgreich verifiziert.
 vieux norrois
 View all
 View All
+View Drops Inventory
+View Less
 View My Profile
+Vincula tu cuenta de juego
+Vincula tus cuentas de juego para recibir regalos y recompensas especiales en Grand Theft Auto Online por ver canales de Twitch participantes.
+Vincula tus cuentas y mira canales de Twitch participantes para recibir regalos y recompensas especiales en Grand Theft Auto Online.
+Vincula una cuenta con un personaje de GTA Online
+Vincula una cuenta de personaje válida
+Vincula una cuenta del juego
+Vincular conta de jogo
 Vincular conta do jogo
+Vincular cuenta de juego
+Vincular cuenta de personaje válida
+Vincular cuenta de Twitch
 Vincular otra cuenta
 Vincular outra conta
+Vincular Twitch
+Vincular un personaje de GTA Online
 Vincular una cuenta de juego
 Vincular una cuenta del juego
+Vinculaste una cuenta de Twitch
+Vincule um personagem do GTA Online
+Vincule uma conta de personagem válida
 virtual machine
 Visão geral
 Visibilidad de la cuenta
@@ -8701,6 +9356,7 @@ Visible tooltip for the lightbox zoom slider
 Visionner maintenant
 Visualizar meu perfil
 Visualizza il mio profilo
+Visualizza inventario Drop
 Visualizza tutti
 Visualizza tutto
 vital signs
@@ -8722,6 +9378,7 @@ Você perderá acesso ao Modo História e ao Modo Online de todos os jogos para 
 Você perderá o acesso à sua lista de amigos e Comandos da conta da Rockstar Games.
 Você pode iniciar sessão nesses dispositivos sem precisar usar a Verificação em 2 etapas.
 Você receberá uma notificação no e-mail da sua conta quando seus dados estiverem prontos. A notificação pode levar até 24 horas para chegar e você não poderá enviar outra solicitação por um mês.
+Voir l'inventaire de drops
 Voir mon profil
 Voir tout
 Volgograd Standard Time
@@ -8737,8 +9394,10 @@ Volver al perfil
 Vorherige Seite
 Vorherige Seite von Events
 Vorherige Videoseite
+Vorheriges Bild
 Vorheriges Element
 Vorheriges Event
+Vorheriges Spiel
 Vos comptes associés resteront actifs jusqu'à la suppression définitive de votre compte Rockstar Games.
 Vos données sont en cours de préparation. Veuillez revérifier plus tard.
 Vostok Time
@@ -8754,7 +9413,9 @@ Votre demande de données est invalide. Veuillez actualiser la page.
 Votre demande de données n'est plus active ou a expiré. Veuillez envoyer une nouvelle demande.
 Votre désabonnement a été pris en compte
 Votre lien de vérification a expiré. Veuillez réessayer.
+Votre navigateur ne prend pas en charge la reproduction de vidéo.
 Votre niveau et vos statistiques pour tous les jeux Rockstar Games sur PC seront supprimés.
+Vous appréciez GTA Online ? Faites-nous part de vos remarques et de vos idées pour nous aider à améliorer le jeu à l'avenir.
 Vous avez atteint la limite de demandes de données. Veuillez réessayer ultérieurement.
 Vous avez atteint la limite de téléchargement pour cette demande de données. Vous pourrez effectuer une nouvelle demande de données dans un mois.
 Vous avez atteint la limite de vérification par e-mail. Veuillez réessayer ultérieurement.
@@ -8767,6 +9428,7 @@ Vous êtes connecté(e) au mauvais compte. Veuillez vous connecter au bon compte
 Vous êtes déjà abonné(e) à la newsletter avec cette adresse e-mail. Gérez vos préférences concernant les communications à tout moment sur la page des paramètres de votre compte.
 Vous êtes désormais désabonné(e) de notre liste de diffusion.
 Vous n'avez pas d'appareils enregistrés
+Vous n'avez pas de compte ?
 Vous ne vous êtes pas encore connecté(e) et n'avez enregistré ce compte sur aucun appareil.
 Vous perdrez l'accès à votre liste d'amis Rockstar Games et votre appartenance à des crews.
 Vous perdrez l'accès au mode Histoire et au mode en ligne pour tous les jeux Rockstar Games sur PC associés à votre compte Rockstar Games.
@@ -8796,6 +9458,7 @@ w zeszłym kwartale
 w zeszłym mies.
 w zeszłym roku
 w zeszłym tygodniu
+Wähle deine Spielplattform.
 Wähle einen Avatar aus
 Wake Island Time
 Walka o przetrwanie
@@ -8820,10 +9483,13 @@ waste bin
 Watch Now
 We cannot sign up this email address to our newsletter at this time.
 We cannot sign up your email address to our newsletter at this time. Change your email preferences on your account settings page or try again later.
+We couldn't find a GTA Online character linked to your Rockstar Games account.
 We only support Gregory calendar right now
 WebGL fingerprinting is incomplete, because your browser does not support getShaderPrecisionFormat
 Weißrussischer Rubel
 Weißrussischer Rubel (2000–2016)
+Weitere Konten verknüpfen
+Weniger anzeigen
 Weryfikacja adresu e-mail
 Weryfikacja dwuetapowa
 Weryfikacja nowego adresu e-mail
@@ -8858,22 +9524,50 @@ Westindonesische Zeit
 Westkanadisches Inuktitut
 Westkasachische Zeit
 Westliches Belutschi
+What event did you attend?
+What school do you currently attend?
 When using middleware in `staticHandler.query()`, any provided `requestContext` must be an instance of `RouterContextProvider`
 When using middleware in `staticHandler.queryRoute()`, any provided `requestContext` must be an instance of `RouterContextProvider`
 when your app is loading JS modules and/or running `clientLoader`
 which is not a string
+Which option(s) best represents your strongest skillset? Choose up to 3
 while loading "
 Why are you leaving?
 Wiadomości bezpośrednie na e-mail
 Wideo odtwarzane
+Wideo wstrzymane
 Wideo zatrzymane
 Widoczność profilu
 Widoczność statystyk w grze
+Wie gefällt dir GTA Online? Teile uns deine Eindrücke und Ideen mit und hilf uns dabei, die Zukunft des Spiels zu gestalten.
 Wiederherstellung eines Kontos mit zweistufiger Verifizierung
 wiele języków
 Wielka Brytania
 Wild Metal
+will also provide disabled employees with individualized emergency response information and create Individual Emergency Response Information Plans when necessary.
 will be treated as if it were
+will continue to provide training as required under AODA for all new employees and/or if there is a substantial change to
+will engage services of its internal IT department to implement improvements to its website and web content so as to meet the compliance standards.
+will notify the public of the service disruption and alternatives available.
+will or is in the process of creating internal policies, practices and procedures, which recognize the role
+will play in making Ontario more accessible.
+will provide customers with information in an accessible format, upon request.
+will provide its customers and members of the public with information in an accessible format upon request.
+will provide training on:
+will provide training to employees relating to people with disabilities. Training will be provided in a way that best suits the duties of
+will put or has put in place to comply with the requirements of the Act and its Regulations
+will respond to such requests as soon as practicable.
+will review and update this Plan at least once every five (5) years. The first version of this Plan will be reviewed no later than
+will take the following steps by
+will take the following steps to develop and put in place a process for designing individual accommodation plans and return-to-work policies for employees that have been absent due to a disability:
+will take the following steps to ensure employees and volunteers are provided with the training needed to meet Ontario’s accessible laws:
+will take the following steps to ensure the accessibility needs of employees with disabilities are taken into account if
+will take the following steps to make any new website and new web content, specific to Ontario, conform to WCAG 2.0, Level A by
+will take the following steps to make any public website and web content specific to Ontario conform to WCAG 2.0, Level AA by
+will take the following steps to make ensure existing feedback processes are accessible to people with disabilities upon request by
+will take the following steps to make sure all information publically available in Ontario is made accessible upon request by
+will take the following steps to make sure all publicly available information is made accessible upon request by
+will take the following steps to prevent and remove other accessibility barriers identified:
 windows phone
 Windows Phone
 WIR Euro
@@ -8912,14 +9606,17 @@ wschodnia marka wschodnioniemiecka
 Wskazówki społeczności
 współczesny arabski
 Wszystkie otwarte zgłoszenia do działu wsparcia zostaną natychmiast zamknięte.
+Wszystko gotowe
 Wybierz awatar
 Wybierz język
 Wybierz kraj
+Wybierz platformę
 Wybierz ustawienia widoczności
 Wybierz ustawienie widoczności
 Wybrany pseudonim narusza nasz regulamin.
 Wycofano wniosek w sprawie usunięcia twojego konta Rockstar Games
 Wykaz spraw
+Wykonuj wyjątkowe wyzwania, aby zdobyć GTA$, dodatkowe nagrody i więcej, w tym premie RP za każdy poziom wyzwań:
 Wymagane hasło
 Wymagane zalogowanie się
 Wymagania nie zostały spełnione
@@ -8966,6 +9663,7 @@ Wyspy Zielonego Przylądka (czas letni)
 Wyspy Zielonego Przylądka (czas standardowy)
 Wystąpił nieoczekiwany błąd podczas anulowania żądania danych. Skontaktuj się ze wsparciem Rockstar.
 Wystąpił nieoczekiwany błąd podczas pobierania statusu żądania danych. Skontaktuj się ze wsparciem Rockstar.
+Wyświetl mniej
 Wyszukaj kategorie
 Wyzwanie punktów kontrolnych
 x should be between r1 and r2 but x=
@@ -8989,7 +9687,10 @@ xMidYMid slice
 Xperia Tablet
 Ya cuentas con una suscripción
 Ya has cancelado tu suscripción
+Ya la puedes obtener
 Ya no recibirás más correos electrónicos comerciales de Rockstar Games. Vuelve a suscribirte o cambia tus preferencias de correos electrónicos de Rockstar Games en la página de Ajustes de tu cuenta.
+Ya puedes obtener las recompensas
+Ya puedes obtener las recompensas. Visita la sección \
 Ya recibes actualizaciones del boletín de noticias en este correo electrónico. Cambia tus preferencias de comunicación en cualquier momento en los ajustes de tu cuenta.
 Ya recibes actualizaciones del boletín en esta dirección de correo electrónico. Gestiona las preferencias de comunicación cuando quieras desde los ajustes de la cuenta.
 Ya se ha realizado esta búsqueda. Introduce una nueva búsqueda.
@@ -9240,6 +9941,7 @@ You will lose access to both Story Mode and Online Mode play for all Rockstar Ga
 You will lose access to your Rockstar Games Friends list and Crew memberships.
 You will need to restart Grand Theft Auto Online to no longer see this job in your bookmarks.
 You will not receive any additional marketing emails from Rockstar Games. Opt back in or make additional changes to your Rockstar Games email preferences on the account settings page.
+You're All Set
 You're Already Unsubscribed
 You're using a 3d camera. Try the html renderer.
 You've reached the verification email limit. Please try again later.
@@ -9248,6 +9950,7 @@ Your account access is being restored, please wait 10 to 15 minutes before attem
 Your account is already enrolled in two-factor authentication.
 Your account is not eligible for deletion. Contact our support team to delete your account.
 Your Avatar update is being processed. It may take several minutes for the changes to appear on your account profile.
+Your browser does not support video reproduction.
 Your data is currently being prepared. Please check back soon.
 Your data request is invalid. Please refresh the page.
 Your data request is no longer active or has expired. Please submit a new request.
@@ -9304,9 +10007,13 @@ Zachowuj się grzecznie!
 Żądanie danych pomyślnie anulowane.
 Zaktualizować awatar?
 Zalogowano się na niewłaściwym koncie. Zaloguj się na właściwe konto i spróbuj ponownie.
+Zaloguj się na konto Rockstar Games, aby rozpocząć przygotowanie
+Zaloguj się, aby śledzić postępy
 Zaloguj się, aby zapoznać się z zawartością.
+Zaloguj się, aby zobaczyć wszystkie nagrody, które możesz zdobyć, zdobyte nagrody i możliwości, które wciąż stoją przed tobą otworem.
 Zamknij menu
 Zamknij menu gracza
+Zamknij menu nawigacji
 Zamknij okno
 Zamknij wyszukiwanie
 Zapewnij swojemu kontu dodatkową ochronę przed nieautoryzowanym dostępem.
@@ -9319,6 +10026,7 @@ Zaproszenia do ekipy na e-mail
 Zaproszenia do znajomych na e-mail
 żargon czinucki
 Zarządzaj kontami powiązanymi z twoim kontem Rockstar Games.
+Zarządzaj powiązanymi kontami
 Zarządzanie kontem
 Zasoby społeczności
 Zaznacz to pole, aby potwierdzić, że rozumiesz powyższe powiadomienie
@@ -9342,7 +10050,10 @@ zmień hasło
 Zmień hasło
 Zmień postać
 Zmień pseudonim
+Znajdź transmisje
 Znajomi i ekipa
+Zobacz wszystkie
+Zobacz wszystkie swoje ukończone wyzwania w ramach kariery GTA Online. Odkrywaj nowe wyzwania i zdobywaj wartościowe nagrody, wspinając się po szczeblach swojej przestępczej kariery.
 Zobacz wszystko
 zona del euro
 zona do euro
@@ -9354,6 +10065,7 @@ Zoom out
 Zrezygnowano z subskrypcji
 Zrezygnuj z listy mailingowej
 Zufällige Mission
+Zum Hauptinhalt springen
 Zurück zum Profil
 Zusätzliche Ressourcen
 Zweistufige Verifizierung
@@ -9369,5 +10081,6 @@ Zweryfikowano za pomocą aplikacji uwierzytelniającej
 法文 / Français
 訂閱 Rockstar Games 電子郵件通知
 订阅Rockstar Games邮件通知
+设置您的Twitch Drops
 請輸入您的 Rockstar Games 密碼
 请输入您的Rockstar Games密码

@@ -34,7 +34,7 @@
 !=typeof crypto&&crypto.getRandomValues&&crypto.getRandomValues.bind(crypto),!o))throw new Error(
 !=typeof CSS&&CSS.supports&&CSS.supports(
 !=typeof d||(d=document.createElement(
-!=typeof document?l.useLayoutEffect:l.useEffect,hl=e=>e&&!Array.isArray(e)&&
+!=typeof document?c.useLayoutEffect:c.useEffect,_o=e=>e&&!Array.isArray(e)&&
 !=typeof document&&(
 !=typeof document&&(document.addEventListener(
 !=typeof e)throw new Error(
@@ -67,9 +67,9 @@
 !=typeof window&&(window[Symbol.for(
 !=typeof window&&void 0!==window.CSS&&
 !=typeof window&&window.addEventListener(
-!=typeof window&&window.document&&(Go=window,Wo=Go.document,Uo=Wo.documentElement,Zo=Ss(
+!=typeof window&&window.document&&(Ji=window,Qi=Ji.document,ea=Qi.documentElement,ra=Oa(
 !=typeof window&&window.Math==Math?window:
-!=typeof window&&window[bP]||
+!=typeof window&&window[MC]||
 . Doing nothing
 . Must include exactly one non-modifier key (e.g.
 . Options are
@@ -79,7 +79,6 @@
 " does not exist in container.
 ". Should be a string, number, null or object. Received: "
 (Abre em uma nova janela)
-(Apri in una nuova finestra)
 (hover: none), (pointer: coarse)
 (includeDeprecated: true)
 (min-aspect-ratio: 2.5)
@@ -87,11 +86,12 @@
 (Opens in a new window)
 (orientation: landscape)
 (orientation: portrait)
-(Otwórz w nowym oknie)
+(Otworzy się w nowym oknie)
 (prefers-reduced-motion: reduce)
 (S'ouvre dans une nouvelle fenêtre)
 (Se abre en una ventana nueva)
 (see https://github.com/apollographql/invariant-packages)
+(Si apre in una nuova finestra)
 (under <Route path=
 ) in the URL path
 ) is greater than the number of directories (
@@ -214,7 +214,7 @@
 ==typeof i.bearerToken&&l.searchParams.append(
 ==typeof n&&!(u=null===(i=this.getDocument())||void 0===i?void 0:i.querySelector(n)))throw new Error(
 ==typeof o?o:parseFloat(o))!==(s.startsWith(
-==typeof performance.now?performance:Date,ot=new Set,st=
+==typeof performance.now?performance:Date,Ae=new Set,je=
 ==typeof performance&&performance&&
 ==typeof r&&r instanceof Error||(r=new Error(
 ==typeof ResizeObserver,layoutShift:s=
@@ -239,7 +239,7 @@
 ==typeof window?
 ==typeof window||
 ==typeof window||!e[t]||e[t]instanceof window.Element?null:new Error('Prop name
-==typeof x?.className&&delete x.className,(0,s.jsxs)(
+==typeof x?.className&&delete x.className,(0,t.jsxs)(
 > is not able to match the URL
 > to <Route path=
 >) but the parent route path has no trailing
@@ -525,6 +525,10 @@ foundry_17pcofyb foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_17pcofyc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_17pcofyd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_18omk9t6 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdp
+foundry_19t2d1j6 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdj
+foundry_19t2d1j7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
+foundry_19t2d1j8 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
+foundry_19t2d1j9 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_1a74xwb3 foundry_1a74xwb2
 foundry_1a74xwb4 foundry_8kowh41
 foundry_1a74xwba foundry_1a74xwb2
@@ -705,6 +709,7 @@ less than
 Letter Gothic
 line in locationOffset is 1-indexed and must be positive.
 linear !important
+linear-gradient(black 0%)
 linear-gradient(to right, rgba(
 Lista de canciones
 Lista de faixas

@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="61e8972e-9037-468b-94cb-f48a99dc2fa4",
-  e._sentryDebugIdIdentifier="sentry-dbid-61e8972e-9037-468b-94cb-f48a99dc2fa4")
+  e._sentryDebugIds[t]="2d5ff252-1ae4-4a06-87af-fbee2043ee09",
+  e._sentryDebugIdIdentifier="sentry-dbid-2d5ff252-1ae4-4a06-87af-fbee2043ee09")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"b6778eeff7ac7895a078a070a5c7649a0d5e5d39",
+    release:"1c0cd640ea21e77096021a545b1d94f05dfbdd99",
     packageName:"@rockstargames/sites-gta-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"b6778eeff7ac7895a078a070a5c7649a0d5e5d39"
+  id:"1c0cd640ea21e77096021a545b1d94f05dfbdd99"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -95,7 +95,7 @@ t){
               "./index":()=>Promise.all([r.e(41),
               r.e(748),
               r.e(331),
-              r.e(394)]).then(()=>()=>r(394))
+              r.e(987)]).then(()=>()=>r(6987))
             },
             o=(e,
             t)=>(r.R=t,
@@ -232,13 +232,13 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          41:"5aad375feafaf9e9c88d3f25f1967eb1",
-          192:"6bde8671ecd7b77c38657987cb95b0c1",
-          384:"b06d4b79cd19551f78c81de768cb23db",
-          394:"4e01f6f89ba1d3117191f5c52f3f76b7",
-          574:"be5e57e82f8c68400652893bd1591c83",
-          821:"81f052fc7d11a8b6fe3553b5c90c327c",
-          888:"7d65b50da7c45a5da07f9e8d622a7a3d"
+          41:"a61e587b9a8c3af599e4259d3b4688b9",
+          384:"b276400763503c22b2c737afb1515cff",
+          574:"cc3365ee021f1ec7add5a46cf2b49776",
+          585:"f495f84975ff3594039b90ae60498afe",
+          821:"72f46238c56e5711bc8b8619c0397782",
+          888:"833413975917267421b7c35eaab2d330",
+          987:"092fcc71d33f48edc49784e803e8f439"
         }[e]+".js",
         o.miniCssF=e=>"css/794827f1f480acf923b63a8c8fc56f4a.css",
         o.g=function(){
@@ -283,26 +283,26 @@ t){
             t+a),
             i.src=r),
             e[r]=[n];
-            const l=(t,
+            const f=(t,
             n)=>{
               i.onerror=i.onload=null,
-              clearTimeout(f);
+              clearTimeout(l);
               const o=e[r];
               if(delete e[r],
               i.parentNode?.removeChild(i),
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            f=setTimeout(l.bind(null,
+            l=setTimeout(f.bind(null,
             void 0,
             {
               type:"timeout",
               target:i
             }),
             12e4);
-            i.onerror=l.bind(null,
+            i.onerror=f.bind(null,
             i.onerror),
-            i.onload=l.bind(null,
+            i.onload=f.bind(null,
             i.onload),
             c&&document.head.appendChild(i)
           }
@@ -321,7 +321,7 @@ t){
         },
         (()=>{
           const e={
-            394:[1879]
+            987:[1879]
           },
           t={
             1879:["default",
@@ -436,7 +436,7 @@ t){
             d=[];
             return"default"===r&&(c("@rsgweb/utils",
             "0.0.0-development",
-            ()=>Promise.all([o.e(192),
+            ()=>Promise.all([o.e(585),
             o.e(41),
             o.e(748),
             o.e(821),
@@ -590,7 +590,7 @@ t){
             3788:()=>n("default",
             "@rsgweb/utils",
             !1,
-            ()=>Promise.all([o.e(192),
+            ()=>Promise.all([o.e(585),
             o.e(821)]).then(()=>()=>o(5821)))
           },
           i={
@@ -640,7 +640,7 @@ t){
             o.f.miniCss=(t,
             r)=>{
               e[t]?r.push(e[t]):0!==e[t]&&{
-                394:1
+                987:1
               }[t]&&r.push(e[t]=(e=>new Promise((t,
               r)=>{
                 var n=o.miniCssF(e),

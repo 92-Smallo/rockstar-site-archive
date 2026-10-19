@@ -103,7 +103,7 @@
 !==e||r instanceof Uint16Array||r instanceof Uint8Array||(console.warn('GLTFExporter: Attribute
 !==g)throw new Error(
 !==I)throw new Error(
-!==n||o instanceof _n(o).HTMLInputElement&&!oa(o,r)||o instanceof _n(o).HTMLTextAreaElement||o.isContentEditable||(
+!==n||o instanceof Sn(o).HTMLInputElement&&!aa(o,r)||o instanceof Sn(o).HTMLTextAreaElement||o.isContentEditable||(
 !==r.kind)throw new Error(
 !==r||void 0===navigator.plugins&&
 !==t.type)throw new Error(
@@ -114,14 +114,12 @@
 !=typeof a?e.type=a:e.removeAttribute(
 !=typeof Buffer&&
 !=typeof CSS&&CSS.supports&&CSS.supports(
-!=typeof document?N.useLayoutEffect:N.useEffect,_d=e=>e&&!Array.isArray(e)&&
 !=typeof document.createElement||
 !=typeof document.getElementsByTagName||
 !=typeof document&&(document.addEventListener(
 !=typeof e)throw new i(
 !=typeof e)throw new TypeError(
 !=typeof e)throw new TypeError(e+
-!=typeof e&&console.warn(
 !=typeof e||!e.includes(
 !=typeof Element&&
 !=typeof fetch?fetch(
@@ -151,7 +149,7 @@
 !=typeof window&&(window[Symbol.for(
 !=typeof window&&window.addEventListener(
 !=typeof window&&window.document&&(Ar=window,Cr=Ar.document,Dr=Cr.documentElement,Pr=ki(
-!=typeof window&&window[fj]||
+!=typeof window&&window[lj]||
 ?><COLLADA xmlns=
 . .morphAttributes must be consistent throughout all geometries.
 . .morphTargetsRelative must be consistent throughout all geometries.
@@ -187,7 +185,6 @@
 ". Should be a string, number, null or object. Received: "
 "safeMode" and "ensureOptimizations" flags are mutually exclusive.
 (Abre em uma nova janela)
-(Apri in una nuova finestra)
 (close button)
 (hover: none), (pointer: coarse)
 (min-aspect-ratio: 2.5)
@@ -195,11 +192,12 @@
 (Opens in a new window)
 (orientation: landscape)
 (orientation: portrait)
-(Otwórz w nowym oknie)
+(Otworzy się w nowym oknie)
 (prefers-reduced-motion: reduce)
 (S'ouvre dans une nouvelle fenêtre)
 (Se abre en una ventana nueva)
 (see https://github.com/apollographql/invariant-packages)
+(Si apre in una nuova finestra)
 (under <Route path=
 ) - Tab Offset
 ) in the URL path
@@ -273,7 +271,9 @@
 [object WeakMap]
 [object WeakSet]
 [playlist-loader]: audio codec signaled in quality level, but no embedded audio track signaled, create one
+[R3F] Error disposing renderer
 [React Intl] Could not find required `intl` object. <IntlProvider> needs to exist in the component ancestry.
+[SoftShadows] Could not find injection point in shadow shader
 [softwareDecrypt] Failed to decrypt data
 [title="ALIENBOLA" i]
 [tsdemuxer]: AAC PES unknown PTS
@@ -324,7 +324,6 @@
 #define varying out
 #elif defined( USE_COLOR )
 #extension GL_ANGLE_clip_cull_distance : require
-#if defined( SHADOWMAP_TYPE_PCF )
 #if defined( USE_COLOR_ALPHA )
 #ifdef USE_INSTANCING
 #ifdef USE_INSTANCING_COLOR
@@ -413,7 +412,7 @@
 ===u.value&&!r)throw new Error(
 ==typeof b?.className&&delete b.className,(0,O.jsxs)(
 ==typeof Buffer.from)return Buffer.from(e).toString(
-==typeof c.bearerToken&&d.searchParams.append(
+==typeof c.bearerToken&&u.searchParams.append(
 ==typeof c.set&&
 ==typeof c.set&&Array.isArray(a))
 ==typeof clearTimeout?clearTimeout:void 0,wd=
@@ -442,7 +441,7 @@
 ==typeof FormData,
 ==typeof i?o.createElement(
 ==typeof navigator||
-==typeof performance.now?performance:Date,zt=new Set,Mt=
+==typeof performance.now?performance:Date,Mt=new Set,Nt=
 ==typeof performance&&performance&&
 ==typeof process.emit)return void process.emit(
 ==typeof process&&
@@ -895,6 +894,8 @@ Fire Phone $1
 first argument should be an array
 First Char Optimization
 First ensure all usages of `canonizeResults` are removed, then remove this option.
+First parameter must be a function or config object
+float getShadow( sampler2D shadowMap
 focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
 FON - Flash On
 Font doesn't contain TrueType or CFF outlines.
@@ -916,6 +917,10 @@ foundry_17pcofyb foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_17pcofyc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_17pcofyd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_18omk9t6 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdp
+foundry_19t2d1j6 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdj
+foundry_19t2d1j7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
+foundry_19t2d1j8 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
+foundry_19t2d1j9 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_1a74xwb3 foundry_1a74xwb2
 foundry_1a74xwb4 foundry_8kowh41
 foundry_1a74xwba foundry_1a74xwb2
@@ -1087,7 +1092,7 @@ in Intl.NumberFormat. Using default locale:
 in navigator)return n.id=
 in navigator&&navigator.xr.addEventListener(
 in not contained inside
-in o?o.hasPointerCapture(t.pointerId)&&o.releasePointerCapture(t.pointerId):o.releasePointerCapture(t.pointerId)),g(jn(t.currentTarget),
+in o?o.hasPointerCapture(t.pointerId)&&o.releasePointerCapture(t.pointerId):o.releasePointerCapture(t.pointerId)),g(_n(t.currentTarget),
 in r.emissiveMap?r.emissiveMap.colorSpace=
 in r.envMap?r.envMap.colorSpace=
 in r.map?r.map.colorSpace=
@@ -1173,6 +1178,8 @@ Iscriviti alla mailing list di Rockstar Games
 Iscrizione effettuata con successo
 ISGenerated flag reset
 Italiano (Italia)
+its-fine: unsupported React Activity internals!
+its-fine: useActivityBridge requires React 19.2 or later!
 its-fine: useFiber must be called within a <FiberProvider />!
 Já está inscrito
 javascript:throw new Error('React has blocked a javascript: URL as a security precaution.')
@@ -1532,7 +1539,6 @@ query()/queryRoute() requests must contain an AbortController signal
 question mark
 Queueing EOS
 R3F: Hooks can only be used within the Canvas component!
-R3F.createRoot should only be called once!
 Raycaster: Unsupported camera type:
 RDC - Resume Direct Captioning
 React Router caught the following error during render
@@ -1680,6 +1686,7 @@ texture arrays not currently supported
 texture missing KTX identifier
 texture units while this GPU supports only
 Texture: Unable to serialize Texture.
+texture2D( shadowMap, uv + offset ).r
 The argument must be a React element, but you passed
 The graph has more than one mediapipe.tasks.TensorsToSegmentationCalculator.
 The input is not a PNG file!
@@ -1992,6 +1999,7 @@ unknown toon flag
 unknown value
 Unmatched end-group tag
 Unmatched start-group tag: stream EOF
+unpackRGBAToDepth( texture2D( shadowMap, uv + offset ) )
 Unrecognized encoding method, should be `DEFAULT` or `ANGLES` or `OCT`.
 unsigned byte
 unsigned byte normalized
