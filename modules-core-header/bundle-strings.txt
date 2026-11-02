@@ -68,9 +68,9 @@
 ) to 'parent', you should add
 ),`Route path
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
-),switch:new xe(
-),xboxone:new xe(
-),xboxsx:new xe(
+),switch:new Se(
+),xboxone:new Se(
+),xboxsx:new Se(
 ):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
 ).toUpperCase():void 0,games_played:n.length?n.join(
@@ -148,6 +148,7 @@
 ==typeof performance&&performance&&
 ==typeof ResizeObserver,layoutShift:f=
 ==typeof Symbol&&Symbol.for?Symbol.for(
+==typeof t?.message&&(t.message.toLowerCase().includes(
 ==typeof t?t:t.hasOwnProperty(
 ==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
 ==typeof t.imageSizes?t.imageSizes:void 0,media:
