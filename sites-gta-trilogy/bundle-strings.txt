@@ -47,9 +47,9 @@
 ),`Route path
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new xe(
-),xboxone:new xe(
-),xboxsx:new xe(
+),switch:new Se(
+),xboxone:new Se(
+),xboxsx:new Se(
 ):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
 )),a=new s.WebKitCSSMatrix(
@@ -124,6 +124,7 @@
 ==typeof o?o:parseFloat(o))!==(s.startsWith(
 ==typeof r&&r instanceof Error||(r=new Error(
 ==typeof Symbol&&Symbol.for?Symbol.for(
+==typeof t?.message&&(t.message.toLowerCase().includes(
 ==typeof t?t:t.hasOwnProperty(
 ==typeof t.placeholderData?t.placeholderData(this.#T?.state.data,this.#T):t.placeholderData,void 0!==e&&(y=
 ==typeof t.read,
@@ -774,6 +775,7 @@ Univers CE 55 Medium
 Unknown @remix-run/router error
 Unknown body type for responseIterator. Please pass a streamable response.
 Unknown browser
+Unknown error
 Unknown Server Error
 unknown value
 Unterminated string.

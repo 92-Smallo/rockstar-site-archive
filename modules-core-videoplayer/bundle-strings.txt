@@ -19,13 +19,13 @@
 :t.isInvalid||void 0,
 :throw new RangeError(
 :var r=e.querySelector('style[data-href~=
-!==a[a.length-1].type)throw new Error(
 !==e.type)throw new Error(
 !==e[1].type)throw new Error(
 !==e[e.length-1].type)throw new Error(
 !==f.type)throw new Error(
 !==h.kind)throw new Error(
 !==r||void 0===navigator.plugins&&
+!==t[t.length-1].type)throw new Error(
 !==y)throw new Error(
 !=typeof Buffer&&
 !=typeof CSS&&CSS.supports&&CSS.supports(
@@ -79,9 +79,9 @@
 ),`Route path
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new ye(
-),xboxone:new ye(
-),xboxsx:new ye(
+),switch:new xe(
+),xboxone:new xe(
+),xboxsx:new xe(
 ). If you meant to render a collection of children, use an array instead.
 ).toUpperCase():void 0,games_played:n.length?n.join(
 ).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:t?
@@ -148,7 +148,7 @@
 <Navigate> may be used only in the context of a <Router> component.
 ===e.id?za:void 0:t.HydrateFallback,i=t.ErrorBoundary?t.ErrorBoundary:
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
-===f.value&&!t)throw new Error(
+===f.value&&!a)throw new Error(
 ===r.preventScrollAxis?(t._active=!1,void this.clean()):(this.timeoutStore.remove(
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===this.method)&&o)throw new TypeError(
@@ -183,6 +183,7 @@
 ==typeof setTimeout?setTimeout:void 0,Sf=
 ==typeof Symbol&&
 ==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?
+==typeof t?.message&&(t.message.toLowerCase().includes(
 ==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
 ==typeof t.imageSizes?t.imageSizes:void 0,media:
 ==typeof t.imageSrcSet?t.imageSrcSet:void 0,imageSizes:
@@ -1055,6 +1056,7 @@ Univers CE 55 Medium
 Unknown @remix-run/router error
 Unknown body type for responseIterator. Please pass a streamable response.
 Unknown browser
+Unknown error
 Unknown getter
 Unknown Server Error
 Unknown Stack Trace

@@ -214,11 +214,11 @@
 ),l=new RegExp(
 ),n.appendChild(i),void 0===t.optionalFeatures&&(t.optionalFeatures=[]),t.optionalFeatures.push(
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new ye(
+),switch:new xe(
 ),t.length),n=(new DOMParser).parseFromString(r,
 ),this.initializeDOM(),this.beginTime=performance.now(),this.prevTime=this.beginTime,this.prevCpuTime=this.beginTime,this.fpsPanel=this.addPanel(new e.Panel(
-),xboxone:new ye(
-),xboxsx:new ye(
+),xboxone:new xe(
+),xboxsx:new xe(
 ): advanceWidth is not a number.
 ). If you meant to render a collection of children, use an array instead.
 ).charAt(0))throw console.debug(
@@ -410,9 +410,9 @@
 ===this.config.handleMpegTsVideoIntegrityErrors?new ts(this.logger):null,this._audioTrack=Yi.createTrack(
 ===this.method)&&o)throw new TypeError(
 ===u.value&&!r)throw new Error(
-==typeof b?.className&&delete b.className,(0,O.jsxs)(
+==typeof b?.className&&delete b.className,(0,I.jsxs)(
 ==typeof Buffer.from)return Buffer.from(e).toString(
-==typeof c.bearerToken&&u.searchParams.append(
+==typeof c.bearerToken&&d.searchParams.append(
 ==typeof c.set&&
 ==typeof c.set&&Array.isArray(a))
 ==typeof clearTimeout?clearTimeout:void 0,wd=
@@ -452,6 +452,7 @@
 ==typeof setTimeout?setTimeout:void 0,Td=
 ==typeof Symbol&&
 ==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?
+==typeof t?.message&&(t.message.toLowerCase().includes(
 ==typeof t.children||
 ==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
 ==typeof t.imageSizes?t.imageSizes:void 0,media:
@@ -1979,6 +1980,7 @@ unknown compression type
 Unknown depthTexture format
 unknown encoding
 Unknown encoding format
+Unknown error
 Unknown face array chunk:
 unknown format:
 Unknown getter

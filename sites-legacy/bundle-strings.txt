@@ -221,6 +221,7 @@
 ==typeof Symbol&&
 ==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?
 ==typeof Symbol&&Symbol.for,r=n?Symbol.for(
+==typeof t?.message&&(t.message.toLowerCase().includes(
 ==typeof t?t:t.hasOwnProperty(
 ==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
 ==typeof t.imageSizes?t.imageSizes:void 0,media:
@@ -1106,6 +1107,7 @@ Univers CE 55 Medium
 Unknown @remix-run/router error
 Unknown body type for responseIterator. Please pass a streamable response.
 Unknown browser
+Unknown error
 Unknown getter
 Unknown Server Error
 Unknown Stack Trace

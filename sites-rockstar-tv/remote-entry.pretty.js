@@ -4,8 +4,8 @@ try{
   t=(new e.Error).stack;
   t&&(e._sentryDebugIds=e._sentryDebugIds||{
   },
-  e._sentryDebugIds[t]="d49c5dd9-8756-4e6c-8e3a-42ccb9de92c6",
-  e._sentryDebugIdIdentifier="sentry-dbid-d49c5dd9-8756-4e6c-8e3a-42ccb9de92c6")
+  e._sentryDebugIds[t]="c8c09e06-4a1c-43d1-835f-921930a1f373",
+  e._sentryDebugIdIdentifier="sentry-dbid-c8c09e06-4a1c-43d1-835f-921930a1f373")
 }catch(e){
 }{
   let e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
@@ -16,13 +16,13 @@ try{
   },
   e._sentryModuleMetadata[(new e.Error).stack],
   {
-    release:"1c0cd640ea21e77096021a545b1d94f05dfbdd99",
+    release:"d4d43fe80ffcd8fa95a2a7051a584fbc28982d71",
     packageName:"@rockstargames/sites-rockstar-tv",
     dsn:"https://45716709f6ae4d08adc015d264f231ae@o432808.ingest.sentry.io/4504565542748160"
   })
 }("undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{
 }).SENTRY_RELEASE={
-  id:"1c0cd640ea21e77096021a545b1d94f05dfbdd99"
+  id:"d4d43fe80ffcd8fa95a2a7051a584fbc28982d71"
 },
 System.register(["@rockstargames/modules-core-videoplayer"],
 function(e,
@@ -95,7 +95,7 @@ t){
               "./index":()=>Promise.all([r.e(41),
               r.e(748),
               r.e(331),
-              r.e(162)]).then(()=>()=>r(1162))
+              r.e(272)]).then(()=>()=>r(8272))
             },
             o=(e,
             t)=>(r.R=t,
@@ -232,13 +232,13 @@ t){
         t),
         [])),
         o.u=e=>"js/"+{
-          41:"bde2a8554aae17ac6babb38ee72a4661",
-          162:"dc3f42648d8fe362c5a2bc209bbb0023",
-          384:"1d48e2073af611baadc43952ed9dfbc4",
-          574:"37137477ed9006bab8efc0e0a287d21c",
-          585:"8337e3f022ea18144a11fda75e1152af",
-          821:"b508c0f0ed1f848d6d1ce8c78f4b5504",
-          888:"77ab860903fa38a4a6668b05b9804e3a"
+          41:"091642752d7f65a2918f876f3e2d4739",
+          272:"2a97e5b24eecced69223ece2c522e674",
+          384:"985ec30297b2ecaa718d41d37c032876",
+          574:"a5574fd36c2a70a00918419ed9e86f7d",
+          585:"e3e2f20602ee73d842ade8bc84592025",
+          655:"ab9da068c4825a5a7d1d9274069a4e43",
+          888:"4be714461869f121d75167fe20afa920"
         }[e]+".js",
         o.miniCssF=e=>"css/5eaba88ea2bc687cd596c0a29ea9e04a.css",
         o.g=function(){
@@ -286,14 +286,14 @@ t){
             const l=(t,
             n)=>{
               i.onerror=i.onload=null,
-              clearTimeout(u);
+              clearTimeout(f);
               const o=e[r];
               if(delete e[r],
               i.parentNode?.removeChild(i),
               o?.forEach(e=>e(n)),
               t)return t(n)
             },
-            u=setTimeout(l.bind(null,
+            f=setTimeout(l.bind(null,
             void 0,
             {
               type:"timeout",
@@ -321,7 +321,7 @@ t){
         },
         (()=>{
           const e={
-            162:[1879]
+            272:[1879]
           },
           t={
             1879:["default",
@@ -439,9 +439,9 @@ t){
             ()=>Promise.all([o.e(585),
             o.e(41),
             o.e(748),
-            o.e(821),
+            o.e(655),
             o.e(331),
-            o.e(384)]).then(()=>()=>o(5821))),
+            o.e(384)]).then(()=>()=>o(5655))),
             c("react-router",
             "7.18.4",
             ()=>Promise.all([o.e(574),
@@ -591,7 +591,7 @@ t){
             "@rsgweb/utils",
             !1,
             ()=>Promise.all([o.e(585),
-            o.e(821)]).then(()=>()=>o(5821)))
+            o.e(655)]).then(()=>()=>o(5655)))
           },
           i={
             331:[3234,
@@ -640,7 +640,7 @@ t){
             o.f.miniCss=(t,
             r)=>{
               e[t]?r.push(e[t]):0!==e[t]&&{
-                162:1
+                272:1
               }[t]&&r.push(e[t]=(e=>new Promise((t,
               r)=>{
                 var n=o.miniCssF(e),

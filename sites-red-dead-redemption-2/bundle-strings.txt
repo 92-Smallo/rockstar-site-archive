@@ -73,9 +73,9 @@
 ),`Route path
 ),`You rendered descendant <Routes> (or called \`useRoutes()\`) at
 ),R(null!=i,'useFetcher can only be used on routes that contain a unique
-),switch:new ye(
-),xboxone:new ye(
-),xboxsx:new ye(
+),switch:new xe(
+),xboxone:new xe(
+),xboxsx:new xe(
 ). If you meant to render a collection of children, use an array instead.
 ))return this.error(
 ))throw new Error(
@@ -206,6 +206,7 @@
 ==typeof performance&&performance&&
 ==typeof r&&r instanceof Error||(r=new Error(
 ==typeof ResizeObserver,layoutShift:s=
+==typeof t?.message&&(t.message.toLowerCase().includes(
 ==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
 ==typeof t.imageSizes?t.imageSizes:void 0,media:
 ==typeof t.imageSrcSet?t.imageSrcSet:void 0,imageSizes:
@@ -877,6 +878,7 @@ Univers CE 55 Medium
 Unknown @remix-run/router error
 Unknown body type for responseIterator. Please pass a streamable response.
 Unknown browser
+Unknown error
 Unknown getter
 Unknown Server Error
 unknown value

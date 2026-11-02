@@ -251,7 +251,7 @@ _1ozycm42 _1betujy6 _1betujy5
 ):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
 ).toUpperCase():void 0,games_played:n.length?n.join(
-).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:t?
+).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:g,section_layout:t?
 ).toUpperCase():void 0,gta_plus_platforms:s.length?s.map(e=>l[e]??e).join(
 ).toUpperCase():void 0,gtao_platforms_played:r.length?r.map(e=>l[e]??e).join(
 )),a=new s.WebKitCSSMatrix(
@@ -495,6 +495,7 @@ _1ozycm42 _1betujy6 _1betujy5
 ==typeof Symbol&&Symbol.for,r=n?Symbol.for(
 ==typeof Symbol&&Symbol.for?Symbol.for(
 ==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?
+==typeof t?.message&&(t.message.toLowerCase().includes(
 ==typeof t?t:t.hasOwnProperty(
 ==typeof t.children||
 ==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
@@ -9086,6 +9087,7 @@ uniwersalny czas koordynowany
 Unknown @remix-run/router error
 Unknown body type for responseIterator. Please pass a streamable response.
 Unknown browser
+Unknown error
 Unknown error. This can happen due to CSP policy restrictions, network issues, or the worker script failing to load.
 Unknown getter
 Unknown language
