@@ -23,13 +23,11 @@
 !=typeof a||(a=document.createElement(
 !=typeof Buffer&&
 !=typeof CSS&&CSS.supports&&CSS.supports(
-!=typeof document?U.useLayoutEffect:U.useEffect,wt=e=>e&&!Array.isArray(e)&&
 !=typeof document&&(
 !=typeof document&&(document.addEventListener(
 !=typeof e)throw new r(
 !=typeof e)throw new TypeError(
 !=typeof e)throw new TypeError(e+
-!=typeof e&&console.warn(
 !=typeof e||!e.includes(
 !=typeof i&&i.removeAttribute(
 !=typeof l?null:
@@ -46,7 +44,7 @@
 !=typeof window&&(window[Symbol.for(
 !=typeof window&&window.addEventListener(
 !=typeof window&&window.document&&(Ar=window,Cr=Ar.document,Dr=Cr.documentElement,Pr=ki(
-!=typeof window&&window[Dh]||
+!=typeof window&&window[Bh]||
 . Available versions:
 . Doing nothing
 . Must include exactly one non-modifier key (e.g.
@@ -421,6 +419,7 @@ Find Friends
 Fire Phone $1
 first argument should be an array
 First ensure all usages of `canonizeResults` are removed, then remove this option.
+First parameter must be a function or config object
 for eager consumption
 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 foundry_11gbdtyf foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdi
@@ -428,6 +427,7 @@ foundry_11gbdtyg foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
 foundry_11gbdtyj foundry_8kowh41 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdi
 foundry_11gbdtyn foundry_8kowh41
 foundry_11gbdtyo foundry_8kowh41 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
+foundry_11gbdtyr foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdi
 foundry_11gbdtyw foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_17pcofyb foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_17pcofyc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
@@ -438,10 +438,10 @@ foundry_19t2d1j7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_19t2d1j8 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_19t2d1j9 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_1a74xwb3 foundry_1a74xwb2
-foundry_1a74xwb4 foundry_8kowh41
-foundry_1a74xwba foundry_1a74xwb2
+foundry_1a74xwb5 foundry_8kowh41
 foundry_1a74xwbb foundry_1a74xwb2
-foundry_1a74xwbo foundry_1a74xwbj
+foundry_1a74xwbc foundry_1a74xwb2
+foundry_1a74xwbq foundry_1a74xwbl
 foundry_1pfduet6 foundry_8kowh41
 foundry_1pfduetc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdi
 foundry_1pfduetd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
@@ -456,10 +456,11 @@ foundry_1qqcnuao foundry_1qqcnuav
 foundry_1vzsjidk foundry_8kowh41 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcda
 foundry_2jlbzt7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_8oytzon foundry_8kowh41 foundry_1d5mo5m0
+foundry_dnh2nzj foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf
 foundry_lroh6l3 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf
 foundry_lroh6l4 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde
 foundry_lroh6l5 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd
-foundry_m1icrx8 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
+foundry_m1icrxa foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_okz6z28 foundry_8kowh41
 foundry_okz6z29 foundry_okz6z24 foundry_okz6z25
 foundry_okz6z2a foundry_okz6z26 foundry_okz6z27
@@ -587,13 +588,13 @@ Importuj znajomych
 Impostazioni account
 Impostazioni dei cookie
 in c?c.responseURL:r.headers.get(
+in d?d.hasPointerCapture(a.pointerId)&&d.releasePointerCapture(a.pointerId):d.releasePointerCapture(a.pointerId)),V((0,t.TW)(a.currentTarget),
 in e?e:HTMLInputElement.prototype,
 in e?e.children(e.child):e.children,
 in e?e.getIdentOption(...arguments):
 in Intl.DateTimeFormat. Using default locale:
 in Intl.NumberFormat. Using default locale:
 in not contained inside
-in s?s.hasPointerCapture(a.pointerId)&&s.releasePointerCapture(a.pointerId):s.releasePointerCapture(a.pointerId)),W((0,n.TW)(a.currentTarget),
 in t.documentElement.style,touch:!!(
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
 Información general
@@ -1024,7 +1025,6 @@ Use the `fetchPolicy` option instead.
 useAlertContext can only be used in a <Alert.Root />
 useAvatarContext can only be used in a <Avatar.Root />
 useBadgeContext can only be used in a <Badge.Root />
-useBreadcrumbsContext can only be used in a <Breadcrumbs.Root />
 useCheckboxContext can only be used in a <Checkbox.Root />
 useChipGroupContext can only be used in a <ChipGroup.Root />
 useFormAction must be used inside a RouteContext
@@ -1035,7 +1035,6 @@ useRadioGroupContext can only be used in a <RadioGroup.Root />
 useSwitchContext can only be used in a <Switch.Root />
 useTagContext can only be used in a <Tag.Root />
 useTextFieldContext can only be used in a <TextField.Root />
-useTooltipContext can only be used in a <Tooltip.Root />
 Ustawienia plików cookie
 Ver actividades
 Ver mi perfil

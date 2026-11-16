@@ -1,5 +1,4 @@
-_1lfzhz24 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
-_1ms3f580 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdo
+_1ohc7m60 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdt foundry_tdsdcdo
 _1ozycm42 _1betujy6 _1betujy5
 , must take to meet this laudable goal. These Regulations cover accessibility standards in customer service, information and communications, employment, transportation and the built environment.
 , press Down to open the menu,
@@ -7,7 +6,7 @@ _1ozycm42 _1betujy6 _1betujy5
 , so there is no way to handle the request.`:
 , so there is no way to handle the request.`:n&&(s=`Invalid request method
 , you should instead write 'globalStyle(
-,"string"==typeof n.imageSizes&&(l+=
+,"string"==typeof t.imageSizes&&(l+=
 ,1)>-1)throw new Error(
 ,a.onTranslateToWrapperTransitionEnd),a.onTranslateToWrapperTransitionEnd=null,delete a.onTranslateToWrapperTransitionEnd,a.animating=!1,s&&a.emit(
 ,A),backQuote:new E(
@@ -41,7 +40,6 @@ _1ozycm42 _1betujy6 _1betujy5
 ,x),privateId:new d(
 : can't set as prototype!
 : raccoglieremo tutte le informazioni su di te e le invieremo al tuo indirizzo email.
-:i,autoPlay:!0,playsInline:!0,muted:!0,poster:b?.url??void 0,children:[e.mobile&&(0,a.jsx)(
 :i.open&&!s.collapsible||void 0,
 :if(e)throw new RangeError(
 :if(L)throw new RangeError(
@@ -50,6 +48,7 @@ _1ozycm42 _1betujy6 _1betujy5
 :if(r<4)throw new RangeError(
 :if(t)throw new RangeError(
 :return i&&this.raiseRecoverable(t.start,
+:return n=t.async,
 :return t.day=
 :return t.day=[
 :return t.hour=[
@@ -59,9 +58,9 @@ _1ozycm42 _1betujy6 _1betujy5
 :return t.second=[
 :return t.timeZoneName=r<4?
 :return t.weekday=[void 0,void 0,
-:return t=n.async,
 :return this.currZoomLevel>this.zoomLevels.initial?
 :return(t.async||t.generator)&&this.props.onError?.(new Error(
+:s,autoPlay:!0,playsInline:!0,muted:!0,poster:h?.url??void 0,children:[e.mobile&&(0,r.jsx)(
 :t.isInvalid||void 0,
 :throw new RangeError(
 :var r=e.querySelector('style[data-href~=
@@ -84,12 +83,10 @@ _1ozycm42 _1betujy6 _1betujy5
 !==t[t.length-1].type)throw new Error(
 !==u.type)throw new Error(
 !==v)throw new Error(
-!=typeof a.el&&(a.el.removeEventListener(
-!=typeof a)return void console.error(
 !=typeof a)throw new TypeError(
 !=typeof a||(a=document.createElement(
 !=typeof Buffer&&
-!=typeof crypto&&crypto.getRandomValues&&crypto.getRandomValues.bind(crypto),!i))throw new Error(
+!=typeof crypto&&crypto.getRandomValues&&crypto.getRandomValues.bind(crypto),!o))throw new Error(
 !=typeof CSS&&CSS.supports&&CSS.supports(
 !=typeof d||(d=document.createElement(
 !=typeof document&&(
@@ -102,11 +99,14 @@ _1ozycm42 _1betujy6 _1betujy5
 !=typeof e)throw TypeError(e+
 !=typeof e||!e.includes(
 !=typeof HTMLElement&&(s.dataset=Object.getOwnPropertyDescriptor(HTMLElement.prototype,
+!=typeof i)return void console.error(
 !=typeof i&&i.removeAttribute(
 !=typeof l?null:
+!=typeof l)return void console.error(
 !=typeof L)throw new TypeError(
 !=typeof l||(l=document.createElement(
 !=typeof n?(e.minimumSignificantDigits=r.length,e.maximumSignificantDigits=r.length):
+!=typeof n.async&&
 !=typeof n)throw new TypeError(
 !=typeof n)throw new TypeError(n+
 !=typeof navigator&&(navigator.language||navigator.userLanguage)||
@@ -118,11 +118,10 @@ _1ozycm42 _1betujy6 _1betujy5
 !=typeof process&&void 0!==process.env&&(process.env.REACT_APP_SC_ATTR||process.env.SC_ATTR)||
 !=typeof r.key&&
 !=typeof r)throw new TypeError(
-!=typeof s)return void console.error(
 !=typeof self&&self.Math==Math?self:Function(
 !=typeof ShadowRoot&&e instanceof ShadowRoot||
 !=typeof Symbol&&e[Symbol.iterator]||e[
-!=typeof t.async&&
+!=typeof t.el&&(t.el.removeEventListener(
 !=typeof t)throw new TypeError(
 !=typeof t&&null!==t)throw new TypeError(
 !=typeof this)throw new TypeError(
@@ -137,7 +136,7 @@ _1ozycm42 _1betujy6 _1betujy5
 !=typeof window&&window.addEventListener(
 !=typeof window&&window.document&&(i=window,n=i.document,s=n.documentElement,o=L(
 !=typeof window&&window.Math==Math?window:
-!=typeof window&&window[dp]||
+!=typeof window&&window[np]||
 ¡Ya puedes solicitar las recompensas!
 ¡Ya puedes solicitar las recompensas! Visita el menú de progreso en la trayectoria para solicitarla en el juego.
 ¿Actualizar avatar?
@@ -401,10 +400,11 @@ _1ozycm42 _1betujy6 _1betujy5
 <SignInLink>登入</SignInLink>您的 Rockstar Games 帳戶以提交意見反應。
 <SignInLink>登录</SignInLink>您的Rockstar Games账户以提交反馈。
 <unlabeled transaction>
+===a&&!r)throw new TypeError(
 ===e.id?za:void 0:t.HydrateFallback,i=t.ErrorBoundary?t.ErrorBoundary:
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
-===e.type&&(a=e.renderFraction?e.renderFraction.call(t,e.currentClass,e.totalClass):`<span class=
-===e.type&&(a=e.renderProgressbar?e.renderProgressbar.call(t,e.progressbarFillClass):`<span class=
+===e.type&&(l=e.renderFraction?e.renderFraction.call(t,e.currentClass,e.totalClass):`<span class=
+===e.type&&(l=e.renderProgressbar?e.renderProgressbar.call(t,e.progressbarFillClass):`<span class=
 ===e)throw new TypeError(
 ===e&&!r)throw new TypeError(
 ===g,'signDisplay must be
@@ -427,19 +427,18 @@ _1ozycm42 _1betujy6 _1betujy5
 ===r&&!n)throw new TypeError(
 ===r&&!o)throw new TypeError(
 ===r&&!t)throw new TypeError(
-===t.key)return t.preventDefault(),E(),k.current=
+===t.key)return t.preventDefault(),T(),v.current=
+===t.key)return t.preventDefault(),z(),x.current=
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===t)throw new TypeError(
 ===t&&!a)throw new TypeError(
 ===t&&!L)throw new TypeError(
-===t&&!r)throw new TypeError(
 ===t&&e.dateStyle)throw new TypeError(
 ===t&&e.timeStyle)throw new TypeError(
 ===this.method)&&o)throw new TypeError(
 ===u.value&&!r)throw new Error(
 ==typeof a)throw new TypeError(
 ==typeof a)throw TypeError(
-==typeof a&&(a=a.description?
 ==typeof Array.isArray?Array.isArray(e):
 ==typeof Buffer.from)return Buffer.from(e).toString(
 ==typeof c.bearerToken&&u.searchParams.append(
@@ -463,8 +462,8 @@ _1ozycm42 _1betujy6 _1betujy5
 ==typeof e.statusText&&
 ==typeof e.type&&
 ==typeof e&&!1!==o.config().nullTargetWarn?console.warn(
+==typeof e&&(n=[...document.querySelectorAll(e)]),t.params.uniqueNavElements&&
 ==typeof e&&(s=[...document.querySelectorAll(e)]),a.params.uniqueNavElements&&
-==typeof e&&(t=[...document.querySelectorAll(e)]),a.params.uniqueNavElements&&
 ==typeof e&&e.constructor.name===Object.name&&!(
 ==typeof exports&&exports&&!exports.nodeType&&exports,a=o&&
 ==typeof exports&&exports&&!exports.nodeType&&exports,c=n&&
@@ -477,15 +476,15 @@ _1ozycm42 _1betujy6 _1betujy5
 ==typeof L.attributes.href&&
 ==typeof L.attributes.rel&&(
 ==typeof l.bearerToken&&d.searchParams.append(
-==typeof n.precedence&&
+==typeof n.children||
 ==typeof n&&!(u=null===(i=this.getDocument())||void 0===i?void 0:i.querySelector(n)))throw new Error(
 ==typeof n&&(n=n.description?
 ==typeof o?o:parseFloat(o))!==(s.startsWith(
-==typeof performance.now?performance:Date,Fe=new Set,Te=
+==typeof performance.now?performance:Date,Te=new Set,Fe=
 ==typeof performance&&performance&&
 ==typeof process.emit)return void process.emit(
 ==typeof process&&
-==typeof Promise?Promise:void 0,Cf=
+==typeof Promise?Promise:void 0,xf=
 ==typeof r&&r instanceof Error||(r=new Error(
 ==typeof Reflect&&
 ==typeof setTimeout?setTimeout:void 0,Sf=
@@ -497,7 +496,6 @@ _1ozycm42 _1betujy6 _1betujy5
 ==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?
 ==typeof t?.message&&(t.message.toLowerCase().includes(
 ==typeof t?t:t.hasOwnProperty(
-==typeof t.children||
 ==typeof t.fetchPriority?t.fetchPriority:void 0,referrerPolicy:
 ==typeof t.imageSizes?t.imageSizes:void 0,media:
 ==typeof t.imageSrcSet?t.imageSrcSet:void 0,imageSizes:
@@ -506,6 +504,7 @@ _1ozycm42 _1betujy6 _1betujy5
 ==typeof t.nonce?t.nonce:void 0,type:
 ==typeof t.parentSampleRate?t.parentSampleRate:
 ==typeof t.placeholderData?t.placeholderData(this.#T?.state.data,this.#T):t.placeholderData,void 0!==e&&(w=
+==typeof t.precedence&&
 ==typeof t.read,
 ==typeof t.referrerPolicy?t.referrerPolicy:void 0,imageSrcSet:
 ==typeof t.sri?o.createElement(
@@ -515,12 +514,12 @@ _1ozycm42 _1betujy6 _1betujy5
 ==typeof t&&(t=t.description?
 ==typeof u)return r(
 ==typeof u&&(0,Y.hY)()>u)throw this.recordDroppedEvent(
-==typeof v?.className&&delete v.className,(0,r.jsxs)(
 ==typeof value?void 0===e?value.substr(t):value.substr(t,e):
 ==typeof window?
 ==typeof window&&
 ==typeof window||
 ==typeof window||!e[t]||e[t]instanceof window.Element?null:new Error('Prop name
+==typeof x?.className&&delete x.className,(0,r.jsxs)(
 ==typeof x?.className&&delete x.className,(0,t.jsxs)(
 > is not able to match the URL
 > to <Route path=
@@ -539,11 +538,24 @@ A atualização do seu avatar está sendo processada. Pode levar vários minutos
 A autenticação de dois fatores já está configurada para sua conta.
 A button that openes the friends drop-down.
 A button that opens the account drop-down.
+A car chase in Grand Theft Auto 3
+A character from Grand Theft Auto: San Andreas firing a weapon from inside a moving vehicle
+A character from Grand Theft Auto: San Andreas holding a weapon
+A character from Grand Theft Auto: San Andreas inside a car
+A character from Grand Theft Auto: San Andreas riding a motorcycle
+A character in Grand Theft Auto: Vice City using the phone
+A character in Grand Theft Auto: Vice City walking
 A continuación, introduce tu contraseña de Rockstar Games para eliminar la verificación en dos pasos de tu cuenta.
 A Directive can be adjacent to many parts of the GraphQL language, a __DirectiveLocation describes one such possible adjacencies.
 A exclusão da sua conta da Rockstar Games é permanente. Você deverá verificar sua conta e confirmar que não poderá mais acessar jogos e serviços específicos da Rockstar Games.
 A exclusão de sua conta da Rockstar Games será definitiva e irreversível.
 A focus-trap cannot use a Fragment as its child container. Try replacing it with a <div> element.
+A Grand Theft Auto 3 character holding a weapon
+A Grand Theft Auto character driving
+A Grand Theft Auto character steering a boat under a bridge
+A Grand Theft Auto: San Andreas character holding a weapon
+A Grand Theft Auto: Vice City character holding a weapon
+A Grand Theft Auto: Vice City character on a motorcycle firing a weapon
 A GraphQL-formatted string representing the default value for this input value.
 A hotkey has the "scopes" option set, however no active scopes were found. If you want to use the global scopes feature, you need to wrap your app in a <HotkeysProvider>
 À l'aide de votre application d'authentification, scannez ce code QR et saisissez ci-dessous le code de vérification généré.
@@ -560,6 +572,7 @@ A message must be provided as a String or AST.
 a negative sampling decision was inherited or tracesSampleRate is set to 0
 A página que você procura não existe ou ocorreu um erro.
 A qualquer momento durante este período, acesse o link no e-mail que enviamos para você para cancelar a solicitação de exclusão.
+A rainy night in Vice City
 A React form was unexpectedly submitted. If you called form.submit() manually, consider using form.requestSubmit() instead. If you\
 A router only supports one blocker at a time
 a Scalar type
@@ -569,6 +582,7 @@ A senha deve ter, no mínimo, uma letra minúscula
 A senha nova não pode ser igual à senha atual
 a Union type
 A verificação em 2 etapas foi removida da sua conta. Para saber mais sobre como proteger sua conta da Rockstar Games usando a verificação em 2 etapas, acesse nosso site de Suporte.
+A vibrant night time scene in Grand Theft Auto: Vice City
 A11y Label for Next slide button for Rewards Carousel on the Career Progress Hub
 A11y Label for Previous slide button for Rewards Carousel on the Career Progress Hub
 Abbiamo modificato con successo il tuo indirizzo email
@@ -678,6 +692,7 @@ Add more words that are less common.
 Adding invalid event
 Additional Resources
 additions text
+Además de nuevos logros de Rockstar Games para miembros
 Adicionar aos Favoritos
 Adicionar um personagem
 Adicione mais uma camada de segurança para proteger sua conta de acessos indesejados.
@@ -777,6 +792,7 @@ Albanischer Lek
 Alcanzando el límite de descarga
 Alcanzaste el límite de descarga de esta solicitud de datos. Puedes iniciar una nueva solicitud de datos el próximo mes.
 Alejar zoom
+Além de novas conquistas da Rockstar Games para membros
 Alemán - (Deutsch)
 alemán (Austria)
 alemán (Suiza)
@@ -1038,6 +1054,29 @@ Aria label for button which select the next item
 Aria label for button which select the next slide
 Aria label for button which select the previous item
 Aria label for button which select the previous slide
+Aria label for Enhancements section image 1
+Aria label for Enhancements section image 2
+Aria label for Enhancements section image 3
+Aria label for GTA III Screens image 1
+Aria label for GTA III Screens image 3
+Aria label for GTA III Screens image 4
+Aria label for GTA III Screens image 5
+Aria label for GTA San Andreas Screens image 1
+Aria label for GTA San Andreas Screens image 2
+Aria label for GTA San Andreas Screens image 3
+Aria label for GTA San Andreas Screens image 4
+Aria label for GTA San Andreas Screens image 5
+Aria label for GTA Trilogy key box art
+Aria label for GTA Vice City Screens image 1
+Aria label for GTA Vice City Screens image 2
+Aria label for GTA Vice City Screens image 3
+Aria label for GTA Vice City Screens image 4
+Aria label for GTA Vice City Screens image 5
+Aria label for hero image which contains a collage of three images from each GTA Trilogy game
+Aria label for image of character in GTA III
+Aria label for image of character in GTA San Andreas
+Aria label for image of character in GTA Vice City
+Aria label for images of girls from GTA Trilogy games
 Aria label for next button in game carousel for Buy Now
 Aria label for next button of carousel
 Aria label for previous button in game carousel for Buy Now
@@ -1081,6 +1120,7 @@ Armenischer Dram
 ARNO PRO
 Arrastar título do menu
 Arrastrar el controlador del menú
+Arte da caixa de Grand Theft Auto: The Trilogy, The Definitive Edition
 Aruban Florin
 As chaves de ativação e os códigos de conteúdo para baixar permanecerão vinculados à conta excluída e não poderão ser usados em nenhuma outra conta da Rockstar Games.
 as fallback. See https://formatjs.github.io/docs/react-intl/api#intlshape for more details`)),n.locale=n.defaultLocale||
@@ -1109,6 +1149,7 @@ Associer un autre compte
 Associer un compte de jeu
 Associer un compte de personnage valide
 Associer un personnage de GTA Online
+Assortissement de 3 personnages féminins des jeux de Grand Theft Auto: The Trilogy
 At anytime during this period, check the link in the email we've sent you to cancel your deletion request.
 At least one node with a positive tabindex was found in one of your focus-trap's multiple containers. Positive tabindexes are only supported in single-container focus-traps.
 At least one of max, maxSize, or ttl is required
@@ -1337,6 +1378,8 @@ Botswanan Pula
 Botswanischer Pula
 bottom top
 Bouvet Island
+Box art for Grand Theft Auto: The Trilogy, The Definitive Edition
+Box-Artwork zu Grand Theft Auto: The Trilogy – The Definitive Edition.
 Brak dostępnych nagród
 Brak podglądu
 Brak powiązanego konta
@@ -1425,6 +1468,7 @@ button, a[href], input, select, textarea, [tabindex]:not([tabindex="-1"])
 button:not([inert]):not([inert] *)
 Buy Now
 BUY NOW
+bv2cbi4 foundry_tdsdcdl foundry_tdsdcd0 foundry_tdsdcdp
 By submitting this request, you are confirming you understand and agree to all of the following:
 Cabo Verde
 Cacher le mot de passe
@@ -1635,6 +1679,7 @@ ccc, HH 'Uhr'
 Ce code expirera dans XX minutes.
 Ce pseudo enfreint nos règles.
 Ce pseudo est déjà utilisé.
+Cena de uma noite vibrante em Grand Theft Auto: Vice City.
 Cena promocyjna, poprzednio
 Central Africa Time
 Central African Republic
@@ -1684,6 +1729,9 @@ Changer de personnage
 changma kodha
 Character Card:
 character selector
+Charakter aus Grand Theft Auto 3, der eine Waffe hält.
+Charakter aus Grand Theft Auto: San Andreas, der eine Waffe hält.
+Charakter aus Grand Theft Auto: Vice City, der eine Waffe hält.
 Charakter wechseln
 Chargement d'autres utilisateurs bloqués
 Chargement des missions...
@@ -1816,6 +1864,11 @@ Codice copiato con successo
 Codice di verifica non valido
 Código copiado
 Código de verificação inválido
+Collage con 3 personajes femeninos de los juegos de Grand Theft Auto: The Trilogy
+Collage de 3 chicas de los juegos de Grand Theft Auto: The Trilogy
+Collage di 3 ragazze dai giochi di Grand Theft Auto: The Trilogy
+Collage of 3 girls from the Grand Theft Auto: The Trilogy games
+Collage von drei Frauen aus den Spielen von Grand Theft Auto: The Trilogy.
 Collection : Misc
 Collection : Patches
 Collection: View All
@@ -2039,6 +2092,8 @@ Copiar enlace al portapapeles
 Copiar link para a área de transferência
 Copier le code
 Copier le lien dans le presse-papiers
+Cops in Grand Theft Auto 3 stopping a vehicle
+Cops, die in Grand Theft Auto 3 ein Auto anhalten.
 Coptic Calendar
 Copy Code
 Copy Link to Clipboard
@@ -2489,6 +2544,7 @@ Der neue Benutzername darf nicht mit dem bestehenden Benutzernamen übereinstimm
 Der Verifizierungscode ist ungültig.
 Der Zugang zu deinem Konto wird wiederhergestellt. Bitte warte 10–15 Minuten, bevor du versuchst, dich bei deinem Konto anzumelden.
 Derived constructors may only return object or undefined
+Des policiers qui arrêtent un véhicule dans Grand Theft Auto 3
 Désabonnez-vous de notre liste de diffusion
 Desafio Checkpoint
 Desafío de punto de control
@@ -2514,6 +2570,7 @@ Desplazarse hacia la derecha
 Desplazarse hacia la izquierda
 después de Cristo
 Destroying compression worker
+Deszczowa noc w Vice City
 Détails du profil
 details:not([inert]):not([inert] *)
 details>summary:first-of-type:not([inert]):not([inert] *)
@@ -2532,6 +2589,7 @@ Deutsch (Deutschland)
 Deutsch (Österreich)
 Deutsch (Schweiz)
 Deutsche Mark
+Deux hommes de Grand Theft Auto: Vice City tenant des armes
 Device forgotten
 Diapositiva anterior
 Diapositiva siguiente
@@ -2595,6 +2653,7 @@ Discover Callout pause button label
 Discover Callout Paused
 Discover Callout play button label
 Discover Callout Playing
+Diseño de portada de Grand Theft Auto: The Trilogy, The Definitive Edition
 Disponibile solo su
 Disponible solamente en
 Disponible solo en
@@ -2622,6 +2681,7 @@ does not exist in object
 does not have an element or Component. This means it will render an <Outlet /> with a null value by default resulting in an
 does not match URL
 doesn't accept regex!
+Dois homens em Grand Theft Auto: Vice City segurando armas.
 Dołącz do listy mailingowej
 dólar australiano
 Dólar australiano
@@ -2672,6 +2732,8 @@ Don't have an account?
 Don't miss the next free GTA Online gift
 Donner votre avis
 dopo Cristo
+Dos personajes de Grand Theft Auto: Vice City sosteniendo armas
+Dos personajes masculinos armados en Grand Theft Auto: Vice City
 Dostępne wyłącznie na
 Dot click
 doubleTap doubleClick
@@ -2723,6 +2785,7 @@ Du musst dich erst anmelden, um diese Inhalte zu sehen.
 Du musst Grand Theft Auto Online neu starten, um diesen Job nicht länger in deinen Markierungen sehen zu können.
 Du verlierst den Zugang sowohl zum Story-Modus als auch zum Online-Modus für alle Rockstar-Games-PC-Titel, die mit deinem Rockstar-Games-Konto verknüpft sind.
 Du verlierst den Zugang zu deiner Freundesliste von Rockstar Games und deinen Crew-Mitgliedschaften.
+Due personaggi di Grand Theft Auto: Vice City che impugnano un’arma
 Dumont-d’Urville Time
 Duplicate capture group name
 Duplicate constructor in the same class
@@ -2733,6 +2796,7 @@ dusun central
 dusun centrale
 dusun centralny
 Dutch (Belgium)
+Dwie uzbrojone postacie z Grand Theft Auto: Vice City
 Dziękujemy za korzystanie z Rockstar Games.
 Dziękujemy, że jesteś częścią naszej społeczności.
 Dziękujemy. Sprawdź swój adres e-mail, aby dokończyć aktualizację preferencji subskrypcji.
@@ -2915,10 +2979,25 @@ egipski arabski
 Egyptian Arabic
 Egyptian Pound
 Eighth bullet point in notice.
-Ein unerwarteter Fehler ist während des Abbruchs deiner Datenanfrage aufgetreten. Bitte kontaktiere den Rockstar Support.
+Ein Autorennen in Grand Theft Auto 3.
+Ein Charakter aus Grand Theft Auto 3, der eine Waffe hält.
+Ein Charakter aus Grand Theft Auto 3, der einen Flammenwerfer benutzt.
+Ein Charakter aus Grand Theft Auto, der ein Boot unter einer Brücke steuert.
+Ein Charakter aus Grand Theft Auto, der fährt.
+Ein Charakter aus Grand Theft Auto: San Andreas, der ein Motorrad fährt.
+Ein Charakter aus Grand Theft Auto: San Andreas, der eine Waffe aus einem fahrenden Auto heraus abfeuert.
+Ein Charakter aus Grand Theft Auto: San Andreas, der eine Waffe hält.
+Ein Charakter aus Grand Theft Auto: San Andreas, der in einem Auto sitzt.
+Ein Charakter aus Grand Theft Auto: Vice City, der eine Waffe auf einem Motorrad abfeuert.
+Ein Charakter, der in Grand Theft Auto: Vice City ein Telefon benutzt.
+Ein Charakter, der in Grand Theft Auto: Vice City geht.
+Ein unerwarteter Fehler ist während des Abbruchs deiner Datenanfrage aufgetreten. Bitte kontaktiere den Support von Rockstar Games.
 Ein unerwarteter Fehler ist während des Abrufs des Status deiner Datenanfrage aufgetreten. Bitte kontaktiere den Rockstar Support.
+Ein Zug, der vorbeifährt, in Grand Theft Auto 3.
 Eine Anfrage einreichen
+Eine bunte Nachtszenerie in Grand Theft Auto: Vice City.
 Eine Minute in New York
+Eine regnerische Nacht in Vice City.
 Eine Sprache auswählen
 Einen Charakter hinzufügen
 Einrichtung über QR-Code
@@ -3121,6 +3200,7 @@ este trimestre
 Estnische Krone
 Estonian Kroon
 Estoy de acuerdo
+Et de nouveaux accomplissements Rockstar Games for les abonnés
 et nous préparerons vos données et les enverrons à l'adresse e-mail de votre compte.
 État de la Cité du Vatican
 État du service
@@ -3312,6 +3392,7 @@ foundry_11gbdtyg foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
 foundry_11gbdtyj foundry_8kowh41 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdi
 foundry_11gbdtyn foundry_8kowh41
 foundry_11gbdtyo foundry_8kowh41 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
+foundry_11gbdtyr foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdg foundry_tdsdcdi
 foundry_11gbdtyw foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_17pcofyb foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_17pcofyc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
@@ -3322,10 +3403,10 @@ foundry_19t2d1j7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdj
 foundry_19t2d1j8 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_19t2d1j9 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_1a74xwb3 foundry_1a74xwb2
-foundry_1a74xwb4 foundry_8kowh41
-foundry_1a74xwba foundry_1a74xwb2
+foundry_1a74xwb5 foundry_8kowh41
 foundry_1a74xwbb foundry_1a74xwb2
-foundry_1a74xwbo foundry_1a74xwbj
+foundry_1a74xwbc foundry_1a74xwb2
+foundry_1a74xwbq foundry_1a74xwbl
 foundry_1pfduet6 foundry_8kowh41
 foundry_1pfduetc foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf foundry_tdsdcdi
 foundry_1pfduetd foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdi
@@ -3340,10 +3421,11 @@ foundry_1qqcnuao foundry_1qqcnuav
 foundry_1vzsjidk foundry_8kowh41 foundry_tdsdcd2 foundry_tdsdcd0 foundry_tdsdcda
 foundry_2jlbzt7 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde foundry_tdsdcdj
 foundry_8oytzon foundry_8kowh41 foundry_1d5mo5m0
+foundry_dnh2nzj foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf
 foundry_lroh6l3 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdf
 foundry_lroh6l4 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcde
 foundry_lroh6l5 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd
-foundry_m1icrx8 foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
+foundry_m1icrxa foundry_tdsdcdb foundry_tdsdcd0 foundry_tdsdcdd foundry_tdsdcdj
 foundry_okz6z28 foundry_8kowh41
 foundry_okz6z29 foundry_okz6z24 foundry_okz6z25
 foundry_okz6z2a foundry_okz6z26 foundry_okz6z27
@@ -3499,6 +3581,7 @@ gaélico escocês
 gaelico scozzese
 gaélique écossais
 Galapagos Time
+Galería de imágenes de Grand Theft Auto: The Trilogy
 Gälisch (Schottland)
 Gambier Time
 Game Activation
@@ -3510,6 +3593,7 @@ Game name of Grand Theft Auto III 10th Anniversary
 Game name of Grand Theft Auto IV
 Game name of Grand Theft Auto Online
 Game name of Grand Theft Auto V
+Game name of Grand Theft Auto VI
 Game name of Grand Theft Auto: Chinatown Wars
 Game name of Grand Theft Auto: Liberty City Stories
 Game name of Grand Theft Auto: London
@@ -3639,15 +3723,27 @@ Gracias. Comprueba tu correo electrónico para terminar de actualizar las prefer
 Gracias. Revisa tu correo electrónico para terminar de actualizar tus preferencias de suscripción.
 Grand Theft Auto
 Grand Theft Auto 2
+Grand Theft Auto 3
+Grand Theft Auto 3 character holding a weapon
+Grand Theft Auto 3 character using a flamethrower
+Grand Theft Auto 3 中的飛車追逐
+Grand Theft Auto 3 中駛過的火車
+Grand Theft Auto 3의 지나가는 기차
+Grand Theft Auto 3의 차량 추격전
+Grand Theft Auto 3中，火车正在经过
+Grand Theft Auto 3中的一场追车
 Grand Theft Auto Advance
 Grand Theft Auto III
 Grand Theft Auto III 10th Anniversary
 Grand Theft Auto III 10th Anniversary Edition
+Grand Theft Auto III label
 Grand Theft Auto III: 10th Anniversary
 Grand Theft Auto IV
 Grand Theft Auto Online
+Grand Theft Auto San Andreas label
 Grand Theft Auto V
 Grand Theft Auto VI
+Grand Theft Auto Vice City label
 Grand Theft Auto 온라인
 Grand Theft Auto 在线模式
 Grand Theft Auto 線上模式
@@ -3662,10 +3758,25 @@ Grand Theft Auto: San Andreas
 Grand Theft Auto: The Ballad of Gay Tony
 Grand Theft Auto: The Lost and Damned
 Grand Theft Auto: The Trilogy
+Grand Theft Auto: The Trilogy - The Definitive Edition
+Grand Theft Auto: The Trilogy – The Definitive Edition
+Grand Theft Auto: The Trilogy, Bildergalerie
+Grand Theft Auto: The Trilogy, Galería de imágenes
+Grand Theft Auto: The Trilogy, galeria de imagens.
+Grand Theft Auto: The Trilogy, galeria obrazów
+Grand Theft Auto: The Trilogy, galerie d'images
+Grand Theft Auto: The Trilogy, Image Gallery
+Grand Theft Auto: The Trilogy, The Definitive Edition
 Grand Theft Auto: Vice City
 Grand Theft Auto: Vice City 10th Anniversary
 Grand Theft Auto: Vice City 10th Anniversary Edition
 Grand Theft Auto: Vice City Stories
+Grand Theft Auto: Vice City 中充滿活力的繁華夜景
+Grand Theft Auto: Vice City 中兩名手持武器的男性
+Grand Theft Auto: Vice City의 무기를 든 두 남자
+Grand Theft Auto: Vice City의 활기찬 밤 풍경
+Grand Theft Auto: Vice City中两名男性手持武器
+Grand Theft Auto: Vice City中的一个活力四射的夜晚场景
 Grand Theft Auto: 트릴로지
 Grand Theft Auto：Chinatown Wars
 Grand Theft Auto：Liberty City Stories
@@ -3677,6 +3788,10 @@ Grand Theft Auto：Vice City
 Grand Theft Auto：Vice City 10th Anniversary
 Grand Theft Auto：Vice City Stories
 Grand Theft Auto：三部曲
+Grand Theft Auto：三部曲 – 最终版
+Grand Theft Auto：三部曲，最終版
+Grand Theft Auto：三部曲，图片相册
+Grand Theft Auto：三部曲，圖片相冊
 GraphQL execution failed to complete synchronously.
 GraphQL request
 graphql@16 dropped long-deprecated support for positional arguments, please pass an object instead.
@@ -3695,6 +3810,7 @@ Grenlandia Wschodnia (czas standardowy)
 Grenlandia Zachodnia (czas letni)
 Grenlandia Zachodnia (czas standardowy)
 griego antiguo
+Group label for the screens section of GTA Trilogy
 Groupes et mode exploration
 GSAP target
 GTA III
@@ -3878,6 +3994,7 @@ GyMMMMEd, hmsvvvv
 GyMMMMEd, Hmsvvvv
 GyMMMMEd, hmv
 GyMMMMEd, Hmv
+Ha habido un error inesperado al cancelar tu solicitud de datos. Ponte en contacto con el servicio de asistencia técnica de Rockstar.
 Ha habido un error inesperado al recuperar el estado de tu solicitud de datos. Ponte en contacto con el servicio de asistencia técnica de Rockstar.
 Habilitar autenticador
 Habilitar com código QR
@@ -4744,6 +4861,7 @@ Il n'y a pas de drop Twitch disponible actuellement, mais gardez un œil sur les
 Il n'y a pas de drop Twitch disponible actuellement, mais restez à l'écoute. Créez un personnage dans Grand Theft Auto Online et terminez l'introduction pour recevoir des drops.
 Il nickname può contenere solo lettere, numeri, trattini e trattini bassi
 Il nuovo nickname deve essere diverso da quello già esistente
+Il passaggio di un treno in Grand Theft Auto 3
 Il processo di recupero dell'account rimuoverà il tuo dispositivo per la verifica in 2 passaggi. Consigliamo caldamente di proteggere il tuo account con la verifica in 2 passaggi.
 Il tuo account è già registrato per l’autenticazione a due fattori.
 Il tuo browser non supporta la riproduzione di video.
@@ -4798,6 +4916,8 @@ Imagen con el mensaje: Say Sorry, Be Nice
 images marquee section
 Immagine caricamento dispositivi memorizzati
 Immagine con logo “Say Sorry, Be Nice”.
+Immagine di copertina di Grand Theft Auto: The Trilogy - The Definitive Edition
+Immagini di Grand Theft Auto: The Trilogy
 Import Friends
 Importa amici
 Importar amigos
@@ -4841,8 +4961,9 @@ in Intl.NumberFormat. Using default locale:
 in n)throw TypeError(
 In neuem Tab öffnen
 in not contained inside
+In più, nuovi premi di Rockstar Games per i membri
 In qualsiasi momento, durante questo periodo, controlla il link contenuto nell'email che ti abbiamo inviato per annullare la tua richiesta di cancellazione.
-in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),V((0,i.TW)(t.currentTarget),
+in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),j((0,i.TW)(t.currentTarget),
 in strict mode
 in window||(delete fr.animationend.animation,delete fr.animationiteration.animation,delete fr.animationstart.animation),
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
@@ -5181,6 +5302,7 @@ Japanische Sommerzeit
 Japanischer Kalender
 Japonia (czas letni)
 Japonia (czas standardowy)
+Jaquette de Grand Theft Auto: The Trilogy – The Definitive Edition
 javascript:throw new Error('React has blocked a javascript: URL as a security precaution.')
 Je suis d'accord
 Jekaterinburger Normalzeit
@@ -5250,6 +5372,7 @@ Keine Belohnungen verfügbar
 Keine blockierten Benutzer
 Keine Daten gefunden
 Keine gespeicherten Geräte
+Kilka postaci z Grand Theft Auto: San Andreas opuszczających budynek
 King of the Hill
 Kirgisische Zeit
 Klassisches Chinesisch
@@ -5260,6 +5383,7 @@ Klucze aktywacyjne i kody do zawartości do pobrania pozostaną powiązane z usu
 Kobdo (czas letni)
 Kobdo (czas standardowy)
 Kod pomyślnie skopiowany
+Kolaż przedstawiający trzy dziewczyny z gier Grand Theft Auto: The Trilogy
 Kolumbia (czas letni)
 Kolumbia (czas standardowy)
 Kolumbianische Normalzeit
@@ -5410,6 +5534,7 @@ Label for the communications page toast that appears when a user subscribes to t
 Label for the communications page toast that appears when a user unsubscribes from the mailing list
 Label for the current password field.
 Label for the error toast provider.
+Label for the full title of GTA Trilogy games
 Label for the gamertag row.
 Label for the infinite scroll spinner
 Label for the new nick name field.
@@ -6175,6 +6300,7 @@ Momentan gibt es keine Twitch Drops. Bleib dran für die nächste Runde. In der 
 Mon personnage
 Mon tableau de bord
 Monotype Corsiva
+Montagem com três mulheres dos jogos de Grand Theft Auto: The Trilogy.
 Montrer le mot de passe
 more than
 Moroccan Arabic
@@ -6218,6 +6344,7 @@ Mudar senha
 Mudou de ideia?
 Muito forte
 Muito fraca
+Multiple characters from Grand Theft Auto: San Andreas leaving a building
 Multiple default clauses
 Multiple languages
 múltiplos idiomas
@@ -6656,6 +6783,7 @@ Nuevo apodo
 nuevo cruceiro brasileño (1967–1986)
 nuevo cruzado brasileño
 nuevo rublo bielorruso (1994–1999)
+Nuevos logros de Rockstar Games para miembros
 null prototype
 Number skeleton cannot be empty
 Numeric separator is not allowed at the first of digits
@@ -6709,7 +6837,7 @@ Ocorreu um erro inesperado ao recuperar o status da sua solicitação de dados. 
 Octal literal in strict mode
 Ocultar contraseña
 Ocultar senha
-Ocurrió un error inesperado al intentar obtener el estado de la cancelación de tu solicitud de datos. Ponte en contacto con el servicio de soporte técnico de Rockstar.
+Ocurrió un error inesperado al cancelar tu solicitud de datos. Ponte en contacto con el soporte técnico de Rockstar Games.
 Ocurrió un error inesperado al intentar obtener el estado de tu solicitud de datos. Ponte en contacto con el servicio de soporte técnico de Rockstar.
 Ocurrió un problema o la página que estás buscando no existe.
 Odnośnik może być nieprawidłowy. Możesz zmienić swoje preferencje mailingowe w menu ustawień konta Rockstar Games.
@@ -6747,6 +6875,7 @@ ojibwé du Nord-Ouest
 ojibwe nord-occidentale
 ojibwé occidental
 ojibwe occidentale
+Okładka Grand Theft Auto: The Trilogy – The Definitive Edition
 olandese (Belgio)
 olandese medio
 Old English
@@ -7001,6 +7130,7 @@ Ora standard di Volgograd
 Ora standard di Yakutsk
 Ora standard Montagne Rocciose USA
 Ora standard orientale USA
+Oraz nowe osiągnięcia Rockstar Games dla członków
 OrdinaryHasInstance called on an object with an invalid prototype property.
 Organizacja Narodów Zjednoczonych
 Organization Info
@@ -7159,6 +7289,7 @@ pasado mañana
 Pasar al contenido principal
 Pasek przewijania Odtwórz
 Pasek przewijania Zatrzymaj
+Paso de un tren en Grand Theft Auto 3
 Pass `context` to the returned `execute` function instead.
 Pass all `variables` to the returned `execute` function instead.
 Pass the options directly to the hook instead.
@@ -7228,6 +7359,8 @@ persiano antico
 Persisch (Afghanistan)
 Persischer Kalender
 perski (Afganistan)
+Personaje de Grand Theft Auto 3 con un lanzallamas
+Personaje de Grand Theft Auto 3 sujetando un arma
 Peru (czas letni)
 Peru (czas standardowy)
 Peru Standard Time
@@ -7336,6 +7469,8 @@ Please use the "new" operator, this DOM object constructor cannot be called as a
 Please use the `clientAwareness.name` option instead.
 Please use the `clientAwareness.version` option instead.
 pluralrules must be initialized
+Plus new Rockstar Games Accomplishments for members
+Plusieurs personnages de Grand Theft Auto: San Andreas en train de quitter un bâtiment
 Pobierz aplikację
 Podziel się opinią
 pointermove pointerup pointercancel
@@ -7346,6 +7481,10 @@ Pokaż moje państwo/region
 Pokaż wszystko
 Polacco - (Polski)
 Polaco - (Polski)
+Policiais de Grand Theft Auto 3 abordado um veículo.
+Policías deteniendo un vehículo en Grand Theft Auto 3
+Policías detienen un vehículo en Grand Theft Auto 3
+Policjanci zatrzymują pojazd w Grand Theft Auto 3
 Polinesia Francesa
 Polinésia Francesa
 Polinesia Francese
@@ -7359,6 +7498,7 @@ Politica sulla privacy
 Politique en matière de cookies
 Polityka plików cookie
 Polityka prywatności
+Poliziotti in Grand Theft Auto 3 che fermano un veicolo
 Polnisch – (Polski)
 Polonais - (Polski)
 Polonês - (Polski)
@@ -7378,6 +7518,7 @@ Poprzednia strona z filmami
 Poprzednie wydarzenie
 Por que você está nos deixando?
 Porównaj wszystkie akcje
+Portada de Grand Theft Auto: The Trilogy, The Definitive Edition
 Porto Rico
 portoghese (Brasile)
 Portoghese (Brasile) - (Português do Brasil)
@@ -7403,10 +7544,19 @@ Português do Brasil
 Português do Brasil - (Português do Brasil)
 Portuguese (Brazil)
 Portuguese (Portugal)
+Pościg samochodowy w Grand Theft Auto 3
 Pościg za odznaką
 Posse e Free Roam
 Posses and Free Roam
 Possibilità di impiego
+Postać z Grand Theft Auto 3 używająca miotacza ognia
+Postać z Grand Theft Auto prowadząca auto
+Postać z Grand Theft Auto przepływa łodzią pod mostem
+Postać z Grand Theft Auto: San Andreas jadąca motocyklem
+Postać z Grand Theft Auto: San Andreas oddająca ogień z poruszającego się pojazdu
+Postać z Grand Theft Auto: San Andreas w samochodzie
+Postać z Grand Theft Auto: Vice City korzystająca z telefonu
+Postać z Grand Theft Auto: Vice City na motorze oddająca ogień z broni
 Postępy kariery
 Postes à pourvoir
 Potrzebujesz pomocy z kontem?
@@ -7522,6 +7672,7 @@ próximo ano
 Próximo evento
 Próximo Jogo
 próximo trimestre
+Przechadzająca się postać z Grand Theft Auto: Vice City
 Przeciągnij uchwyt menu
 Przeglądaj akcje
 Przeglądaj ekipy
@@ -7530,6 +7681,7 @@ Przeglądaj profil
 Przeglądaj regulamin społeczności
 Przeglądaj swoje dropy
 Przeglądaj Zasoby społeczności
+Przejeżdżający pociąg w Grand Theft Auto 3
 Przesuń w lewo
 Przesuń w prawo
 Przeszukaj Rockstar Games...
@@ -8573,7 +8725,9 @@ Territorios Palestinos
 Territórios palestinos
 Terytoria Palestyńskie
 Text advising the user about the importance of mfa.
+Text describing an enhancement added to the GTA Trilogy collection that allows members with Rockstar Games Accounts to unlock exclusive achievements.
 Text describing possible next steps for user after 2fa removal
+Text describing which slide is active in Slider
 Text for form submission button which will remove mfa device
 Text for the button that cancels unblocking a user
 Text for the button to take the user back to account management
@@ -8799,6 +8953,8 @@ This is a frequently used password.
 This is a heavily used password.
 This is similar to a commonly used password.
 This is the device you will use to retrieve your Verification Code.
+This is the first slide
+This is the last slide
 this minute
 this month
 This nickname has already been taken
@@ -8903,6 +9059,7 @@ Tracking ID is required
 Traditional Chinese
 Traditionelles Chinesisch – (繁體中文)
 Trailing comma is not allowed in import()
+Train passing by in Grand Theft Auto 3
 TRAJAN PRO
 Transaction has no name, falling back to `<unlabeled transaction>`.
 Transform Race
@@ -8990,6 +9147,7 @@ Twitch Drops
 Twitch Dropsを設定する
 Twitch Logo
 Twitch-Konto verknüpft
+Two men in Grand Theft Auto: Vice City holding weapons
 Twój adres e-mail nie został zweryfikowany podczas tej próby. Twoje konto mogło już zostać zweryfikowane lub użyty link może być nieprawidłowy.
 Twój adres e-mail został pomyślnie zmieniony.
 Twój link weryfikacyjny wygasł. Spróbuj ponownie.
@@ -9021,6 +9179,79 @@ Ultimo respiro
 Um mehr darüber zu erfahren, wie du dein Rockstar-Games-Konto mit der zweistufigen Verifizierung schützen kannst, besuche unsere <mfaSupportAnchor>Support-Webseite</mfaSupportAnchor>.
 Um mehr über unsere Datenschutzmaßnahmen zu erfahren, konsultiere bitte unsere <privacyPolicyAnchor>Datenschutzerklärung</privacyPolicyAnchor>.
 Um Minuto de Nova York
+Um personagem de Grand Theft Auto 3 segurando uma arma.
+Um personagem de Grand Theft Auto 3 usando um lança-chamas.
+Um personagem de Grand Theft Auto dirigindo.
+Um personagem de Grand Theft Auto pilotando um barco embaixo de uma ponte.
+Um personagem de Grand Theft Auto: San Andreas andando de moto.
+Um personagem de Grand Theft Auto: San Andreas dentro de um carro.
+Um personagem de Grand Theft Auto: San Andreas disparando uma arma de dentro de um veículo em movimento.
+Um personagem de Grand Theft Auto: San Andreas segurando uma arma.
+Um personagem de Grand Theft Auto: Vice City caminhando.
+Um personagem de Grand Theft Auto: Vice City em uma moto disparando uma arma.
+Um personagem de Grand Theft Auto: Vice City segurando uma arma.
+Um personagem de Grand Theft Auto: Vice City usando o telefone.
+Um trem passando em Grand Theft Auto 3.
+Uma noite chuvosa em Vice City.
+Uma perseguição de carros em Grand Theft Auto 3.
+Un personaggio di Grand Theft Auto 3 che impugna un’arma
+Un personaggio di Grand Theft Auto 3 mentre usa un lanciafiamme
+Un personaggio di Grand Theft Auto alla guida di una barca sta passando sotto un ponte
+Un personaggio di Grand Theft Auto che guida
+Un personaggio di Grand Theft Auto: San Andreas al volante di un'auto
+Un personaggio di Grand Theft Auto: San Andreas che impugna un’arma
+Un personaggio di Grand Theft Auto: San Andreas in sella ad una moto
+Un personaggio di Grand Theft Auto: San Andreas sta sparando da un'auto in corsa
+Un personaggio di Grand Theft Auto: Vice City che impugna un’arma
+Un personaggio di Grand Theft Auto: Vice City che sta camminando
+Un personaggio di Grand Theft Auto: Vice City che sta telefonando
+Un personaggio di Grand Theft Auto: Vice City mentre spara da una moto
+Un personaje al teléfono en Grand Theft Auto: Vice City
+Un personaje andando en Grand Theft Auto: Vice City
+Un personaje de Grand Theft Auto 3 sosteniendo un arma
+Un personaje de Grand Theft Auto 3 sujetando un arma
+Un personaje de Grand Theft Auto 3 usando un lanzallamas
+Un personaje de Grand Theft Auto 3: San Andreas sujetando un arma
+Un personaje de Grand Theft Auto conduciendo
+Un personaje de Grand Theft Auto conduciendo un coche
+Un personaje de Grand Theft Auto pilotando una lancha hacia un puente
+Un personaje de Grand Theft Auto piloteando un bote debajo de un puente
+Un personaje de Grand Theft Auto: San Andreas andando en moto
+Un personaje de Grand Theft Auto: San Andreas dentro de un auto
+Un personaje de Grand Theft Auto: San Andreas disparando un arma desde el interior de un vehículo en movimiento
+Un personaje de Grand Theft Auto: San Andreas en el interior de un coche
+Un personaje de Grand Theft Auto: San Andreas en moto
+Un personaje de Grand Theft Auto: San Andreas sosteniendo un arma
+Un personaje de Grand Theft Auto: San Andreas sujetando un arma
+Un personaje de Grand Theft Auto: Vice City caminando
+Un personaje de Grand Theft Auto: Vice City disparando un arma desde una moto
+Un personaje de Grand Theft Auto: Vice City en moto disparando un arma
+Un personaje de Grand Theft Auto: Vice City hablando por teléfono
+Un personaje de Grand Theft Auto: Vice City sosteniendo un arma
+Un personaje de Grand Theft Auto: Vice City sujetando un arma
+Un personnage de Grand Theft Auto 3 qui utilise un lance-flammes
+Un personnage de Grand Theft Auto 3 tenant une arme
+Un personnage de Grand Theft Auto en train de conduire
+Un personnage de Grand Theft Auto en train de diriger un bateau sous un pont
+Un personnage de Grand Theft Auto: San Andreas dans une voiture
+Un personnage de Grand Theft Auto: San Andreas pilotant une moto
+Un personnage de Grand Theft Auto: San Andreas qui tire depuis un véhicule en mouvement
+Un personnage de Grand Theft Auto: San Andreas tenant une arme
+Un personnage de Grand Theft Auto: Vice City à moto qui tire avec son arme
+Un personnage de Grand Theft Auto: Vice City en train d'utiliser son téléphone
+Un personnage de Grand Theft Auto: Vice City en train de marcher
+Un personnage de Grand Theft Auto: Vice City tenant une arme
+Un train qui passe dans Grand Theft Auto 3
+Un tren pasando en Grand Theft Auto 3
+Un'auto in fuga in Grand Theft Auto 3
+Una colorida escena nocturna en Grand Theft Auto: Vice City
+Una escena nocturna iluminada en Grand Theft Auto: Vice City
+Una noche de lluvia en Vice City
+Una noche lluviosa en Vice City
+Una notte piovosa in Vice City
+Una persecución automovilística en Grand Theft Auto 3
+Una persecución en coche en Grand Theft Auto 3
+Una vivace scena notturna in Grand Theft Auto: Vice City
 Unable to decode prerendered data
 Unable to decode turbo-stream response
 Unable to discover routes due to manifest version mismatch.
@@ -9035,13 +9266,17 @@ Unable to verify email address
 Unbefugter Zugriff aufs Konto / gehacktes Konto
 Unbekannte Region
 Unbekannte Sprache
+Und neue Rockstar-Games-Errungenschaften für Mitglieder.
 undefined/null cannot be converted to object
-Une erreur est survenue inopinément lors de l'annulation de votre demande de données. Veuillez contacter l'assistance Rockstar Games.
+Une course-poursuite dans Grand Theft Auto 3
+Une erreur est survenue inopinément lors de l'annulation de votre demande de données. Veuillez contacter l'assistance Rockstar.
 Une erreur est survenue inopinément lors de la récupération du statut de votre demande de données. Veuillez contacter l'assistance Rockstar Games.
 Une erreur est survenue lors du désabonnement
 Une erreur est survenue lors du traitement des informations fournies.
 Une erreur s'est produite.
 Une erreur s'est produite. Veuillez réessayer.
+Une nuit pluvieuse à Vice City
+Une scène de nuit vive dans Grand Theft Auto: Vice City
 Unexpected character '
 Unexpected description, descriptions are not supported on shorthand queries.
 unexpected EOF
@@ -9135,7 +9370,6 @@ useAlertContext can only be used in a <Alert.Root />
 useAvatarContext can only be used in a <Avatar.Root />
 useBadgeContext can only be used in a <Badge.Root />
 useBottomSheet must be used within a Bottom Sheet Provider
-useBreadcrumbsContext can only be used in a <Breadcrumbs.Root />
 useCheckboxContext can only be used in a <Checkbox.Root />
 useChipGroupContext can only be used in a <ChipGroup.Root />
 useConfirmationContext can only be used in a Form ConfirmationRoot
@@ -9150,7 +9384,6 @@ uses a career development and redeployment processes:
 useSwitchContext can only be used in a <Switch.Root />
 useTagContext can only be used in a <Tag.Root />
 useTextFieldContext can only be used in a <TextField.Root />
-useTooltipContext can only be used in a <Tooltip.Root />
 Using the `browserSessionIntegration` in non-browser environments is not supported.
 Using your Authenticator App, scan this QR code and enter the generated Verification Code below.
 Ustal, jak wygląda strona twojego profilu Rockstar Games w innych miejscach naszej strony.
@@ -9195,6 +9428,9 @@ Uzbekistan (czas letni)
 Uzbekistan (czas standardowy)
 Uzbekistan Standard Time
 Uzbekistan Summer Time
+Uzbrojona postać z Grand Theft Auto 3
+Uzbrojona postać z Grand Theft Auto: San Andreas
+Uzbrojona postać z Grand Theft Auto: Vice City
 Użyj ustawień na tej stronie, aby zarządzać niektórymi informacjami profilowymi. Niektóre informacje zawsze będą widoczne, w tym członkostwo w ekipie oraz dane rozgrywki wieloosobowej.
 Użyj wniosku poniżej, by usunąć twoje konto Rockstar Games i zapisane informacje.
 Uzyskaj wsparcie
@@ -9210,6 +9446,9 @@ var(--grid-background-size, cover)
 var(--theme-adaptive-gradient-background, var(--theme-background))
 Variables must be provided as an Object where each property is a variable value. Perhaps look to see if an unparsed JSON string was provided.
 varios idiomas
+Vários personagens de Grand Theft Auto: San Andreas saindo de uma edificação.
+Varios personajes de Grand Theft Auto: San Andreas saliendo de un edificio
+Varipersonaggi di Grand Theft Auto: San Andreas mentre escono da un edificio
 Vatican City
 vectors must be same length
 Vedi tutte le sfide che hai completato nella tua carriera di GTA Online. Puoi anche scoprirne di nuove e ottenere delle ricompense preziose mentre sali di rango nella tua carriera criminale.
@@ -9270,6 +9509,7 @@ Verknüpfte Konten
 Verknüpfte Konten verwalten
 Verpass nicht dein nächstes Gratisgeschenk in GTA Online.
 Verrechnungseinheit für Ecuador
+Verschiedene Charaktere aus Grand Theft Auto: San Andreas, die ein Gebäude verlassen.
 version control
 Versus Mission
 Verwalte, mit welchen Netzwerken dein Rockstar-Games-Konto verknüpft ist.
@@ -9282,6 +9522,7 @@ Veuillez contacter l'assistance Rockstar Games pour obtenir de l'aide.
 Veuillez indiquer une adresse e-mail valide.
 Veuillez réessayer.
 Veuillez saisir votre mot de passe Rockstar Games.
+Vice City的一个雨夜
 Vida Selvagem
 Video angehalten
 video carousel buttons
@@ -9663,8 +9904,8 @@ Wyspy Salomona
 Wyspy Świętego Tomasza i Książęca
 Wyspy Zielonego Przylądka (czas letni)
 Wyspy Zielonego Przylądka (czas standardowy)
-Wystąpił nieoczekiwany błąd podczas anulowania żądania danych. Skontaktuj się ze wsparciem Rockstar.
-Wystąpił nieoczekiwany błąd podczas pobierania statusu żądania danych. Skontaktuj się ze wsparciem Rockstar.
+Wystąpił nieoczekiwany błąd podczas pobierania statusu żądania danych. Skontaktuj się ze Wsparciem Rockstar Games.
+Wystąpił nieoczekiwany błąd, który zanulował żądanie danych. Skontaktuj się ze Wsparciem Rockstar Games.
 Wyświetl mniej
 Wyszukaj kategorie
 Wyzwanie punktów kontrolnych
@@ -10070,13 +10311,44 @@ Zufällige Mission
 Zum Hauptinhalt springen
 Zurück zum Profil
 Zusätzliche Ressourcen
+Zwei Männer, die in Grand Theft Auto: Vice City Waffen halten.
 Zweistufige Verifizierung
 Zweistufige Verifizierung einrichten
 Zweistufige Verifizierung entfernen
 Zweryfikowano za pomocą aplikacji uwierzytelniającej
+Żywa nocna scena w Grand Theft Auto: Vice City
 Гонка Hao’s Special Works
+Изображение обложки Grand Theft Auto: The Trilogy – The Definitive Edition
+Погоня в Grand Theft Auto 3
+건물울 나서는 Grand Theft Auto: San Andreas의 여러 캐릭터
+걷는 중인 Grand Theft Auto: Vice City 캐릭터
+무기를 든 Grand Theft Auto: San Andreas 캐릭터
+무기를 들고 있는 Grand Theft Auto: San Andreas 캐릭터
+무기를 들고 있는 Grand Theft Auto: Vice City 캐릭터
+신규 Rockstar Games 회원 전용 업적
+오토바이를 타는 Grand Theft Auto: San Andreas 캐릭터
+운전하는 Grand Theft Auto 캐릭터
+전화 중인 Grand Theft Auto: Vice City 캐릭터
+차량 안에 있는 Grand Theft Auto: San Andreas 캐릭터
+一名Grand Theft Auto: San Andreas的角色在车内
+一名Grand Theft Auto: San Andreas的角色手持一把武器
+一名Grand Theft Auto: San Andreas的角色骑着一辆摩托车
+一名Grand Theft Auto: Vice City的角色手持一把武器
+一名Grand Theft Auto: Vice City的角色正在打电话
+一名Grand Theft Auto: Vice City的角色正在走路
+一名Grand Theft Auto的角色正在驾驶
+一名坐在車輛內的 Grand Theft Auto: San Andreas 角色
+一名手持武器的 Grand Theft Auto: San Andreas 角色
+一名手持武器的 Grand Theft Auto: Vice City 角色
+一名正在步行的 Grand Theft Auto: Vice City 角色
+一名正在用電話的 Grand Theft Auto: Vice City 角色
+一名正在駕駛的 Grand Theft Auto 角色
+一名騎著機車的 Grand Theft Auto: San Andreas 角色
+多名 Grand Theft Auto: San Andreas 角色正從一棟建築物走出來
+多名Grand Theft Auto: San Andreas的角色正在离开一栋建筑
 感謝您使用 Rockstar Games
 感谢您使用Rockstar Games
+手持武器的 Grand Theft Auto 3 角色
 搜尋 Rockstar Games……
 搜索 Rockstar Games……
 搜索Rockstar Games……
