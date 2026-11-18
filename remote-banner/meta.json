@@ -1,7 +1,7 @@
 {
   "package": "remote-banner",
-  "version": "1.41.1",
-  "hash": "b71a3c172b0734dd1dd17b92a688e4976d8a6300",
-  "gitHead": "b71a3c172b0734dd1dd17b92a688e4976d8a6300",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/remote-banner/1.41.1/b71a3c172b0734dd1dd17b92a688e4976d8a6300/remote-entry.js"
+  "version": "1.43.0",
+  "hash": "4ac6a0ac585d04ba1f71f5a37cdf2c69410ceb44",
+  "gitHead": "4ac6a0ac585d04ba1f71f5a37cdf2c69410ceb44",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/remote-banner/1.43.0/4ac6a0ac585d04ba1f71f5a37cdf2c69410ceb44/remote-entry.js"
 }
