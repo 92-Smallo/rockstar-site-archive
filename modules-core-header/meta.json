@@ -1,7 +1,7 @@
 {
   "package": "modules-core-header",
-  "version": "24.2.2",
-  "hash": "3d6dabd7c4d4b86cb9f7e1517d76de272b029bd7e0625645fecd21efd1893b21",
-  "gitHead": "2f63c38ab8f479c51122a10f10649e609833a8d6",
-  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/modules-core-header/24.2.2/3d6dabd7c4d4b86cb9f7e1517d76de272b029bd7e0625645fecd21efd1893b21/remote-entry.js"
+  "version": "25.0.0",
+  "hash": "98074ef3b63b01445616b2485103a34670dceb8a46feccde22a1136306699850",
+  "gitHead": "136564758c4a7767630bddffd54ee47b63e4858a",
+  "url": "https://media-rockstargames-com.akamaized.net/mfe-r19/prod/@rockstargames/modules-core-header/25.0.0/98074ef3b63b01445616b2485103a34670dceb8a46feccde22a1136306699850/remote-entry.js"
 }
