@@ -250,7 +250,7 @@ _1ozycm42 _1betujy6 _1betujy5
 ):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
 ).toUpperCase():void 0,games_played:n.length?n.join(
-).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:g,section_layout:t?
+).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:t?
 ).toUpperCase():void 0,gta_plus_platforms:s.length?s.map(e=>l[e]??e).join(
 ).toUpperCase():void 0,gtao_platforms_played:r.length?r.map(e=>l[e]??e).join(
 )),a=new s.WebKitCSSMatrix(
@@ -400,6 +400,8 @@ _1ozycm42 _1betujy6 _1betujy5
 <SignInLink>登入</SignInLink>您的 Rockstar Games 帳戶以提交意見反應。
 <SignInLink>登录</SignInLink>您的Rockstar Games账户以提交反馈。
 <unlabeled transaction>
+===a)throw new TypeError(
+===a&&!n)throw new TypeError(
 ===a&&!r)throw new TypeError(
 ===e.id?za:void 0:t.HydrateFallback,i=t.ErrorBoundary?t.ErrorBoundary:
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
@@ -423,7 +425,6 @@ _1ozycm42 _1betujy6 _1betujy5
 ===r)return a.patterns.locale.replace(
 ===r)throw new TypeError(
 ===r&&!a)throw new TypeError(
-===r&&!i)throw new TypeError(
 ===r&&!n)throw new TypeError(
 ===r&&!o)throw new TypeError(
 ===r&&!t)throw new TypeError(
@@ -472,7 +473,6 @@ _1ozycm42 _1betujy6 _1betujy5
 ==typeof i?o.createElement(
 ==typeof i.error&&
 ==typeof Intl||!(
-==typeof j?.className&&delete j.className,(0,r.jsxs)(
 ==typeof L.attributes.href&&
 ==typeof L.attributes.rel&&(
 ==typeof l.bearerToken&&d.searchParams.append(
@@ -519,6 +519,7 @@ _1ozycm42 _1betujy6 _1betujy5
 ==typeof window&&
 ==typeof window||
 ==typeof window||!e[t]||e[t]instanceof window.Element?null:new Error('Prop name
+==typeof x?.className&&delete x.className,(0,a.jsxs)(
 ==typeof x?.className&&delete x.className,(0,r.jsxs)(
 ==typeof x?.className&&delete x.className,(0,t.jsxs)(
 > is not able to match the URL
@@ -8766,6 +8767,7 @@ The argument must be a React element, but you passed
 The aria a11y label for the crew invite email toggle
 The aria a11y label for the direct message email toggle
 The aria a11y label for the friend request email toggle
+The aria label for the close button
 The aria label used for cards when they have a tag.
 The aria label used for cards when they have platforms and a tag.
 The aria label used for cards when they have platforms.

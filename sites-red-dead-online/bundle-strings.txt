@@ -23,28 +23,28 @@
 ,this.renderConfig.id),void 0!==this.renderConfig.focusable&&this.svgElement.setAttribute(
 ,this.status=void 0===t.status?200:t.status,this.status<200||this.status>599)throw new RangeError(
 : can't set as prototype!
-:i.open&&!s.collapsible||void 0,
 :if(r.options.length>1)throw new RangeError(
 :if(r<4)throw new RangeError(
 :return r&&this.raiseRecoverable(t.start,
 :return this.currZoomLevel>this.zoomLevels.initial?
 :return(t.async||t.generator)&&this.props.onError?.(new Error(
+:s.open&&!i.collapsible||void 0,
 :t.isInvalid||void 0,
 :throw new RangeError(
 !==e.type)throw new Error(
 !==e[1].type)throw new Error(
 !==e[e.length-1].type)throw new Error(
-!==f.type)throw new Error(
 !==i||void 0===navigator.plugins&&
-!==n||o instanceof Ge(o).HTMLInputElement&&!Pr(o,r)||o instanceof Ge(o).HTMLTextAreaElement||o.isContentEditable||(
 !==r.kind)throw new Error(
-!==r[r.length-1].type)throw new Error(
+!==t[t.length-1].type)throw new Error(
+!==u.type)throw new Error(
 !==y)throw new Error(
 !=typeof a||(a=document.createElement(
 !=typeof Buffer&&
 !=typeof c||(c=document.createElement(
 !=typeof CSS&&CSS.supports&&CSS.supports(
-!=typeof document?R.useLayoutEffect:R.useEffect,iu=e=>e&&!Array.isArray(e)&&
+!=typeof document?D.useLayoutEffect:D.useEffect,Ui=e=>e&&!Array.isArray(e)&&
+!=typeof document&&(
 !=typeof document&&(document.addEventListener(
 !=typeof e?(console.error(
 !=typeof e)throw new Error(
@@ -54,7 +54,6 @@
 !=typeof e)throw TypeError(e+
 !=typeof e&&console.warn(
 !=typeof e||!e.includes(
-!=typeof Element&&
 !=typeof i&&i.removeAttribute(
 !=typeof l?null:
 !=typeof l||(l=document.createElement(
@@ -62,8 +61,8 @@
 !=typeof n)return void console.error(
 !=typeof navigator&&(navigator.language||navigator.userLanguage)||
 !=typeof o)return void console.error(
-!=typeof PointerEvent&&(n.removeEventListener(
-!=typeof PointerEvent&&(r.addEventListener(
+!=typeof PointerEvent&&(n.addEventListener(
+!=typeof PointerEvent&&(r.removeEventListener(
 !=typeof process&&void 0!==process.env&&!1),ue=
 !=typeof process&&void 0!==process.env&&(process.env.REACT_APP_SC_ATTR||process.env.SC_ATTR)||
 !=typeof r)throw new TypeError(r+
@@ -78,9 +77,9 @@
 !=typeof window&&(window[Symbol.for(
 !=typeof window&&void 0!==window.CSS&&
 !=typeof window&&window.addEventListener(
-!=typeof window&&window.document&&(Na=window,za=Na.document,Aa=za.documentElement,Fa=vl(
+!=typeof window&&window.document&&(Os=window,Ss=Os.document,ks=Ss.documentElement,Ts=ii(
 !=typeof window&&window.Math==Math?window:
-!=typeof window&&window[DO]||
+!=typeof window&&window[px]||
 . Doing nothing
 . Must include exactly one non-modifier key (e.g.
 . Options are
@@ -197,7 +196,6 @@
 [tabindex]:not(slot):not([inert]):not([inert] *)
 [title="ALIENBOLA" i]
 ], link[f-origin=
-], meta[property=
 ], script[f-origin=
 ], style[f-origin=
 ]),a=await crypto.subtle.sign(
@@ -235,12 +233,12 @@
 ===e.scale?void 0:e.scale,this.placeholderTransform=e.transform,this.placeholderClip=
 ===e.type&&(a=e.renderFraction?e.renderFraction.call(t,e.currentClass,e.totalClass):`<span class=
 ===e.type&&(a=e.renderProgressbar?e.renderProgressbar.call(t,e.progressbarFillClass):`<span class=
-===f.value&&!a)throw new Error(
 ===r.preventScrollAxis?(t._active=!1,void this.clean()):(this.timeoutStore.remove(
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===this.method)&&o)throw new TypeError(
+===u.value&&!r)throw new Error(
 ==typeof Buffer.from)return Buffer.from(e).toString(
-==typeof c.bearerToken&&u.searchParams.append(
+==typeof c.bearerToken&&d.searchParams.append(
 ==typeof define&&i.amdO?define([
 ==typeof document)return
 ==typeof e?new URL(e,
@@ -264,7 +262,7 @@
 ==typeof i?o.createElement(
 ==typeof n.error&&
 ==typeof n&&!(u=null===(i=this.getDocument())||void 0===i?void 0:i.querySelector(n)))throw new Error(
-==typeof performance.now?performance:Date,Ee=new Set,Te=
+==typeof performance.now?performance:Date,De=new Set,Te=
 ==typeof performance&&performance&&
 ==typeof r&&r instanceof Error||(r=new Error(
 ==typeof ResizeObserver,layoutShift:a=
@@ -383,7 +381,8 @@ Arena War
 Arena wojny
 Argument to polyad must be a positive number
 argument when connecting component
-Aria label describing modal pagination in list
+Aria label for button which select the next slide
+Aria label for button which select the previous slide
 Aria label to indicate when a link opens in new window/tab
 Aria-label for the lightbox close button
 Aria-label for the lightbox download button (downloads the image)
@@ -416,6 +415,7 @@ Auf Facebook teilen
 Auf Reddit teilen
 Auf X teilen
 Aumenta zoom
+Avatar: Only one `Avatar.Image` component should be rendered per `Avatar.Root`, but multiple were detected. This will lead to unexpected behavior.
 Await expression cannot be a default value
 B button on XBOX ONE
 B-Taste auf Xbox One
@@ -518,6 +518,7 @@ Cannot reduce an empty sequence
 Cannot reset() in onSubmit(), use setTimeout(form.reset)
 Cannot set a non-numeric property on an array
 Cannot set a numeric property on an object
+Cannot set currentNode to a node that is not contained by the root node.
 cannot set size without setting maxSize or maxEntrySize on cache
 cannot set sizeCalculation without setting maxSize or maxEntrySize
 Cannot use
@@ -997,9 +998,9 @@ in e?e:HTMLInputElement.prototype,
 in e?e.children(e.child):e.children,
 in Intl.DateTimeFormat. Using default locale:
 in Intl.NumberFormat. Using default locale:
+in l?l.hasPointerCapture(t.pointerId)&&l.releasePointerCapture(t.pointerId):l.releasePointerCapture(t.pointerId)),V((0,i.TW)(t.currentTarget),
 in n)throw TypeError(
 in not contained inside
-in o?o.hasPointerCapture(t.pointerId)&&o.releasePointerCapture(t.pointerId):o.releasePointerCapture(t.pointerId)),y(Xe(t.currentTarget),
 in strict mode
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
 Incomplete quantifier
@@ -1665,6 +1666,7 @@ The a11y intro for the charcter card.
 The a11y player name for the charcter card.
 The a11y rank for the charcter card.
 The argument must be a React element, but you passed
+The aria label for the close button
 The Halloween Pass 2
 The input selection has not been updated.
 The item

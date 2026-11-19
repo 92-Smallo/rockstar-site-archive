@@ -15,7 +15,7 @@
 ,this.status=void 0===t.status?200:t.status,this.status<200||this.status>599)throw new RangeError(
 ,type:new gt(bn),description:
 : can't set as prototype!
-:i.open&&!o.collapsible||void 0,
+:a.open&&!o.collapsible||void 0,
 :if(r.options.length>1)throw new RangeError(
 :if(r<4)throw new RangeError(
 :return this.currZoomLevel>this.zoomLevels.initial?
@@ -26,7 +26,6 @@
 !==e[e.length-1].type)throw new Error(
 !==g)throw new Error(
 !==h.kind)throw new Error(
-!==n||a instanceof ut(a).HTMLInputElement&&!Gr(a,r)||a instanceof ut(a).HTMLTextAreaElement||a.isContentEditable||(
 !==r||void 0===navigator.plugins&&
 !==t[t.length-1].type)throw new Error(
 !==u.type)throw new Error(
@@ -35,7 +34,8 @@
 !=typeof crypto&&crypto.getRandomValues&&crypto.getRandomValues.bind(crypto),!o))throw new Error(
 !=typeof CSS&&CSS.supports&&CSS.supports(
 !=typeof d||(d=document.createElement(
-!=typeof document?d.useLayoutEffect:d.useEffect,Ef=e=>e&&!Array.isArray(e)&&
+!=typeof document?f.useLayoutEffect:f.useEffect,bd=e=>e&&!Array.isArray(e)&&
+!=typeof document&&(
 !=typeof document&&(document.addEventListener(
 !=typeof e)throw new Error(
 !=typeof e)throw new i(
@@ -44,7 +44,6 @@
 !=typeof e)throw TypeError(e+
 !=typeof e&&console.warn(
 !=typeof e||!e.includes(
-!=typeof Element&&
 !=typeof l?null:
 !=typeof l||(l=document.createElement(
 !=typeof n?(t.minimumSignificantDigits=r.length,t.maximumSignificantDigits=r.length):
@@ -68,9 +67,9 @@
 !=typeof window&&(window[Symbol.for(
 !=typeof window&&void 0!==window.CSS&&
 !=typeof window&&window.addEventListener(
-!=typeof window&&window.document&&(ru=window,nu=ru.document,au=nu.documentElement,ou=Du(
+!=typeof window&&window.document&&(Zl=window,Yl=Zl.document,Jl=Yl.documentElement,ec=Rc(
 !=typeof window&&window.Math==Math?window:
-!=typeof window&&window[gj]||
+!=typeof window&&window[rP]||
 . Doing nothing
 . Must include exactly one non-modifier key (e.g.
 . Options are
@@ -160,7 +159,6 @@
 [tabindex]:not(slot):not([inert]):not([inert] *)
 [title="ALIENBOLA" i]
 ], link[f-origin=
-], meta[property=
 ], script[f-origin=
 ], style[f-origin=
 ]),a=await crypto.subtle.sign(
@@ -310,7 +308,9 @@ Argument to polyad must be a positive number
 argument when connecting component
 Arguments provided to Fields or Directives and the input fields of an InputObject are represented as Input Values which describe their type and optionally a default value.
 Aria label for button which select the next item
+Aria label for button which select the next slide
 Aria label for button which select the previous item
+Aria label for button which select the previous slide
 Aria label to indicate when a link opens in new window/tab
 Aria-label for the lightbox close button
 Aria-label for the lightbox download button (downloads the image)
@@ -335,6 +335,7 @@ At least one of max, maxSize, or ttl is required
 Attribute selector didn't terminate
 audio[controls]:not([inert]):not([inert] *)
 Aumenta zoom
+Avatar: Only one `Avatar.Image` component should be rendered per `Avatar.Root`, but multiple were detected. This will lead to unexpected behavior.
 Background Image Gradient
 Bad Request
 because the \`*\` character must always follow a \`/\` in the pattern. To get rid of this warning, please change the route path to
@@ -377,6 +378,7 @@ Cannot reduce an empty sequence
 Cannot reset() in onSubmit(), use setTimeout(form.reset)
 Cannot set a non-numeric property on an array
 Cannot set a numeric property on an object
+Cannot set currentNode to a node that is not contained by the root node.
 cannot set size without setting maxSize or maxEntrySize on cache
 cannot set sizeCalculation without setting maxSize or maxEntrySize
 Cartão de Personagem:
@@ -643,7 +645,6 @@ iframe:not([inert]):not([inert] *)
 image gallery
 image gallery modal
 Imagen anterior
-in a?a.hasPointerCapture(t.pointerId)&&a.releasePointerCapture(t.pointerId):a.releasePointerCapture(t.pointerId)),y(dt(t.currentTarget),
 in c?c.responseURL:r.headers.get(
 in e?e:HTMLInputElement.prototype,
 in e?e.children(e.child):e.children,
@@ -651,6 +652,7 @@ in Intl.DateTimeFormat. Using default locale:
 in Intl.NumberFormat. Using default locale:
 in n)throw TypeError(
 in not contained inside
+in s?s.hasPointerCapture(t.pointerId)&&s.releasePointerCapture(t.pointerId):s.releasePointerCapture(t.pointerId)),G((0,a.TW)(t.currentTarget),
 in window||navigator.maxTouchPoints>0||navigator.msMaxTouchPoints>0,t&&
 Initialization of sharing external failed:
 Input type detection error.
@@ -1053,6 +1055,7 @@ The a11y intro for the charcter card.
 The a11y player name for the charcter card.
 The a11y rank for the charcter card.
 The argument must be a React element, but you passed
+The aria label for the close button
 the enum value
 The input selection has not been updated.
 The item
