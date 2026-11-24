@@ -153,7 +153,7 @@
 ===t.key)throw new Error(`Invalid keyboard shortcut:
 ===this.method)&&o)throw new TypeError(
 ==typeof Buffer.from)return Buffer.from(e).toString(
-==typeof c.bearerToken&&u.searchParams.append(
+==typeof c.bearerToken&&d.searchParams.append(
 ==typeof clearTimeout?clearTimeout:void 0,Ef=
 ==typeof document)return
 ==typeof e?new URL(e,
