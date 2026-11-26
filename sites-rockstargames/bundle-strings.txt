@@ -235,7 +235,8 @@ _1ozycm42 _1betujy6 _1betujy5
 ),k=new RegExp(
 ),n=!1,o=this.containsEsc,h=new it,p=this.start,c=e>-1?this.parseExprSubscripts(h,
 ),n=!1,o=this.containsEsc,h=new W,p=this.start,c=e>-1?this.parseExprSubscripts(h,
-),onMouseEnter:()=>s&&void u.current.play(),onMouseLeave:()=>s&&(u.current.pause(),void(u.current.currentTime=0)),children:(0,i.jsx)(
+),onMouseEnter:()=>s&&void b.current.play(),onMouseLeave:()=>s&&(b.current.pause(),void(b.current.currentTime=0)),children:(0,t.jsx)(
+),onMouseEnter:()=>s&&void m.current.play(),onMouseLeave:()=>s&&(m.current.pause(),void(m.current.currentTime=0)),children:(0,t.jsx)(
 ),p=new RegExp(
 ),parenL:new d(
 ),parenL:new E(
@@ -250,7 +251,7 @@ _1ozycm42 _1betujy6 _1betujy5
 ):void 0,this.updateSnapshot(),t&&this.notifyListeners(
 ). If you meant to render a collection of children, use an array instead.
 ).toUpperCase():void 0,games_played:n.length?n.join(
-).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:g,section_layout:t?
+).toUpperCase():void 0,gta_plus_active:s.length>0,use_enhanced_browser_features:f,section_layout:t?
 ).toUpperCase():void 0,gta_plus_platforms:s.length?s.map(e=>l[e]??e).join(
 ).toUpperCase():void 0,gtao_platforms_played:r.length?r.map(e=>l[e]??e).join(
 )),a=new s.WebKitCSSMatrix(

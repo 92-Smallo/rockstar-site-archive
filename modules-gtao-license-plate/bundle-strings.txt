@@ -113,7 +113,6 @@
 !==x)throw new Error(
 !=typeof a?e.type=a:e.removeAttribute(
 !=typeof Buffer&&
-!=typeof c?null:
 !=typeof CSS&&CSS.supports&&CSS.supports(
 !=typeof document.createElement||
 !=typeof document.getElementsByTagName||
@@ -128,6 +127,7 @@
 !=typeof HTMLImageElement&&t instanceof HTMLImageElement||
 !=typeof HTMLVideoElement&&e instanceof HTMLVideoElement?t.set(e.videoWidth,e.videoHeight,0):
 !=typeof ImageBitmap&&t instanceof ImageBitmap||
+!=typeof l?null:
 !=typeof module||
 !=typeof MSC_TRANSCODER&&console.warn('THREE.KTX2Loader: Please update to latest
 !=typeof n?(t.minimumSignificantDigits=r.length,t.maximumSignificantDigits=r.length):
@@ -412,7 +412,7 @@
 ===u.value&&!r)throw new Error(
 ==typeof b?.className&&delete b.className,(0,I.jsxs)(
 ==typeof Buffer.from)return Buffer.from(e).toString(
-==typeof c.bearerToken&&d.searchParams.append(
+==typeof c.bearerToken&&u.searchParams.append(
 ==typeof c.set&&
 ==typeof c.set&&Array.isArray(a))
 ==typeof clearTimeout?clearTimeout:void 0,wd=
