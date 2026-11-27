@@ -60,6 +60,7 @@ GTAVI WinwoodWalls PromoBanner 1500x1000 Deliv
 GTAVI WinwoodWalls PromoBanner 960x960 Deliv
 GTAVI_CE_Box_Closed_1440x1440
 GTAVI_PreOrderWebstore_HomepageHeroSquare_2048x2048_R02
+Low stock
 Main
 MHS-Vl-Lockup
 New Arrivals
